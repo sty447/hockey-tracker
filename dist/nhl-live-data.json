@@ -1,8 +1,8 @@
 {
-  "asOf": "2026-09-30T03:23:08.680812+00:00",
+  "asOf": "2026-09-30T03:30:31.743874+00:00",
   "trades": {
     "asOf": "2026-09-30",
-    "checkedAt": "2026-09-30T03:23:08.680812+00:00",
+    "checkedAt": "2026-09-30T03:30:31.743874+00:00",
     "source": "https://www.nhl.com/news/topic/trade-coverage/2026-27-nhl-trades",
     "trades": [
       {
@@ -334,7 +334,7 @@
     ]
   },
   "rosters": {
-    "asOf": "2026-09-30T03:23:08.680812+00:00",
+    "asOf": "2026-09-30T03:30:31.743874+00:00",
     "teams": {
       "ANA": {
         "forwards": [
@@ -356,7 +356,9 @@
           "8480068",
           "8484762",
           "8478366",
-          "8485512"
+          "8485512",
+          "8478873",
+          "8483444"
         ],
         "defensemen": [
           "8481563",
@@ -391,7 +393,13 @@
           "8479999",
           "8477956",
           "8482175",
-          "8478401"
+          "8478401",
+          "8482634",
+          "8482117",
+          "8476867",
+          "8483531",
+          "8483930",
+          "8483505"
         ],
         "defensemen": [
           "8481219",
@@ -401,11 +409,14 @@
           "8476854",
           "8482511",
           "8479325",
-          "8477507"
+          "8477507",
+          "8480035",
+          "8480887"
         ],
         "goalies": [
           "8480022",
-          "8480280"
+          "8480280",
+          "8480238"
         ]
       },
       "BUF": {
@@ -424,7 +435,11 @@
           "8483500",
           "8482097",
           "8477839",
-          "8479420"
+          "8479420",
+          "8475722",
+          "8484255",
+          "8477419",
+          "8482479"
         ],
         "defensemen": [
           "8481806",
@@ -434,7 +449,9 @@
           "8482671",
           "8480807",
           "8479982",
-          "8482803"
+          "8482803",
+          "8478502",
+          "8481564"
         ],
         "goalies": [
           "8481551",
@@ -460,7 +477,12 @@
           "8476458",
           "8484234",
           "8484958",
-          "8482074"
+          "8482074",
+          "8480259",
+          "8486056",
+          "8478211",
+          "8484821",
+          "8482766"
         ],
         "defensemen": [
           "8480860",
@@ -472,7 +494,8 @@
           "8481167",
           "8484768",
           "8480727",
-          "8483709"
+          "8483709",
+          "8482107"
         ],
         "goalies": [
           "8482445",
@@ -493,7 +516,12 @@
           "8480762",
           "8473533",
           "8482702",
-          "8480830"
+          "8480830",
+          "8482093",
+          "8484203",
+          "8484392",
+          "8482785",
+          "8480291"
         ],
         "defensemen": [
           "8478970",
@@ -502,7 +530,11 @@
           "8480817",
           "8476422",
           "8476958",
-          "8480336"
+          "8480336",
+          "8482100",
+          "8482911",
+          "8480058",
+          "8482187"
         ],
         "goalies": [
           "8483548",
@@ -526,7 +558,9 @@
           "8483493",
           "8482062",
           "8476882",
-          "8476952"
+          "8476952",
+          "8484144",
+          "8482172"
         ],
         "defensemen": [
           "8481524",
@@ -536,11 +570,13 @@
           "8483466",
           "8484783",
           "8483506",
-          "8481568"
+          "8481568",
+          "8482067"
         ],
         "goalies": [
           "8481519",
-          "8482821"
+          "8482821",
+          "8482123"
         ]
       },
       "COL": {
@@ -557,7 +593,13 @@
           "8481186",
           "8478462",
           "8475768",
-          "8482768"
+          "8482768",
+          "8476994",
+          "8484149",
+          "8482947",
+          "8483039",
+          "8483567",
+          "8482953"
         ],
         "defensemen": [
           "8470613",
@@ -566,11 +608,14 @@
           "8480069",
           "8484258",
           "8476312",
-          "8478038"
+          "8478038",
+          "8479387",
+          "8481562"
         ],
         "goalies": [
           "8478406",
-          "8475809"
+          "8475809",
+          "8481529"
         ]
       },
       "CBJ": {
@@ -588,7 +633,10 @@
           "8479671",
           "8482705",
           "8481716",
-          "8478904"
+          "8478904",
+          "8480806",
+          "8482451",
+          "8484214"
         ],
         "defensemen": [
           "8482126",
@@ -598,11 +646,14 @@
           "8483485",
           "8478500",
           "8477369",
-          "8478460"
+          "8478460",
+          "8476923",
+          "8478841"
         ],
         "goalies": [
           "8482982",
-          "8475660"
+          "8475660",
+          "8477831"
         ]
       },
       "DAL": {
@@ -618,7 +669,10 @@
           "8478420",
           "8480027",
           "8475794",
-          "8479351"
+          "8479351",
+          "8476278",
+          "8484938",
+          "8478888"
         ],
         "defensemen": [
           "8483425",
@@ -632,7 +686,8 @@
         ],
         "goalies": [
           "8479193",
-          "8479979"
+          "8479979",
+          "8477990"
         ]
       },
       "DET": {
@@ -650,7 +705,11 @@
           "8477946",
           "8482802",
           "8479992",
-          "8482078"
+          "8482078",
+          "8481077",
+          "8479942",
+          "8484380",
+          "8480326"
         ],
         "defensemen": [
           "8480879",
@@ -660,7 +719,10 @@
           "8483679",
           "8484223",
           "8481542",
-          "8482171"
+          "8482171",
+          "8482762",
+          "8480196",
+          "8477971"
         ],
         "goalies": [
           "8476434",
@@ -683,7 +745,12 @@
           "8486161",
           "8476454",
           "8481617",
-          "8483512"
+          "8483512",
+          "8477450",
+          "8484509",
+          "8484529",
+          "8485511",
+          "8482162"
         ],
         "defensemen": [
           "8480803",
@@ -694,7 +761,8 @@
           "8480831",
           "8478854",
           "8481056",
-          "8478013"
+          "8478013",
+          "8479388"
         ],
         "goalies": [
           "8475883",
@@ -717,7 +785,14 @@
           "8480801",
           "8479314",
           "8477409",
-          "8483771"
+          "8483771",
+          "8481133",
+          "8481655",
+          "8481556",
+          "8479414",
+          "8478043",
+          "8481065",
+          "8483433"
         ],
         "defensemen": [
           "8484304",
@@ -726,7 +801,13 @@
           "8475462",
           "8477495",
           "8475179",
-          "8478859"
+          "8478859",
+          "8475755",
+          "8482131",
+          "8481600",
+          "8483687",
+          "8483712",
+          "8484933"
         ],
         "goalies": [
           "8474593",
@@ -748,7 +829,11 @@
           "8478550",
           "8470621",
           "8481532",
-          "8475692"
+          "8475692",
+          "8483406",
+          "8483756",
+          "8483675",
+          "8478967"
         ],
         "defensemen": [
           "8479998",
@@ -757,7 +842,8 @@
           "8474563",
           "8475208",
           "8476441",
-          "8476979"
+          "8476979",
+          "8483699"
         ],
         "goalies": [
           "8476341",
@@ -778,7 +864,10 @@
           "8485702",
           "8481477",
           "8478508",
-          "8483525"
+          "8483525",
+          "8483452",
+          "8477993",
+          "8475752"
         ],
         "defensemen": [
           "8474567",
@@ -789,11 +878,14 @@
           "8482094",
           "8476874",
           "8483766",
-          "8474716"
+          "8474716",
+          "8482641",
+          "8482781"
         ],
         "goalies": [
           "8475717",
-          "8482661"
+          "8482661",
+          "8479406"
         ]
       },
       "MTL": {
@@ -812,6 +904,10 @@
           "8480018",
           "8480074",
           "8484403",
+          "8483728",
+          "8483424",
+          "8482132",
+          "8481591",
           "8482682"
         ],
         "defensemen": [
@@ -821,7 +917,9 @@
           "8483457",
           "8476875",
           "8481593",
-          "8482964"
+          "8482964",
+          "8482087",
+          "8484220"
         ],
         "goalies": [
           "8482487",
@@ -841,7 +939,12 @@
           "8475158",
           "8483513",
           "8474564",
-          "8484241"
+          "8484241",
+          "8479370",
+          "8482103",
+          "8483465",
+          "8485405",
+          "8483696"
         ],
         "defensemen": [
           "8482072",
@@ -852,7 +955,8 @@
           "8476869",
           "8482806",
           "8482715",
-          "8482482"
+          "8482482",
+          "8481715"
         ],
         "goalies": [
           "8481020",
@@ -874,7 +978,13 @@
           "8478414",
           "8482110",
           "8476474",
-          "8478542"
+          "8478542",
+          "8475760",
+          "8484177",
+          "8479362",
+          "8483397",
+          "8482941",
+          "8483841"
         ],
         "defensemen": [
           "8480990",
@@ -882,12 +992,17 @@
           "8476462",
           "8482684",
           "8477488",
-          "8478399"
+          "8478399",
+          "8480192",
+          "8481609",
+          "8483429",
+          "8482873"
         ],
         "goalies": [
           "8474596",
           "8482076",
-          "8482465"
+          "8482465",
+          "8479496"
         ]
       },
       "NYI": {
@@ -904,7 +1019,11 @@
           "8476292",
           "8475151",
           "8484221",
-          "8475170"
+          "8475170",
+          "8478445",
+          "8479644",
+          "8482070",
+          "8480853"
         ],
         "defensemen": [
           "8477950",
@@ -914,11 +1033,14 @@
           "8477506",
           "8481014",
           "8485366",
-          "8479378"
+          "8479378",
+          "8481569",
+          "8483448"
         ],
         "goalies": [
           "8478009",
-          "8473575"
+          "8473575",
+          "8477970"
         ]
       },
       "NYR": {
@@ -936,7 +1058,11 @@
           "8483669",
           "8480009",
           "8480813",
-          "8476459"
+          "8476459",
+          "8479390",
+          "8481704",
+          "8477320",
+          "8475413"
         ],
         "defensemen": [
           "8480434",
@@ -947,11 +1073,16 @@
           "8477969",
           "8481525",
           "8482073",
-          "8485957"
+          "8485957",
+          "8480001",
+          "8479395",
+          "8484169"
         ],
         "goalies": [
           "8476914",
-          "8478048"
+          "8478048",
+          "8477484",
+          "8482193"
         ]
       },
       "OTT": {
@@ -968,7 +1099,12 @@
           "8478173",
           "8481596",
           "8482116",
-          "8480188"
+          "8480188",
+          "8477998",
+          "8478104",
+          "8477073",
+          "8481577",
+          "8482673"
         ],
         "defensemen": [
           "8478469",
@@ -977,7 +1113,9 @@
           "8484321",
           "8482105",
           "8481606",
-          "8484759"
+          "8484759",
+          "8482245",
+          "8483435"
         ],
         "goalies": [
           "8481035",
@@ -1001,7 +1139,12 @@
           "8484387",
           "8480015",
           "8475253",
-          "8481533"
+          "8481533",
+          "8479944",
+          "8481518",
+          "8480021",
+          "8481848",
+          "8484779"
         ],
         "defensemen": [
           "8481122",
@@ -1010,11 +1153,15 @@
           "8477499",
           "8477948",
           "8476372",
-          "8481546"
+          "8481546",
+          "8484148",
+          "8483760",
+          "8482804"
         ],
         "goalies": [
           "8478435",
-          "8479361"
+          "8479361",
+          "8482783"
         ]
       },
       "PIT": {
@@ -1036,7 +1183,9 @@
           "8476483",
           "8481582",
           "8475810",
-          "8481725"
+          "8481725",
+          "8482993",
+          "8482698"
         ],
         "defensemen": [
           "8483398",
@@ -1045,7 +1194,12 @@
           "8481527",
           "8471724",
           "8482470",
-          "8477845"
+          "8477845",
+          "8478452",
+          "8484839",
+          "8477435",
+          "8486169",
+          "8483503"
         ],
         "goalies": [
           "8483703",
@@ -1069,7 +1223,9 @@
           "8484227",
           "8486103",
           "8475726",
-          "8477505"
+          "8477505",
+          "8482206",
+          "8480825"
         ],
         "defensemen": [
           "8482700",
@@ -1082,7 +1238,8 @@
         ],
         "goalies": [
           "8482137",
-          "8477968"
+          "8477968",
+          "8477480"
         ]
       },
       "SEA": {
@@ -1101,7 +1258,10 @@
           "8482713",
           "8476905",
           "8482751",
-          "8483524"
+          "8483524",
+          "8483497",
+          "8484168",
+          "8477401"
         ],
         "defensemen": [
           "8478407",
@@ -1115,7 +1275,9 @@
         ],
         "goalies": [
           "8478916",
-          "8475831"
+          "8475831",
+          "8483668",
+          "8484910"
         ]
       },
       "STL": {
@@ -1133,7 +1295,12 @@
           "8483516",
           "8480459",
           "8480023",
-          "8480281"
+          "8480281",
+          "8476897",
+          "8477573",
+          "8484230",
+          "8482090",
+          "8483463"
         ],
         "defensemen": [
           "8482111",
@@ -1166,7 +1333,10 @@
           "8481624",
           "8478010",
           "8477149",
-          "8479705"
+          "8479705",
+          "8476826",
+          "8482663",
+          "8481592"
         ],
         "defensemen": [
           "8474590",
@@ -1176,11 +1346,16 @@
           "8475167",
           "8482929",
           "8474151",
-          "8482655"
+          "8482655",
+          "8482168",
+          "8477463",
+          "8480828",
+          "8481547"
         ],
         "goalies": [
           "8483710",
-          "8476883"
+          "8476883",
+          "8481544"
         ]
       },
       "TOR": {
@@ -1199,7 +1374,13 @@
           "8478458",
           "8476925",
           "8475166",
-          "8477425"
+          "8477503",
+          "8478057",
+          "8477425",
+          "8484901",
+          "8482153",
+          "8479543",
+          "8482525"
         ],
         "defensemen": [
           "8483565",
@@ -1208,12 +1389,18 @@
           "8478178",
           "8476853",
           "8479442",
-          "8475690"
+          "8475690",
+          "8479026",
+          "8477541",
+          "8484287",
+          "8483546",
+          "8482174"
         ],
         "goalies": [
           "8475683",
           "8476932",
-          "8478007"
+          "8478007",
+          "8482515"
         ]
       },
       "UTA": {
@@ -1231,7 +1418,9 @@
           "8477951",
           "8478831",
           "8476389",
-          "8479977"
+          "8479977",
+          "8479293",
+          "8482749"
         ],
         "defensemen": [
           "8480084",
@@ -1263,7 +1452,10 @@
           "8480012",
           "8482691",
           "8482079",
-          "8484136"
+          "8484136",
+          "8476907",
+          "8484406",
+          "8485385"
         ],
         "defensemen": [
           "8478465",
@@ -1273,12 +1465,14 @@
           "8476467",
           "8483678",
           "8474568",
-          "8484240"
+          "8484240",
+          "8483467"
         ],
         "goalies": [
           "8477967",
           "8480947",
-          "8482447"
+          "8482447",
+          "8484268"
         ]
       },
       "VGK": {
@@ -1295,7 +1489,11 @@
           "8481534",
           "8478483",
           "8478109",
-          "8475913"
+          "8475913",
+          "8482125",
+          "8479550",
+          "8480007",
+          "8485251"
         ],
         "defensemen": [
           "8478397",
@@ -1304,11 +1502,15 @@
           "8478468",
           "8475188",
           "8477447",
-          "8478450"
+          "8478450",
+          "8480874",
+          "8477034",
+          "8481572"
         ],
         "goalies": [
           "8479394",
-          "8478499"
+          "8478499",
+          "8482761"
         ]
       },
       "WSH": {
@@ -1326,7 +1528,10 @@
           "8482088",
           "8478440",
           "8477949",
-          "8476880"
+          "8476880",
+          "8477380",
+          "8482623",
+          "8482167"
         ],
         "defensemen": [
           "8479345",
@@ -1335,7 +1540,9 @@
           "8484873",
           "8480043",
           "8475795",
-          "8478911"
+          "8478911",
+          "8480873",
+          "8475718"
         ],
         "goalies": [
           "8479292",
@@ -1356,7 +1563,13 @@
           "8482149",
           "8482765",
           "8476460",
-          "8480014"
+          "8480014",
+          "8479393",
+          "8483526",
+          "8484135",
+          "8484242",
+          "8482787",
+          "8482652"
         ],
         "defensemen": [
           "8482459",
@@ -1366,19 +1579,23 @@
           "8477504",
           "8480145",
           "8480049",
-          "8481030"
+          "8481030",
+          "8483510",
+          "8481567",
+          "8482192"
         ],
         "goalies": [
           "8476945",
           "8479973",
-          "8483532"
+          "8483532",
+          "8483114"
         ]
       }
     },
     "tradesAsOf": "2026-09-30"
   },
   "skaters": {
-    "asOf": "2026-09-30T03:23:08.680812+00:00",
+    "asOf": "2026-09-30T03:30:31.743874+00:00",
     "players": [
       {
         "id": "8484153",
@@ -5617,14 +5834,86 @@
         "position": "D"
       },
       {
-        "id": "8482682",
-        "name": "Sasha Pastujov",
-        "team": "MTL",
+        "id": "8484144",
+        "name": "Connor Bedard",
+        "team": "CHI",
         "position": "F"
       },
       {
-        "id": "8477425",
-        "name": "Miles Wood",
+        "id": "8478445",
+        "name": "Mathew Barzal",
+        "team": "NYI",
+        "position": "F"
+      },
+      {
+        "id": "8482093",
+        "name": "Seth Jarvis",
+        "team": "CAR",
+        "position": "F"
+      },
+      {
+        "id": "8478873",
+        "name": "Troy Terry",
+        "team": "ANA",
+        "position": "F"
+      },
+      {
+        "id": "8475722",
+        "name": "Jason Zucker",
+        "team": "BUF",
+        "position": "F"
+      },
+      {
+        "id": "8477503",
+        "name": "Max Domi",
+        "team": "TOR",
+        "position": "F"
+      },
+      {
+        "id": "8482100",
+        "name": "Alexander Nikishin",
+        "team": "CAR",
+        "position": "D"
+      },
+      {
+        "id": "8476923",
+        "name": "Damon Severson",
+        "team": "CBJ",
+        "position": "D"
+      },
+      {
+        "id": "8482245",
+        "name": "Artem Zub",
+        "team": "OTT",
+        "position": "D"
+      },
+      {
+        "id": "8480873",
+        "name": "Rasmus Sandin",
+        "team": "WSH",
+        "position": "D"
+      },
+      {
+        "id": "8476826",
+        "name": "Yanni Gourde",
+        "team": "TBL",
+        "position": "F"
+      },
+      {
+        "id": "8482762",
+        "name": "Simon Edvinsson",
+        "team": "DET",
+        "position": "D"
+      },
+      {
+        "id": "8479390",
+        "name": "Taylor Raddysh",
+        "team": "NYR",
+        "position": "F"
+      },
+      {
+        "id": "8478057",
+        "name": "Dakota Joshua",
         "team": "TOR",
         "position": "F"
       },
@@ -5633,12 +5922,1128 @@
         "name": "Steven Lorentz",
         "team": "CBJ",
         "position": "F"
+      },
+      {
+        "id": "8476994",
+        "name": "Vinnie Hinostroza",
+        "team": "COL",
+        "position": "F"
+      },
+      {
+        "id": "8477450",
+        "name": "Jason Dickinson",
+        "team": "EDM",
+        "position": "F"
+      },
+      {
+        "id": "8476897",
+        "name": "Oskar Sundqvist",
+        "team": "STL",
+        "position": "F"
+      },
+      {
+        "id": "8477998",
+        "name": "Warren Foegele",
+        "team": "OTT",
+        "position": "F"
+      },
+      {
+        "id": "8482634",
+        "name": "Alex Steeves",
+        "team": "BOS",
+        "position": "F"
+      },
+      {
+        "id": "8477380",
+        "name": "Jonny Brodzinski",
+        "team": "WSH",
+        "position": "F"
+      },
+      {
+        "id": "8479370",
+        "name": "Tyson Jost",
+        "team": "NSH",
+        "position": "F"
+      },
+      {
+        "id": "8481133",
+        "name": "Cole Reinhardt",
+        "team": "FLA",
+        "position": "F"
+      },
+      {
+        "id": "8476278",
+        "name": "Colin Blackwell",
+        "team": "DAL",
+        "position": "F"
+      },
+      {
+        "id": "8480035",
+        "name": "Henri Jokiharju",
+        "team": "BOS",
+        "position": "D"
+      },
+      {
+        "id": "8477425",
+        "name": "Miles Wood",
+        "team": "TOR",
+        "position": "F"
+      },
+      {
+        "id": "8484149",
+        "name": "Gavin Brindley",
+        "team": "COL",
+        "position": "F"
+      },
+      {
+        "id": "8480806",
+        "name": "Isac Lundestr\u00f6m",
+        "team": "CBJ",
+        "position": "F"
+      },
+      {
+        "id": "8482087",
+        "name": "Kaiden Guhle",
+        "team": "MTL",
+        "position": "D"
+      },
+      {
+        "id": "8477573",
+        "name": "Nathan Walker",
+        "team": "STL",
+        "position": "F"
+      },
+      {
+        "id": "8475755",
+        "name": "Alexander Petrovic",
+        "team": "FLA",
+        "position": "D"
+      },
+      {
+        "id": "8482911",
+        "name": "Joel Nystrom",
+        "team": "CAR",
+        "position": "D"
+      },
+      {
+        "id": "8484230",
+        "name": "Otto Stenberg",
+        "team": "STL",
+        "position": "F"
+      },
+      {
+        "id": "8482947",
+        "name": "Zakhar Bardakov",
+        "team": "COL",
+        "position": "F"
+      },
+      {
+        "id": "8482125",
+        "name": "Alexander Holtz",
+        "team": "VGK",
+        "position": "F"
+      },
+      {
+        "id": "8475760",
+        "name": "Nick Bjugstad",
+        "team": "NJD",
+        "position": "F"
+      },
+      {
+        "id": "8479393",
+        "name": "Noah Gregor",
+        "team": "WPG",
+        "position": "F"
+      },
+      {
+        "id": "8482131",
+        "name": "Donovan Sebrango",
+        "team": "FLA",
+        "position": "D"
+      },
+      {
+        "id": "8480196",
+        "name": "Jacob Bryson",
+        "team": "DET",
+        "position": "D"
+      },
+      {
+        "id": "8480192",
+        "name": "Johnathan Kovacevic",
+        "team": "NJD",
+        "position": "D"
+      },
+      {
+        "id": "8484177",
+        "name": "Lenni Hameenaho",
+        "team": "NJD",
+        "position": "F"
+      },
+      {
+        "id": "8482117",
+        "name": "Lukas Reichel",
+        "team": "BOS",
+        "position": "F"
+      },
+      {
+        "id": "8478104",
+        "name": "Sammy Blais",
+        "team": "OTT",
+        "position": "F"
+      },
+      {
+        "id": "8481655",
+        "name": "Cole Schwindt",
+        "team": "FLA",
+        "position": "F"
+      },
+      {
+        "id": "8483497",
+        "name": "Jani Nyman",
+        "team": "SEA",
+        "position": "F"
+      },
+      {
+        "id": "8481556",
+        "name": "John Beecher",
+        "team": "FLA",
+        "position": "F"
+      },
+      {
+        "id": "8482172",
+        "name": "Landon Slaggert",
+        "team": "CHI",
+        "position": "F"
+      },
+      {
+        "id": "8479414",
+        "name": "Nathan Bastian",
+        "team": "FLA",
+        "position": "F"
+      },
+      {
+        "id": "8483406",
+        "name": "Taylor Ward",
+        "team": "LAK",
+        "position": "F"
+      },
+      {
+        "id": "8476867",
+        "name": "Brendan Gaunce",
+        "team": "BOS",
+        "position": "F"
+      },
+      {
+        "id": "8482107",
+        "name": "Mike Benning",
+        "team": "CGY",
+        "position": "D"
+      },
+      {
+        "id": "8480058",
+        "name": "Pierre-Olivier Joseph",
+        "team": "CAR",
+        "position": "D"
+      },
+      {
+        "id": "8480001",
+        "name": "Urho Vaakanainen",
+        "team": "NYR",
+        "position": "D"
+      },
+      {
+        "id": "8484938",
+        "name": "Arttu Hyry",
+        "team": "DAL",
+        "position": "F"
+      },
+      {
+        "id": "8482993",
+        "name": "Avery Hayes",
+        "team": "PIT",
+        "position": "F"
+      },
+      {
+        "id": "8483510",
+        "name": "Elias Salomonsson",
+        "team": "WPG",
+        "position": "D"
+      },
+      {
+        "id": "8482090",
+        "name": "Jack Finley",
+        "team": "STL",
+        "position": "F"
+      },
+      {
+        "id": "8482103",
+        "name": "Ozzy Wiesblatt",
+        "team": "NSH",
+        "position": "F"
+      },
+      {
+        "id": "8479550",
+        "name": "Tanner Laczynski",
+        "team": "VGK",
+        "position": "F"
+      },
+      {
+        "id": "8479944",
+        "name": "Zachary Aston-Reese",
+        "team": "PHI",
+        "position": "F"
+      },
+      {
+        "id": "8478841",
+        "name": "Colton White",
+        "team": "CBJ",
+        "position": "D"
+      },
+      {
+        "id": "8483756",
+        "name": "Jared Wright",
+        "team": "LAK",
+        "position": "F"
+      },
+      {
+        "id": "8481077",
+        "name": "John Leonard",
+        "team": "DET",
+        "position": "F"
+      },
+      {
+        "id": "8482623",
+        "name": "Josh Dunne",
+        "team": "WSH",
+        "position": "F"
+      },
+      {
+        "id": "8484509",
+        "name": "Josh Samanski",
+        "team": "EDM",
+        "position": "F"
+      },
+      {
+        "id": "8476907",
+        "name": "Mackenzie MacEachern",
+        "team": "VAN",
+        "position": "F"
+      },
+      {
+        "id": "8481600",
+        "name": "Tobias Bjornfot",
+        "team": "FLA",
+        "position": "D"
+      },
+      {
+        "id": "8480259",
+        "name": "Ben Jones",
+        "team": "CGY",
+        "position": "F"
+      },
+      {
+        "id": "8484203",
+        "name": "Bradly Nadeau",
+        "team": "CAR",
+        "position": "F"
+      },
+      {
+        "id": "8479293",
+        "name": "Brandon Tanev",
+        "team": "UTA",
+        "position": "F"
+      },
+      {
+        "id": "8479942",
+        "name": "Dominik Shine",
+        "team": "DET",
+        "position": "F"
+      },
+      {
+        "id": "8484901",
+        "name": "Jacob Quillan",
+        "team": "TOR",
+        "position": "F"
+      },
+      {
+        "id": "8483465",
+        "name": "Joakim Kemell",
+        "team": "NSH",
+        "position": "F"
+      },
+      {
+        "id": "8480887",
+        "name": "Jordan Harris",
+        "team": "BOS",
+        "position": "D"
+      },
+      {
+        "id": "8481704",
+        "name": "Juuso Parssinen",
+        "team": "NYR",
+        "position": "F"
+      },
+      {
+        "id": "8483687",
+        "name": "Marek Alscher",
+        "team": "FLA",
+        "position": "D"
+      },
+      {
+        "id": "8481569",
+        "name": "Marshall Warren",
+        "team": "NYI",
+        "position": "D"
+      },
+      {
+        "id": "8481609",
+        "name": "Vladislav Kolyachonok",
+        "team": "NJD",
+        "position": "D"
+      },
+      {
+        "id": "8483531",
+        "name": "Brian Halonen",
+        "team": "BOS",
+        "position": "F"
+      },
+      {
+        "id": "8479395",
+        "name": "Dennis Cholowski",
+        "team": "NYR",
+        "position": "D"
+      },
+      {
+        "id": "8484169",
+        "name": "Drew Fortescue",
+        "team": "NYR",
+        "position": "D"
+      },
+      {
+        "id": "8483452",
+        "name": "Hunter Haight",
+        "team": "MIN",
+        "position": "F"
+      },
+      {
+        "id": "8475718",
+        "name": "Justin Holl",
+        "team": "WSH",
+        "position": "D"
+      },
+      {
+        "id": "8477993",
+        "name": "Justin Kirkland",
+        "team": "MIN",
+        "position": "F"
+      },
+      {
+        "id": "8483467",
+        "name": "Kirill Kudryavtsev",
+        "team": "VAN",
+        "position": "D"
+      },
+      {
+        "id": "8484148",
+        "name": "Oliver Bonk",
+        "team": "PHI",
+        "position": "D"
+      },
+      {
+        "id": "8484168",
+        "name": "Oscar Fisker Molgaard",
+        "team": "SEA",
+        "position": "F"
+      },
+      {
+        "id": "8479026",
+        "name": "Philippe Myers",
+        "team": "TOR",
+        "position": "D"
+      },
+      {
+        "id": "8478043",
+        "name": "Sam Lafferty",
+        "team": "FLA",
+        "position": "F"
+      },
+      {
+        "id": "8475752",
+        "name": "Tyler Pitlick",
+        "team": "MIN",
+        "position": "F"
+      },
+      {
+        "id": "8484380",
+        "name": "Wilmer Skoog",
+        "team": "DET",
+        "position": "F"
+      },
+      {
+        "id": "8483699",
+        "name": "Angus Booth",
+        "team": "LAK",
+        "position": "D"
+      },
+      {
+        "id": "8481065",
+        "name": "Angus Crookshank",
+        "team": "FLA",
+        "position": "F"
+      },
+      {
+        "id": "8477320",
+        "name": "Anton Blidh",
+        "team": "NYR",
+        "position": "F"
+      },
+      {
+        "id": "8485405",
+        "name": "Brady Martin",
+        "team": "NSH",
+        "position": "F"
+      },
+      {
+        "id": "8482153",
+        "name": "Brendan Brisson",
+        "team": "TOR",
+        "position": "F"
+      },
+      {
+        "id": "8478452",
+        "name": "Caleb Jones",
+        "team": "PIT",
+        "position": "D"
+      },
+      {
+        "id": "8478888",
+        "name": "Cameron Hughes",
+        "team": "DAL",
+        "position": "F"
+      },
+      {
+        "id": "8483696",
+        "name": "Cole O'Hara",
+        "team": "NSH",
+        "position": "F"
+      },
+      {
+        "id": "8484529",
+        "name": "Connor Clattenburg",
+        "team": "EDM",
+        "position": "F"
+      },
+      {
+        "id": "8477541",
+        "name": "Dakota Mermis",
+        "team": "TOR",
+        "position": "D"
+      },
+      {
+        "id": "8483526",
+        "name": "Danil Zhilkin",
+        "team": "WPG",
+        "position": "F"
+      },
+      {
+        "id": "8484220",
+        "name": "David Reinbacher",
+        "team": "MTL",
+        "position": "D"
+      },
+      {
+        "id": "8478502",
+        "name": "Dennis Gilbert",
+        "team": "BUF",
+        "position": "D"
+      },
+      {
+        "id": "8482206",
+        "name": "Ethan Cardwell",
+        "team": "SJS",
+        "position": "F"
+      },
+      {
+        "id": "8484392",
+        "name": "Felix Unger Sorum",
+        "team": "CAR",
+        "position": "F"
+      },
+      {
+        "id": "8484839",
+        "name": "Harrison Brunicke",
+        "team": "PIT",
+        "position": "D"
+      },
+      {
+        "id": "8483760",
+        "name": "Hunter McDonald",
+        "team": "PHI",
+        "position": "D"
+      },
+      {
+        "id": "8483448",
+        "name": "Isaiah George",
+        "team": "NYI",
+        "position": "D"
+      },
+      {
+        "id": "8483930",
+        "name": "Ivan Ivan",
+        "team": "BOS",
+        "position": "F"
+      },
+      {
+        "id": "8483728",
+        "name": "Jared Davidson",
+        "team": "MTL",
+        "position": "F"
+      },
+      {
+        "id": "8480007",
+        "name": "Jonas Rondbjerg",
+        "team": "VGK",
+        "position": "F"
+      },
+      {
+        "id": "8482785",
+        "name": "Justin Robidas",
+        "team": "CAR",
+        "position": "F"
+      },
+      {
+        "id": "8479387",
+        "name": "Keaton Middleton",
+        "team": "COL",
+        "position": "D"
+      },
+      {
+        "id": "8477073",
+        "name": "Kurtis MacDermid",
+        "team": "OTT",
+        "position": "F"
+      },
+      {
+        "id": "8483712",
+        "name": "Ludvig Jansson",
+        "team": "FLA",
+        "position": "D"
+      },
+      {
+        "id": "8482641",
+        "name": "Matt Kiersted",
+        "team": "MIN",
+        "position": "D"
+      },
+      {
+        "id": "8479644",
+        "name": "Matt Luff",
+        "team": "NYI",
+        "position": "F"
+      },
+      {
+        "id": "8483505",
+        "name": "Matthew Poitras",
+        "team": "BOS",
+        "position": "F"
+      },
+      {
+        "id": "8482168",
+        "name": "Maxim Groshev",
+        "team": "TBL",
+        "position": "D"
+      },
+      {
+        "id": "8482451",
+        "name": "Mikael Pyyhtia",
+        "team": "CBJ",
+        "position": "F"
+      },
+      {
+        "id": "8484933",
+        "name": "Mikulas Hovorka",
+        "team": "FLA",
+        "position": "D"
+      },
+      {
+        "id": "8482070",
+        "name": "Mitchell Chaffee",
+        "team": "NYI",
+        "position": "F"
+      },
+      {
+        "id": "8481518",
+        "name": "Nolan Foote",
+        "team": "PHI",
+        "position": "F"
+      },
+      {
+        "id": "8483424",
+        "name": "Owen Beck",
+        "team": "MTL",
+        "position": "F"
+      },
+      {
+        "id": "8484135",
+        "name": "Parker Ford",
+        "team": "WPG",
+        "position": "F"
+      },
+      {
+        "id": "8480825",
+        "name": "Patrick Giles",
+        "team": "SJS",
+        "position": "F"
+      },
+      {
+        "id": "8481577",
+        "name": "Philip Tomasino",
+        "team": "OTT",
+        "position": "F"
+      },
+      {
+        "id": "8485511",
+        "name": "Quinn Hutson",
+        "team": "EDM",
+        "position": "F"
+      },
+      {
+        "id": "8479362",
+        "name": "Riley Tufte",
+        "team": "NJD",
+        "position": "F"
+      },
+      {
+        "id": "8477435",
+        "name": "Ryan Graves",
+        "team": "PIT",
+        "position": "D"
+      },
+      {
+        "id": "8477463",
+        "name": "Steven Santini",
+        "team": "TBL",
+        "position": "D"
+      },
+      {
+        "id": "8483039",
+        "name": "Tristen Nielsen",
+        "team": "COL",
+        "position": "F"
+      },
+      {
+        "id": "8484406",
+        "name": "Ty Mueller",
+        "team": "VAN",
+        "position": "F"
+      },
+      {
+        "id": "8486056",
+        "name": "Tyson Gross",
+        "team": "CGY",
+        "position": "F"
+      },
+      {
+        "id": "8480874",
+        "name": "Adam Ginning",
+        "team": "VGK",
+        "position": "D"
+      },
+      {
+        "id": "8483463",
+        "name": "Aleksanteri Kaskimaki",
+        "team": "STL",
+        "position": "F"
+      },
+      {
+        "id": "8477971",
+        "name": "Andreas Englund",
+        "team": "DET",
+        "position": "D"
+      },
+      {
+        "id": "8482167",
+        "name": "Bogdan Trineyev",
+        "team": "WSH",
+        "position": "F"
+      },
+      {
+        "id": "8485385",
+        "name": "Braeden Cootes",
+        "team": "VAN",
+        "position": "F"
+      },
+      {
+        "id": "8484242",
+        "name": "Brayden Yager",
+        "team": "WPG",
+        "position": "F"
+      },
+      {
+        "id": "8482132",
+        "name": "Brett Berard",
+        "team": "MTL",
+        "position": "F"
+      },
+      {
+        "id": "8482781",
+        "name": "Carson Lambos",
+        "team": "MIN",
+        "position": "D"
+      },
+      {
+        "id": "8484287",
+        "name": "Cole McWard",
+        "team": "TOR",
+        "position": "D"
+      },
+      {
+        "id": "8482067",
+        "name": "Connor Mackey",
+        "team": "CHI",
+        "position": "D"
+      },
+      {
+        "id": "8481562",
+        "name": "Domenick Fensore",
+        "team": "COL",
+        "position": "D"
+      },
+      {
+        "id": "8478211",
+        "name": "Dryden Hunt",
+        "team": "CGY",
+        "position": "F"
+      },
+      {
+        "id": "8482663",
+        "name": "Dylan Duke",
+        "team": "TBL",
+        "position": "F"
+      },
+      {
+        "id": "8483567",
+        "name": "Georgii Merkulov",
+        "team": "COL",
+        "position": "F"
+      },
+      {
+        "id": "8481567",
+        "name": "Henry Thrun",
+        "team": "WPG",
+        "position": "D"
+      },
+      {
+        "id": "8481715",
+        "name": "Hunter Skinner",
+        "team": "NSH",
+        "position": "D"
+      },
+      {
+        "id": "8482192",
+        "name": "Isaak Phillips",
+        "team": "WPG",
+        "position": "D"
+      },
+      {
+        "id": "8483433",
+        "name": "Jack Devine",
+        "team": "FLA",
+        "position": "F"
+      },
+      {
+        "id": "8480021",
+        "name": "Jack Studnicka",
+        "team": "PHI",
+        "position": "F"
+      },
+      {
+        "id": "8481848",
+        "name": "Jacob Gaucher",
+        "team": "PHI",
+        "position": "F"
+      },
+      {
+        "id": "8486169",
+        "name": "Jake Livanavage",
+        "team": "PIT",
+        "position": "D"
+      },
+      {
+        "id": "8481592",
+        "name": "Jakob Pelletier",
+        "team": "TBL",
+        "position": "F"
+      },
+      {
+        "id": "8484255",
+        "name": "Jason Polin",
+        "team": "BUF",
+        "position": "F"
+      },
+      {
+        "id": "8477034",
+        "name": "Jaycob Megna",
+        "team": "VGK",
+        "position": "D"
+      },
+      {
+        "id": "8484779",
+        "name": "Jett Luchanko",
+        "team": "PHI",
+        "position": "F"
+      },
+      {
+        "id": "8477401",
+        "name": "John Hayden",
+        "team": "SEA",
+        "position": "F"
+      },
+      {
+        "id": "8483435",
+        "name": "Jorian Donovan",
+        "team": "OTT",
+        "position": "D"
+      },
+      {
+        "id": "8482749",
+        "name": "Joshua Roy",
+        "team": "UTA",
+        "position": "F"
+      },
+      {
+        "id": "8475413",
+        "name": "Justin Dowling",
+        "team": "NYR",
+        "position": "F"
+      },
+      {
+        "id": "8485251",
+        "name": "Kai Uchacz",
+        "team": "VGK",
+        "position": "F"
+      },
+      {
+        "id": "8483675",
+        "name": "Kenny Connors",
+        "team": "LAK",
+        "position": "F"
+      },
+      {
+        "id": "8478967",
+        "name": "Lane Pederson",
+        "team": "LAK",
+        "position": "F"
+      },
+      {
+        "id": "8480853",
+        "name": "Liam Foudy",
+        "team": "NYI",
+        "position": "F"
+      },
+      {
+        "id": "8484214",
+        "name": "Luca Pinelli",
+        "team": "CBJ",
+        "position": "F"
+      },
+      {
+        "id": "8483397",
+        "name": "Marc McLaughlin",
+        "team": "NJD",
+        "position": "F"
+      },
+      {
+        "id": "8483546",
+        "name": "Marshall Rifai",
+        "team": "TOR",
+        "position": "D"
+      },
+      {
+        "id": "8477419",
+        "name": "Mason Geertsen",
+        "team": "BUF",
+        "position": "F"
+      },
+      {
+        "id": "8480828",
+        "name": "Michael Callahan",
+        "team": "TBL",
+        "position": "D"
+      },
+      {
+        "id": "8479543",
+        "name": "Michael Pezzetta",
+        "team": "TOR",
+        "position": "F"
+      },
+      {
+        "id": "8483444",
+        "name": "Nathan Gaucher",
+        "team": "ANA",
+        "position": "F"
+      },
+      {
+        "id": "8482787",
+        "name": "Nikita Chibrikov",
+        "team": "WPG",
+        "position": "F"
+      },
+      {
+        "id": "8483503",
+        "name": "Owen Pickering",
+        "team": "PIT",
+        "position": "D"
+      },
+      {
+        "id": "8479388",
+        "name": "Riley Stillman",
+        "team": "EDM",
+        "position": "D"
+      },
+      {
+        "id": "8482162",
+        "name": "Roby Jarventie",
+        "team": "EDM",
+        "position": "F"
+      },
+      {
+        "id": "8482187",
+        "name": "Ronan Seeley",
+        "team": "CAR",
+        "position": "D"
+      },
+      {
+        "id": "8481564",
+        "name": "Ryan Johnson",
+        "team": "BUF",
+        "position": "D"
+      },
+      {
+        "id": "8482525",
+        "name": "Ryan Tverberg",
+        "team": "TOR",
+        "position": "F"
+      },
+      {
+        "id": "8484821",
+        "name": "Sam Morton",
+        "team": "CGY",
+        "position": "F"
+      },
+      {
+        "id": "8481591",
+        "name": "Samuel Poulin",
+        "team": "MTL",
+        "position": "F"
+      },
+      {
+        "id": "8483429",
+        "name": "Seamus Casey",
+        "team": "NJD",
+        "position": "D"
+      },
+      {
+        "id": "8482941",
+        "name": "Shane Lachance",
+        "team": "NJD",
+        "position": "F"
+      },
+      {
+        "id": "8480326",
+        "name": "Sheldon Dries",
+        "team": "DET",
+        "position": "F"
+      },
+      {
+        "id": "8481547",
+        "name": "Simon Lundmark",
+        "team": "TBL",
+        "position": "D"
+      },
+      {
+        "id": "8480291",
+        "name": "Skyler Brind'Amour",
+        "team": "CAR",
+        "position": "F"
+      },
+      {
+        "id": "8482953",
+        "name": "Taylor Makar",
+        "team": "COL",
+        "position": "F"
+      },
+      {
+        "id": "8482873",
+        "name": "Topias Vilen",
+        "team": "NJD",
+        "position": "D"
+      },
+      {
+        "id": "8482479",
+        "name": "Trevor Kuntar",
+        "team": "BUF",
+        "position": "F"
+      },
+      {
+        "id": "8482698",
+        "name": "Tristan Broz",
+        "team": "PIT",
+        "position": "F"
+      },
+      {
+        "id": "8482804",
+        "name": "Ty Murchison",
+        "team": "PHI",
+        "position": "D"
+      },
+      {
+        "id": "8481572",
+        "name": "Ville Heinola",
+        "team": "VGK",
+        "position": "D"
+      },
+      {
+        "id": "8482652",
+        "name": "Walker Duehr",
+        "team": "WPG",
+        "position": "F"
+      },
+      {
+        "id": "8482766",
+        "name": "William Stromgren",
+        "team": "CGY",
+        "position": "F"
+      },
+      {
+        "id": "8482174",
+        "name": "William Villeneuve",
+        "team": "TOR",
+        "position": "D"
+      },
+      {
+        "id": "8482673",
+        "name": "Xavier Bourgault",
+        "team": "OTT",
+        "position": "F"
+      },
+      {
+        "id": "8483841",
+        "name": "Xavier Parent",
+        "team": "NJD",
+        "position": "F"
+      },
+      {
+        "id": "8482682",
+        "name": "Sasha Pastujov",
+        "team": "MTL",
+        "position": "F"
       }
     ],
     "tradesAsOf": "2026-09-30"
   },
   "goalies": {
-    "asOf": "2026-09-30T03:23:08.680812+00:00",
+    "asOf": "2026-09-30T03:30:31.743874+00:00",
     "goalies": [
       {
         "id": "8476316",
@@ -5996,14 +7401,109 @@
         "team": "WPG"
       },
       {
-        "id": "8477992",
-        "name": "Jonas Johansson",
-        "team": "OTT"
+        "id": "8482123",
+        "name": "Drew Commesso",
+        "team": "CHI"
+      },
+      {
+        "id": "8481529",
+        "name": "Trent Miner",
+        "team": "COL"
       },
       {
         "id": "8478007",
         "name": "Elvis Merzlikins",
         "team": "TOR"
+      },
+      {
+        "id": "8477831",
+        "name": "Pheonix Copley",
+        "team": "CBJ"
+      },
+      {
+        "id": "8479406",
+        "name": "Filip Gustavsson",
+        "team": "MIN"
+      },
+      {
+        "id": "8479496",
+        "name": "David Rittich",
+        "team": "NJD"
+      },
+      {
+        "id": "8477484",
+        "name": "Spencer Martin",
+        "team": "NYR"
+      },
+      {
+        "id": "8482193",
+        "name": "Dylan Garand",
+        "team": "NYR"
+      },
+      {
+        "id": "8481544",
+        "name": "Mads Sogaard",
+        "team": "TBL"
+      },
+      {
+        "id": "8482783",
+        "name": "Aleksei Kolosov",
+        "team": "PHI"
+      },
+      {
+        "id": "8483668",
+        "name": "Nikke Kokko",
+        "team": "SEA"
+      },
+      {
+        "id": "8484910",
+        "name": "Victor Ostman",
+        "team": "SEA"
+      },
+      {
+        "id": "8477990",
+        "name": "Brandon Halverson",
+        "team": "DAL"
+      },
+      {
+        "id": "8477992",
+        "name": "Jonas Johansson",
+        "team": "OTT"
+      },
+      {
+        "id": "8482515",
+        "name": "Artur Akhtyamov",
+        "team": "TOR"
+      },
+      {
+        "id": "8477970",
+        "name": "Vitek Vanecek",
+        "team": "NYI"
+      },
+      {
+        "id": "8484268",
+        "name": "Nikita Tolopilo",
+        "team": "VAN"
+      },
+      {
+        "id": "8480238",
+        "name": "Jiri Patera",
+        "team": "BOS"
+      },
+      {
+        "id": "8482761",
+        "name": "Carl Lindbom",
+        "team": "VGK"
+      },
+      {
+        "id": "8483114",
+        "name": "Thomas Milic",
+        "team": "WPG"
+      },
+      {
+        "id": "8477480",
+        "name": "Eric Comrie",
+        "team": "SJS"
       }
     ],
     "tradesAsOf": "2026-09-30"

@@ -61,6 +61,28 @@ def main():
     for x in data[group]:
      pid=str(x['id']);name=x['firstName']['default']+' '+x['lastName']['default'];teams[team][group].append(pid)
      (goalies if pos=='G' else players).append({'id':pid,'name':name,'team':team,**({} if pos=='G' else {'position':pos})})
+ # Seasonal roster endpoints can omit active/injured players. Verify omissions
+ # against each player's official current-team profile before adding them.
+ present={x['id'] for x in players+goalies}
+ candidates=json.loads((dist/'nhl-roster-candidates.json').read_text())
+ previous=[]
+ for filename,key in [('nhl-2026-27-roster-players.json','players'),('nhl-2026-27-roster-goalies.json','goalies')]:
+  if (dist/filename).exists():previous.extend(json.loads((dist/filename).read_text())[key])
+ missing={str(x['id']):x for x in candidates+previous if str(x['id']) not in present}
+ recovered=[];inactive=[]
+ def profile(item):
+  pid,x=item;d=json.loads(download(f'https://api-web.nhle.com/v1/player/{pid}/landing'))
+  team=d.get('currentTeamAbbrev');pos=d.get('position')
+  if d.get('isActive') is not True or team not in teams: return None
+  if pos not in ['C','L','R','LW','RW','F','D','G']:raise ValueError('Unknown player position for '+pid)
+  name=d['firstName']['default']+' '+d['lastName']['default'];is_goalie=pos=='G'
+  return {'id':pid,'name':name,'team':team,**({} if is_goalie else {'position':'D' if pos=='D' else 'F'})},is_goalie
+ with concurrent.futures.ThreadPoolExecutor(max_workers=8) as pool:
+  for result in pool.map(profile,missing.items()):
+   if result is None:continue
+   row,is_goalie=result;group='goalies' if is_goalie else 'defensemen' if row['position']=='D' else 'forwards'
+   teams[row['team']][group].append(row['id']);(goalies if is_goalie else players).append(row);recovered.append(row)
+ print(f'Profile checks recovered {sum("position" in x for x in recovered)} skaters and {sum("position" not in x for x in recovered)} goalies.')
  ids=[x['id'] for x in players+goalies]
  if len(ids)!=len(set(ids)):raise ValueError('Duplicate NHL player IDs; keeping previous data')
  print(f'Validated {len(trades)} trades, {len(teams)} teams, {len(players)} skaters and {len(goalies)} goalies.')

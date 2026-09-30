@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-09-30T03:23:08.680812+00:00",
+  "asOf": "2026-09-30T03:30:31.743874+00:00",
   "goalies": [
     {
       "id": "8476316",
@@ -357,14 +357,109 @@
       "team": "WPG"
     },
     {
-      "id": "8477992",
-      "name": "Jonas Johansson",
-      "team": "OTT"
+      "id": "8482123",
+      "name": "Drew Commesso",
+      "team": "CHI"
+    },
+    {
+      "id": "8481529",
+      "name": "Trent Miner",
+      "team": "COL"
     },
     {
       "id": "8478007",
       "name": "Elvis Merzlikins",
       "team": "TOR"
+    },
+    {
+      "id": "8477831",
+      "name": "Pheonix Copley",
+      "team": "CBJ"
+    },
+    {
+      "id": "8479406",
+      "name": "Filip Gustavsson",
+      "team": "MIN"
+    },
+    {
+      "id": "8479496",
+      "name": "David Rittich",
+      "team": "NJD"
+    },
+    {
+      "id": "8477484",
+      "name": "Spencer Martin",
+      "team": "NYR"
+    },
+    {
+      "id": "8482193",
+      "name": "Dylan Garand",
+      "team": "NYR"
+    },
+    {
+      "id": "8481544",
+      "name": "Mads Sogaard",
+      "team": "TBL"
+    },
+    {
+      "id": "8482783",
+      "name": "Aleksei Kolosov",
+      "team": "PHI"
+    },
+    {
+      "id": "8483668",
+      "name": "Nikke Kokko",
+      "team": "SEA"
+    },
+    {
+      "id": "8484910",
+      "name": "Victor Ostman",
+      "team": "SEA"
+    },
+    {
+      "id": "8477990",
+      "name": "Brandon Halverson",
+      "team": "DAL"
+    },
+    {
+      "id": "8477992",
+      "name": "Jonas Johansson",
+      "team": "OTT"
+    },
+    {
+      "id": "8482515",
+      "name": "Artur Akhtyamov",
+      "team": "TOR"
+    },
+    {
+      "id": "8477970",
+      "name": "Vitek Vanecek",
+      "team": "NYI"
+    },
+    {
+      "id": "8484268",
+      "name": "Nikita Tolopilo",
+      "team": "VAN"
+    },
+    {
+      "id": "8480238",
+      "name": "Jiri Patera",
+      "team": "BOS"
+    },
+    {
+      "id": "8482761",
+      "name": "Carl Lindbom",
+      "team": "VGK"
+    },
+    {
+      "id": "8483114",
+      "name": "Thomas Milic",
+      "team": "WPG"
+    },
+    {
+      "id": "8477480",
+      "name": "Eric Comrie",
+      "team": "SJS"
     }
   ],
   "tradesAsOf": "2026-09-30"
