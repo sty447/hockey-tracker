@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-09-30T16:49:22.170072+00:00",
+  "asOf": "2026-09-30T21:25:36.207453+00:00",
   "players": [
     {
       "id": "8484153",
@@ -382,12 +382,6 @@
     {
       "id": "8482097",
       "name": "Jack Quinn",
-      "team": "BUF",
-      "position": "F"
-    },
-    {
-      "id": "8477839",
-      "name": "Conor Sheary",
       "team": "BUF",
       "position": "F"
     },
@@ -3368,6 +3362,12 @@
       "position": "F"
     },
     {
+      "id": "8476826",
+      "name": "Yanni Gourde",
+      "team": "TBL",
+      "position": "F"
+    },
+    {
       "id": "8477404",
       "name": "Jake Guentzel",
       "team": "TBL",
@@ -4298,12 +4298,6 @@
       "position": "D"
     },
     {
-      "id": "8476826",
-      "name": "Yanni Gourde",
-      "team": "TBL",
-      "position": "F"
-    },
-    {
       "id": "8482762",
       "name": "Simon Edvinsson",
       "team": "DET",
@@ -4313,6 +4307,12 @@
       "id": "8479390",
       "name": "Taylor Raddysh",
       "team": "NYR",
+      "position": "F"
+    },
+    {
+      "id": "8477839",
+      "name": "Conor Sheary",
+      "team": "BUF",
       "position": "F"
     },
     {
