@@ -1,5 +1,5 @@
-# Hockey Rating Matrix data updater
+# Hockey Rating Matrix live data
 
-Official NHL trade and roster updater for the Hockey Rating Matrix site.
+Hourly GitHub Actions refresh confirmed NHL trades and all 32 official 2026–27 rosters. The Hockey Rating Matrix site reads the atomic dist/nhl-live-data.json bundle. Saved site snapshots are used if the feed fails.
 
-The updater is being validated in GitHub Actions. Hourly publication is not active until a public data destination is verified. No credentials are stored in this repository.
+Scheduled at minute 17 each hour; GitHub may delay scheduled runs. No credentials are stored here.

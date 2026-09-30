@@ -4,6 +4,8 @@ on:
     paths:
       - scripts/**
       - .github/workflows/refresh-nhl.yml
+  schedule:
+    - cron: '17 * * * *'
   workflow_dispatch:
 permissions:
   contents: write

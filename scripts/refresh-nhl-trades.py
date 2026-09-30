@@ -70,4 +70,6 @@ def main():
  for file,data in files.items():
   target=dist/file;temp=target.with_suffix('.tmp');temp.write_text(json.dumps(data,indent=2)+'\n');temp.replace(target)
  subprocess.run(['node',str(root/'scripts/sync-trade-rosters.cjs')],check=True,cwd=root)
+ bundle={'asOf':now,'trades':json.loads((dist/'nhl-recent-trades.json').read_text()),'rosters':json.loads((dist/'nhl-2026-27-rosters.json').read_text()),'skaters':json.loads((dist/'nhl-2026-27-roster-players.json').read_text()),'goalies':json.loads((dist/'nhl-2026-27-roster-goalies.json').read_text())}
+ (dist/'nhl-live-data.json').write_text(json.dumps(bundle,indent=2)+'\n')
 if __name__=='__main__':main()
