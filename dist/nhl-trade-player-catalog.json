@@ -1,0 +1,8102 @@
+[
+  {
+    "id": "8465009",
+    "name": "Zdeno Chara",
+    "position": "D"
+  },
+  {
+    "id": "8466138",
+    "name": "Joe Thornton",
+    "position": "F"
+  },
+  {
+    "id": "8469455",
+    "name": "Jason Spezza",
+    "position": "F"
+  },
+  {
+    "id": "8470281",
+    "name": "Duncan Keith",
+    "position": "D"
+  },
+  {
+    "id": "8470595",
+    "name": "Eric Staal",
+    "position": "F"
+  },
+  {
+    "id": "8470600",
+    "name": "Ryan Suter",
+    "position": "D"
+  },
+  {
+    "id": "8470604",
+    "name": "Jeff Carter",
+    "position": "F"
+  },
+  {
+    "id": "8470606",
+    "name": "Dustin Brown",
+    "position": "F"
+  },
+  {
+    "id": "8470610",
+    "name": "Zach Parise",
+    "position": "F"
+  },
+  {
+    "id": "8470612",
+    "name": "Ryan Getzlaf",
+    "position": "F"
+  },
+  {
+    "id": "8470613",
+    "name": "Brent Burns",
+    "position": "D"
+  },
+  {
+    "id": "8470619",
+    "name": "Brian Boyle",
+    "position": "F"
+  },
+  {
+    "id": "8470621",
+    "name": "Corey Perry",
+    "position": "F"
+  },
+  {
+    "id": "8470626",
+    "name": "Loui Eriksson",
+    "position": "F"
+  },
+  {
+    "id": "8470638",
+    "name": "Patrice Bergeron",
+    "position": "F"
+  },
+  {
+    "id": "8470755",
+    "name": "Brad Richardson",
+    "position": "F"
+  },
+  {
+    "id": "8470775",
+    "name": "Nate Thompson",
+    "position": "F"
+  },
+  {
+    "id": "8470794",
+    "name": "Joe Pavelski",
+    "position": "F"
+  },
+  {
+    "id": "8470966",
+    "name": "Mark Giordano",
+    "position": "D"
+  },
+  {
+    "id": "8471214",
+    "name": "Alex Ovechkin",
+    "position": "F"
+  },
+  {
+    "id": "8471215",
+    "name": "Evgeni Malkin",
+    "position": "F"
+  },
+  {
+    "id": "8471217",
+    "name": "Andrew Ladd",
+    "position": "F"
+  },
+  {
+    "id": "8471218",
+    "name": "Blake Wheeler",
+    "position": "F"
+  },
+  {
+    "id": "8471228",
+    "name": "Alexander Radulov",
+    "position": "F"
+  },
+  {
+    "id": "8471260",
+    "name": "Blake Comeau",
+    "position": "F"
+  },
+  {
+    "id": "8471274",
+    "name": "Alex Goligoski",
+    "position": "D"
+  },
+  {
+    "id": "8471276",
+    "name": "David Krejci",
+    "position": "F"
+  },
+  {
+    "id": "8471284",
+    "name": "Andrej Sekera",
+    "position": "D"
+  },
+  {
+    "id": "8471303",
+    "name": "Alexander Edler",
+    "position": "D"
+  },
+  {
+    "id": "8471669",
+    "name": "Paul Stastny",
+    "position": "F"
+  },
+  {
+    "id": "8471675",
+    "name": "Sidney Crosby",
+    "position": "F"
+  },
+  {
+    "id": "8471677",
+    "name": "Jack Johnson",
+    "position": "D"
+  },
+  {
+    "id": "8471685",
+    "name": "Anze Kopitar",
+    "position": "F"
+  },
+  {
+    "id": "8471686",
+    "name": "Marc Staal",
+    "position": "D"
+  },
+  {
+    "id": "8471698",
+    "name": "T.J. Oshie",
+    "position": "F"
+  },
+  {
+    "id": "8471699",
+    "name": "Andrew Cogliano",
+    "position": "F"
+  },
+  {
+    "id": "8471707",
+    "name": "James Neal",
+    "position": "F"
+  },
+  {
+    "id": "8471709",
+    "name": "Marc-Edouard Vlasic",
+    "position": "D"
+  },
+  {
+    "id": "8471724",
+    "name": "Kris Letang",
+    "position": "D"
+  },
+  {
+    "id": "8471729",
+    "name": "Kris Russell",
+    "position": "D"
+  },
+  {
+    "id": "8471735",
+    "name": "Keith Yandle",
+    "position": "D"
+  },
+  {
+    "id": "8471794",
+    "name": "Darren Helm",
+    "position": "F"
+  },
+  {
+    "id": "8471817",
+    "name": "Ryan Reaves",
+    "position": "F"
+  },
+  {
+    "id": "8471873",
+    "name": "Anton Stralman",
+    "position": "D"
+  },
+  {
+    "id": "8471887",
+    "name": "Patric Hornqvist",
+    "position": "F"
+  },
+  {
+    "id": "8472382",
+    "name": "Andy Greene",
+    "position": "D"
+  },
+  {
+    "id": "8473415",
+    "name": "Alex Biega",
+    "position": "D"
+  },
+  {
+    "id": "8473419",
+    "name": "Brad Marchand",
+    "position": "F"
+  },
+  {
+    "id": "8473422",
+    "name": "Nick Foligno",
+    "position": "F"
+  },
+  {
+    "id": "8473446",
+    "name": "Erik Johnson",
+    "position": "D"
+  },
+  {
+    "id": "8473449",
+    "name": "Kyle Okposo",
+    "position": "F"
+  },
+  {
+    "id": "8473453",
+    "name": "Trevor Lewis",
+    "position": "F"
+  },
+  {
+    "id": "8473463",
+    "name": "Leo Komarov",
+    "position": "F"
+  },
+  {
+    "id": "8473473",
+    "name": "Milan Lucic",
+    "position": "F"
+  },
+  {
+    "id": "8473504",
+    "name": "Cal Clutterbuck",
+    "position": "F"
+  },
+  {
+    "id": "8473507",
+    "name": "Jeff Petry",
+    "position": "D"
+  },
+  {
+    "id": "8473512",
+    "name": "Claude Giroux",
+    "position": "F"
+  },
+  {
+    "id": "8473533",
+    "name": "Jordan Staal",
+    "position": "F"
+  },
+  {
+    "id": "8473544",
+    "name": "Derick Brassard",
+    "position": "F"
+  },
+  {
+    "id": "8473548",
+    "name": "Phil Kessel",
+    "position": "F"
+  },
+  {
+    "id": "8473563",
+    "name": "Nicklas Backstrom",
+    "position": "F"
+  },
+  {
+    "id": "8473604",
+    "name": "Jonathan Toews",
+    "position": "F"
+  },
+  {
+    "id": "8473618",
+    "name": "Mathieu Perreault",
+    "position": "F"
+  },
+  {
+    "id": "8473986",
+    "name": "Alex Killorn",
+    "position": "F"
+  },
+  {
+    "id": "8473994",
+    "name": "Jamie Benn",
+    "position": "F"
+  },
+  {
+    "id": "8474009",
+    "name": "Nick Bonino",
+    "position": "F"
+  },
+  {
+    "id": "8474013",
+    "name": "Ian Cole",
+    "position": "D"
+  },
+  {
+    "id": "8474027",
+    "name": "Justin Braun",
+    "position": "D"
+  },
+  {
+    "id": "8474031",
+    "name": "Kevin Shattenkirk",
+    "position": "D"
+  },
+  {
+    "id": "8474034",
+    "name": "Patrick Maroon",
+    "position": "F"
+  },
+  {
+    "id": "8474037",
+    "name": "James van Riemsdyk",
+    "position": "F"
+  },
+  {
+    "id": "8474038",
+    "name": "Paul Byron",
+    "position": "F"
+  },
+  {
+    "id": "8474040",
+    "name": "Sam Gagner",
+    "position": "F"
+  },
+  {
+    "id": "8474053",
+    "name": "Logan Couture",
+    "position": "F"
+  },
+  {
+    "id": "8474056",
+    "name": "P.K. Subban",
+    "position": "D"
+  },
+  {
+    "id": "8474062",
+    "name": "Riley Nash",
+    "position": "F"
+  },
+  {
+    "id": "8474066",
+    "name": "Thomas Hickey",
+    "position": "D"
+  },
+  {
+    "id": "8474068",
+    "name": "Kyle Turris",
+    "position": "F"
+  },
+  {
+    "id": "8474089",
+    "name": "Brad Malone",
+    "position": "F"
+  },
+  {
+    "id": "8474090",
+    "name": "Brendan Smith",
+    "position": "D"
+  },
+  {
+    "id": "8474098",
+    "name": "Colton Sceviour",
+    "position": "F"
+  },
+  {
+    "id": "8474102",
+    "name": "David Perron",
+    "position": "F"
+  },
+  {
+    "id": "8474141",
+    "name": "Patrick Kane",
+    "position": "F"
+  },
+  {
+    "id": "8474145",
+    "name": "Robert Bortuzzo",
+    "position": "D"
+  },
+  {
+    "id": "8474149",
+    "name": "Evgenii Dadonov",
+    "position": "F"
+  },
+  {
+    "id": "8474150",
+    "name": "Mikael Backlund",
+    "position": "F"
+  },
+  {
+    "id": "8474151",
+    "name": "Ryan McDonagh",
+    "position": "D"
+  },
+  {
+    "id": "8474157",
+    "name": "Max Pacioretty",
+    "position": "F"
+  },
+  {
+    "id": "8474161",
+    "name": "Jakub Voracek",
+    "position": "F"
+  },
+  {
+    "id": "8474162",
+    "name": "Jake Muzzin",
+    "position": "D"
+  },
+  {
+    "id": "8474166",
+    "name": "Alec Martinez",
+    "position": "D"
+  },
+  {
+    "id": "8474176",
+    "name": "Carl Hagelin",
+    "position": "F"
+  },
+  {
+    "id": "8474189",
+    "name": "Lars Eller",
+    "position": "F"
+  },
+  {
+    "id": "8474190",
+    "name": "Wayne Simmonds",
+    "position": "F"
+  },
+  {
+    "id": "8474207",
+    "name": "Nick Holden",
+    "position": "D"
+  },
+  {
+    "id": "8474218",
+    "name": "Jason Demers",
+    "position": "D"
+  },
+  {
+    "id": "8474291",
+    "name": "Jay Beagle",
+    "position": "F"
+  },
+  {
+    "id": "8474563",
+    "name": "Drew Doughty",
+    "position": "D"
+  },
+  {
+    "id": "8474564",
+    "name": "Steven Stamkos",
+    "position": "F"
+  },
+  {
+    "id": "8474565",
+    "name": "Alex Pietrangelo",
+    "position": "D"
+  },
+  {
+    "id": "8474567",
+    "name": "Zach Bogosian",
+    "position": "D"
+  },
+  {
+    "id": "8474568",
+    "name": "Luke Schenn",
+    "position": "D"
+  },
+  {
+    "id": "8474573",
+    "name": "Josh Bailey",
+    "position": "F"
+  },
+  {
+    "id": "8474574",
+    "name": "Tyler Myers",
+    "position": "D"
+  },
+  {
+    "id": "8474578",
+    "name": "Erik Karlsson",
+    "position": "D"
+  },
+  {
+    "id": "8474584",
+    "name": "Michael Del Zotto",
+    "position": "D"
+  },
+  {
+    "id": "8474586",
+    "name": "Jordan Eberle",
+    "position": "F"
+  },
+  {
+    "id": "8474589",
+    "name": "Tyler Ennis",
+    "position": "F"
+  },
+  {
+    "id": "8474590",
+    "name": "John Carlson",
+    "position": "D"
+  },
+  {
+    "id": "8474600",
+    "name": "Roman Josi",
+    "position": "D"
+  },
+  {
+    "id": "8474602",
+    "name": "Justin Schultz",
+    "position": "D"
+  },
+  {
+    "id": "8474610",
+    "name": "Zac Dalpe",
+    "position": "F"
+  },
+  {
+    "id": "8474612",
+    "name": "Travis Hamonic",
+    "position": "D"
+  },
+  {
+    "id": "8474613",
+    "name": "Derek Stepan",
+    "position": "F"
+  },
+  {
+    "id": "8474618",
+    "name": "Marco Scandella",
+    "position": "D"
+  },
+  {
+    "id": "8474628",
+    "name": "Michael Stone",
+    "position": "D"
+  },
+  {
+    "id": "8474641",
+    "name": "Adam Henrique",
+    "position": "F"
+  },
+  {
+    "id": "8474673",
+    "name": "TJ Brodie",
+    "position": "D"
+  },
+  {
+    "id": "8474679",
+    "name": "Gustav Nyquist",
+    "position": "F"
+  },
+  {
+    "id": "8474683",
+    "name": "Derek Grant",
+    "position": "F"
+  },
+  {
+    "id": "8474688",
+    "name": "Greg Pateryn",
+    "position": "D"
+  },
+  {
+    "id": "8474697",
+    "name": "Mark Borowiecki",
+    "position": "D"
+  },
+  {
+    "id": "8474709",
+    "name": "Matt Martin",
+    "position": "F"
+  },
+  {
+    "id": "8474715",
+    "name": "Cam Atkinson",
+    "position": "F"
+  },
+  {
+    "id": "8474716",
+    "name": "Jared Spurgeon",
+    "position": "D"
+  },
+  {
+    "id": "8474722",
+    "name": "Luke Witkowski",
+    "position": "D"
+  },
+  {
+    "id": "8474818",
+    "name": "Jordie Benn",
+    "position": "D"
+  },
+  {
+    "id": "8474849",
+    "name": "Antoine Roussel",
+    "position": "F"
+  },
+  {
+    "id": "8474870",
+    "name": "Tyler Johnson",
+    "position": "F"
+  },
+  {
+    "id": "8474884",
+    "name": "Mike Hoffman",
+    "position": "F"
+  },
+  {
+    "id": "8475098",
+    "name": "Tyler Bozak",
+    "position": "F"
+  },
+  {
+    "id": "8475149",
+    "name": "Marcus Johansson",
+    "position": "F"
+  },
+  {
+    "id": "8475151",
+    "name": "Kyle Palmieri",
+    "position": "F"
+  },
+  {
+    "id": "8475158",
+    "name": "Ryan O'Reilly",
+    "position": "F"
+  },
+  {
+    "id": "8475160",
+    "name": "Kyle Clifford",
+    "position": "F"
+  },
+  {
+    "id": "8475163",
+    "name": "Alex Chiasson",
+    "position": "F"
+  },
+  {
+    "id": "8475164",
+    "name": "Jakob Silfverberg",
+    "position": "F"
+  },
+  {
+    "id": "8475166",
+    "name": "John Tavares",
+    "position": "F"
+  },
+  {
+    "id": "8475167",
+    "name": "Victor Hedman",
+    "position": "D"
+  },
+  {
+    "id": "8475168",
+    "name": "Matt Duchene",
+    "position": "F"
+  },
+  {
+    "id": "8475169",
+    "name": "Evander Kane",
+    "position": "F"
+  },
+  {
+    "id": "8475170",
+    "name": "Brayden Schenn",
+    "position": "F"
+  },
+  {
+    "id": "8475171",
+    "name": "Oliver Ekman-Larsson",
+    "position": "D"
+  },
+  {
+    "id": "8475172",
+    "name": "Nazem Kadri",
+    "position": "F"
+  },
+  {
+    "id": "8475176",
+    "name": "Ryan Ellis",
+    "position": "D"
+  },
+  {
+    "id": "8475177",
+    "name": "Calvin de Haan",
+    "position": "D"
+  },
+  {
+    "id": "8475178",
+    "name": "Zack Kassian",
+    "position": "F"
+  },
+  {
+    "id": "8475179",
+    "name": "Dmitry Kulikov",
+    "position": "D"
+  },
+  {
+    "id": "8475181",
+    "name": "Nick Leddy",
+    "position": "D"
+  },
+  {
+    "id": "8475184",
+    "name": "Chris Kreider",
+    "position": "F"
+  },
+  {
+    "id": "8475186",
+    "name": "John Moore",
+    "position": "D"
+  },
+  {
+    "id": "8475188",
+    "name": "Brayden McNabb",
+    "position": "D"
+  },
+  {
+    "id": "8475191",
+    "name": "Reilly Smith",
+    "position": "F"
+  },
+  {
+    "id": "8475193",
+    "name": "Tomas Tatar",
+    "position": "F"
+  },
+  {
+    "id": "8475197",
+    "name": "Tyson Barrie",
+    "position": "D"
+  },
+  {
+    "id": "8475200",
+    "name": "Dmitry Orlov",
+    "position": "D"
+  },
+  {
+    "id": "8475208",
+    "name": "Brian Dumoulin",
+    "position": "D"
+  },
+  {
+    "id": "8475209",
+    "name": "Richard Panik",
+    "position": "F"
+  },
+  {
+    "id": "8475218",
+    "name": "Mattias Ekholm",
+    "position": "D"
+  },
+  {
+    "id": "8475220",
+    "name": "Marcus Foligno",
+    "position": "F"
+  },
+  {
+    "id": "8475225",
+    "name": "Craig Smith",
+    "position": "F"
+  },
+  {
+    "id": "8475227",
+    "name": "Chris Wideman",
+    "position": "D"
+  },
+  {
+    "id": "8475231",
+    "name": "Casey Cizikas",
+    "position": "F"
+  },
+  {
+    "id": "8475233",
+    "name": "David Savard",
+    "position": "D"
+  },
+  {
+    "id": "8475235",
+    "name": "Nicolas Deslauriers",
+    "position": "F"
+  },
+  {
+    "id": "8475236",
+    "name": "Cody Eakin",
+    "position": "F"
+  },
+  {
+    "id": "8475246",
+    "name": "Kevin Connauton",
+    "position": "D"
+  },
+  {
+    "id": "8475253",
+    "name": "Garrett Wilson",
+    "position": "F"
+  },
+  {
+    "id": "8475278",
+    "name": "Byron Froese",
+    "position": "F"
+  },
+  {
+    "id": "8475279",
+    "name": "Ben Chiarot",
+    "position": "D"
+  },
+  {
+    "id": "8475287",
+    "name": "Erik Haula",
+    "position": "F"
+  },
+  {
+    "id": "8475314",
+    "name": "Anders Lee",
+    "position": "F"
+  },
+  {
+    "id": "8475324",
+    "name": "Nick Jensen",
+    "position": "D"
+  },
+  {
+    "id": "8475343",
+    "name": "Nic Dowd",
+    "position": "F"
+  },
+  {
+    "id": "8475413",
+    "name": "Justin Dowling",
+    "position": "F"
+  },
+  {
+    "id": "8475455",
+    "name": "Brenden Dillon",
+    "position": "D"
+  },
+  {
+    "id": "8475461",
+    "name": "Andrew Agozzino",
+    "position": "F"
+  },
+  {
+    "id": "8475462",
+    "name": "Radko Gudas",
+    "position": "D"
+  },
+  {
+    "id": "8475625",
+    "name": "Matt Irwin",
+    "position": "D"
+  },
+  {
+    "id": "8475690",
+    "name": "Chris Tanev",
+    "position": "D"
+  },
+  {
+    "id": "8475692",
+    "name": "Mats Zuccarello",
+    "position": "F"
+  },
+  {
+    "id": "8475714",
+    "name": "Calle Jarnkrok",
+    "position": "F"
+  },
+  {
+    "id": "8475718",
+    "name": "Justin Holl",
+    "position": "D"
+  },
+  {
+    "id": "8475722",
+    "name": "Jason Zucker",
+    "position": "F"
+  },
+  {
+    "id": "8475726",
+    "name": "Tyler Toffoli",
+    "position": "F"
+  },
+  {
+    "id": "8475728",
+    "name": "Johan Larsson",
+    "position": "F"
+  },
+  {
+    "id": "8475735",
+    "name": "Greg McKegg",
+    "position": "F"
+  },
+  {
+    "id": "8475744",
+    "name": "Evgeny Kuznetsov",
+    "position": "F"
+  },
+  {
+    "id": "8475745",
+    "name": "Charlie Coyle",
+    "position": "F"
+  },
+  {
+    "id": "8475747",
+    "name": "Patrik Nemeth",
+    "position": "D"
+  },
+  {
+    "id": "8475750",
+    "name": "Jon Merrill",
+    "position": "D"
+  },
+  {
+    "id": "8475752",
+    "name": "Tyler Pitlick",
+    "position": "F"
+  },
+  {
+    "id": "8475753",
+    "name": "Justin Faulk",
+    "position": "D"
+  },
+  {
+    "id": "8475754",
+    "name": "Brock Nelson",
+    "position": "F"
+  },
+  {
+    "id": "8475755",
+    "name": "Alexander Petrovic",
+    "position": "D"
+  },
+  {
+    "id": "8475760",
+    "name": "Nick Bjugstad",
+    "position": "F"
+  },
+  {
+    "id": "8475762",
+    "name": "Derek Forbort",
+    "position": "D"
+  },
+  {
+    "id": "8475763",
+    "name": "Kevin Hayes",
+    "position": "F"
+  },
+  {
+    "id": "8475764",
+    "name": "Cam Fowler",
+    "position": "D"
+  },
+  {
+    "id": "8475765",
+    "name": "Vladimir Tarasenko",
+    "position": "F"
+  },
+  {
+    "id": "8475766",
+    "name": "Austin Watson",
+    "position": "F"
+  },
+  {
+    "id": "8475768",
+    "name": "Jaden Schwartz",
+    "position": "F"
+  },
+  {
+    "id": "8475772",
+    "name": "Riley Sheahan",
+    "position": "F"
+  },
+  {
+    "id": "8475780",
+    "name": "Chris Wagner",
+    "position": "F"
+  },
+  {
+    "id": "8475784",
+    "name": "Jeff Skinner",
+    "position": "F"
+  },
+  {
+    "id": "8475786",
+    "name": "Zach Hyman",
+    "position": "F"
+  },
+  {
+    "id": "8475790",
+    "name": "Erik Gudbranson",
+    "position": "D"
+  },
+  {
+    "id": "8475791",
+    "name": "Taylor Hall",
+    "position": "F"
+  },
+  {
+    "id": "8475792",
+    "name": "Brett Connolly",
+    "position": "F"
+  },
+  {
+    "id": "8475793",
+    "name": "Ryan Johansen",
+    "position": "F"
+  },
+  {
+    "id": "8475794",
+    "name": "Tyler Seguin",
+    "position": "F"
+  },
+  {
+    "id": "8475795",
+    "name": "Dylan McIlrath",
+    "position": "D"
+  },
+  {
+    "id": "8475796",
+    "name": "Mark Pysyk",
+    "position": "D"
+  },
+  {
+    "id": "8475797",
+    "name": "Jarred Tinordi",
+    "position": "D"
+  },
+  {
+    "id": "8475798",
+    "name": "Mikael Granlund",
+    "position": "F"
+  },
+  {
+    "id": "8475799",
+    "name": "Nino Niederreiter",
+    "position": "F"
+  },
+  {
+    "id": "8475810",
+    "name": "Bryan Rust",
+    "position": "F"
+  },
+  {
+    "id": "8475820",
+    "name": "Joonas Donskoi",
+    "position": "F"
+  },
+  {
+    "id": "8475825",
+    "name": "Jani Hakanp\u00e4\u00e4",
+    "position": "D"
+  },
+  {
+    "id": "8475842",
+    "name": "Sam Carrick",
+    "position": "F"
+  },
+  {
+    "id": "8475848",
+    "name": "Brendan Gallagher",
+    "position": "F"
+  },
+  {
+    "id": "8475855",
+    "name": "Jesper Fast",
+    "position": "F"
+  },
+  {
+    "id": "8475857",
+    "name": "Kevin Gravel",
+    "position": "D"
+  },
+  {
+    "id": "8475906",
+    "name": "John Klingberg",
+    "position": "D"
+  },
+  {
+    "id": "8475913",
+    "name": "Mark Stone",
+    "position": "F"
+  },
+  {
+    "id": "8475958",
+    "name": "Michael Sgarbossa",
+    "position": "F"
+  },
+  {
+    "id": "8475968",
+    "name": "Alex Belzile",
+    "position": "F"
+  },
+  {
+    "id": "8476166",
+    "name": "Taylor Fedun",
+    "position": "D"
+  },
+  {
+    "id": "8476278",
+    "name": "Colin Blackwell",
+    "position": "F"
+  },
+  {
+    "id": "8476285",
+    "name": "Matthew Peca",
+    "position": "F"
+  },
+  {
+    "id": "8476288",
+    "name": "Ryan Dzingel",
+    "position": "F"
+  },
+  {
+    "id": "8476292",
+    "name": "Ondrej Palat",
+    "position": "F"
+  },
+  {
+    "id": "8476310",
+    "name": "Lukas Sedlak",
+    "position": "F"
+  },
+  {
+    "id": "8476312",
+    "name": "Josh Manson",
+    "position": "D"
+  },
+  {
+    "id": "8476323",
+    "name": "Max McCormick",
+    "position": "F"
+  },
+  {
+    "id": "8476326",
+    "name": "Josh Archibald",
+    "position": "F"
+  },
+  {
+    "id": "8476329",
+    "name": "Travis Boyd",
+    "position": "F"
+  },
+  {
+    "id": "8476331",
+    "name": "Dylan DeMelo",
+    "position": "D"
+  },
+  {
+    "id": "8476345",
+    "name": "Gregory Hofmann",
+    "position": "F"
+  },
+  {
+    "id": "8476346",
+    "name": "Johnny Gaudreau",
+    "position": "F"
+  },
+  {
+    "id": "8476368",
+    "name": "Fredrik Claesson",
+    "position": "D"
+  },
+  {
+    "id": "8476372",
+    "name": "Nick Seeler",
+    "position": "D"
+  },
+  {
+    "id": "8476374",
+    "name": "Sean Kuraly",
+    "position": "F"
+  },
+  {
+    "id": "8476389",
+    "name": "Vincent Trocheck",
+    "position": "F"
+  },
+  {
+    "id": "8476390",
+    "name": "Joseph Cramarossa",
+    "position": "F"
+  },
+  {
+    "id": "8476391",
+    "name": "T.J. Tynan",
+    "position": "F"
+  },
+  {
+    "id": "8476392",
+    "name": "Adam Lowry",
+    "position": "F"
+  },
+  {
+    "id": "8476393",
+    "name": "Nick Cousins",
+    "position": "F"
+  },
+  {
+    "id": "8476396",
+    "name": "Steven Fogarty",
+    "position": "F"
+  },
+  {
+    "id": "8476399",
+    "name": "Blake Coleman",
+    "position": "F"
+  },
+  {
+    "id": "8476400",
+    "name": "Logan Shaw",
+    "position": "F"
+  },
+  {
+    "id": "8476404",
+    "name": "Andy Andreoff",
+    "position": "F"
+  },
+  {
+    "id": "8476410",
+    "name": "Josh Leivo",
+    "position": "F"
+  },
+  {
+    "id": "8476415",
+    "name": "Kyle Rau",
+    "position": "F"
+  },
+  {
+    "id": "8476419",
+    "name": "Jean-Gabriel Pageau",
+    "position": "F"
+  },
+  {
+    "id": "8476422",
+    "name": "Mike Reilly",
+    "position": "D"
+  },
+  {
+    "id": "8476425",
+    "name": "Joseph LaBate",
+    "position": "F"
+  },
+  {
+    "id": "8476428",
+    "name": "Rocco Grimaldi",
+    "position": "F"
+  },
+  {
+    "id": "8476429",
+    "name": "Scott Mayfield",
+    "position": "D"
+  },
+  {
+    "id": "8476432",
+    "name": "Boone Jenner",
+    "position": "F"
+  },
+  {
+    "id": "8476436",
+    "name": "Dmitrij Jaskin",
+    "position": "F"
+  },
+  {
+    "id": "8476437",
+    "name": "Victor Rask",
+    "position": "F"
+  },
+  {
+    "id": "8476438",
+    "name": "Brandon Saad",
+    "position": "F"
+  },
+  {
+    "id": "8476439",
+    "name": "Brett Ritchie",
+    "position": "F"
+  },
+  {
+    "id": "8476441",
+    "name": "Joel Edmundson",
+    "position": "D"
+  },
+  {
+    "id": "8476442",
+    "name": "Matt Nieto",
+    "position": "F"
+  },
+  {
+    "id": "8476448",
+    "name": "William Karlsson",
+    "position": "F"
+  },
+  {
+    "id": "8476449",
+    "name": "Scott Harrington",
+    "position": "D"
+  },
+  {
+    "id": "8476453",
+    "name": "Nikita Kucherov",
+    "position": "F"
+  },
+  {
+    "id": "8476454",
+    "name": "Ryan Nugent-Hopkins",
+    "position": "F"
+  },
+  {
+    "id": "8476455",
+    "name": "Gabriel Landeskog",
+    "position": "F"
+  },
+  {
+    "id": "8476456",
+    "name": "Jonathan Huberdeau",
+    "position": "F"
+  },
+  {
+    "id": "8476457",
+    "name": "Adam Larsson",
+    "position": "D"
+  },
+  {
+    "id": "8476458",
+    "name": "Ryan Strome",
+    "position": "F"
+  },
+  {
+    "id": "8476459",
+    "name": "Mika Zibanejad",
+    "position": "F"
+  },
+  {
+    "id": "8476460",
+    "name": "Mark Scheifele",
+    "position": "F"
+  },
+  {
+    "id": "8476461",
+    "name": "Sean Couturier",
+    "position": "F"
+  },
+  {
+    "id": "8476462",
+    "name": "Dougie Hamilton",
+    "position": "D"
+  },
+  {
+    "id": "8476463",
+    "name": "Jonas Brodin",
+    "position": "D"
+  },
+  {
+    "id": "8476466",
+    "name": "Sven Baertschi",
+    "position": "F"
+  },
+  {
+    "id": "8476467",
+    "name": "Jamie Oleksiak",
+    "position": "D"
+  },
+  {
+    "id": "8476468",
+    "name": "J.T. Miller",
+    "position": "F"
+  },
+  {
+    "id": "8476469",
+    "name": "Joel Armia",
+    "position": "F"
+  },
+  {
+    "id": "8476470",
+    "name": "Nathan Beaulieu",
+    "position": "D"
+  },
+  {
+    "id": "8476473",
+    "name": "Connor Murphy",
+    "position": "D"
+  },
+  {
+    "id": "8476474",
+    "name": "Stefan Noesen",
+    "position": "F"
+  },
+  {
+    "id": "8476479",
+    "name": "Phillip Danault",
+    "position": "F"
+  },
+  {
+    "id": "8476480",
+    "name": "Vladislav Namestnikov",
+    "position": "F"
+  },
+  {
+    "id": "8476483",
+    "name": "Rickard Rakell",
+    "position": "F"
+  },
+  {
+    "id": "8476495",
+    "name": "Seth Griffith",
+    "position": "F"
+  },
+  {
+    "id": "8476505",
+    "name": "Turner Elson",
+    "position": "F"
+  },
+  {
+    "id": "8476525",
+    "name": "Colin Miller",
+    "position": "D"
+  },
+  {
+    "id": "8476539",
+    "name": "Jonathan Marchessault",
+    "position": "F"
+  },
+  {
+    "id": "8476545",
+    "name": "Kurtis Gabriel",
+    "position": "F"
+  },
+  {
+    "id": "8476624",
+    "name": "Barclay Goodrow",
+    "position": "F"
+  },
+  {
+    "id": "8476779",
+    "name": "Brad Hunt",
+    "position": "D"
+  },
+  {
+    "id": "8476792",
+    "name": "Torey Krug",
+    "position": "D"
+  },
+  {
+    "id": "8476807",
+    "name": "Matt Tennyson",
+    "position": "D"
+  },
+  {
+    "id": "8476822",
+    "name": "Luke Glendening",
+    "position": "F"
+  },
+  {
+    "id": "8476826",
+    "name": "Yanni Gourde",
+    "position": "F"
+  },
+  {
+    "id": "8476850",
+    "name": "Ryan Murray",
+    "position": "D"
+  },
+  {
+    "id": "8476851",
+    "name": "Alex Galchenyuk",
+    "position": "F"
+  },
+  {
+    "id": "8476853",
+    "name": "Morgan Rielly",
+    "position": "D"
+  },
+  {
+    "id": "8476854",
+    "name": "Hampus Lindholm",
+    "position": "D"
+  },
+  {
+    "id": "8476856",
+    "name": "Mathew Dumba",
+    "position": "D"
+  },
+  {
+    "id": "8476858",
+    "name": "Phillip Di Giuseppe",
+    "position": "F"
+  },
+  {
+    "id": "8476867",
+    "name": "Brendan Gaunce",
+    "position": "F"
+  },
+  {
+    "id": "8476869",
+    "name": "Brady Skjei",
+    "position": "D"
+  },
+  {
+    "id": "8476870",
+    "name": "Stefan Matteau",
+    "position": "F"
+  },
+  {
+    "id": "8476871",
+    "name": "Tanner Pearson",
+    "position": "F"
+  },
+  {
+    "id": "8476872",
+    "name": "Scott Laughton",
+    "position": "F"
+  },
+  {
+    "id": "8476873",
+    "name": "Mark Jankowski",
+    "position": "F"
+  },
+  {
+    "id": "8476874",
+    "name": "Olli Maatta",
+    "position": "D"
+  },
+  {
+    "id": "8476875",
+    "name": "Mike Matheson",
+    "position": "D"
+  },
+  {
+    "id": "8476878",
+    "name": "Zemgus Girgensons",
+    "position": "F"
+  },
+  {
+    "id": "8476879",
+    "name": "Cody Ceci",
+    "position": "D"
+  },
+  {
+    "id": "8476880",
+    "name": "Tom Wilson",
+    "position": "F"
+  },
+  {
+    "id": "8476881",
+    "name": "Tomas Hertl",
+    "position": "F"
+  },
+  {
+    "id": "8476882",
+    "name": "Teuvo Teravainen",
+    "position": "F"
+  },
+  {
+    "id": "8476884",
+    "name": "Derrick Pouliot",
+    "position": "D"
+  },
+  {
+    "id": "8476885",
+    "name": "Jacob Trouba",
+    "position": "D"
+  },
+  {
+    "id": "8476886",
+    "name": "Slater Koekkoek",
+    "position": "D"
+  },
+  {
+    "id": "8476887",
+    "name": "Filip Forsberg",
+    "position": "F"
+  },
+  {
+    "id": "8476889",
+    "name": "Radek Faksa",
+    "position": "F"
+  },
+  {
+    "id": "8476891",
+    "name": "Matt Grzelcyk",
+    "position": "D"
+  },
+  {
+    "id": "8476892",
+    "name": "Colton Parayko",
+    "position": "D"
+  },
+  {
+    "id": "8476897",
+    "name": "Oskar Sundqvist",
+    "position": "F"
+  },
+  {
+    "id": "8476902",
+    "name": "Esa Lindell",
+    "position": "D"
+  },
+  {
+    "id": "8476905",
+    "name": "Chandler Stephenson",
+    "position": "F"
+  },
+  {
+    "id": "8476906",
+    "name": "Shayne Gostisbehere",
+    "position": "D"
+  },
+  {
+    "id": "8476907",
+    "name": "Mackenzie MacEachern",
+    "position": "F"
+  },
+  {
+    "id": "8476913",
+    "name": "Devin Shore",
+    "position": "F"
+  },
+  {
+    "id": "8476915",
+    "name": "Jujhar Khaira",
+    "position": "F"
+  },
+  {
+    "id": "8476917",
+    "name": "Adam Pelech",
+    "position": "D"
+  },
+  {
+    "id": "8476918",
+    "name": "Jimmy Vesey",
+    "position": "F"
+  },
+  {
+    "id": "8476919",
+    "name": "Chris Tierney",
+    "position": "F"
+  },
+  {
+    "id": "8476921",
+    "name": "Jordan Martinook",
+    "position": "F"
+  },
+  {
+    "id": "8476923",
+    "name": "Damon Severson",
+    "position": "D"
+  },
+  {
+    "id": "8476924",
+    "name": "Martin Frk",
+    "position": "F"
+  },
+  {
+    "id": "8476925",
+    "name": "Colton Sissons",
+    "position": "F"
+  },
+  {
+    "id": "8476927",
+    "name": "Teddy Blueger",
+    "position": "F"
+  },
+  {
+    "id": "8476931",
+    "name": "Jake McCabe",
+    "position": "D"
+  },
+  {
+    "id": "8476934",
+    "name": "Brock McGinn",
+    "position": "F"
+  },
+  {
+    "id": "8476941",
+    "name": "Connor Carrick",
+    "position": "D"
+  },
+  {
+    "id": "8476948",
+    "name": "Charles Hudon",
+    "position": "F"
+  },
+  {
+    "id": "8476952",
+    "name": "Dominic Toninato",
+    "position": "F"
+  },
+  {
+    "id": "8476958",
+    "name": "Jaccob Slavin",
+    "position": "D"
+  },
+  {
+    "id": "8476960",
+    "name": "Andreas Athanasiou",
+    "position": "F"
+  },
+  {
+    "id": "8476966",
+    "name": "Gemel Smith",
+    "position": "F"
+  },
+  {
+    "id": "8476967",
+    "name": "Brett Kulak",
+    "position": "D"
+  },
+  {
+    "id": "8476975",
+    "name": "Cedric Paquette",
+    "position": "F"
+  },
+  {
+    "id": "8476979",
+    "name": "Erik Gustafsson",
+    "position": "D"
+  },
+  {
+    "id": "8476981",
+    "name": "Josh Anderson",
+    "position": "F"
+  },
+  {
+    "id": "8476982",
+    "name": "Danny O'Regan",
+    "position": "F"
+  },
+  {
+    "id": "8476983",
+    "name": "Paul LaDue",
+    "position": "D"
+  },
+  {
+    "id": "8476988",
+    "name": "Matthew Benning",
+    "position": "D"
+  },
+  {
+    "id": "8476989",
+    "name": "Petteri Lindbohm",
+    "position": "D"
+  },
+  {
+    "id": "8476994",
+    "name": "Vinnie Hinostroza",
+    "position": "F"
+  },
+  {
+    "id": "8477003",
+    "name": "Riley Barber",
+    "position": "F"
+  },
+  {
+    "id": "8477015",
+    "name": "Connor Brown",
+    "position": "F"
+  },
+  {
+    "id": "8477018",
+    "name": "Ben Hutton",
+    "position": "D"
+  },
+  {
+    "id": "8477021",
+    "name": "Alexander Kerfoot",
+    "position": "F"
+  },
+  {
+    "id": "8477034",
+    "name": "Jaycob Megna",
+    "position": "D"
+  },
+  {
+    "id": "8477070",
+    "name": "Liam O'Brien",
+    "position": "F"
+  },
+  {
+    "id": "8477073",
+    "name": "Kurtis MacDermid",
+    "position": "F"
+  },
+  {
+    "id": "8477126",
+    "name": "Jayson Megna",
+    "position": "F"
+  },
+  {
+    "id": "8477149",
+    "name": "Scott Sabourin",
+    "position": "F"
+  },
+  {
+    "id": "8477205",
+    "name": "Andrej Sustr",
+    "position": "D"
+  },
+  {
+    "id": "8477210",
+    "name": "Buddy Robinson",
+    "position": "F"
+  },
+  {
+    "id": "8477215",
+    "name": "Danny DeKeyser",
+    "position": "D"
+  },
+  {
+    "id": "8477220",
+    "name": "Nate Schmidt",
+    "position": "D"
+  },
+  {
+    "id": "8477240",
+    "name": "Carter Rowney",
+    "position": "F"
+  },
+  {
+    "id": "8477244",
+    "name": "Chad Ruhwedel",
+    "position": "D"
+  },
+  {
+    "id": "8477290",
+    "name": "Michael Raffl",
+    "position": "F"
+  },
+  {
+    "id": "8477320",
+    "name": "Anton Blidh",
+    "position": "F"
+  },
+  {
+    "id": "8477330",
+    "name": "Dominik Kubalik",
+    "position": "F"
+  },
+  {
+    "id": "8477335",
+    "name": "Kyle Burroughs",
+    "position": "D"
+  },
+  {
+    "id": "8477341",
+    "name": "Andreas Johnsson",
+    "position": "F"
+  },
+  {
+    "id": "8477343",
+    "name": "Tyler Lewington",
+    "position": "D"
+  },
+  {
+    "id": "8477346",
+    "name": "MacKenzie Weegar",
+    "position": "D"
+  },
+  {
+    "id": "8477353",
+    "name": "Tyler Motte",
+    "position": "F"
+  },
+  {
+    "id": "8477355",
+    "name": "Will Butcher",
+    "position": "D"
+  },
+  {
+    "id": "8477357",
+    "name": "Saku Maenalanen",
+    "position": "F"
+  },
+  {
+    "id": "8477359",
+    "name": "Tucker Poolman",
+    "position": "D"
+  },
+  {
+    "id": "8477365",
+    "name": "Connor Clifton",
+    "position": "D"
+  },
+  {
+    "id": "8477369",
+    "name": "Carson Soucy",
+    "position": "D"
+  },
+  {
+    "id": "8477380",
+    "name": "Jonny Brodzinski",
+    "position": "F"
+  },
+  {
+    "id": "8477384",
+    "name": "Joshua Brown",
+    "position": "D"
+  },
+  {
+    "id": "8477392",
+    "name": "Hudson Fasching",
+    "position": "F"
+  },
+  {
+    "id": "8477401",
+    "name": "John Hayden",
+    "position": "F"
+  },
+  {
+    "id": "8477402",
+    "name": "Pavel Buchnevich",
+    "position": "F"
+  },
+  {
+    "id": "8477404",
+    "name": "Jake Guentzel",
+    "position": "F"
+  },
+  {
+    "id": "8477406",
+    "name": "Mattias Janmark",
+    "position": "F"
+  },
+  {
+    "id": "8477407",
+    "name": "Anthony Duclair",
+    "position": "F"
+  },
+  {
+    "id": "8477409",
+    "name": "Carter Verhaeghe",
+    "position": "F"
+  },
+  {
+    "id": "8477416",
+    "name": "Oliver Bjorkstrand",
+    "position": "F"
+  },
+  {
+    "id": "8477419",
+    "name": "Mason Geertsen",
+    "position": "F"
+  },
+  {
+    "id": "8477425",
+    "name": "Miles Wood",
+    "position": "F"
+  },
+  {
+    "id": "8477426",
+    "name": "Nick Paul",
+    "position": "F"
+  },
+  {
+    "id": "8477429",
+    "name": "Andrew Copp",
+    "position": "F"
+  },
+  {
+    "id": "8477433",
+    "name": "Ben Harpur",
+    "position": "D"
+  },
+  {
+    "id": "8477435",
+    "name": "Ryan Graves",
+    "position": "D"
+  },
+  {
+    "id": "8477444",
+    "name": "Andre Burakovsky",
+    "position": "F"
+  },
+  {
+    "id": "8477446",
+    "name": "Michael McCarron",
+    "position": "F"
+  },
+  {
+    "id": "8477447",
+    "name": "Shea Theodore",
+    "position": "D"
+  },
+  {
+    "id": "8477450",
+    "name": "Jason Dickinson",
+    "position": "F"
+  },
+  {
+    "id": "8477451",
+    "name": "Ryan Hartman",
+    "position": "F"
+  },
+  {
+    "id": "8477454",
+    "name": "Adam Erne",
+    "position": "F"
+  },
+  {
+    "id": "8477456",
+    "name": "J.T. Compher",
+    "position": "F"
+  },
+  {
+    "id": "8477460",
+    "name": "Laurent Dauphin",
+    "position": "F"
+  },
+  {
+    "id": "8477461",
+    "name": "Remi Elie",
+    "position": "F"
+  },
+  {
+    "id": "8477462",
+    "name": "Robert Hagg",
+    "position": "D"
+  },
+  {
+    "id": "8477463",
+    "name": "Steven Santini",
+    "position": "D"
+  },
+  {
+    "id": "8477464",
+    "name": "Nic Petan",
+    "position": "F"
+  },
+  {
+    "id": "8477467",
+    "name": "Gustav Olofsson",
+    "position": "D"
+  },
+  {
+    "id": "8477471",
+    "name": "Dillon Heatherington",
+    "position": "D"
+  },
+  {
+    "id": "8477472",
+    "name": "Carl Dahlstrom",
+    "position": "D"
+  },
+  {
+    "id": "8477473",
+    "name": "Justin Bailey",
+    "position": "F"
+  },
+  {
+    "id": "8477474",
+    "name": "Madison Bowey",
+    "position": "D"
+  },
+  {
+    "id": "8477476",
+    "name": "Artturi Lehkonen",
+    "position": "F"
+  },
+  {
+    "id": "8477478",
+    "name": "William Carrier",
+    "position": "F"
+  },
+  {
+    "id": "8477479",
+    "name": "Tyler Bertuzzi",
+    "position": "F"
+  },
+  {
+    "id": "8477482",
+    "name": "Zachary Sanford",
+    "position": "F"
+  },
+  {
+    "id": "8477488",
+    "name": "Brett Pesce",
+    "position": "D"
+  },
+  {
+    "id": "8477492",
+    "name": "Nathan MacKinnon",
+    "position": "F"
+  },
+  {
+    "id": "8477493",
+    "name": "Aleksander Barkov",
+    "position": "F"
+  },
+  {
+    "id": "8477494",
+    "name": "Jonathan Drouin",
+    "position": "F"
+  },
+  {
+    "id": "8477495",
+    "name": "Seth Jones",
+    "position": "D"
+  },
+  {
+    "id": "8477496",
+    "name": "Elias Lindholm",
+    "position": "F"
+  },
+  {
+    "id": "8477497",
+    "name": "Sean Monahan",
+    "position": "F"
+  },
+  {
+    "id": "8477498",
+    "name": "Darnell Nurse",
+    "position": "D"
+  },
+  {
+    "id": "8477499",
+    "name": "Rasmus Ristolainen",
+    "position": "D"
+  },
+  {
+    "id": "8477500",
+    "name": "Bo Horvat",
+    "position": "F"
+  },
+  {
+    "id": "8477501",
+    "name": "Valeri Nichushkin",
+    "position": "F"
+  },
+  {
+    "id": "8477503",
+    "name": "Max Domi",
+    "position": "F"
+  },
+  {
+    "id": "8477504",
+    "name": "Josh Morrissey",
+    "position": "D"
+  },
+  {
+    "id": "8477505",
+    "name": "Alexander Wennberg",
+    "position": "F"
+  },
+  {
+    "id": "8477506",
+    "name": "Ryan Pulock",
+    "position": "D"
+  },
+  {
+    "id": "8477507",
+    "name": "Nikita Zadorov",
+    "position": "D"
+  },
+  {
+    "id": "8477508",
+    "name": "Curtis Lazar",
+    "position": "F"
+  },
+  {
+    "id": "8477511",
+    "name": "Anthony Mantha",
+    "position": "F"
+  },
+  {
+    "id": "8477512",
+    "name": "Frederik Gauthier",
+    "position": "F"
+  },
+  {
+    "id": "8477520",
+    "name": "Jean-Sebastien Dea",
+    "position": "F"
+  },
+  {
+    "id": "8477527",
+    "name": "Ross Johnston",
+    "position": "F"
+  },
+  {
+    "id": "8477541",
+    "name": "Dakota Mermis",
+    "position": "D"
+  },
+  {
+    "id": "8477573",
+    "name": "Nathan Walker",
+    "position": "F"
+  },
+  {
+    "id": "8477631",
+    "name": "Brandon Baddock",
+    "position": "F"
+  },
+  {
+    "id": "8477810",
+    "name": "Joel Hanley",
+    "position": "D"
+  },
+  {
+    "id": "8477839",
+    "name": "Conor Sheary",
+    "position": "F"
+  },
+  {
+    "id": "8477845",
+    "name": "Trevor van Riemsdyk",
+    "position": "D"
+  },
+  {
+    "id": "8477846",
+    "name": "Ryan Carpenter",
+    "position": "F"
+  },
+  {
+    "id": "8477851",
+    "name": "Jordan Oesterle",
+    "position": "D"
+  },
+  {
+    "id": "8477887",
+    "name": "Patrick Brown",
+    "position": "F"
+  },
+  {
+    "id": "8477903",
+    "name": "Garnet Hathaway",
+    "position": "F"
+  },
+  {
+    "id": "8477919",
+    "name": "Frederick Gaudreau",
+    "position": "F"
+  },
+  {
+    "id": "8477930",
+    "name": "Pierre-Edouard Bellemare",
+    "position": "F"
+  },
+  {
+    "id": "8477931",
+    "name": "Tomas Nosek",
+    "position": "F"
+  },
+  {
+    "id": "8477932",
+    "name": "Aaron Ekblad",
+    "position": "D"
+  },
+  {
+    "id": "8477933",
+    "name": "Sam Reinhart",
+    "position": "F"
+  },
+  {
+    "id": "8477934",
+    "name": "Leon Draisaitl",
+    "position": "F"
+  },
+  {
+    "id": "8477935",
+    "name": "Sam Bennett",
+    "position": "F"
+  },
+  {
+    "id": "8477936",
+    "name": "Michael Dal Colle",
+    "position": "F"
+  },
+  {
+    "id": "8477938",
+    "name": "Haydn Fleury",
+    "position": "D"
+  },
+  {
+    "id": "8477939",
+    "name": "William Nylander",
+    "position": "F"
+  },
+  {
+    "id": "8477940",
+    "name": "Nikolaj Ehlers",
+    "position": "F"
+  },
+  {
+    "id": "8477941",
+    "name": "Nick Ritchie",
+    "position": "F"
+  },
+  {
+    "id": "8477942",
+    "name": "Kevin Fiala",
+    "position": "F"
+  },
+  {
+    "id": "8477943",
+    "name": "Brendan Perlini",
+    "position": "F"
+  },
+  {
+    "id": "8477944",
+    "name": "Jakub Vrana",
+    "position": "F"
+  },
+  {
+    "id": "8477946",
+    "name": "Dylan Larkin",
+    "position": "F"
+  },
+  {
+    "id": "8477947",
+    "name": "Sonny Milano",
+    "position": "F"
+  },
+  {
+    "id": "8477948",
+    "name": "Travis Sanheim",
+    "position": "D"
+  },
+  {
+    "id": "8477949",
+    "name": "Alex Tuch",
+    "position": "F"
+  },
+  {
+    "id": "8477950",
+    "name": "Tony DeAngelo",
+    "position": "D"
+  },
+  {
+    "id": "8477951",
+    "name": "Nick Schmaltz",
+    "position": "F"
+  },
+  {
+    "id": "8477952",
+    "name": "Robby Fabbri",
+    "position": "F"
+  },
+  {
+    "id": "8477953",
+    "name": "Kasperi Kapanen",
+    "position": "F"
+  },
+  {
+    "id": "8477955",
+    "name": "Jared McCann",
+    "position": "F"
+  },
+  {
+    "id": "8477956",
+    "name": "David Pastrnak",
+    "position": "F"
+  },
+  {
+    "id": "8477960",
+    "name": "Adrian Kempe",
+    "position": "F"
+  },
+  {
+    "id": "8477962",
+    "name": "Brendan Lemieux",
+    "position": "F"
+  },
+  {
+    "id": "8477964",
+    "name": "Ivan Barbashev",
+    "position": "F"
+  },
+  {
+    "id": "8477969",
+    "name": "Marcus Pettersson",
+    "position": "D"
+  },
+  {
+    "id": "8477971",
+    "name": "Andreas Englund",
+    "position": "D"
+  },
+  {
+    "id": "8477974",
+    "name": "Ryan MacInnis",
+    "position": "F"
+  },
+  {
+    "id": "8477979",
+    "name": "Nicolas Aube-Kubel",
+    "position": "F"
+  },
+  {
+    "id": "8477981",
+    "name": "Roland McKeown",
+    "position": "D"
+  },
+  {
+    "id": "8477986",
+    "name": "Brandon Montour",
+    "position": "D"
+  },
+  {
+    "id": "8477987",
+    "name": "Ryan Donato",
+    "position": "F"
+  },
+  {
+    "id": "8477989",
+    "name": "Christian Dvorak",
+    "position": "F"
+  },
+  {
+    "id": "8477993",
+    "name": "Justin Kirkland",
+    "position": "F"
+  },
+  {
+    "id": "8477996",
+    "name": "Juho Lammikko",
+    "position": "F"
+  },
+  {
+    "id": "8477998",
+    "name": "Warren Foegele",
+    "position": "F"
+  },
+  {
+    "id": "8478010",
+    "name": "Brayden Point",
+    "position": "F"
+  },
+  {
+    "id": "8478011",
+    "name": "Louis Belpedio",
+    "position": "D"
+  },
+  {
+    "id": "8478013",
+    "name": "Jake Walman",
+    "position": "D"
+  },
+  {
+    "id": "8478017",
+    "name": "Mark Friedman",
+    "position": "D"
+  },
+  {
+    "id": "8478020",
+    "name": "Michael Amadio",
+    "position": "F"
+  },
+  {
+    "id": "8478021",
+    "name": "William Lagesson",
+    "position": "D"
+  },
+  {
+    "id": "8478028",
+    "name": "Fredrik Olofsson",
+    "position": "F"
+  },
+  {
+    "id": "8478029",
+    "name": "Chase De Leo",
+    "position": "F"
+  },
+  {
+    "id": "8478038",
+    "name": "Devon Toews",
+    "position": "D"
+  },
+  {
+    "id": "8478040",
+    "name": "Austin Poganski",
+    "position": "F"
+  },
+  {
+    "id": "8478042",
+    "name": "Viktor Arvidsson",
+    "position": "F"
+  },
+  {
+    "id": "8478043",
+    "name": "Sam Lafferty",
+    "position": "F"
+  },
+  {
+    "id": "8478046",
+    "name": "Danton Heinen",
+    "position": "F"
+  },
+  {
+    "id": "8478047",
+    "name": "Michael Bunting",
+    "position": "F"
+  },
+  {
+    "id": "8478051",
+    "name": "Max Willman",
+    "position": "F"
+  },
+  {
+    "id": "8478055",
+    "name": "Gustav Forsling",
+    "position": "D"
+  },
+  {
+    "id": "8478056",
+    "name": "Clark Bishop",
+    "position": "F"
+  },
+  {
+    "id": "8478057",
+    "name": "Dakota Joshua",
+    "position": "F"
+  },
+  {
+    "id": "8478058",
+    "name": "CJ Suess",
+    "position": "F"
+  },
+  {
+    "id": "8478062",
+    "name": "Dysin Mayo",
+    "position": "D"
+  },
+  {
+    "id": "8478067",
+    "name": "Oskar Lindblom",
+    "position": "F"
+  },
+  {
+    "id": "8478074",
+    "name": "Anthony Angello",
+    "position": "F"
+  },
+  {
+    "id": "8478075",
+    "name": "Anders Bjork",
+    "position": "F"
+  },
+  {
+    "id": "8478078",
+    "name": "Rourke Chartier",
+    "position": "F"
+  },
+  {
+    "id": "8478099",
+    "name": "Kevin Labanc",
+    "position": "F"
+  },
+  {
+    "id": "8478104",
+    "name": "Samuel Blais",
+    "position": "F"
+  },
+  {
+    "id": "8478106",
+    "name": "Dylan Sikura",
+    "position": "F"
+  },
+  {
+    "id": "8478109",
+    "name": "Victor Olofsson",
+    "position": "F"
+  },
+  {
+    "id": "8478115",
+    "name": "Pierre Engvall",
+    "position": "F"
+  },
+  {
+    "id": "8478131",
+    "name": "Ondrej Kase",
+    "position": "F"
+  },
+  {
+    "id": "8478133",
+    "name": "Jake Evans",
+    "position": "F"
+  },
+  {
+    "id": "8478136",
+    "name": "Jake Middleton",
+    "position": "D"
+  },
+  {
+    "id": "8478146",
+    "name": "Matthew Highmore",
+    "position": "F"
+  },
+  {
+    "id": "8478147",
+    "name": "Bokondji Imama",
+    "position": "F"
+  },
+  {
+    "id": "8478173",
+    "name": "Hayden Hodgson",
+    "position": "F"
+  },
+  {
+    "id": "8478178",
+    "name": "Darren Raddysh",
+    "position": "D"
+  },
+  {
+    "id": "8478211",
+    "name": "Dryden Hunt",
+    "position": "F"
+  },
+  {
+    "id": "8478224",
+    "name": "Luke Philp",
+    "position": "F"
+  },
+  {
+    "id": "8478233",
+    "name": "Andrew Mangiapane",
+    "position": "F"
+  },
+  {
+    "id": "8478250",
+    "name": "Vladimir Tkachev",
+    "position": "F"
+  },
+  {
+    "id": "8478366",
+    "name": "Frank Vatrano",
+    "position": "F"
+  },
+  {
+    "id": "8478367",
+    "name": "Cole Bardreau",
+    "position": "F"
+  },
+  {
+    "id": "8478373",
+    "name": "Nikita Soshnikov",
+    "position": "F"
+  },
+  {
+    "id": "8478396",
+    "name": "Noah Hanifin",
+    "position": "D"
+  },
+  {
+    "id": "8478397",
+    "name": "Rasmus Andersson",
+    "position": "D"
+  },
+  {
+    "id": "8478398",
+    "name": "Kyle Connor",
+    "position": "F"
+  },
+  {
+    "id": "8478399",
+    "name": "Jonas Siegenthaler",
+    "position": "D"
+  },
+  {
+    "id": "8478400",
+    "name": "Colin White",
+    "position": "F"
+  },
+  {
+    "id": "8478401",
+    "name": "Pavel Zacha",
+    "position": "F"
+  },
+  {
+    "id": "8478402",
+    "name": "Connor McDavid",
+    "position": "F"
+  },
+  {
+    "id": "8478403",
+    "name": "Jack Eichel",
+    "position": "F"
+  },
+  {
+    "id": "8478407",
+    "name": "Vince Dunn",
+    "position": "D"
+  },
+  {
+    "id": "8478408",
+    "name": "Travis Dermott",
+    "position": "D"
+  },
+  {
+    "id": "8478409",
+    "name": "Anthony Richard",
+    "position": "F"
+  },
+  {
+    "id": "8478413",
+    "name": "Jordan Greenway",
+    "position": "F"
+  },
+  {
+    "id": "8478414",
+    "name": "Timo Meier",
+    "position": "F"
+  },
+  {
+    "id": "8478415",
+    "name": "Jakub Zboril",
+    "position": "D"
+  },
+  {
+    "id": "8478416",
+    "name": "Erik Cernak",
+    "position": "D"
+  },
+  {
+    "id": "8478420",
+    "name": "Mikko Rantanen",
+    "position": "F"
+  },
+  {
+    "id": "8478421",
+    "name": "A.J. Greer",
+    "position": "F"
+  },
+  {
+    "id": "8478424",
+    "name": "Jansen Harkins",
+    "position": "F"
+  },
+  {
+    "id": "8478425",
+    "name": "Brendan Guhle",
+    "position": "D"
+  },
+  {
+    "id": "8478427",
+    "name": "Sebastian Aho",
+    "position": "F"
+  },
+  {
+    "id": "8478430",
+    "name": "Oliver Kylington",
+    "position": "D"
+  },
+  {
+    "id": "8478431",
+    "name": "Evgeny Svechnikov",
+    "position": "F"
+  },
+  {
+    "id": "8478432",
+    "name": "Christian Fischer",
+    "position": "F"
+  },
+  {
+    "id": "8478434",
+    "name": "Keegan Kolesar",
+    "position": "F"
+  },
+  {
+    "id": "8478438",
+    "name": "Tommy Novak",
+    "position": "F"
+  },
+  {
+    "id": "8478439",
+    "name": "Travis Konecny",
+    "position": "F"
+  },
+  {
+    "id": "8478440",
+    "name": "Dylan Strome",
+    "position": "F"
+  },
+  {
+    "id": "8478442",
+    "name": "Cooper Marody",
+    "position": "F"
+  },
+  {
+    "id": "8478443",
+    "name": "Brandon Carlo",
+    "position": "D"
+  },
+  {
+    "id": "8478444",
+    "name": "Brock Boeser",
+    "position": "F"
+  },
+  {
+    "id": "8478445",
+    "name": "Mathew Barzal",
+    "position": "F"
+  },
+  {
+    "id": "8478446",
+    "name": "Glenn Gawdin",
+    "position": "F"
+  },
+  {
+    "id": "8478447",
+    "name": "Nick Merkley",
+    "position": "F"
+  },
+  {
+    "id": "8478449",
+    "name": "Roope Hintz",
+    "position": "F"
+  },
+  {
+    "id": "8478450",
+    "name": "Parker Wotherspoon",
+    "position": "D"
+  },
+  {
+    "id": "8478451",
+    "name": "Ethan Bear",
+    "position": "D"
+  },
+  {
+    "id": "8478452",
+    "name": "Caleb Jones",
+    "position": "D"
+  },
+  {
+    "id": "8478454",
+    "name": "Noah Juulsen",
+    "position": "D"
+  },
+  {
+    "id": "8478455",
+    "name": "Austin Wagner",
+    "position": "F"
+  },
+  {
+    "id": "8478458",
+    "name": "Jack Roslovic",
+    "position": "F"
+  },
+  {
+    "id": "8478460",
+    "name": "Zach Werenski",
+    "position": "D"
+  },
+  {
+    "id": "8478462",
+    "name": "Nicolas Roy",
+    "position": "F"
+  },
+  {
+    "id": "8478463",
+    "name": "Anthony Beauvillier",
+    "position": "F"
+  },
+  {
+    "id": "8478465",
+    "name": "Guillaume Brisebois",
+    "position": "D"
+  },
+  {
+    "id": "8478466",
+    "name": "Daniel Sprong",
+    "position": "F"
+  },
+  {
+    "id": "8478467",
+    "name": "Nicolas Meloche",
+    "position": "D"
+  },
+  {
+    "id": "8478468",
+    "name": "Jeremy Lauzon",
+    "position": "D"
+  },
+  {
+    "id": "8478469",
+    "name": "Thomas Chabot",
+    "position": "D"
+  },
+  {
+    "id": "8478472",
+    "name": "Mathieu Joseph",
+    "position": "F"
+  },
+  {
+    "id": "8478474",
+    "name": "Lawson Crouse",
+    "position": "F"
+  },
+  {
+    "id": "8478476",
+    "name": "Kyle Capobianco",
+    "position": "D"
+  },
+  {
+    "id": "8478477",
+    "name": "Mitchell Stephens",
+    "position": "F"
+  },
+  {
+    "id": "8478480",
+    "name": "Blake Speers",
+    "position": "F"
+  },
+  {
+    "id": "8478483",
+    "name": "Mitch Marner",
+    "position": "F"
+  },
+  {
+    "id": "8478485",
+    "name": "Zach Senyshyn",
+    "position": "F"
+  },
+  {
+    "id": "8478486",
+    "name": "Chase Pearson",
+    "position": "F"
+  },
+  {
+    "id": "8478491",
+    "name": "Jacob Larsson",
+    "position": "D"
+  },
+  {
+    "id": "8478493",
+    "name": "Joel Eriksson Ek",
+    "position": "F"
+  },
+  {
+    "id": "8478495",
+    "name": "Denis Gurianov",
+    "position": "F"
+  },
+  {
+    "id": "8478498",
+    "name": "Jake DeBrusk",
+    "position": "F"
+  },
+  {
+    "id": "8478500",
+    "name": "Ivan Provorov",
+    "position": "D"
+  },
+  {
+    "id": "8478502",
+    "name": "Dennis Gilbert",
+    "position": "D"
+  },
+  {
+    "id": "8478506",
+    "name": "Gabriel Carlsson",
+    "position": "D"
+  },
+  {
+    "id": "8478507",
+    "name": "John Marino",
+    "position": "D"
+  },
+  {
+    "id": "8478508",
+    "name": "Yakov Trenin",
+    "position": "F"
+  },
+  {
+    "id": "8478512",
+    "name": "Austin Czarnik",
+    "position": "F"
+  },
+  {
+    "id": "8478519",
+    "name": "Anthony Cirelli",
+    "position": "F"
+  },
+  {
+    "id": "8478528",
+    "name": "Tanner Kero",
+    "position": "F"
+  },
+  {
+    "id": "8478542",
+    "name": "Evan Rodrigues",
+    "position": "F"
+  },
+  {
+    "id": "8478550",
+    "name": "Artemi Panarin",
+    "position": "F"
+  },
+  {
+    "id": "8478567",
+    "name": "Dean Kukan",
+    "position": "D"
+  },
+  {
+    "id": "8478569",
+    "name": "Noel Acciari",
+    "position": "F"
+  },
+  {
+    "id": "8478585",
+    "name": "Derek Ryan",
+    "position": "F"
+  },
+  {
+    "id": "8478831",
+    "name": "Kevin Stenlund",
+    "position": "F"
+  },
+  {
+    "id": "8478838",
+    "name": "Lukas Vejdemo",
+    "position": "F"
+  },
+  {
+    "id": "8478840",
+    "name": "Will Borgen",
+    "position": "D"
+  },
+  {
+    "id": "8478841",
+    "name": "Colton White",
+    "position": "D"
+  },
+  {
+    "id": "8478843",
+    "name": "Denis Malgin",
+    "position": "F"
+  },
+  {
+    "id": "8478846",
+    "name": "Christian Wolanin",
+    "position": "D"
+  },
+  {
+    "id": "8478851",
+    "name": "Alexandre Carrier",
+    "position": "D"
+  },
+  {
+    "id": "8478854",
+    "name": "Ryan Shea",
+    "position": "D"
+  },
+  {
+    "id": "8478856",
+    "name": "Conor Garland",
+    "position": "F"
+  },
+  {
+    "id": "8478859",
+    "name": "Niko Mikkola",
+    "position": "D"
+  },
+  {
+    "id": "8478864",
+    "name": "Kirill Kaprizov",
+    "position": "F"
+  },
+  {
+    "id": "8478866",
+    "name": "Dominik Simon",
+    "position": "F"
+  },
+  {
+    "id": "8478868",
+    "name": "Christian Jaros",
+    "position": "D"
+  },
+  {
+    "id": "8478870",
+    "name": "Rudolfs Balcers",
+    "position": "F"
+  },
+  {
+    "id": "8478873",
+    "name": "Troy Terry",
+    "position": "F"
+  },
+  {
+    "id": "8478874",
+    "name": "Adam Gaudette",
+    "position": "F"
+  },
+  {
+    "id": "8478881",
+    "name": "Brett Seney",
+    "position": "F"
+  },
+  {
+    "id": "8478882",
+    "name": "Vladislav Gavrikov",
+    "position": "D"
+  },
+  {
+    "id": "8478888",
+    "name": "Cameron Hughes",
+    "position": "F"
+  },
+  {
+    "id": "8478891",
+    "name": "Mason Appleton",
+    "position": "F"
+  },
+  {
+    "id": "8478904",
+    "name": "Steven Lorentz",
+    "position": "F"
+  },
+  {
+    "id": "8478906",
+    "name": "Markus Nutivaara",
+    "position": "D"
+  },
+  {
+    "id": "8478911",
+    "name": "Matt Roy",
+    "position": "D"
+  },
+  {
+    "id": "8478915",
+    "name": "Sami Niku",
+    "position": "D"
+  },
+  {
+    "id": "8478949",
+    "name": "Kole Sherwood",
+    "position": "F"
+  },
+  {
+    "id": "8478956",
+    "name": "Samuel Laberge",
+    "position": "F"
+  },
+  {
+    "id": "8478967",
+    "name": "Lane Pederson",
+    "position": "F"
+  },
+  {
+    "id": "8478970",
+    "name": "Jalen Chatfield",
+    "position": "D"
+  },
+  {
+    "id": "8478975",
+    "name": "Mason Marchment",
+    "position": "F"
+  },
+  {
+    "id": "8478996",
+    "name": "Adam Brooks",
+    "position": "F"
+  },
+  {
+    "id": "8479022",
+    "name": "Rodrigo Abols",
+    "position": "F"
+  },
+  {
+    "id": "8479026",
+    "name": "Philippe Myers",
+    "position": "D"
+  },
+  {
+    "id": "8479066",
+    "name": "Ryan Lomberg",
+    "position": "F"
+  },
+  {
+    "id": "8479249",
+    "name": "Andrew Poturalski",
+    "position": "F"
+  },
+  {
+    "id": "8479252",
+    "name": "Dan Renouf",
+    "position": "D"
+  },
+  {
+    "id": "8479289",
+    "name": "Ethan Prow",
+    "position": "D"
+  },
+  {
+    "id": "8479291",
+    "name": "Kevin Rooney",
+    "position": "F"
+  },
+  {
+    "id": "8479293",
+    "name": "Brandon Tanev",
+    "position": "F"
+  },
+  {
+    "id": "8479304",
+    "name": "Kyle Criscuolo",
+    "position": "F"
+  },
+  {
+    "id": "8479314",
+    "name": "Matthew Tkachuk",
+    "position": "F"
+  },
+  {
+    "id": "8479315",
+    "name": "Joey Anderson",
+    "position": "F"
+  },
+  {
+    "id": "8479316",
+    "name": "Luke Kunin",
+    "position": "F"
+  },
+  {
+    "id": "8479318",
+    "name": "Auston Matthews",
+    "position": "F"
+  },
+  {
+    "id": "8479320",
+    "name": "Maxime Lajoie",
+    "position": "D"
+  },
+  {
+    "id": "8479321",
+    "name": "Lucas Johansen",
+    "position": "D"
+  },
+  {
+    "id": "8479322",
+    "name": "Wade Allison",
+    "position": "F"
+  },
+  {
+    "id": "8479323",
+    "name": "Adam Fox",
+    "position": "D"
+  },
+  {
+    "id": "8479324",
+    "name": "Ryan Lindgren",
+    "position": "D"
+  },
+  {
+    "id": "8479325",
+    "name": "Charlie McAvoy",
+    "position": "D"
+  },
+  {
+    "id": "8479328",
+    "name": "Julien Gauthier",
+    "position": "F"
+  },
+  {
+    "id": "8479329",
+    "name": "Frederic Allard",
+    "position": "D"
+  },
+  {
+    "id": "8479330",
+    "name": "Brandon Gignac",
+    "position": "F"
+  },
+  {
+    "id": "8479333",
+    "name": "Libor Hajek",
+    "position": "D"
+  },
+  {
+    "id": "8479335",
+    "name": "Rasmus Asplund",
+    "position": "F"
+  },
+  {
+    "id": "8479336",
+    "name": "Carl Grundstrom",
+    "position": "F"
+  },
+  {
+    "id": "8479337",
+    "name": "Alex DeBrincat",
+    "position": "F"
+  },
+  {
+    "id": "8479338",
+    "name": "Markus Niemelainen",
+    "position": "D"
+  },
+  {
+    "id": "8479339",
+    "name": "Patrik Laine",
+    "position": "F"
+  },
+  {
+    "id": "8479341",
+    "name": "Cam Dineen",
+    "position": "D"
+  },
+  {
+    "id": "8479343",
+    "name": "Clayton Keller",
+    "position": "F"
+  },
+  {
+    "id": "8479344",
+    "name": "Jesse Puljujarvi",
+    "position": "F"
+  },
+  {
+    "id": "8479345",
+    "name": "Jakob Chychrun",
+    "position": "D"
+  },
+  {
+    "id": "8479346",
+    "name": "Dillon Dube",
+    "position": "F"
+  },
+  {
+    "id": "8479347",
+    "name": "Tyler Benson",
+    "position": "F"
+  },
+  {
+    "id": "8479348",
+    "name": "Kale Clague",
+    "position": "D"
+  },
+  {
+    "id": "8479351",
+    "name": "Sam Steel",
+    "position": "F"
+  },
+  {
+    "id": "8479353",
+    "name": "Brett Howden",
+    "position": "F"
+  },
+  {
+    "id": "8479355",
+    "name": "Olli Juolevi",
+    "position": "D"
+  },
+  {
+    "id": "8479356",
+    "name": "Kieffer Bellows",
+    "position": "F"
+  },
+  {
+    "id": "8479359",
+    "name": "Beck Malenstyn",
+    "position": "F"
+  },
+  {
+    "id": "8479362",
+    "name": "Riley Tufte",
+    "position": "F"
+  },
+  {
+    "id": "8479364",
+    "name": "Tim Gettinger",
+    "position": "F"
+  },
+  {
+    "id": "8479365",
+    "name": "Trent Frederic",
+    "position": "F"
+  },
+  {
+    "id": "8479366",
+    "name": "Logan Brown",
+    "position": "F"
+  },
+  {
+    "id": "8479367",
+    "name": "William Lockwood",
+    "position": "F"
+  },
+  {
+    "id": "8479368",
+    "name": "Max Jones",
+    "position": "F"
+  },
+  {
+    "id": "8479369",
+    "name": "Andrew Peeke",
+    "position": "D"
+  },
+  {
+    "id": "8479370",
+    "name": "Tyson Jost",
+    "position": "F"
+  },
+  {
+    "id": "8479371",
+    "name": "Dante Fabbro",
+    "position": "D"
+  },
+  {
+    "id": "8479372",
+    "name": "Josh Mahura",
+    "position": "D"
+  },
+  {
+    "id": "8479373",
+    "name": "Jonathan Dahlen",
+    "position": "F"
+  },
+  {
+    "id": "8479375",
+    "name": "William Bitten",
+    "position": "F"
+  },
+  {
+    "id": "8479376",
+    "name": "Victor Mete",
+    "position": "D"
+  },
+  {
+    "id": "8479378",
+    "name": "Logan Stanley",
+    "position": "D"
+  },
+  {
+    "id": "8479379",
+    "name": "Givani Smith",
+    "position": "F"
+  },
+  {
+    "id": "8479382",
+    "name": "Connor Bunnaman",
+    "position": "F"
+  },
+  {
+    "id": "8479383",
+    "name": "Boris Katchouk",
+    "position": "F"
+  },
+  {
+    "id": "8479385",
+    "name": "Jordan Kyrou",
+    "position": "F"
+  },
+  {
+    "id": "8479387",
+    "name": "Keaton Middleton",
+    "position": "D"
+  },
+  {
+    "id": "8479388",
+    "name": "Riley Stillman",
+    "position": "D"
+  },
+  {
+    "id": "8479390",
+    "name": "Taylor Raddysh",
+    "position": "F"
+  },
+  {
+    "id": "8479393",
+    "name": "Noah Gregor",
+    "position": "F"
+  },
+  {
+    "id": "8479395",
+    "name": "Dennis Cholowski",
+    "position": "D"
+  },
+  {
+    "id": "8479398",
+    "name": "Samuel Girard",
+    "position": "D"
+  },
+  {
+    "id": "8479400",
+    "name": "Pierre-Luc Dubois",
+    "position": "F"
+  },
+  {
+    "id": "8479402",
+    "name": "Jake Bean",
+    "position": "D"
+  },
+  {
+    "id": "8479404",
+    "name": "Henrik Borgstrom",
+    "position": "F"
+  },
+  {
+    "id": "8479407",
+    "name": "Jesper Bratt",
+    "position": "F"
+  },
+  {
+    "id": "8479410",
+    "name": "Mikhail Sergachev",
+    "position": "D"
+  },
+  {
+    "id": "8479413",
+    "name": "Sean Day",
+    "position": "D"
+  },
+  {
+    "id": "8479414",
+    "name": "Nathan Bastian",
+    "position": "F"
+  },
+  {
+    "id": "8479415",
+    "name": "Michael McLeod",
+    "position": "F"
+  },
+  {
+    "id": "8479419",
+    "name": "Brett Murray",
+    "position": "F"
+  },
+  {
+    "id": "8479420",
+    "name": "Tage Thompson",
+    "position": "F"
+  },
+  {
+    "id": "8479421",
+    "name": "Jacob Moverare",
+    "position": "D"
+  },
+  {
+    "id": "8479423",
+    "name": "Alexander Nylander",
+    "position": "F"
+  },
+  {
+    "id": "8479425",
+    "name": "Filip Hronek",
+    "position": "D"
+  },
+  {
+    "id": "8479439",
+    "name": "Jacob MacDonald",
+    "position": "D"
+  },
+  {
+    "id": "8479442",
+    "name": "Troy Stecher",
+    "position": "D"
+  },
+  {
+    "id": "8479447",
+    "name": "Anthony Greco",
+    "position": "F"
+  },
+  {
+    "id": "8479458",
+    "name": "Nikita Zaitsev",
+    "position": "D"
+  },
+  {
+    "id": "8479465",
+    "name": "Drake Caggiula",
+    "position": "F"
+  },
+  {
+    "id": "8479482",
+    "name": "Michal Kempny",
+    "position": "D"
+  },
+  {
+    "id": "8479511",
+    "name": "Janne Kuokkanen",
+    "position": "F"
+  },
+  {
+    "id": "8479512",
+    "name": "Kasper Bjorkqvist",
+    "position": "F"
+  },
+  {
+    "id": "8479514",
+    "name": "Rem Pitlick",
+    "position": "F"
+  },
+  {
+    "id": "8479516",
+    "name": "Garrett Pilon",
+    "position": "F"
+  },
+  {
+    "id": "8479518",
+    "name": "Fredrik Karlstrom",
+    "position": "F"
+  },
+  {
+    "id": "8479520",
+    "name": "Brandon Duhaime",
+    "position": "F"
+  },
+  {
+    "id": "8479522",
+    "name": "Hardy Haman Aktell",
+    "position": "D"
+  },
+  {
+    "id": "8479523",
+    "name": "Lucas Carlsson",
+    "position": "D"
+  },
+  {
+    "id": "8479525",
+    "name": "Ross Colton",
+    "position": "F"
+  },
+  {
+    "id": "8479526",
+    "name": "Otto Koivula",
+    "position": "F"
+  },
+  {
+    "id": "8479533",
+    "name": "Joona Koppanen",
+    "position": "F"
+  },
+  {
+    "id": "8479534",
+    "name": "Linus Hogberg",
+    "position": "D"
+  },
+  {
+    "id": "8479536",
+    "name": "Axel Jonsson-Fjallby",
+    "position": "F"
+  },
+  {
+    "id": "8479542",
+    "name": "Brandon Hagel",
+    "position": "F"
+  },
+  {
+    "id": "8479543",
+    "name": "Michael Pezzetta",
+    "position": "F"
+  },
+  {
+    "id": "8479546",
+    "name": "Oskar Steen",
+    "position": "F"
+  },
+  {
+    "id": "8479547",
+    "name": "Matthew Phillips",
+    "position": "F"
+  },
+  {
+    "id": "8479550",
+    "name": "Tanner Laczynski",
+    "position": "F"
+  },
+  {
+    "id": "8479553",
+    "name": "Maxim Mamin",
+    "position": "F"
+  },
+  {
+    "id": "8479573",
+    "name": "Mikhail Maltsev",
+    "position": "F"
+  },
+  {
+    "id": "8479576",
+    "name": "Vincent Desharnais",
+    "position": "D"
+  },
+  {
+    "id": "8479578",
+    "name": "Casey Fitzgerald",
+    "position": "D"
+  },
+  {
+    "id": "8479580",
+    "name": "Dylan Gambrell",
+    "position": "F"
+  },
+  {
+    "id": "8479587",
+    "name": "Rhett Gardner",
+    "position": "F"
+  },
+  {
+    "id": "8479591",
+    "name": "Michael Eyssimont",
+    "position": "F"
+  },
+  {
+    "id": "8479594",
+    "name": "Nathan Clurman",
+    "position": "D"
+  },
+  {
+    "id": "8479597",
+    "name": "Chase Priskie",
+    "position": "D"
+  },
+  {
+    "id": "8479602",
+    "name": "Jeremy Davies",
+    "position": "D"
+  },
+  {
+    "id": "8479619",
+    "name": "Michael Carcone",
+    "position": "F"
+  },
+  {
+    "id": "8479638",
+    "name": "Justin Brazeau",
+    "position": "F"
+  },
+  {
+    "id": "8479639",
+    "name": "Dylan Coghlan",
+    "position": "D"
+  },
+  {
+    "id": "8479644",
+    "name": "Matt Luff",
+    "position": "F"
+  },
+  {
+    "id": "8479661",
+    "name": "Tanner Jeannot",
+    "position": "F"
+  },
+  {
+    "id": "8479671",
+    "name": "Mathieu Olivier",
+    "position": "F"
+  },
+  {
+    "id": "8479675",
+    "name": "Trevor Moore",
+    "position": "F"
+  },
+  {
+    "id": "8479705",
+    "name": "Jeffrey Viel",
+    "position": "F"
+  },
+  {
+    "id": "8479718",
+    "name": "Alex Barr\u00e9-Boulet",
+    "position": "F"
+  },
+  {
+    "id": "8479729",
+    "name": "Kristians Rubins",
+    "position": "D"
+  },
+  {
+    "id": "8479746",
+    "name": "Tye Felhaber",
+    "position": "F"
+  },
+  {
+    "id": "8479772",
+    "name": "Zack MacEwen",
+    "position": "F"
+  },
+  {
+    "id": "8479933",
+    "name": "Gerry Mayhew",
+    "position": "F"
+  },
+  {
+    "id": "8479941",
+    "name": "Justin Danforth",
+    "position": "F"
+  },
+  {
+    "id": "8479942",
+    "name": "Dominik Shine",
+    "position": "F"
+  },
+  {
+    "id": "8479944",
+    "name": "Zach Aston-Reese",
+    "position": "F"
+  },
+  {
+    "id": "8479945",
+    "name": "Gavin Bayreuther",
+    "position": "D"
+  },
+  {
+    "id": "8479968",
+    "name": "Vinni Lettieri",
+    "position": "F"
+  },
+  {
+    "id": "8479972",
+    "name": "Mason Shaw",
+    "position": "F"
+  },
+  {
+    "id": "8479974",
+    "name": "Nolan Patrick",
+    "position": "F"
+  },
+  {
+    "id": "8479976",
+    "name": "Juuso V\u00e4lim\u00e4ki",
+    "position": "D"
+  },
+  {
+    "id": "8479977",
+    "name": "Kailer Yamamoto",
+    "position": "F"
+  },
+  {
+    "id": "8479980",
+    "name": "Nicolas Hague",
+    "position": "D"
+  },
+  {
+    "id": "8479981",
+    "name": "Jonah Gadjovich",
+    "position": "F"
+  },
+  {
+    "id": "8479982",
+    "name": "Conor Timmins",
+    "position": "D"
+  },
+  {
+    "id": "8479983",
+    "name": "Mario Ferraro",
+    "position": "D"
+  },
+  {
+    "id": "8479984",
+    "name": "Cal Foote",
+    "position": "D"
+  },
+  {
+    "id": "8479985",
+    "name": "Cale Fleury",
+    "position": "D"
+  },
+  {
+    "id": "8479986",
+    "name": "Kole Lind",
+    "position": "F"
+  },
+  {
+    "id": "8479987",
+    "name": "Morgan Geekie",
+    "position": "F"
+  },
+  {
+    "id": "8479991",
+    "name": "Jake Leschyshyn",
+    "position": "F"
+  },
+  {
+    "id": "8479992",
+    "name": "Michael Rasmussen",
+    "position": "F"
+  },
+  {
+    "id": "8479994",
+    "name": "Jaret Anderson-Dolan",
+    "position": "F"
+  },
+  {
+    "id": "8479996",
+    "name": "Cody Glass",
+    "position": "F"
+  },
+  {
+    "id": "8479998",
+    "name": "Mikey Anderson",
+    "position": "D"
+  },
+  {
+    "id": "8479999",
+    "name": "Casey Mittelstadt",
+    "position": "F"
+  },
+  {
+    "id": "8480001",
+    "name": "Urho Vaakanainen",
+    "position": "D"
+  },
+  {
+    "id": "8480002",
+    "name": "Nico Hischier",
+    "position": "F"
+  },
+  {
+    "id": "8480003",
+    "name": "Jesper Boqvist",
+    "position": "F"
+  },
+  {
+    "id": "8480005",
+    "name": "Kristian Vesalainen",
+    "position": "F"
+  },
+  {
+    "id": "8480007",
+    "name": "Jonas Rondbjerg",
+    "position": "F"
+  },
+  {
+    "id": "8480008",
+    "name": "Adam Ruzicka",
+    "position": "F"
+  },
+  {
+    "id": "8480009",
+    "name": "Eeli Tolvanen",
+    "position": "F"
+  },
+  {
+    "id": "8480011",
+    "name": "Klim Kostin",
+    "position": "F"
+  },
+  {
+    "id": "8480012",
+    "name": "Elias Pettersson",
+    "position": "F"
+  },
+  {
+    "id": "8480014",
+    "name": "Gabriel Vilardi",
+    "position": "F"
+  },
+  {
+    "id": "8480015",
+    "name": "Owen Tippett",
+    "position": "F"
+  },
+  {
+    "id": "8480018",
+    "name": "Nick Suzuki",
+    "position": "F"
+  },
+  {
+    "id": "8480019",
+    "name": "Isaac Ratcliffe",
+    "position": "F"
+  },
+  {
+    "id": "8480021",
+    "name": "Jack Studnicka",
+    "position": "F"
+  },
+  {
+    "id": "8480023",
+    "name": "Robert Thomas",
+    "position": "F"
+  },
+  {
+    "id": "8480025",
+    "name": "MacKenzie Entwistle",
+    "position": "F"
+  },
+  {
+    "id": "8480027",
+    "name": "Jason Robertson",
+    "position": "F"
+  },
+  {
+    "id": "8480028",
+    "name": "Morgan Frost",
+    "position": "F"
+  },
+  {
+    "id": "8480029",
+    "name": "Alex Formenton",
+    "position": "F"
+  },
+  {
+    "id": "8480031",
+    "name": "Maxime Comtois",
+    "position": "F"
+  },
+  {
+    "id": "8480032",
+    "name": "Shane Bowers",
+    "position": "F"
+  },
+  {
+    "id": "8480034",
+    "name": "Joel Teasdale",
+    "position": "F"
+  },
+  {
+    "id": "8480035",
+    "name": "Henri Jokiharju",
+    "position": "D"
+  },
+  {
+    "id": "8480036",
+    "name": "Miro Heiskanen",
+    "position": "D"
+  },
+  {
+    "id": "8480037",
+    "name": "Aleksi Heponiemi",
+    "position": "F"
+  },
+  {
+    "id": "8480039",
+    "name": "Martin Necas",
+    "position": "F"
+  },
+  {
+    "id": "8480041",
+    "name": "Dmitri Samorukov",
+    "position": "D"
+  },
+  {
+    "id": "8480043",
+    "name": "Timothy Liljegren",
+    "position": "D"
+  },
+  {
+    "id": "8480049",
+    "name": "Dylan Samberg",
+    "position": "D"
+  },
+  {
+    "id": "8480053",
+    "name": "Sasha Chmelevski",
+    "position": "F"
+  },
+  {
+    "id": "8480054",
+    "name": "Reilly Walsh",
+    "position": "D"
+  },
+  {
+    "id": "8480056",
+    "name": "Jack Rathbone",
+    "position": "D"
+  },
+  {
+    "id": "8480058",
+    "name": "Pierre-Olivier Joseph",
+    "position": "D"
+  },
+  {
+    "id": "8480060",
+    "name": "Scott Reedy",
+    "position": "F"
+  },
+  {
+    "id": "8480064",
+    "name": "Josh Norris",
+    "position": "F"
+  },
+  {
+    "id": "8480068",
+    "name": "Ryan Poehling",
+    "position": "F"
+  },
+  {
+    "id": "8480069",
+    "name": "Cale Makar",
+    "position": "D"
+  },
+  {
+    "id": "8480070",
+    "name": "Ian Mitchell",
+    "position": "D"
+  },
+  {
+    "id": "8480071",
+    "name": "Robin Salo",
+    "position": "D"
+  },
+  {
+    "id": "8480072",
+    "name": "Lias Andersson",
+    "position": "F"
+  },
+  {
+    "id": "8480073",
+    "name": "Erik Brannstrom",
+    "position": "D"
+  },
+  {
+    "id": "8480074",
+    "name": "Alexandre Texier",
+    "position": "F"
+  },
+  {
+    "id": "8480075",
+    "name": "Cameron Crotty",
+    "position": "D"
+  },
+  {
+    "id": "8480078",
+    "name": "Filip Chytil",
+    "position": "F"
+  },
+  {
+    "id": "8480083",
+    "name": "C.J. Smith",
+    "position": "F"
+  },
+  {
+    "id": "8480084",
+    "name": "Nick DeSimone",
+    "position": "D"
+  },
+  {
+    "id": "8480087",
+    "name": "Mike Vecchione",
+    "position": "F"
+  },
+  {
+    "id": "8480113",
+    "name": "Alex Iafallo",
+    "position": "F"
+  },
+  {
+    "id": "8480144",
+    "name": "David Kampf",
+    "position": "F"
+  },
+  {
+    "id": "8480145",
+    "name": "Neal Pionk",
+    "position": "D"
+  },
+  {
+    "id": "8480157",
+    "name": "Calle Rosen",
+    "position": "D"
+  },
+  {
+    "id": "8480160",
+    "name": "Radim Simek",
+    "position": "D"
+  },
+  {
+    "id": "8480172",
+    "name": "Jan Rutta",
+    "position": "D"
+  },
+  {
+    "id": "8480184",
+    "name": "Gustav Lindstr\u00f6m",
+    "position": "D"
+  },
+  {
+    "id": "8480185",
+    "name": "Eetu Luostarinen",
+    "position": "F"
+  },
+  {
+    "id": "8480188",
+    "name": "Fabian Zetterlund",
+    "position": "F"
+  },
+  {
+    "id": "8480192",
+    "name": "Johnathan Kovacevic",
+    "position": "D"
+  },
+  {
+    "id": "8480196",
+    "name": "Jacob Bryson",
+    "position": "D"
+  },
+  {
+    "id": "8480205",
+    "name": "Emil Bemstrom",
+    "position": "F"
+  },
+  {
+    "id": "8480208",
+    "name": "Drake Batherson",
+    "position": "F"
+  },
+  {
+    "id": "8480216",
+    "name": "Jacob Peterson",
+    "position": "F"
+  },
+  {
+    "id": "8480220",
+    "name": "Noah Cates",
+    "position": "F"
+  },
+  {
+    "id": "8480222",
+    "name": "Sebastian Aho",
+    "position": "D"
+  },
+  {
+    "id": "8480226",
+    "name": "Mari\u00e1n Studenic",
+    "position": "F"
+  },
+  {
+    "id": "8480231",
+    "name": "Jakub Galvas",
+    "position": "D"
+  },
+  {
+    "id": "8480242",
+    "name": "Arnaud Durandeau",
+    "position": "F"
+  },
+  {
+    "id": "8480245",
+    "name": "Olle Lycksell",
+    "position": "F"
+  },
+  {
+    "id": "8480246",
+    "name": "Nick Perbix",
+    "position": "D"
+  },
+  {
+    "id": "8480252",
+    "name": "Cole Guttman",
+    "position": "F"
+  },
+  {
+    "id": "8480259",
+    "name": "Ben Jones",
+    "position": "F"
+  },
+  {
+    "id": "8480267",
+    "name": "Sammy Walker",
+    "position": "F"
+  },
+  {
+    "id": "8480274",
+    "name": "Phil Kemp",
+    "position": "D"
+  },
+  {
+    "id": "8480275",
+    "name": "Nick Swaney",
+    "position": "F"
+  },
+  {
+    "id": "8480281",
+    "name": "Alexey Toropchenko",
+    "position": "F"
+  },
+  {
+    "id": "8480289",
+    "name": "Morgan Barron",
+    "position": "F"
+  },
+  {
+    "id": "8480291",
+    "name": "Skyler Brind'Amour",
+    "position": "F"
+  },
+  {
+    "id": "8480292",
+    "name": "Carson Meyer",
+    "position": "F"
+  },
+  {
+    "id": "8480293",
+    "name": "Wyatt Kalynuk",
+    "position": "D"
+  },
+  {
+    "id": "8480304",
+    "name": "Jayden Halbgewachs",
+    "position": "F"
+  },
+  {
+    "id": "8480306",
+    "name": "Grant Hutton",
+    "position": "D"
+  },
+  {
+    "id": "8480326",
+    "name": "Sheldon Dries",
+    "position": "F"
+  },
+  {
+    "id": "8480328",
+    "name": "David Gust",
+    "position": "F"
+  },
+  {
+    "id": "8480336",
+    "name": "Sean Walker",
+    "position": "D"
+  },
+  {
+    "id": "8480355",
+    "name": "Mark Kastelic",
+    "position": "F"
+  },
+  {
+    "id": "8480384",
+    "name": "Alexander True",
+    "position": "F"
+  },
+  {
+    "id": "8480426",
+    "name": "Charle-Edouard D'Astous",
+    "position": "D"
+  },
+  {
+    "id": "8480434",
+    "name": "Sean Durzi",
+    "position": "D"
+  },
+  {
+    "id": "8480439",
+    "name": "Mac Hollowell",
+    "position": "D"
+  },
+  {
+    "id": "8480441",
+    "name": "Trey Fix-Wolansky",
+    "position": "F"
+  },
+  {
+    "id": "8480443",
+    "name": "Kristian Reichel",
+    "position": "F"
+  },
+  {
+    "id": "8480448",
+    "name": "Parker Kelly",
+    "position": "F"
+  },
+  {
+    "id": "8480459",
+    "name": "Pius Suter",
+    "position": "F"
+  },
+  {
+    "id": "8480466",
+    "name": "Joey Keane",
+    "position": "D"
+  },
+  {
+    "id": "8480467",
+    "name": "Austin Strand",
+    "position": "D"
+  },
+  {
+    "id": "8480468",
+    "name": "James Hamblin",
+    "position": "F"
+  },
+  {
+    "id": "8480727",
+    "name": "Zach Whitecloud",
+    "position": "D"
+  },
+  {
+    "id": "8480748",
+    "name": "Kiefer Sherwood",
+    "position": "F"
+  },
+  {
+    "id": "8480762",
+    "name": "Eric Robinson",
+    "position": "F"
+  },
+  {
+    "id": "8480776",
+    "name": "Sheldon Rempal",
+    "position": "F"
+  },
+  {
+    "id": "8480789",
+    "name": "Oliver Wahlstrom",
+    "position": "F"
+  },
+  {
+    "id": "8480796",
+    "name": "Martin Feh\u00e9rv\u00e1ry",
+    "position": "D"
+  },
+  {
+    "id": "8480797",
+    "name": "Joel Farabee",
+    "position": "F"
+  },
+  {
+    "id": "8480798",
+    "name": "Philipp Kurashev",
+    "position": "F"
+  },
+  {
+    "id": "8480800",
+    "name": "Quinn Hughes",
+    "position": "D"
+  },
+  {
+    "id": "8480801",
+    "name": "Brady Tkachuk",
+    "position": "F"
+  },
+  {
+    "id": "8480802",
+    "name": "Ryan McLeod",
+    "position": "F"
+  },
+  {
+    "id": "8480803",
+    "name": "Evan Bouchard",
+    "position": "D"
+  },
+  {
+    "id": "8480806",
+    "name": "Isac Lundestr\u00f6m",
+    "position": "F"
+  },
+  {
+    "id": "8480807",
+    "name": "Mattias Samuelsson",
+    "position": "D"
+  },
+  {
+    "id": "8480813",
+    "name": "Joseph Veleno",
+    "position": "F"
+  },
+  {
+    "id": "8480814",
+    "name": "Nicolas Beaudin",
+    "position": "D"
+  },
+  {
+    "id": "8480817",
+    "name": "K'Andre Miller",
+    "position": "D"
+  },
+  {
+    "id": "8480820",
+    "name": "Filip Kral",
+    "position": "D"
+  },
+  {
+    "id": "8480821",
+    "name": "Filip Zadina",
+    "position": "F"
+  },
+  {
+    "id": "8480822",
+    "name": "Martin Kaut",
+    "position": "F"
+  },
+  {
+    "id": "8480823",
+    "name": "Alexander Alexeyev",
+    "position": "D"
+  },
+  {
+    "id": "8480825",
+    "name": "Patrick Giles",
+    "position": "F"
+  },
+  {
+    "id": "8480828",
+    "name": "Michael Callahan",
+    "position": "D"
+  },
+  {
+    "id": "8480829",
+    "name": "Jesperi Kotkaniemi",
+    "position": "F"
+  },
+  {
+    "id": "8480830",
+    "name": "Andrei Svechnikov",
+    "position": "F"
+  },
+  {
+    "id": "8480831",
+    "name": "Alec Regula",
+    "position": "D"
+  },
+  {
+    "id": "8480833",
+    "name": "Vitali Kravtsov",
+    "position": "F"
+  },
+  {
+    "id": "8480834",
+    "name": "Ty Emberson",
+    "position": "D"
+  },
+  {
+    "id": "8480835",
+    "name": "Jack Drury",
+    "position": "F"
+  },
+  {
+    "id": "8480836",
+    "name": "Jonathan Gruden",
+    "position": "F"
+  },
+  {
+    "id": "8480839",
+    "name": "Rasmus Dahlin",
+    "position": "D"
+  },
+  {
+    "id": "8480840",
+    "name": "Oskar B\u00e4ck",
+    "position": "F"
+  },
+  {
+    "id": "8480842",
+    "name": "Filip Hallander",
+    "position": "F"
+  },
+  {
+    "id": "8480844",
+    "name": "Grigori Denisenko",
+    "position": "F"
+  },
+  {
+    "id": "8480845",
+    "name": "Rasmus Kupari",
+    "position": "F"
+  },
+  {
+    "id": "8480846",
+    "name": "Sampo Ranta",
+    "position": "F"
+  },
+  {
+    "id": "8480847",
+    "name": "Ryan Merkley",
+    "position": "D"
+  },
+  {
+    "id": "8480848",
+    "name": "Ty Dellandrea",
+    "position": "F"
+  },
+  {
+    "id": "8480849",
+    "name": "Barrett Hayton",
+    "position": "F"
+  },
+  {
+    "id": "8480851",
+    "name": "Akil Thomas",
+    "position": "F"
+  },
+  {
+    "id": "8480853",
+    "name": "Liam Foudy",
+    "position": "F"
+  },
+  {
+    "id": "8480855",
+    "name": "Jack McBain",
+    "position": "F"
+  },
+  {
+    "id": "8480858",
+    "name": "Cam Hillis",
+    "position": "F"
+  },
+  {
+    "id": "8480860",
+    "name": "Kevin Bahl",
+    "position": "D"
+  },
+  {
+    "id": "8480863",
+    "name": "Gabriel Fortier",
+    "position": "F"
+  },
+  {
+    "id": "8480865",
+    "name": "Noah Dobson",
+    "position": "D"
+  },
+  {
+    "id": "8480870",
+    "name": "Bo Groulx",
+    "position": "F"
+  },
+  {
+    "id": "8480871",
+    "name": "Adam Boqvist",
+    "position": "D"
+  },
+  {
+    "id": "8480873",
+    "name": "Rasmus Sandin",
+    "position": "D"
+  },
+  {
+    "id": "8480874",
+    "name": "Adam Ginning",
+    "position": "D"
+  },
+  {
+    "id": "8480876",
+    "name": "Curtis Douglas",
+    "position": "F"
+  },
+  {
+    "id": "8480878",
+    "name": "Nils Lundkvist",
+    "position": "D"
+  },
+  {
+    "id": "8480879",
+    "name": "Jacob Bernard-Docker",
+    "position": "D"
+  },
+  {
+    "id": "8480880",
+    "name": "Jakub Lauko",
+    "position": "F"
+  },
+  {
+    "id": "8480883",
+    "name": "Ty Smith",
+    "position": "D"
+  },
+  {
+    "id": "8480884",
+    "name": "Calen Addison",
+    "position": "D"
+  },
+  {
+    "id": "8480887",
+    "name": "Jordan Harris",
+    "position": "D"
+  },
+  {
+    "id": "8480890",
+    "name": "Jan Jenik",
+    "position": "F"
+  },
+  {
+    "id": "8480891",
+    "name": "Michael Kesselring",
+    "position": "D"
+  },
+  {
+    "id": "8480893",
+    "name": "Kirill Marchenko",
+    "position": "F"
+  },
+  {
+    "id": "8480901",
+    "name": "Karson Kuhlman",
+    "position": "F"
+  },
+  {
+    "id": "8480913",
+    "name": "Jordan Gross",
+    "position": "D"
+  },
+  {
+    "id": "8480935",
+    "name": "Lawrence Pilut",
+    "position": "D"
+  },
+  {
+    "id": "8480945",
+    "name": "Juuso Riikola",
+    "position": "D"
+  },
+  {
+    "id": "8480950",
+    "name": "Ilya Lyubushkin",
+    "position": "D"
+  },
+  {
+    "id": "8480977",
+    "name": "Semyon Der-Arguchintsev",
+    "position": "F"
+  },
+  {
+    "id": "8480979",
+    "name": "Nate Smith",
+    "position": "F"
+  },
+  {
+    "id": "8480980",
+    "name": "Connor Dewar",
+    "position": "F"
+  },
+  {
+    "id": "8480988",
+    "name": "Riley Damiani",
+    "position": "F"
+  },
+  {
+    "id": "8480990",
+    "name": "Declan Chisholm",
+    "position": "D"
+  },
+  {
+    "id": "8480994",
+    "name": "Damien Giroux",
+    "position": "F"
+  },
+  {
+    "id": "8480995",
+    "name": "Pontus Holmberg",
+    "position": "F"
+  },
+  {
+    "id": "8481003",
+    "name": "Hunter Drew",
+    "position": "D"
+  },
+  {
+    "id": "8481004",
+    "name": "Josiah Slavin",
+    "position": "F"
+  },
+  {
+    "id": "8481006",
+    "name": "Tyler Tucker",
+    "position": "D"
+  },
+  {
+    "id": "8481013",
+    "name": "Jonatan Berggren",
+    "position": "F"
+  },
+  {
+    "id": "8481014",
+    "name": "Alexander Romanov",
+    "position": "D"
+  },
+  {
+    "id": "8481016",
+    "name": "Ruslan Iskhakov",
+    "position": "F"
+  },
+  {
+    "id": "8481019",
+    "name": "David Gustafsson",
+    "position": "F"
+  },
+  {
+    "id": "8481024",
+    "name": "Linus Karlsson",
+    "position": "F"
+  },
+  {
+    "id": "8481028",
+    "name": "Martin Pospisil",
+    "position": "F"
+  },
+  {
+    "id": "8481030",
+    "name": "Jack St. Ivany",
+    "position": "D"
+  },
+  {
+    "id": "8481032",
+    "name": "Paul Cotter",
+    "position": "F"
+  },
+  {
+    "id": "8481042",
+    "name": "Nikolai Kovalenko",
+    "position": "F"
+  },
+  {
+    "id": "8481043",
+    "name": "Cole Koepke",
+    "position": "F"
+  },
+  {
+    "id": "8481056",
+    "name": "Spencer Stastney",
+    "position": "D"
+  },
+  {
+    "id": "8481058",
+    "name": "Jesse Ylonen",
+    "position": "F"
+  },
+  {
+    "id": "8481059",
+    "name": "Scott Perunovich",
+    "position": "D"
+  },
+  {
+    "id": "8481061",
+    "name": "Jasper Weatherby",
+    "position": "F"
+  },
+  {
+    "id": "8481065",
+    "name": "Angus Crookshank",
+    "position": "F"
+  },
+  {
+    "id": "8481068",
+    "name": "Yegor Sharangovich",
+    "position": "F"
+  },
+  {
+    "id": "8481070",
+    "name": "Hugh McGing",
+    "position": "F"
+  },
+  {
+    "id": "8481072",
+    "name": "Tim Berni",
+    "position": "D"
+  },
+  {
+    "id": "8481077",
+    "name": "John Leonard",
+    "position": "F"
+  },
+  {
+    "id": "8481093",
+    "name": "Rafael Harvey-Pinard",
+    "position": "F"
+  },
+  {
+    "id": "8481102",
+    "name": "Egor Sokolov",
+    "position": "F"
+  },
+  {
+    "id": "8481122",
+    "name": "Simon Benoit",
+    "position": "D"
+  },
+  {
+    "id": "8481133",
+    "name": "Cole Reinhardt",
+    "position": "F"
+  },
+  {
+    "id": "8481147",
+    "name": "Reese Johnson",
+    "position": "F"
+  },
+  {
+    "id": "8481161",
+    "name": "Jake Christiansen",
+    "position": "D"
+  },
+  {
+    "id": "8481167",
+    "name": "Brayden Pachal",
+    "position": "D"
+  },
+  {
+    "id": "8481178",
+    "name": "Egor Zamula",
+    "position": "D"
+  },
+  {
+    "id": "8481186",
+    "name": "Logan O'Connor",
+    "position": "F"
+  },
+  {
+    "id": "8481206",
+    "name": "John Ludvig",
+    "position": "D"
+  },
+  {
+    "id": "8481219",
+    "name": "Jonathan Aspirot",
+    "position": "D"
+  },
+  {
+    "id": "8481237",
+    "name": "Kyle MacLean",
+    "position": "F"
+  },
+  {
+    "id": "8481239",
+    "name": "Samuel Fagemo",
+    "position": "F"
+  },
+  {
+    "id": "8481422",
+    "name": "Jake Lucchini",
+    "position": "F"
+  },
+  {
+    "id": "8481433",
+    "name": "Taro Hirose",
+    "position": "F"
+  },
+  {
+    "id": "8481441",
+    "name": "Joe Snively",
+    "position": "F"
+  },
+  {
+    "id": "8481461",
+    "name": "Corey Schueneman",
+    "position": "D"
+  },
+  {
+    "id": "8481462",
+    "name": "Mason Morelli",
+    "position": "F"
+  },
+  {
+    "id": "8481477",
+    "name": "Nico Sturm",
+    "position": "F"
+  },
+  {
+    "id": "8481481",
+    "name": "Blake Lizotte",
+    "position": "F"
+  },
+  {
+    "id": "8481486",
+    "name": "Jimmy Schuldt",
+    "position": "D"
+  },
+  {
+    "id": "8481489",
+    "name": "Jon Lizotte",
+    "position": "D"
+  },
+  {
+    "id": "8481491",
+    "name": "Noah Philp",
+    "position": "F"
+  },
+  {
+    "id": "8481517",
+    "name": "Brett Leason",
+    "position": "F"
+  },
+  {
+    "id": "8481518",
+    "name": "Nolan Foote",
+    "position": "F"
+  },
+  {
+    "id": "8481521",
+    "name": "Ronnie Attard",
+    "position": "D"
+  },
+  {
+    "id": "8481522",
+    "name": "Peyton Krebs",
+    "position": "F"
+  },
+  {
+    "id": "8481523",
+    "name": "Kirby Dach",
+    "position": "F"
+  },
+  {
+    "id": "8481524",
+    "name": "Bowen Byram",
+    "position": "D"
+  },
+  {
+    "id": "8481525",
+    "name": "Matthew Robertson",
+    "position": "D"
+  },
+  {
+    "id": "8481527",
+    "name": "Kaedan Korczak",
+    "position": "D"
+  },
+  {
+    "id": "8481528",
+    "name": "Dylan Cozens",
+    "position": "F"
+  },
+  {
+    "id": "8481530",
+    "name": "Brayden Tracey",
+    "position": "F"
+  },
+  {
+    "id": "8481532",
+    "name": "Alex Turcotte",
+    "position": "F"
+  },
+  {
+    "id": "8481533",
+    "name": "Trevor Zegras",
+    "position": "F"
+  },
+  {
+    "id": "8481534",
+    "name": "Raphael Lavoie",
+    "position": "F"
+  },
+  {
+    "id": "8481535",
+    "name": "Nils Hoglander",
+    "position": "F"
+  },
+  {
+    "id": "8481536",
+    "name": "Daniil Misyul",
+    "position": "D"
+  },
+  {
+    "id": "8481537",
+    "name": "Nikita Okhotiuk",
+    "position": "D"
+  },
+  {
+    "id": "8481540",
+    "name": "Cole Caufield",
+    "position": "F"
+  },
+  {
+    "id": "8481541",
+    "name": "Samuel Bolduc",
+    "position": "D"
+  },
+  {
+    "id": "8481542",
+    "name": "Moritz Seider",
+    "position": "D"
+  },
+  {
+    "id": "8481543",
+    "name": "Nikita Alexandrov",
+    "position": "F"
+  },
+  {
+    "id": "8481546",
+    "name": "Cam York",
+    "position": "D"
+  },
+  {
+    "id": "8481547",
+    "name": "Simon Lundmark",
+    "position": "D"
+  },
+  {
+    "id": "8481550",
+    "name": "Adam Beckman",
+    "position": "F"
+  },
+  {
+    "id": "8481552",
+    "name": "Artemi Kniazev",
+    "position": "D"
+  },
+  {
+    "id": "8481553",
+    "name": "Bobby Brink",
+    "position": "F"
+  },
+  {
+    "id": "8481554",
+    "name": "Kaapo Kakko",
+    "position": "F"
+  },
+  {
+    "id": "8481555",
+    "name": "Mattias Norlinder",
+    "position": "D"
+  },
+  {
+    "id": "8481556",
+    "name": "John Beecher",
+    "position": "F"
+  },
+  {
+    "id": "8481557",
+    "name": "Matt Boldy",
+    "position": "F"
+  },
+  {
+    "id": "8481558",
+    "name": "John Farinacci",
+    "position": "F"
+  },
+  {
+    "id": "8481559",
+    "name": "Jack Hughes",
+    "position": "F"
+  },
+  {
+    "id": "8481560",
+    "name": "Arthur Kaliyev",
+    "position": "F"
+  },
+  {
+    "id": "8481562",
+    "name": "Domenick Fensore",
+    "position": "D"
+  },
+  {
+    "id": "8481563",
+    "name": "Drew Helleson",
+    "position": "D"
+  },
+  {
+    "id": "8481564",
+    "name": "Ryan Johnson",
+    "position": "D"
+  },
+  {
+    "id": "8481567",
+    "name": "Henry Thrun",
+    "position": "D"
+  },
+  {
+    "id": "8481568",
+    "name": "Alex Vlasic",
+    "position": "D"
+  },
+  {
+    "id": "8481569",
+    "name": "Marshall Warren",
+    "position": "D"
+  },
+  {
+    "id": "8481572",
+    "name": "Ville Heinola",
+    "position": "D"
+  },
+  {
+    "id": "8481575",
+    "name": "Lassi Thomson",
+    "position": "D"
+  },
+  {
+    "id": "8481576",
+    "name": "Ryan Suzuki",
+    "position": "F"
+  },
+  {
+    "id": "8481577",
+    "name": "Philip Tomasino",
+    "position": "F"
+  },
+  {
+    "id": "8481578",
+    "name": "Graeme Clarke",
+    "position": "F"
+  },
+  {
+    "id": "8481580",
+    "name": "Connor McMichael",
+    "position": "F"
+  },
+  {
+    "id": "8481581",
+    "name": "Thomas Harley",
+    "position": "D"
+  },
+  {
+    "id": "8481582",
+    "name": "Nick Robertson",
+    "position": "F"
+  },
+  {
+    "id": "8481585",
+    "name": "Egor Afanasyev",
+    "position": "F"
+  },
+  {
+    "id": "8481591",
+    "name": "Samuel Poulin",
+    "position": "F"
+  },
+  {
+    "id": "8481592",
+    "name": "Jakob Pelletier",
+    "position": "F"
+  },
+  {
+    "id": "8481593",
+    "name": "Jayden Struble",
+    "position": "D"
+  },
+  {
+    "id": "8481594",
+    "name": "Nathan L\u00e9gar\u00e9",
+    "position": "F"
+  },
+  {
+    "id": "8481596",
+    "name": "Shane Pinto",
+    "position": "F"
+  },
+  {
+    "id": "8481598",
+    "name": "Philip Broberg",
+    "position": "D"
+  },
+  {
+    "id": "8481599",
+    "name": "Victor Soderstrom",
+    "position": "D"
+  },
+  {
+    "id": "8481600",
+    "name": "Tobias Bjornfot",
+    "position": "D"
+  },
+  {
+    "id": "8481601",
+    "name": "Simon Holmstrom",
+    "position": "F"
+  },
+  {
+    "id": "8481604",
+    "name": "Pavel Dorofeyev",
+    "position": "F"
+  },
+  {
+    "id": "8481605",
+    "name": "Jackson LaCombe",
+    "position": "D"
+  },
+  {
+    "id": "8481606",
+    "name": "Jordan Spence",
+    "position": "D"
+  },
+  {
+    "id": "8481607",
+    "name": "Albert Johansson",
+    "position": "D"
+  },
+  {
+    "id": "8481609",
+    "name": "Vladislav Kolyachonok",
+    "position": "D"
+  },
+  {
+    "id": "8481617",
+    "name": "Vasily Podkolzin",
+    "position": "F"
+  },
+  {
+    "id": "8481618",
+    "name": "Alex Newhook",
+    "position": "F"
+  },
+  {
+    "id": "8481624",
+    "name": "Ilya Mikheyev",
+    "position": "F"
+  },
+  {
+    "id": "8481626",
+    "name": "Arttu Ruotsalainen",
+    "position": "F"
+  },
+  {
+    "id": "8481641",
+    "name": "Joel Kiviranta",
+    "position": "F"
+  },
+  {
+    "id": "8481649",
+    "name": "Joona Luoto",
+    "position": "F"
+  },
+  {
+    "id": "8481655",
+    "name": "Cole Schwindt",
+    "position": "F"
+  },
+  {
+    "id": "8481656",
+    "name": "Aliaksei Protas",
+    "position": "F"
+  },
+  {
+    "id": "8481657",
+    "name": "Viktor Lodin",
+    "position": "F"
+  },
+  {
+    "id": "8481679",
+    "name": "Max Guenette",
+    "position": "D"
+  },
+  {
+    "id": "8481683",
+    "name": "Aidan McDonough",
+    "position": "F"
+  },
+  {
+    "id": "8481690",
+    "name": "Tyler Angle",
+    "position": "F"
+  },
+  {
+    "id": "8481699",
+    "name": "Aku Raty",
+    "position": "F"
+  },
+  {
+    "id": "8481701",
+    "name": "Santeri Hatakka",
+    "position": "D"
+  },
+  {
+    "id": "8481703",
+    "name": "Valtteri Puustinen",
+    "position": "F"
+  },
+  {
+    "id": "8481704",
+    "name": "Juuso Parssinen",
+    "position": "F"
+  },
+  {
+    "id": "8481708",
+    "name": "Zachary Jones",
+    "position": "D"
+  },
+  {
+    "id": "8481711",
+    "name": "Matias Maccelli",
+    "position": "F"
+  },
+  {
+    "id": "8481712",
+    "name": "Matej  Bl\u00fcmel",
+    "position": "F"
+  },
+  {
+    "id": "8481715",
+    "name": "Hunter Skinner",
+    "position": "D"
+  },
+  {
+    "id": "8481716",
+    "name": "Dmitri Voronkov",
+    "position": "F"
+  },
+  {
+    "id": "8481719",
+    "name": "Max Crozier",
+    "position": "D"
+  },
+  {
+    "id": "8481720",
+    "name": "Nick Abruzzese",
+    "position": "F"
+  },
+  {
+    "id": "8481721",
+    "name": "Arseny Gritsyuk",
+    "position": "F"
+  },
+  {
+    "id": "8481725",
+    "name": "Elmer Soderblom",
+    "position": "F"
+  },
+  {
+    "id": "8481726",
+    "name": "Adam Edstrom",
+    "position": "F"
+  },
+  {
+    "id": "8481732",
+    "name": "Andre Lee",
+    "position": "F"
+  },
+  {
+    "id": "8481737",
+    "name": "Matt Stienburg",
+    "position": "F"
+  },
+  {
+    "id": "8481740",
+    "name": "Tyce Thompson",
+    "position": "F"
+  },
+  {
+    "id": "8481743",
+    "name": "Marc Del Gaizo",
+    "position": "D"
+  },
+  {
+    "id": "8481751",
+    "name": "Lukas Rousek",
+    "position": "F"
+  },
+  {
+    "id": "8481754",
+    "name": "Nikita Nesterenko",
+    "position": "F"
+  },
+  {
+    "id": "8481789",
+    "name": "Tye Kartye",
+    "position": "F"
+  },
+  {
+    "id": "8481806",
+    "name": "Louis Crevier",
+    "position": "D"
+  },
+  {
+    "id": "8481812",
+    "name": "Nikolai Knyzhov",
+    "position": "D"
+  },
+  {
+    "id": "8481815",
+    "name": "Bryce Kindopp",
+    "position": "F"
+  },
+  {
+    "id": "8481827",
+    "name": "Ben McCartney",
+    "position": "F"
+  },
+  {
+    "id": "8481848",
+    "name": "Jacob Gaucher",
+    "position": "F"
+  },
+  {
+    "id": "8481849",
+    "name": "Zack Hayes",
+    "position": "D"
+  },
+  {
+    "id": "8482055",
+    "name": "Drew O'Connor",
+    "position": "F"
+  },
+  {
+    "id": "8482061",
+    "name": "Brandon Biro",
+    "position": "F"
+  },
+  {
+    "id": "8482062",
+    "name": "Cole Smith",
+    "position": "F"
+  },
+  {
+    "id": "8482067",
+    "name": "Connor Mackey",
+    "position": "D"
+  },
+  {
+    "id": "8482070",
+    "name": "Mitchell Chaffee",
+    "position": "F"
+  },
+  {
+    "id": "8482072",
+    "name": "Jack Ahcan",
+    "position": "D"
+  },
+  {
+    "id": "8482073",
+    "name": "Braden Schneider",
+    "position": "D"
+  },
+  {
+    "id": "8482074",
+    "name": "Connor Zary",
+    "position": "F"
+  },
+  {
+    "id": "8482077",
+    "name": "Dylan Holloway",
+    "position": "F"
+  },
+  {
+    "id": "8482078",
+    "name": "Lucas Raymond",
+    "position": "F"
+  },
+  {
+    "id": "8482079",
+    "name": "Marco Rossi",
+    "position": "F"
+  },
+  {
+    "id": "8482081",
+    "name": "Sean Farrell",
+    "position": "F"
+  },
+  {
+    "id": "8482087",
+    "name": "Kaiden Guhle",
+    "position": "D"
+  },
+  {
+    "id": "8482088",
+    "name": "Justin Sourdif",
+    "position": "F"
+  },
+  {
+    "id": "8482089",
+    "name": "Jake Neighbours",
+    "position": "F"
+  },
+  {
+    "id": "8482090",
+    "name": "Jack Finley",
+    "position": "F"
+  },
+  {
+    "id": "8482092",
+    "name": "Ridly Greig",
+    "position": "F"
+  },
+  {
+    "id": "8482093",
+    "name": "Seth Jarvis",
+    "position": "F"
+  },
+  {
+    "id": "8482094",
+    "name": "Daemon Hunt",
+    "position": "D"
+  },
+  {
+    "id": "8482095",
+    "name": "Tyler Kleven",
+    "position": "D"
+  },
+  {
+    "id": "8482097",
+    "name": "Jack Quinn",
+    "position": "F"
+  },
+  {
+    "id": "8482100",
+    "name": "Alexander Nikishin",
+    "position": "D"
+  },
+  {
+    "id": "8482101",
+    "name": "Danil Gushchin",
+    "position": "F"
+  },
+  {
+    "id": "8482102",
+    "name": "Vasily Ponomarev",
+    "position": "F"
+  },
+  {
+    "id": "8482103",
+    "name": "Ozzy Wiesblatt",
+    "position": "F"
+  },
+  {
+    "id": "8482105",
+    "name": "Jake Sanderson",
+    "position": "D"
+  },
+  {
+    "id": "8482107",
+    "name": "Mike Benning",
+    "position": "D"
+  },
+  {
+    "id": "8482109",
+    "name": "Alexis Lafreni\u00e8re",
+    "position": "F"
+  },
+  {
+    "id": "8482110",
+    "name": "Dawson Mercer",
+    "position": "F"
+  },
+  {
+    "id": "8482111",
+    "name": "Justin Barron",
+    "position": "D"
+  },
+  {
+    "id": "8482113",
+    "name": "Anton Lundell",
+    "position": "F"
+  },
+  {
+    "id": "8482116",
+    "name": "Tim St\u00fctzle",
+    "position": "F"
+  },
+  {
+    "id": "8482117",
+    "name": "Lukas Reichel",
+    "position": "F"
+  },
+  {
+    "id": "8482118",
+    "name": "Sam Colangelo",
+    "position": "F"
+  },
+  {
+    "id": "8482122",
+    "name": "Brock Faber",
+    "position": "D"
+  },
+  {
+    "id": "8482124",
+    "name": "Quinton Byfield",
+    "position": "F"
+  },
+  {
+    "id": "8482125",
+    "name": "Alexander Holtz",
+    "position": "F"
+  },
+  {
+    "id": "8482126",
+    "name": "Emil Andrae",
+    "position": "D"
+  },
+  {
+    "id": "8482131",
+    "name": "Donovan Sebrango",
+    "position": "D"
+  },
+  {
+    "id": "8482132",
+    "name": "Brett Berard",
+    "position": "F"
+  },
+  {
+    "id": "8482133",
+    "name": "Thomas Bordeleau",
+    "position": "F"
+  },
+  {
+    "id": "8482141",
+    "name": "Lukas Cormier",
+    "position": "D"
+  },
+  {
+    "id": "8482142",
+    "name": "Jamie Drysdale",
+    "position": "D"
+  },
+  {
+    "id": "8482144",
+    "name": "Jack Thompson",
+    "position": "D"
+  },
+  {
+    "id": "8482145",
+    "name": "Mavrik Bourque",
+    "position": "F"
+  },
+  {
+    "id": "8482146",
+    "name": "Luke Evangelista",
+    "position": "F"
+  },
+  {
+    "id": "8482147",
+    "name": "Jean-Luc Foudy",
+    "position": "F"
+  },
+  {
+    "id": "8482148",
+    "name": "Hendrix Lapierre",
+    "position": "F"
+  },
+  {
+    "id": "8482149",
+    "name": "Cole Perfetti",
+    "position": "F"
+  },
+  {
+    "id": "8482150",
+    "name": "Jacob Perreault",
+    "position": "F"
+  },
+  {
+    "id": "8482153",
+    "name": "Brendan Brisson",
+    "position": "F"
+  },
+  {
+    "id": "8482155",
+    "name": "Alex Laferriere",
+    "position": "F"
+  },
+  {
+    "id": "8482157",
+    "name": "Will Cuylle",
+    "position": "F"
+  },
+  {
+    "id": "8482159",
+    "name": "Tyson Foerster",
+    "position": "F"
+  },
+  {
+    "id": "8482162",
+    "name": "Roby Jarventie",
+    "position": "F"
+  },
+  {
+    "id": "8482165",
+    "name": "Yan Kuznetsov",
+    "position": "D"
+  },
+  {
+    "id": "8482166",
+    "name": "Shakir Mukhamadullin",
+    "position": "D"
+  },
+  {
+    "id": "8482167",
+    "name": "Bogdan Trineyev",
+    "position": "F"
+  },
+  {
+    "id": "8482168",
+    "name": "Maxim Groshev",
+    "position": "D"
+  },
+  {
+    "id": "8482169",
+    "name": "Helge Grans",
+    "position": "D"
+  },
+  {
+    "id": "8482172",
+    "name": "Landon Slaggert",
+    "position": "F"
+  },
+  {
+    "id": "8482174",
+    "name": "William Villeneuve",
+    "position": "D"
+  },
+  {
+    "id": "8482175",
+    "name": "JJ Peterka",
+    "position": "F"
+  },
+  {
+    "id": "8482176",
+    "name": "Wyatt Kaiser",
+    "position": "D"
+  },
+  {
+    "id": "8482177",
+    "name": "Marat Khusnutdinov",
+    "position": "F"
+  },
+  {
+    "id": "8482178",
+    "name": "Ian Moore",
+    "position": "D"
+  },
+  {
+    "id": "8482179",
+    "name": "Justin Richards",
+    "position": "F"
+  },
+  {
+    "id": "8482181",
+    "name": "Tristen Robins",
+    "position": "F"
+  },
+  {
+    "id": "8482187",
+    "name": "Ronan Seeley",
+    "position": "D"
+  },
+  {
+    "id": "8482192",
+    "name": "Isaak Phillips",
+    "position": "D"
+  },
+  {
+    "id": "8482197",
+    "name": "Adam Raska",
+    "position": "F"
+  },
+  {
+    "id": "8482201",
+    "name": "Gage Goncalves",
+    "position": "F"
+  },
+  {
+    "id": "8482206",
+    "name": "Ethan Cardwell",
+    "position": "F"
+  },
+  {
+    "id": "8482207",
+    "name": "William Dufour",
+    "position": "F"
+  },
+  {
+    "id": "8482209",
+    "name": "Rory Kerins",
+    "position": "F"
+  },
+  {
+    "id": "8482213",
+    "name": "Riley Duran",
+    "position": "F"
+  },
+  {
+    "id": "8482222",
+    "name": "Alexander Barabanov",
+    "position": "F"
+  },
+  {
+    "id": "8482241",
+    "name": "Radim Zohorna",
+    "position": "F"
+  },
+  {
+    "id": "8482243",
+    "name": "Linus Sandin",
+    "position": "F"
+  },
+  {
+    "id": "8482245",
+    "name": "Artem Zub",
+    "position": "D"
+  },
+  {
+    "id": "8482250",
+    "name": "Callahan Burke",
+    "position": "F"
+  },
+  {
+    "id": "8482259",
+    "name": "Bobby McMann",
+    "position": "F"
+  },
+  {
+    "id": "8482399",
+    "name": "Billy Sweezey",
+    "position": "D"
+  },
+  {
+    "id": "8482408",
+    "name": "Jeff Malott",
+    "position": "F"
+  },
+  {
+    "id": "8482448",
+    "name": "Samuel Knazko",
+    "position": "D"
+  },
+  {
+    "id": "8482451",
+    "name": "Mikael Pyyhtia",
+    "position": "F"
+  },
+  {
+    "id": "8482452",
+    "name": "Elliot Desnoyers",
+    "position": "F"
+  },
+  {
+    "id": "8482460",
+    "name": "Matt Rempe",
+    "position": "F"
+  },
+  {
+    "id": "8482470",
+    "name": "Ilya Solovyov",
+    "position": "D"
+  },
+  {
+    "id": "8482475",
+    "name": "Egor Chinakhov",
+    "position": "F"
+  },
+  {
+    "id": "8482476",
+    "name": "Emil Heineman",
+    "position": "F"
+  },
+  {
+    "id": "8482479",
+    "name": "Trevor Kuntar",
+    "position": "F"
+  },
+  {
+    "id": "8482482",
+    "name": "Adam Wilsby",
+    "position": "D"
+  },
+  {
+    "id": "8482496",
+    "name": "Nils Aman",
+    "position": "F"
+  },
+  {
+    "id": "8482507",
+    "name": "Chase Bradley",
+    "position": "F"
+  },
+  {
+    "id": "8482511",
+    "name": "Mason Lohrei",
+    "position": "D"
+  },
+  {
+    "id": "8482516",
+    "name": "Matthew Kessel",
+    "position": "D"
+  },
+  {
+    "id": "8482525",
+    "name": "Ryan Tverberg",
+    "position": "F"
+  },
+  {
+    "id": "8482623",
+    "name": "Josh Dunne",
+    "position": "F"
+  },
+  {
+    "id": "8482624",
+    "name": "Daniil Miromanov",
+    "position": "D"
+  },
+  {
+    "id": "8482634",
+    "name": "Alex Steeves",
+    "position": "F"
+  },
+  {
+    "id": "8482635",
+    "name": "Mike Hardman",
+    "position": "F"
+  },
+  {
+    "id": "8482641",
+    "name": "Matt Kiersted",
+    "position": "D"
+  },
+  {
+    "id": "8482652",
+    "name": "Walker Duehr",
+    "position": "F"
+  },
+  {
+    "id": "8482654",
+    "name": "Jackson Cates",
+    "position": "F"
+  },
+  {
+    "id": "8482655",
+    "name": "J.J. Moser",
+    "position": "D"
+  },
+  {
+    "id": "8482659",
+    "name": "Josh Doan",
+    "position": "F"
+  },
+  {
+    "id": "8482660",
+    "name": "Kent Johnson",
+    "position": "F"
+  },
+  {
+    "id": "8482663",
+    "name": "Dylan Duke",
+    "position": "F"
+  },
+  {
+    "id": "8482665",
+    "name": "Matty Beniers",
+    "position": "F"
+  },
+  {
+    "id": "8482666",
+    "name": "Scott Morrow",
+    "position": "D"
+  },
+  {
+    "id": "8482667",
+    "name": "William Eklund",
+    "position": "F"
+  },
+  {
+    "id": "8482671",
+    "name": "Owen Power",
+    "position": "D"
+  },
+  {
+    "id": "8482673",
+    "name": "Xavier Bourgault",
+    "position": "F"
+  },
+  {
+    "id": "8482679",
+    "name": "Matt Coronato",
+    "position": "F"
+  },
+  {
+    "id": "8482684",
+    "name": "Luke Hughes",
+    "position": "D"
+  },
+  {
+    "id": "8482691",
+    "name": "Aatu R\u00e4ty",
+    "position": "F"
+  },
+  {
+    "id": "8482698",
+    "name": "Tristan Broz",
+    "position": "F"
+  },
+  {
+    "id": "8482699",
+    "name": "Dylan Guenther",
+    "position": "F"
+  },
+  {
+    "id": "8482700",
+    "name": "Nolan Allan",
+    "position": "D"
+  },
+  {
+    "id": "8482702",
+    "name": "Logan Stankoven",
+    "position": "F"
+  },
+  {
+    "id": "8482703",
+    "name": "Colton Dach",
+    "position": "F"
+  },
+  {
+    "id": "8482705",
+    "name": "Cole Sillinger",
+    "position": "F"
+  },
+  {
+    "id": "8482711",
+    "name": "Stanislav Svozil",
+    "position": "D"
+  },
+  {
+    "id": "8482712",
+    "name": "Oskar Olausson",
+    "position": "F"
+  },
+  {
+    "id": "8482713",
+    "name": "Mackie Samoskevich",
+    "position": "F"
+  },
+  {
+    "id": "8482715",
+    "name": "Ryan Ufko",
+    "position": "D"
+  },
+  {
+    "id": "8482720",
+    "name": "Matthew Knies",
+    "position": "F"
+  },
+  {
+    "id": "8482726",
+    "name": "Samuel Helenius",
+    "position": "F"
+  },
+  {
+    "id": "8482730",
+    "name": "Brandt Clarke",
+    "position": "D"
+  },
+  {
+    "id": "8482731",
+    "name": "Tyson Hinds",
+    "position": "D"
+  },
+  {
+    "id": "8482733",
+    "name": "Logan Mailloux",
+    "position": "D"
+  },
+  {
+    "id": "8482737",
+    "name": "Zachary Bolduc",
+    "position": "F"
+  },
+  {
+    "id": "8482740",
+    "name": "Wyatt Johnston",
+    "position": "F"
+  },
+  {
+    "id": "8482742",
+    "name": "Zachary L'Heureux",
+    "position": "F"
+  },
+  {
+    "id": "8482744",
+    "name": "James Malatesta",
+    "position": "F"
+  },
+  {
+    "id": "8482745",
+    "name": "Mason McTavish",
+    "position": "F"
+  },
+  {
+    "id": "8482747",
+    "name": "Brennan Othmann",
+    "position": "F"
+  },
+  {
+    "id": "8482749",
+    "name": "Joshua Roy",
+    "position": "F"
+  },
+  {
+    "id": "8482751",
+    "name": "Ryan Winterton",
+    "position": "F"
+  },
+  {
+    "id": "8482758",
+    "name": "Ville Koivunen",
+    "position": "F"
+  },
+  {
+    "id": "8482762",
+    "name": "Simon Edvinsson",
+    "position": "D"
+  },
+  {
+    "id": "8482763",
+    "name": "Fabian Lysell",
+    "position": "F"
+  },
+  {
+    "id": "8482765",
+    "name": "Isak Rosen",
+    "position": "F"
+  },
+  {
+    "id": "8482766",
+    "name": "William Stromgren",
+    "position": "F"
+  },
+  {
+    "id": "8482768",
+    "name": "Fedor Svechkov",
+    "position": "F"
+  },
+  {
+    "id": "8482775",
+    "name": "Oliver Kapanen",
+    "position": "F"
+  },
+  {
+    "id": "8482781",
+    "name": "Carson Lambos",
+    "position": "D"
+  },
+  {
+    "id": "8482784",
+    "name": "Zach Dean",
+    "position": "F"
+  },
+  {
+    "id": "8482785",
+    "name": "Justin Robidas",
+    "position": "F"
+  },
+  {
+    "id": "8482787",
+    "name": "Nikita Chibrikov",
+    "position": "F"
+  },
+  {
+    "id": "8482802",
+    "name": "Carter Mazur",
+    "position": "F"
+  },
+  {
+    "id": "8482803",
+    "name": "Olen Zellweger",
+    "position": "D"
+  },
+  {
+    "id": "8482804",
+    "name": "Ty Murchison",
+    "position": "D"
+  },
+  {
+    "id": "8482807",
+    "name": "Ethan Del Mastro",
+    "position": "D"
+  },
+  {
+    "id": "8482809",
+    "name": "Jackson Blake",
+    "position": "F"
+  },
+  {
+    "id": "8482815",
+    "name": "Kirill Semyonov",
+    "position": "F"
+  },
+  {
+    "id": "8482824",
+    "name": "Nick Cicek",
+    "position": "D"
+  },
+  {
+    "id": "8482829",
+    "name": "Michael Milne",
+    "position": "F"
+  },
+  {
+    "id": "8482834",
+    "name": "Jesper Froden",
+    "position": "F"
+  },
+  {
+    "id": "8482858",
+    "name": "Ryker Evans",
+    "position": "D"
+  },
+  {
+    "id": "8482859",
+    "name": "Zack Ostapchuk",
+    "position": "F"
+  },
+  {
+    "id": "8482861",
+    "name": "Vincent Iorio",
+    "position": "D"
+  },
+  {
+    "id": "8482866",
+    "name": "Ville Ottavainen",
+    "position": "D"
+  },
+  {
+    "id": "8482873",
+    "name": "Topias Vilen",
+    "position": "D"
+  },
+  {
+    "id": "8482874",
+    "name": "Jacob Melanson",
+    "position": "F"
+  },
+  {
+    "id": "8482877",
+    "name": "Jaroslav Chmelar",
+    "position": "F"
+  },
+  {
+    "id": "8482896",
+    "name": "Tyson Kozak",
+    "position": "F"
+  },
+  {
+    "id": "8482911",
+    "name": "Joel Nystrom",
+    "position": "D"
+  },
+  {
+    "id": "8482929",
+    "name": "Emil Lilleberg",
+    "position": "D"
+  },
+  {
+    "id": "8482941",
+    "name": "Shane Lachance",
+    "position": "F"
+  },
+  {
+    "id": "8482947",
+    "name": "Zakhar Bardakov",
+    "position": "F"
+  },
+  {
+    "id": "8482953",
+    "name": "Taylor Makar",
+    "position": "F"
+  },
+  {
+    "id": "8482964",
+    "name": "Arber Xhekaj",
+    "position": "D"
+  },
+  {
+    "id": "8482993",
+    "name": "Avery Hayes",
+    "position": "F"
+  },
+  {
+    "id": "8483012",
+    "name": "Logan Morrison",
+    "position": "F"
+  },
+  {
+    "id": "8483017",
+    "name": "Frederic Brunet",
+    "position": "D"
+  },
+  {
+    "id": "8483039",
+    "name": "Tristen Nielsen",
+    "position": "F"
+  },
+  {
+    "id": "8483045",
+    "name": "Cameron Butler",
+    "position": "F"
+  },
+  {
+    "id": "8483395",
+    "name": "Arshdeep Bains",
+    "position": "F"
+  },
+  {
+    "id": "8483397",
+    "name": "Marc McLaughlin",
+    "position": "F"
+  },
+  {
+    "id": "8483398",
+    "name": "Declan Carlile",
+    "position": "D"
+  },
+  {
+    "id": "8483401",
+    "name": "Marc Johnstone",
+    "position": "F"
+  },
+  {
+    "id": "8483406",
+    "name": "Taylor Ward",
+    "position": "F"
+  },
+  {
+    "id": "8483407",
+    "name": "Brandon Scanlin",
+    "position": "D"
+  },
+  {
+    "id": "8483424",
+    "name": "Owen Beck",
+    "position": "F"
+  },
+  {
+    "id": "8483425",
+    "name": "Lian Bichsel",
+    "position": "D"
+  },
+  {
+    "id": "8483429",
+    "name": "Seamus Casey",
+    "position": "D"
+  },
+  {
+    "id": "8483431",
+    "name": "Logan Cooley",
+    "position": "F"
+  },
+  {
+    "id": "8483432",
+    "name": "Luca Del Bel Belluz",
+    "position": "F"
+  },
+  {
+    "id": "8483433",
+    "name": "Jack Devine",
+    "position": "F"
+  },
+  {
+    "id": "8483435",
+    "name": "Jorian Donovan",
+    "position": "D"
+  },
+  {
+    "id": "8483444",
+    "name": "Nathan Gaucher",
+    "position": "F"
+  },
+  {
+    "id": "8483445",
+    "name": "Cutter Gauthier",
+    "position": "F"
+  },
+  {
+    "id": "8483447",
+    "name": "Conor Geekie",
+    "position": "F"
+  },
+  {
+    "id": "8483448",
+    "name": "Isaiah George",
+    "position": "D"
+  },
+  {
+    "id": "8483450",
+    "name": "Ryan Greene",
+    "position": "F"
+  },
+  {
+    "id": "8483452",
+    "name": "Hunter Haight",
+    "position": "F"
+  },
+  {
+    "id": "8483455",
+    "name": "Isaac Howard",
+    "position": "F"
+  },
+  {
+    "id": "8483457",
+    "name": "Lane Hutson",
+    "position": "D"
+  },
+  {
+    "id": "8483460",
+    "name": "David Jiricek",
+    "position": "D"
+  },
+  {
+    "id": "8483461",
+    "name": "Devin Kaplan",
+    "position": "F"
+  },
+  {
+    "id": "8483463",
+    "name": "Aleksanteri Kaskimaki",
+    "position": "F"
+  },
+  {
+    "id": "8483464",
+    "name": "Marco Kasper",
+    "position": "F"
+  },
+  {
+    "id": "8483465",
+    "name": "Joakim Kemell",
+    "position": "F"
+  },
+  {
+    "id": "8483466",
+    "name": "Kevin Korchinski",
+    "position": "D"
+  },
+  {
+    "id": "8483467",
+    "name": "Kirill Kudryavtsev",
+    "position": "D"
+  },
+  {
+    "id": "8483468",
+    "name": "Jiri Kulich",
+    "position": "F"
+  },
+  {
+    "id": "8483471",
+    "name": "Brad Lambert",
+    "position": "F"
+  },
+  {
+    "id": "8483472",
+    "name": "Maveric Lamoureux",
+    "position": "D"
+  },
+  {
+    "id": "8483476",
+    "name": "Jonathan Lekkerim\u00e4ki",
+    "position": "F"
+  },
+  {
+    "id": "8483481",
+    "name": "Cam Lund",
+    "position": "F"
+  },
+  {
+    "id": "8483482",
+    "name": "Tristan Luneau",
+    "position": "D"
+  },
+  {
+    "id": "8483485",
+    "name": "Denton Mateychuk",
+    "position": "D"
+  },
+  {
+    "id": "8483487",
+    "name": "Rutger McGroarty",
+    "position": "F"
+  },
+  {
+    "id": "8483489",
+    "name": "Fraser Minten",
+    "position": "F"
+  },
+  {
+    "id": "8483490",
+    "name": "Pavel Mintyukov",
+    "position": "D"
+  },
+  {
+    "id": "8483491",
+    "name": "Ivan Miroshnichenko",
+    "position": "F"
+  },
+  {
+    "id": "8483493",
+    "name": "Frank Nazar",
+    "position": "F"
+  },
+  {
+    "id": "8483495",
+    "name": "Simon Nemec",
+    "position": "D"
+  },
+  {
+    "id": "8483497",
+    "name": "Jani Nyman",
+    "position": "F"
+  },
+  {
+    "id": "8483499",
+    "name": "Liam Ohgren",
+    "position": "F"
+  },
+  {
+    "id": "8483500",
+    "name": "Noah Ostlund",
+    "position": "F"
+  },
+  {
+    "id": "8483503",
+    "name": "Owen Pickering",
+    "position": "D"
+  },
+  {
+    "id": "8483505",
+    "name": "Matthew Poitras",
+    "position": "F"
+  },
+  {
+    "id": "8483506",
+    "name": "Sam Rinzel",
+    "position": "D"
+  },
+  {
+    "id": "8483510",
+    "name": "Elias Salomonsson",
+    "position": "D"
+  },
+  {
+    "id": "8483512",
+    "name": "Matt Savoie",
+    "position": "F"
+  },
+  {
+    "id": "8483513",
+    "name": "Reid Schaefer",
+    "position": "F"
+  },
+  {
+    "id": "8483515",
+    "name": "Juraj Slafkovsk\u00fd",
+    "position": "F"
+  },
+  {
+    "id": "8483516",
+    "name": "Jimmy Snuggerud",
+    "position": "F"
+  },
+  {
+    "id": "8483524",
+    "name": "Shane Wright",
+    "position": "F"
+  },
+  {
+    "id": "8483525",
+    "name": "Danila Yurov",
+    "position": "F"
+  },
+  {
+    "id": "8483526",
+    "name": "Danil Zhilkin",
+    "position": "F"
+  },
+  {
+    "id": "8483531",
+    "name": "Brian Halonen",
+    "position": "F"
+  },
+  {
+    "id": "8483538",
+    "name": "Owen Sillinger",
+    "position": "F"
+  },
+  {
+    "id": "8483546",
+    "name": "Marshall Rifai",
+    "position": "D"
+  },
+  {
+    "id": "8483549",
+    "name": "Lucas Condotta",
+    "position": "F"
+  },
+  {
+    "id": "8483553",
+    "name": "Marc Gatcomb",
+    "position": "F"
+  },
+  {
+    "id": "8483565",
+    "name": "Nick Blankenburg",
+    "position": "D"
+  },
+  {
+    "id": "8483567",
+    "name": "Georgii Merkulov",
+    "position": "F"
+  },
+  {
+    "id": "8483569",
+    "name": "Wyatt Aamodt",
+    "position": "D"
+  },
+  {
+    "id": "8483570",
+    "name": "Ben Meyers",
+    "position": "F"
+  },
+  {
+    "id": "8483573",
+    "name": "Ethen Frank",
+    "position": "F"
+  },
+  {
+    "id": "8483597",
+    "name": "Milos Kelemen",
+    "position": "F"
+  },
+  {
+    "id": "8483609",
+    "name": "Adam Klapka",
+    "position": "F"
+  },
+  {
+    "id": "8483619",
+    "name": "Filip Roos",
+    "position": "D"
+  },
+  {
+    "id": "8483620",
+    "name": "Marcus Bjork",
+    "position": "D"
+  },
+  {
+    "id": "8483630",
+    "name": "Pavol Regenda",
+    "position": "F"
+  },
+  {
+    "id": "8483641",
+    "name": "Anton Levtchi",
+    "position": "F"
+  },
+  {
+    "id": "8483669",
+    "name": "Adam Sykora",
+    "position": "F"
+  },
+  {
+    "id": "8483675",
+    "name": "Kenny Connors",
+    "position": "F"
+  },
+  {
+    "id": "8483676",
+    "name": "Stephen Halliday",
+    "position": "F"
+  },
+  {
+    "id": "8483678",
+    "name": "Elias Pettersson",
+    "position": "D"
+  },
+  {
+    "id": "8483686",
+    "name": "Adam Engstrom",
+    "position": "D"
+  },
+  {
+    "id": "8483687",
+    "name": "Marek Alscher",
+    "position": "D"
+  },
+  {
+    "id": "8483690",
+    "name": "Noah Laba",
+    "position": "F"
+  },
+  {
+    "id": "8483696",
+    "name": "Cole O'Hara",
+    "position": "F"
+  },
+  {
+    "id": "8483699",
+    "name": "Angus Booth",
+    "position": "D"
+  },
+  {
+    "id": "8483709",
+    "name": "Abram Wiebe",
+    "position": "D"
+  },
+  {
+    "id": "8483712",
+    "name": "Ludvig Jansson",
+    "position": "D"
+  },
+  {
+    "id": "8483728",
+    "name": "Jared Davidson",
+    "position": "F"
+  },
+  {
+    "id": "8483731",
+    "name": "Alex Bump",
+    "position": "F"
+  },
+  {
+    "id": "8483733",
+    "name": "Nikita Grebenkin",
+    "position": "F"
+  },
+  {
+    "id": "8483752",
+    "name": "Dominic James",
+    "position": "F"
+  },
+  {
+    "id": "8483756",
+    "name": "Jared Wright",
+    "position": "F"
+  },
+  {
+    "id": "8483760",
+    "name": "Hunter McDonald",
+    "position": "D"
+  },
+  {
+    "id": "8483763",
+    "name": "Maksymilian Szuber",
+    "position": "D"
+  },
+  {
+    "id": "8483766",
+    "name": "David Spacek",
+    "position": "D"
+  },
+  {
+    "id": "8483768",
+    "name": "Victor Mancini",
+    "position": "D"
+  },
+  {
+    "id": "8483771",
+    "name": "Sandis Vilmanis",
+    "position": "F"
+  },
+  {
+    "id": "8483808",
+    "name": "Andrei Kuzmenko",
+    "position": "F"
+  },
+  {
+    "id": "8483841",
+    "name": "Xavier Parent",
+    "position": "F"
+  },
+  {
+    "id": "8483890",
+    "name": "Braeden Bowman",
+    "position": "F"
+  },
+  {
+    "id": "8483920",
+    "name": "Pierrick Dube",
+    "position": "F"
+  },
+  {
+    "id": "8483930",
+    "name": "Ivan Ivan",
+    "position": "F"
+  },
+  {
+    "id": "8484125",
+    "name": "Hunter McKown",
+    "position": "F"
+  },
+  {
+    "id": "8484135",
+    "name": "Parker Ford",
+    "position": "F"
+  },
+  {
+    "id": "8484136",
+    "name": "Max Sasson",
+    "position": "F"
+  },
+  {
+    "id": "8484142",
+    "name": "Denver Barkey",
+    "position": "F"
+  },
+  {
+    "id": "8484144",
+    "name": "Connor Bedard",
+    "position": "F"
+  },
+  {
+    "id": "8484145",
+    "name": "Zach Benson",
+    "position": "F"
+  },
+  {
+    "id": "8484148",
+    "name": "Oliver Bonk",
+    "position": "D"
+  },
+  {
+    "id": "8484149",
+    "name": "Gavin Brindley",
+    "position": "F"
+  },
+  {
+    "id": "8484150",
+    "name": "Hunter Brzustewicz",
+    "position": "D"
+  },
+  {
+    "id": "8484152",
+    "name": "Luca Cagnoni",
+    "position": "D"
+  },
+  {
+    "id": "8484153",
+    "name": "Leo Carlsson",
+    "position": "F"
+  },
+  {
+    "id": "8484158",
+    "name": "Easton Cowan",
+    "position": "F"
+  },
+  {
+    "id": "8484160",
+    "name": "Nate Danielson",
+    "position": "F"
+  },
+  {
+    "id": "8484164",
+    "name": "Dalibor Dvorsky",
+    "position": "F"
+  },
+  {
+    "id": "8484166",
+    "name": "Adam Fantilli",
+    "position": "F"
+  },
+  {
+    "id": "8484168",
+    "name": "Oscar Fisker Molgaard",
+    "position": "F"
+  },
+  {
+    "id": "8484169",
+    "name": "Drew Fortescue",
+    "position": "D"
+  },
+  {
+    "id": "8484177",
+    "name": "Lenni Hameenaho",
+    "position": "F"
+  },
+  {
+    "id": "8484180",
+    "name": "Samuel Honzek",
+    "position": "F"
+  },
+  {
+    "id": "8484185",
+    "name": "Nick Lardis",
+    "position": "F"
+  },
+  {
+    "id": "8484186",
+    "name": "Ryan Leonard",
+    "position": "F"
+  },
+  {
+    "id": "8484188",
+    "name": "Theo Lindstein",
+    "position": "D"
+  },
+  {
+    "id": "8484197",
+    "name": "Oliver Moore",
+    "position": "F"
+  },
+  {
+    "id": "8484203",
+    "name": "Bradly Nadeau",
+    "position": "F"
+  },
+  {
+    "id": "8484210",
+    "name": "Gabe Perreault",
+    "position": "F"
+  },
+  {
+    "id": "8484214",
+    "name": "Luca Pinelli",
+    "position": "F"
+  },
+  {
+    "id": "8484220",
+    "name": "David Reinbacher",
+    "position": "D"
+  },
+  {
+    "id": "8484221",
+    "name": "Calum Ritchie",
+    "position": "F"
+  },
+  {
+    "id": "8484223",
+    "name": "Axel Sandin-Pellikka",
+    "position": "D"
+  },
+  {
+    "id": "8484227",
+    "name": "Will Smith",
+    "position": "F"
+  },
+  {
+    "id": "8484230",
+    "name": "Otto Stenberg",
+    "position": "F"
+  },
+  {
+    "id": "8484234",
+    "name": "Aydar Suniev",
+    "position": "F"
+  },
+  {
+    "id": "8484240",
+    "name": "Tom Willander",
+    "position": "D"
+  },
+  {
+    "id": "8484241",
+    "name": "Matthew Wood",
+    "position": "F"
+  },
+  {
+    "id": "8484242",
+    "name": "Brayden Yager",
+    "position": "F"
+  },
+  {
+    "id": "8484254",
+    "name": "Akito Hirose",
+    "position": "D"
+  },
+  {
+    "id": "8484255",
+    "name": "Jason Polin",
+    "position": "F"
+  },
+  {
+    "id": "8484256",
+    "name": "Jake Livingstone",
+    "position": "D"
+  },
+  {
+    "id": "8484258",
+    "name": "Sam Malinski",
+    "position": "D"
+  },
+  {
+    "id": "8484259",
+    "name": "Ondrej Pavel",
+    "position": "F"
+  },
+  {
+    "id": "8484262",
+    "name": "Travis Mitchell",
+    "position": "D"
+  },
+  {
+    "id": "8484287",
+    "name": "Cole McWard",
+    "position": "D"
+  },
+  {
+    "id": "8484304",
+    "name": "Uvis Balinskis",
+    "position": "D"
+  },
+  {
+    "id": "8484305",
+    "name": "Zach Metsa",
+    "position": "D"
+  },
+  {
+    "id": "8484314",
+    "name": "Jiri Smejkal",
+    "position": "F"
+  },
+  {
+    "id": "8484321",
+    "name": "Nikolas Matinpalo",
+    "position": "D"
+  },
+  {
+    "id": "8484325",
+    "name": "Waltteri Merela",
+    "position": "F"
+  },
+  {
+    "id": "8484326",
+    "name": "Patrik Koch",
+    "position": "D"
+  },
+  {
+    "id": "8484380",
+    "name": "Wilmer Skoog",
+    "position": "F"
+  },
+  {
+    "id": "8484386",
+    "name": "Dmitri Simashev",
+    "position": "D"
+  },
+  {
+    "id": "8484387",
+    "name": "Matvei Michkov",
+    "position": "F"
+  },
+  {
+    "id": "8484388",
+    "name": "Daniil But",
+    "position": "F"
+  },
+  {
+    "id": "8484392",
+    "name": "Felix Unger Sorum",
+    "position": "F"
+  },
+  {
+    "id": "8484403",
+    "name": "Florian Xhekaj",
+    "position": "F"
+  },
+  {
+    "id": "8484406",
+    "name": "Ty Mueller",
+    "position": "F"
+  },
+  {
+    "id": "8484428",
+    "name": "Charles Alexis Legault",
+    "position": "D"
+  },
+  {
+    "id": "8484471",
+    "name": "Emmitt Finnie",
+    "position": "F"
+  },
+  {
+    "id": "8484509",
+    "name": "Josh Samanski",
+    "position": "F"
+  },
+  {
+    "id": "8484529",
+    "name": "Connor Clattenburg",
+    "position": "F"
+  },
+  {
+    "id": "8484759",
+    "name": "Carter Yakemchuk",
+    "position": "D"
+  },
+  {
+    "id": "8484762",
+    "name": "Beckett Sennecke",
+    "position": "F"
+  },
+  {
+    "id": "8484768",
+    "name": "Zayne Parekh",
+    "position": "D"
+  },
+  {
+    "id": "8484779",
+    "name": "Jett Luchanko",
+    "position": "F"
+  },
+  {
+    "id": "8484783",
+    "name": "Artyom Levshunov",
+    "position": "D"
+  },
+  {
+    "id": "8484793",
+    "name": "Sacha Boisvert",
+    "position": "F"
+  },
+  {
+    "id": "8484794",
+    "name": "Michael Brandsegg-Nyg\u00e5rd",
+    "position": "F"
+  },
+  {
+    "id": "8484797",
+    "name": "Konsta Helenius",
+    "position": "F"
+  },
+  {
+    "id": "8484798",
+    "name": "Zeev Buium",
+    "position": "D"
+  },
+  {
+    "id": "8484800",
+    "name": "Berkly Catton",
+    "position": "F"
+  },
+  {
+    "id": "8484801",
+    "name": "Macklin Celebrini",
+    "position": "F"
+  },
+  {
+    "id": "8484806",
+    "name": "Sam Dickinson",
+    "position": "D"
+  },
+  {
+    "id": "8484821",
+    "name": "Sam Morton",
+    "position": "F"
+  },
+  {
+    "id": "8484829",
+    "name": "Justin Hryckowian",
+    "position": "F"
+  },
+  {
+    "id": "8484839",
+    "name": "Harrison Brunicke",
+    "position": "D"
+  },
+  {
+    "id": "8484860",
+    "name": "Matvei Gridin",
+    "position": "F"
+  },
+  {
+    "id": "8484873",
+    "name": "Cole Hutson",
+    "position": "D"
+  },
+  {
+    "id": "8484901",
+    "name": "Jacob Quillan",
+    "position": "F"
+  },
+  {
+    "id": "8484911",
+    "name": "Collin Graf",
+    "position": "F"
+  },
+  {
+    "id": "8484929",
+    "name": "Juha Jaaska",
+    "position": "F"
+  },
+  {
+    "id": "8484933",
+    "name": "Mikulas Hovorka",
+    "position": "D"
+  },
+  {
+    "id": "8484938",
+    "name": "Arttu Hyry",
+    "position": "F"
+  },
+  {
+    "id": "8484958",
+    "name": "Maxim Tsyplakov",
+    "position": "F"
+  },
+  {
+    "id": "8484976",
+    "name": "Jere Innala",
+    "position": "F"
+  },
+  {
+    "id": "8484984",
+    "name": "Ivan Demidov",
+    "position": "F"
+  },
+  {
+    "id": "8484994",
+    "name": "Igor Chernyshov",
+    "position": "F"
+  },
+  {
+    "id": "8484999",
+    "name": "Ilya Protas",
+    "position": "F"
+  },
+  {
+    "id": "8485105",
+    "name": "Nikita Prishchepov",
+    "position": "F"
+  },
+  {
+    "id": "8485251",
+    "name": "Kai Uchacz",
+    "position": "F"
+  },
+  {
+    "id": "8485366",
+    "name": "Matthew Schaefer",
+    "position": "D"
+  },
+  {
+    "id": "8485385",
+    "name": "Braeden Cootes",
+    "position": "F"
+  },
+  {
+    "id": "8485388",
+    "name": "Victor Eklund",
+    "position": "F"
+  },
+  {
+    "id": "8485391",
+    "name": "Anton Frondell",
+    "position": "F"
+  },
+  {
+    "id": "8485395",
+    "name": "James Hagens",
+    "position": "F"
+  },
+  {
+    "id": "8485402",
+    "name": "Michael Misa",
+    "position": "F"
+  },
+  {
+    "id": "8485405",
+    "name": "Brady Martin",
+    "position": "F"
+  },
+  {
+    "id": "8485406",
+    "name": "Porter Martone",
+    "position": "F"
+  },
+  {
+    "id": "8485414",
+    "name": "Ben Kindel",
+    "position": "F"
+  },
+  {
+    "id": "8485467",
+    "name": "Luke Haymes",
+    "position": "F"
+  },
+  {
+    "id": "8485469",
+    "name": "Jack Williams",
+    "position": "F"
+  },
+  {
+    "id": "8485483",
+    "name": "Karsen Dorwart",
+    "position": "F"
+  },
+  {
+    "id": "8485493",
+    "name": "David Tomasek",
+    "position": "F"
+  },
+  {
+    "id": "8485511",
+    "name": "Quinn Hutson",
+    "position": "F"
+  },
+  {
+    "id": "8485512",
+    "name": "Tim Washe",
+    "position": "F"
+  },
+  {
+    "id": "8485702",
+    "name": "Maxim Shabanov",
+    "position": "F"
+  },
+  {
+    "id": "8486056",
+    "name": "Tyson Gross",
+    "position": "F"
+  },
+  {
+    "id": "8486166",
+    "name": "Viking Gustafsson Nyberg",
+    "position": "D"
+  },
+  {
+    "id": "8486169",
+    "name": "Jake Livanavage",
+    "position": "D"
+  },
+  {
+    "id": "8481611",
+    "name": "Pyotr Kochetkov",
+    "position": "G"
+  },
+  {
+    "id": "8475852",
+    "name": "Petr Mrazek",
+    "position": "G"
+  },
+  {
+    "id": "8480193",
+    "name": "Daniil Tarasov",
+    "position": "G"
+  },
+  {
+    "id": "8475683",
+    "name": "Sergei Bobrovsky",
+    "position": "G"
+  },
+  {
+    "id": "8479496",
+    "name": "David Rittich",
+    "position": "G"
+  },
+  {
+    "id": "8482661",
+    "name": "Jesper Wallstedt",
+    "position": "G"
+  },
+  {
+    "id": "8482193",
+    "name": "Dylan Garand",
+    "position": "G"
+  },
+  {
+    "id": "8475660",
+    "name": "Cam Talbot",
+    "position": "G"
+  },
+  {
+    "id": "8481544",
+    "name": "Mads Sogaard",
+    "position": "G"
+  },
+  {
+    "id": "8481033",
+    "name": "Akira Schmid",
+    "position": "G"
+  },
+  {
+    "id": "8476883",
+    "name": "Andrei Vasilevskiy",
+    "position": "G"
+  },
+  {
+    "id": "8479406",
+    "name": "Filip Gustavsson",
+    "position": "G"
+  },
+  {
+    "id": "8476914",
+    "name": "Joonas Korpisalo",
+    "position": "G"
+  },
+  {
+    "id": "8476932",
+    "name": "Anthony Stolarz",
+    "position": "G"
+  },
+  {
+    "id": "8477990",
+    "name": "Brandon Halverson",
+    "position": "G"
+  },
+  {
+    "id": "8482821",
+    "name": "Arvid Soderblom",
+    "position": "G"
+  },
+  {
+    "id": "8482949",
+    "name": "Arsenii Sergeev",
+    "position": "G"
+  },
+  {
+    "id": "8482783",
+    "name": "Aleksei Kolosov",
+    "position": "G"
+  },
+  {
+    "id": "8480981",
+    "name": "Joel Hofer",
+    "position": "G"
+  },
+  {
+    "id": "8479312",
+    "name": "Alex Lyon",
+    "position": "G"
+  },
+  {
+    "id": "8478916",
+    "name": "Joey Daccord",
+    "position": "G"
+  },
+  {
+    "id": "8478024",
+    "name": "Ville Husso",
+    "position": "G"
+  },
+  {
+    "id": "8482445",
+    "name": "Devin Cooley",
+    "position": "G"
+  },
+  {
+    "id": "8477992",
+    "name": "Jonas Johansson",
+    "position": "G"
+  },
+  {
+    "id": "8476341",
+    "name": "Anton Forsberg",
+    "position": "G"
+  },
+  {
+    "id": "8482515",
+    "name": "Artur Akhtyamov",
+    "position": "G"
+  },
+  {
+    "id": "8478406",
+    "name": "Mackenzie Blackwood",
+    "position": "G"
+  },
+  {
+    "id": "8480843",
+    "name": "Lukas Dostal",
+    "position": "G"
+  },
+  {
+    "id": "8480313",
+    "name": "Logan Thompson",
+    "position": "G"
+  },
+  {
+    "id": "8477484",
+    "name": "Spencer Martin",
+    "position": "G"
+  },
+  {
+    "id": "8481668",
+    "name": "Arturs Silovs",
+    "position": "G"
+  },
+  {
+    "id": "8482761",
+    "name": "Carl Lindbom",
+    "position": "G"
+  },
+  {
+    "id": "8475717",
+    "name": "Calvin Pickard",
+    "position": "G"
+  },
+  {
+    "id": "8476945",
+    "name": "Connor Hellebuyck",
+    "position": "G"
+  },
+  {
+    "id": "8474596",
+    "name": "Jake Allen",
+    "position": "G"
+  },
+  {
+    "id": "8483703",
+    "name": "Sergei Murashov",
+    "position": "G"
+  },
+  {
+    "id": "8479292",
+    "name": "Charlie Lindgren",
+    "position": "G"
+  },
+  {
+    "id": "8482487",
+    "name": "Jakub Dobes",
+    "position": "G"
+  },
+  {
+    "id": "8482137",
+    "name": "Yaroslav Askarov",
+    "position": "G"
+  },
+  {
+    "id": "8484170",
+    "name": "Jacob Fowler",
+    "position": "G"
+  },
+  {
+    "id": "8482982",
+    "name": "Jet Greaves",
+    "position": "G"
+  },
+  {
+    "id": "8471734",
+    "name": "Jonathan Quick",
+    "position": "G"
+  },
+  {
+    "id": "8475831",
+    "name": "Philipp Grubauer",
+    "position": "G"
+  },
+  {
+    "id": "8476412",
+    "name": "Jordan Binnington",
+    "position": "G"
+  },
+  {
+    "id": "8481519",
+    "name": "Spencer Knight",
+    "position": "G"
+  },
+  {
+    "id": "8484268",
+    "name": "Nikita Tolopilo",
+    "position": "G"
+  },
+  {
+    "id": "8482411",
+    "name": "Hunter Shepard",
+    "position": "G"
+  },
+  {
+    "id": "8480947",
+    "name": "Kevin Lankinen",
+    "position": "G"
+  },
+  {
+    "id": "8477968",
+    "name": "Alex Nedeljkovic",
+    "position": "G"
+  },
+  {
+    "id": "8483548",
+    "name": "Brandon Bussi",
+    "position": "G"
+  },
+  {
+    "id": "8478435",
+    "name": "Dan Vladar",
+    "position": "G"
+  },
+  {
+    "id": "8483114",
+    "name": "Thomas Milic",
+    "position": "G"
+  },
+  {
+    "id": "8483746",
+    "name": "Vyacheslav Buteyets",
+    "position": "G"
+  },
+  {
+    "id": "8478971",
+    "name": "Connor Ingram",
+    "position": "G"
+  },
+  {
+    "id": "8479394",
+    "name": "Carter Hart",
+    "position": "G"
+  },
+  {
+    "id": "8480280",
+    "name": "Jeremy Swayman",
+    "position": "G"
+  },
+  {
+    "id": "8480238",
+    "name": "Jiri Patera",
+    "position": "G"
+  },
+  {
+    "id": "8476316",
+    "name": "Laurent Brossoit",
+    "position": "G"
+  },
+  {
+    "id": "8482123",
+    "name": "Drew Commesso",
+    "position": "G"
+  },
+  {
+    "id": "8480022",
+    "name": "Michael DiPietro",
+    "position": "G"
+  },
+  {
+    "id": "8474593",
+    "name": "Jacob Markstrom",
+    "position": "G"
+  },
+  {
+    "id": "8476999",
+    "name": "Linus Ullmark",
+    "position": "G"
+  },
+  {
+    "id": "8481020",
+    "name": "Justus Annunen",
+    "position": "G"
+  },
+  {
+    "id": "8479973",
+    "name": "Stuart Skinner",
+    "position": "G"
+  },
+  {
+    "id": "8478499",
+    "name": "Adin Hill",
+    "position": "G"
+  },
+  {
+    "id": "8477424",
+    "name": "Juuse Saros",
+    "position": "G"
+  },
+  {
+    "id": "8477465",
+    "name": "Tristan Jarry",
+    "position": "G"
+  },
+  {
+    "id": "8482076",
+    "name": "Nico Daws",
+    "position": "G"
+  },
+  {
+    "id": "8478470",
+    "name": "Samuel Montembeault",
+    "position": "G"
+  },
+  {
+    "id": "8478872",
+    "name": "Karel Vejmelka",
+    "position": "G"
+  },
+  {
+    "id": "8483710",
+    "name": "Dennis Hildeby",
+    "position": "G"
+  },
+  {
+    "id": "8477480",
+    "name": "Eric Comrie",
+    "position": "G"
+  },
+  {
+    "id": "8477831",
+    "name": "Pheonix Copley",
+    "position": "G"
+  },
+  {
+    "id": "8483668",
+    "name": "Nikke Kokko",
+    "position": "G"
+  },
+  {
+    "id": "8482447",
+    "name": "Leevi Meril\u00e4inen",
+    "position": "G"
+  },
+  {
+    "id": "8475311",
+    "name": "Darcy Kuemper",
+    "position": "G"
+  },
+  {
+    "id": "8481551",
+    "name": "Colten Ellis",
+    "position": "G"
+  },
+  {
+    "id": "8478048",
+    "name": "Igor Shesterkin",
+    "position": "G"
+  },
+  {
+    "id": "8480051",
+    "name": "Cayden Primeau",
+    "position": "G"
+  },
+  {
+    "id": "8483532",
+    "name": "Clay Stevenson",
+    "position": "G"
+  },
+  {
+    "id": "8478009",
+    "name": "Ilya Sorokin",
+    "position": "G"
+  },
+  {
+    "id": "8479361",
+    "name": "Joseph Woll",
+    "position": "G"
+  },
+  {
+    "id": "8480045",
+    "name": "Ukko-Pekka Luukkonen",
+    "position": "G"
+  },
+  {
+    "id": "8479979",
+    "name": "Jake Oettinger",
+    "position": "G"
+  },
+  {
+    "id": "8479193",
+    "name": "Casey DeSmith",
+    "position": "G"
+  },
+  {
+    "id": "8473503",
+    "name": "James Reimer",
+    "position": "G"
+  },
+  {
+    "id": "8481692",
+    "name": "Dustin Wolf",
+    "position": "G"
+  },
+  {
+    "id": "8478007",
+    "name": "Elvis Merzlikins",
+    "position": "G"
+  },
+  {
+    "id": "8481529",
+    "name": "Trent Miner",
+    "position": "G"
+  },
+  {
+    "id": "8481035",
+    "name": "Samuel Ersson",
+    "position": "G"
+  },
+  {
+    "id": "8477967",
+    "name": "Thatcher Demko",
+    "position": "G"
+  },
+  {
+    "id": "8475809",
+    "name": "Scott Wedgewood",
+    "position": "G"
+  },
+  {
+    "id": "8475883",
+    "name": "Frederik Andersen",
+    "position": "G"
+  },
+  {
+    "id": "8477405",
+    "name": "Marcus Hogberg",
+    "position": "G"
+  },
+  {
+    "id": "8484910",
+    "name": "Victor Ostman",
+    "position": "G"
+  },
+  {
+    "id": "8476434",
+    "name": "John Gibson",
+    "position": "G"
+  },
+  {
+    "id": "8477970",
+    "name": "Vitek Vanecek",
+    "position": "G"
+  },
+  {
+    "id": "8476899",
+    "name": "Matt Murray",
+    "position": "G"
+  },
+  {
+    "id": "8481538",
+    "name": "Judd Caulfield",
+    "position": "F"
+  },
+  {
+    "id": "8486052",
+    "name": "Nikita Klepov",
+    "position": "F"
+  },
+  {
+    "id": "8485400",
+    "name": "Roger McQueen",
+    "position": "F"
+  },
+  {
+    "id": "8486072",
+    "name": "Marcus Nordmark",
+    "position": "F"
+  },
+  {
+    "id": "8484859",
+    "name": "Stian Solberg",
+    "position": "D"
+  },
+  {
+    "id": "8480808",
+    "name": "Jett Woo",
+    "position": "D"
+  },
+  {
+    "id": "8484154",
+    "name": "Jonathan Castagna",
+    "position": "F"
+  },
+  {
+    "id": "8484390",
+    "name": "Roman Kantserov",
+    "position": "F"
+  },
+  {
+    "id": "8486171",
+    "name": "T.J. Hughes",
+    "position": "F"
+  },
+  {
+    "id": "8485691",
+    "name": "Jaxon Fuder",
+    "position": "F"
+  },
+  {
+    "id": "8484146",
+    "name": "Tristan Bertucci",
+    "position": "D"
+  },
+  {
+    "id": "8484822",
+    "name": "Luke Krys",
+    "position": "D"
+  },
+  {
+    "id": "8483679",
+    "name": "Anton Johansson",
+    "position": "D"
+  },
+  {
+    "id": "8482171",
+    "name": "William Wallinder",
+    "position": "D"
+  },
+  {
+    "id": "8486161",
+    "name": "Owen Michaels",
+    "position": "F"
+  },
+  {
+    "id": "8482922",
+    "name": "Kirill Kirsanov",
+    "position": "D"
+  },
+  {
+    "id": "8484231",
+    "name": "Charlie Stramel",
+    "position": "F"
+  },
+  {
+    "id": "8482682",
+    "name": "Sasha Pastujov",
+    "position": "F"
+  },
+  {
+    "id": "8482890",
+    "name": "Ethan Samson",
+    "position": "D"
+  },
+  {
+    "id": "8483695",
+    "name": "Amadeus Lombardi",
+    "position": "F"
+  },
+  {
+    "id": "8486189",
+    "name": "Vitali Pinchuk",
+    "position": "F"
+  },
+  {
+    "id": "8482806",
+    "name": "William Trudeau",
+    "position": "D"
+  },
+  {
+    "id": "8485957",
+    "name": "Alberts Smits",
+    "position": "D"
+  },
+  {
+    "id": "8485383",
+    "name": "Jake O'Brien",
+    "position": "F"
+  },
+  {
+    "id": "8484200",
+    "name": "Quentin Musty",
+    "position": "F"
+  },
+  {
+    "id": "8486103",
+    "name": "Ivar Stenberg",
+    "position": "F"
+  },
+  {
+    "id": "8483666",
+    "name": "Mattias Havelid",
+    "position": "D"
+  },
+  {
+    "id": "8484790",
+    "name": "Adam Jiricek",
+    "position": "D"
+  },
+  {
+    "id": "8485587",
+    "name": "Benjamin Rautiainen",
+    "position": "F"
+  },
+  {
+    "id": "8486067",
+    "name": "Gavin McKenna",
+    "position": "F"
+  },
+  {
+    "id": "8484803",
+    "name": "Trevor Connelly",
+    "position": "F"
+  },
+  {
+    "id": "8486025",
+    "name": "Viggo Bj\u00f6rck",
+    "position": "F"
+  },
+  {
+    "id": "8482459",
+    "name": "Tyrel Bauer",
+    "position": "D"
+  },
+  {
+    "id": "8483475",
+    "name": "Topias Leinonen",
+    "position": "G"
+  },
+  {
+    "id": "8482221",
+    "name": "Devon Levi",
+    "position": "G"
+  },
+  {
+    "id": "8482465",
+    "name": "R\u00e9mi Poirier",
+    "position": "G"
+  },
+  {
+    "id": "8473575",
+    "name": "Semyon Varlamov",
+    "position": "G"
+  },
+  {
+    "id": "8480356",
+    "name": "Kyle Keyser",
+    "position": "G"
+  },
+  {
+    "id": "8478492",
+    "name": "Ilya Samsonov",
+    "position": "G"
+  },
+  {
+    "id": "8482657",
+    "name": "Sebastian Cossa",
+    "position": "G"
+  },
+  {
+    "id": "8483711",
+    "name": "Domenic DiVincentiis",
+    "position": "G"
+  }
+]

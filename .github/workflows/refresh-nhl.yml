@@ -1,0 +1,56 @@
+name: Refresh NHL data
+on:
+  push:
+    paths:
+      - scripts/**
+      - .github/workflows/refresh-nhl.yml
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: nhl-data-refresh
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Refresh confirmed trades and rosters
+        run: python scripts/refresh-nhl-trades.py
+      - name: Check data integrity
+        run: |
+          node --check dist/roster-trades.js
+          node scripts/sync-trade-rosters.cjs
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          d = Path('dist')
+          trades = json.loads((d/'nhl-recent-trades.json').read_text())
+          teams = json.loads((d/'nhl-2026-27-rosters.json').read_text())['teams']
+          assert len(teams) == 32
+          ids = [str(p) for t in teams.values() for g in ['forwards','defensemen','goalies'] for p in t[g]]
+          assert len(ids) == len(set(ids))
+          assert len(trades['trades']) > 0
+          print('Validated 32 teams, unique player IDs and confirmed trades.')
+          PY
+      - name: Commit refreshed data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dist/*.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Refresh NHL trades and rosters"
+            git push
+          fi
+      - name: Save refreshed data for verification
+        uses: actions/upload-artifact@v4
+        with:
+          name: nhl-refreshed-data
+          path: dist/*.json

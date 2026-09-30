@@ -1,0 +1,333 @@
+{
+  "asOf": "2026-09-30",
+  "checkedAt": "2026-09-30T03:05:19.525714+00:00",
+  "source": "https://www.nhl.com/news/topic/trade-coverage/2026-27-nhl-trades",
+  "trades": [
+    {
+      "date": "2026-09-28",
+      "teams": [
+        {
+          "team": "TOR",
+          "receives": [
+            "Kirill Marchenko",
+            "Miles Wood",
+            "Elvis Merzlikins"
+          ]
+        },
+        {
+          "team": "CBJ",
+          "receives": [
+            "Matthew Knies",
+            "Steven Lorentz",
+            "Emil Andrae",
+            "2nd-round pick in the 2027 NHL Draft"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "teams": [
+        {
+          "team": "OTT",
+          "receives": [
+            "Jonas Johansson"
+          ]
+        },
+        {
+          "team": "TBL",
+          "receives": [
+            "future considerations"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-01",
+      "teams": [
+        {
+          "team": "NJD",
+          "receives": [
+            "Luke Evangelista"
+          ]
+        },
+        {
+          "team": "NSH",
+          "receives": [
+            "1st-round pick in 2028 NHL Draft",
+            "2nd-round pick in the 2028 NHL Draft"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-08-20",
+      "teams": [
+        {
+          "team": "DET",
+          "receives": [
+            "Sutter Muzzatti"
+          ]
+        },
+        {
+          "team": "NSH",
+          "receives": [
+            "future considerations"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-08-19",
+      "teams": [
+        {
+          "team": "ANA",
+          "receives": [
+            "Cruz Lucius"
+          ]
+        },
+        {
+          "team": "PIT",
+          "receives": [
+            "future considerations"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-08-17",
+      "teams": [
+        {
+          "team": "CAR",
+          "receives": [
+            "Stiven Sardarian"
+          ]
+        },
+        {
+          "team": "BUF",
+          "receives": [
+            "future considerations"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-07-27",
+      "teams": [
+        {
+          "team": "MTL",
+          "receives": [
+            "Sasha Pastujov"
+          ]
+        },
+        {
+          "team": "ANA",
+          "receives": [
+            "Sean Farrell"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-07-13",
+      "teams": [
+        {
+          "team": "BUF",
+          "receives": [
+            "Zac Funk"
+          ]
+        },
+        {
+          "team": "WSH",
+          "receives": [
+            "Tyler Kopff"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "teams": [
+        {
+          "team": "MIN",
+          "receives": [
+            "Blake Coleman",
+            "Olli Maatta"
+          ]
+        },
+        {
+          "team": "CGY",
+          "receives": [
+            "Jacob Middleton",
+            "3rd-round pick in the 2027 NHL Draft",
+            "4th-round pick in the 2028 NHL Draft",
+            "2nd-round pick in the 2029 NHL Draft"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-07-01",
+      "teams": [
+        {
+          "team": "NSH",
+          "receives": [
+            "Mavrik Bourque",
+            "Ilya Lyubushkin"
+          ]
+        },
+        {
+          "team": "DAL",
+          "receives": [
+            "2nd-round pick in the 2027 NHL Draft",
+            "3rd-round pick in the 2028 NHL Draft"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-07-01",
+      "teams": [
+        {
+          "team": "DET",
+          "receives": [
+            "Keegan Kolesar"
+          ]
+        },
+        {
+          "team": "VGK",
+          "receives": [
+            "3rd-round pick in the 2029 NHL Draft",
+            "7th-round pick in the 2027 NHL Draft"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-07-01",
+      "teams": [
+        {
+          "team": "NYR",
+          "receives": [
+            "Marcus Pettersson"
+          ]
+        },
+        {
+          "team": "VAN",
+          "receives": [
+            "1st-round pick in the 2030 NHL Draft"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-07-01",
+      "teams": [
+        {
+          "team": "BOS",
+          "receives": [
+            "Will Borgen"
+          ]
+        },
+        {
+          "team": "NYR",
+          "receives": [
+            "2nd-round pick in the 2027 NHL Draft",
+            "conditional 3rd-round pick in the 2028 NHL Draft"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-07-01",
+      "teams": [
+        {
+          "team": "UTA",
+          "receives": [
+            "Vincent Trocheck"
+          ]
+        },
+        {
+          "team": "NYR",
+          "receives": [
+            "Sean Durzi",
+            "Cole Beaudoin",
+            "3rd-round pick in the 2027 NHL Draft"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-07-01",
+      "teams": [
+        {
+          "team": "SJS",
+          "receives": [
+            "Darnell Nurse"
+          ]
+        },
+        {
+          "team": "EDM",
+          "receives": [
+            "Shakir Mukhamadullin",
+            "Zachary Sharp"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-07-01",
+      "teams": [
+        {
+          "team": "TOR",
+          "receives": [
+            "Nick Paul"
+          ]
+        },
+        {
+          "team": "TBL",
+          "receives": [
+            "Dennis Hildeby",
+            "4th-round pick in the 2027 NHL Draft",
+            "3rd-round pick in the 2028 NHL Draft"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-07-01",
+      "teams": [
+        {
+          "team": "EDM",
+          "receives": [
+            "Devon Levi",
+            "7th-round pick in the 2028 NHL Draft"
+          ]
+        },
+        {
+          "team": "BUF",
+          "receives": [
+            "3rd-round pick in 2028"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-07-01",
+      "teams": [
+        {
+          "team": "NYR",
+          "receives": [
+            "Joonas Korpisalo"
+          ]
+        },
+        {
+          "team": "BOS",
+          "receives": [
+            "Kalle Vaisanen"
+          ]
+        }
+      ]
+    }
+  ]
+}

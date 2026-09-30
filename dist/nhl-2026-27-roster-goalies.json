@@ -1,0 +1,371 @@
+{
+  "asOf": "2026-09-30T03:05:19.525714+00:00",
+  "goalies": [
+    {
+      "id": "8476316",
+      "name": "Laurent Brossoit",
+      "team": "ANA"
+    },
+    {
+      "id": "8480843",
+      "name": "Lukas Dostal",
+      "team": "ANA"
+    },
+    {
+      "id": "8478024",
+      "name": "Ville Husso",
+      "team": "ANA"
+    },
+    {
+      "id": "8480022",
+      "name": "Michael DiPietro",
+      "team": "BOS"
+    },
+    {
+      "id": "8480280",
+      "name": "Jeremy Swayman",
+      "team": "BOS"
+    },
+    {
+      "id": "8481551",
+      "name": "Colten Ellis",
+      "team": "BUF"
+    },
+    {
+      "id": "8480045",
+      "name": "Ukko-Pekka Luukkonen",
+      "team": "BUF"
+    },
+    {
+      "id": "8479312",
+      "name": "Alex Lyon",
+      "team": "BUF"
+    },
+    {
+      "id": "8482445",
+      "name": "Devin Cooley",
+      "team": "CGY"
+    },
+    {
+      "id": "8481692",
+      "name": "Dustin Wolf",
+      "team": "CGY"
+    },
+    {
+      "id": "8483548",
+      "name": "Brandon Bussi",
+      "team": "CAR"
+    },
+    {
+      "id": "8481611",
+      "name": "Pyotr Kochetkov",
+      "team": "CAR"
+    },
+    {
+      "id": "8480051",
+      "name": "Cayden Primeau",
+      "team": "CAR"
+    },
+    {
+      "id": "8481519",
+      "name": "Spencer Knight",
+      "team": "CHI"
+    },
+    {
+      "id": "8482821",
+      "name": "Arvid Soderblom",
+      "team": "CHI"
+    },
+    {
+      "id": "8478406",
+      "name": "Mackenzie Blackwood",
+      "team": "COL"
+    },
+    {
+      "id": "8475809",
+      "name": "Scott Wedgewood",
+      "team": "COL"
+    },
+    {
+      "id": "8482982",
+      "name": "Jet Greaves",
+      "team": "CBJ"
+    },
+    {
+      "id": "8475660",
+      "name": "Cam Talbot",
+      "team": "CBJ"
+    },
+    {
+      "id": "8479193",
+      "name": "Casey DeSmith",
+      "team": "DAL"
+    },
+    {
+      "id": "8479979",
+      "name": "Jake Oettinger",
+      "team": "DAL"
+    },
+    {
+      "id": "8476434",
+      "name": "John Gibson",
+      "team": "DET"
+    },
+    {
+      "id": "8480193",
+      "name": "Daniil Tarasov",
+      "team": "DET"
+    },
+    {
+      "id": "8475883",
+      "name": "Frederik Andersen",
+      "team": "EDM"
+    },
+    {
+      "id": "8477465",
+      "name": "Tristan Jarry",
+      "team": "EDM"
+    },
+    {
+      "id": "8482221",
+      "name": "Devon Levi",
+      "team": "EDM"
+    },
+    {
+      "id": "8474593",
+      "name": "Jacob Markstrom",
+      "team": "FLA"
+    },
+    {
+      "id": "8481033",
+      "name": "Akira Schmid",
+      "team": "FLA"
+    },
+    {
+      "id": "8476341",
+      "name": "Anton Forsberg",
+      "team": "LAK"
+    },
+    {
+      "id": "8475311",
+      "name": "Darcy Kuemper",
+      "team": "LAK"
+    },
+    {
+      "id": "8475717",
+      "name": "Calvin Pickard",
+      "team": "MIN"
+    },
+    {
+      "id": "8482661",
+      "name": "Jesper Wallstedt",
+      "team": "MIN"
+    },
+    {
+      "id": "8482487",
+      "name": "Jakub Dobes",
+      "team": "MTL"
+    },
+    {
+      "id": "8478470",
+      "name": "Samuel Montembeault",
+      "team": "MTL"
+    },
+    {
+      "id": "8481020",
+      "name": "Justus Annunen",
+      "team": "NSH"
+    },
+    {
+      "id": "8477424",
+      "name": "Juuse Saros",
+      "team": "NSH"
+    },
+    {
+      "id": "8474596",
+      "name": "Jake Allen",
+      "team": "NJD"
+    },
+    {
+      "id": "8482076",
+      "name": "Nico Daws",
+      "team": "NJD"
+    },
+    {
+      "id": "8482465",
+      "name": "Rémi Poirier",
+      "team": "NJD"
+    },
+    {
+      "id": "8478009",
+      "name": "Ilya Sorokin",
+      "team": "NYI"
+    },
+    {
+      "id": "8473575",
+      "name": "Semyon Varlamov",
+      "team": "NYI"
+    },
+    {
+      "id": "8476914",
+      "name": "Joonas Korpisalo",
+      "team": "NYR"
+    },
+    {
+      "id": "8478048",
+      "name": "Igor Shesterkin",
+      "team": "NYR"
+    },
+    {
+      "id": "8481035",
+      "name": "Samuel Ersson",
+      "team": "OTT"
+    },
+    {
+      "id": "8476999",
+      "name": "Linus Ullmark",
+      "team": "OTT"
+    },
+    {
+      "id": "8478435",
+      "name": "Dan Vladar",
+      "team": "PHI"
+    },
+    {
+      "id": "8479361",
+      "name": "Joseph Woll",
+      "team": "PHI"
+    },
+    {
+      "id": "8483703",
+      "name": "Sergei Murashov",
+      "team": "PIT"
+    },
+    {
+      "id": "8481668",
+      "name": "Arturs Silovs",
+      "team": "PIT"
+    },
+    {
+      "id": "8482137",
+      "name": "Yaroslav Askarov",
+      "team": "SJS"
+    },
+    {
+      "id": "8477968",
+      "name": "Alex Nedeljkovic",
+      "team": "SJS"
+    },
+    {
+      "id": "8478916",
+      "name": "Joey Daccord",
+      "team": "SEA"
+    },
+    {
+      "id": "8475831",
+      "name": "Philipp Grubauer",
+      "team": "SEA"
+    },
+    {
+      "id": "8476412",
+      "name": "Jordan Binnington",
+      "team": "STL"
+    },
+    {
+      "id": "8480981",
+      "name": "Joel Hofer",
+      "team": "STL"
+    },
+    {
+      "id": "8483710",
+      "name": "Dennis Hildeby",
+      "team": "TBL"
+    },
+    {
+      "id": "8476883",
+      "name": "Andrei Vasilevskiy",
+      "team": "TBL"
+    },
+    {
+      "id": "8475683",
+      "name": "Sergei Bobrovsky",
+      "team": "TOR"
+    },
+    {
+      "id": "8476932",
+      "name": "Anthony Stolarz",
+      "team": "TOR"
+    },
+    {
+      "id": "8482657",
+      "name": "Sebastian Cossa",
+      "team": "UTA"
+    },
+    {
+      "id": "8478872",
+      "name": "Karel Vejmelka",
+      "team": "UTA"
+    },
+    {
+      "id": "8477967",
+      "name": "Thatcher Demko",
+      "team": "VAN"
+    },
+    {
+      "id": "8480947",
+      "name": "Kevin Lankinen",
+      "team": "VAN"
+    },
+    {
+      "id": "8482447",
+      "name": "Leevi Meriläinen",
+      "team": "VAN"
+    },
+    {
+      "id": "8479394",
+      "name": "Carter Hart",
+      "team": "VGK"
+    },
+    {
+      "id": "8478499",
+      "name": "Adin Hill",
+      "team": "VGK"
+    },
+    {
+      "id": "8479292",
+      "name": "Charlie Lindgren",
+      "team": "WSH"
+    },
+    {
+      "id": "8480313",
+      "name": "Logan Thompson",
+      "team": "WSH"
+    },
+    {
+      "id": "8476945",
+      "name": "Connor Hellebuyck",
+      "team": "WPG"
+    },
+    {
+      "id": "8479973",
+      "name": "Stuart Skinner",
+      "team": "WPG"
+    },
+    {
+      "id": "8483532",
+      "name": "Clay Stevenson",
+      "team": "WPG"
+    },
+    {
+      "id": "8477992",
+      "name": "Jonas Johansson",
+      "team": "OTT"
+    },
+    {
+      "id": "8478007",
+      "name": "Elvis Merzlikins",
+      "team": "TOR"
+    }
+  ],
+  "tradesAsOf": "2026-09-30"
+}

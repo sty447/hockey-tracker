@@ -1,0 +1,9 @@
+/* One reconciliation rule for published snapshots and open pages. */
+(function(root){
+const normalize=s=>String(s).normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]/g,'');
+function reconcile(players,goalies,teams,trades,catalog){
+players=players.map(x=>({...x}));goalies=goalies.map(x=>({...x}));teams=JSON.parse(JSON.stringify(teams));const known=new Map(catalog.map(x=>[normalize(x.name),x]));for(const x of [...players,...goalies])known.set(normalize(x.name),x);let changed=0,unresolved=[];
+for(const trade of [...trades].sort((a,b)=>a.date.localeCompare(b.date))){if(trade.date>new Date().toISOString().slice(0,10))continue;for(const side of trade.teams||[]){if(!teams[side.team])continue;for(const asset of side.receives||[]){if(/pick|considerations/i.test(asset))continue;const person=known.get(normalize(asset));if(!person){unresolved.push(asset);continue}const isGoalie=person.position==='G'||goalies.some(x=>String(x.id)===String(person.id));const group=isGoalie?'goalies':person.position==='D'?'defensemen':'forwards',list=isGoalie?goalies:players;let row=list.find(x=>String(x.id)===String(person.id));if(row?.team===side.team&&teams[side.team][group]?.some(id=>String(id)===String(person.id)))continue;if(row)row.team=side.team;else{row={id:String(person.id),name:person.name,team:side.team,...(isGoalie?{}:{position:person.position==='D'?'D':'F'})};list.push(row)}for(const team of Object.values(teams))for(const g of ['forwards','defensemen','goalies'])team[g]=(team[g]||[]).filter(id=>String(id)!==String(person.id));teams[side.team][group].push(String(person.id));changed++}}
+}return {players,goalies,teams,changed,unresolved:[...new Set(unresolved)]}}
+root.reconcileTradeRosters=reconcile;if(typeof module!=='undefined')module.exports=reconcile;
+})(typeof globalThis==='undefined'?window:globalThis);
