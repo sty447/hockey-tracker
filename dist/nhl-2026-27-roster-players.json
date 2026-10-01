@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-01T08:55:22.581069+00:00",
+  "asOf": "2026-10-01T16:26:38.051249+00:00",
   "players": [
     {
       "id": "8484153",
@@ -400,6 +400,12 @@
     {
       "id": "8480839",
       "name": "Rasmus Dahlin",
+      "team": "BUF",
+      "position": "D"
+    },
+    {
+      "id": "8478502",
+      "name": "Dennis Gilbert",
       "team": "BUF",
       "position": "D"
     },
@@ -1112,6 +1118,12 @@
       "position": "F"
     },
     {
+      "id": "8476278",
+      "name": "Colin Blackwell",
+      "team": "DAL",
+      "position": "F"
+    },
+    {
       "id": "8480840",
       "name": "Oskar Bäck",
       "team": "DAL",
@@ -1138,6 +1150,12 @@
     {
       "id": "8484829",
       "name": "Justin Hryckowian",
+      "team": "DAL",
+      "position": "F"
+    },
+    {
+      "id": "8484938",
+      "name": "Arttu Hyry",
       "team": "DAL",
       "position": "F"
     },
@@ -4376,12 +4394,6 @@
       "position": "F"
     },
     {
-      "id": "8476278",
-      "name": "Colin Blackwell",
-      "team": "DAL",
-      "position": "F"
-    },
-    {
       "id": "8480035",
       "name": "Henri Jokiharju",
       "team": "BOS",
@@ -4554,12 +4566,6 @@
       "name": "Urho Vaakanainen",
       "team": "NYR",
       "position": "D"
-    },
-    {
-      "id": "8484938",
-      "name": "Arttu Hyry",
-      "team": "DAL",
-      "position": "F"
     },
     {
       "id": "8482993",
@@ -4853,12 +4859,6 @@
       "id": "8484220",
       "name": "David Reinbacher",
       "team": "MTL",
-      "position": "D"
-    },
-    {
-      "id": "8478502",
-      "name": "Dennis Gilbert",
-      "team": "BUF",
       "position": "D"
     },
     {

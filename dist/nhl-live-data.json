@@ -1,8 +1,8 @@
 {
-  "asOf": "2026-10-01T08:55:22.581069+00:00",
+  "asOf": "2026-10-01T16:26:38.051249+00:00",
   "trades": {
     "asOf": "2026-10-01",
-    "checkedAt": "2026-10-01T08:55:22.581069+00:00",
+    "checkedAt": "2026-10-01T16:26:38.051249+00:00",
     "source": "https://www.nhl.com/news/topic/trade-coverage/2026-27-nhl-trades",
     "trades": [
       {
@@ -334,7 +334,7 @@
     ]
   },
   "rosters": {
-    "asOf": "2026-10-01T08:55:22.581069+00:00",
+    "asOf": "2026-10-01T16:26:38.051249+00:00",
     "teams": {
       "ANA": {
         "forwards": [
@@ -445,13 +445,13 @@
         "defensemen": [
           "8481806",
           "8480839",
+          "8478502",
           "8476891",
           "8484305",
           "8482671",
           "8480807",
           "8479982",
           "8482803",
-          "8478502",
           "8481564"
         ],
         "goalies": [
@@ -660,19 +660,19 @@
       "DAL": {
         "forwards": [
           "8473994",
+          "8476278",
           "8480840",
           "8475168",
           "8476889",
           "8478449",
           "8484829",
+          "8484938",
           "8482740",
           "8481641",
           "8478420",
           "8480027",
           "8475794",
           "8479351",
-          "8476278",
-          "8484938",
           "8478888"
         ],
         "defensemen": [
@@ -1596,7 +1596,7 @@
     "tradesAsOf": "2026-10-01"
   },
   "skaters": {
-    "asOf": "2026-10-01T08:55:22.581069+00:00",
+    "asOf": "2026-10-01T16:26:38.051249+00:00",
     "players": [
       {
         "id": "8484153",
@@ -1997,6 +1997,12 @@
       {
         "id": "8480839",
         "name": "Rasmus Dahlin",
+        "team": "BUF",
+        "position": "D"
+      },
+      {
+        "id": "8478502",
+        "name": "Dennis Gilbert",
         "team": "BUF",
         "position": "D"
       },
@@ -2709,6 +2715,12 @@
         "position": "F"
       },
       {
+        "id": "8476278",
+        "name": "Colin Blackwell",
+        "team": "DAL",
+        "position": "F"
+      },
+      {
         "id": "8480840",
         "name": "Oskar B\u00e4ck",
         "team": "DAL",
@@ -2735,6 +2747,12 @@
       {
         "id": "8484829",
         "name": "Justin Hryckowian",
+        "team": "DAL",
+        "position": "F"
+      },
+      {
+        "id": "8484938",
+        "name": "Arttu Hyry",
         "team": "DAL",
         "position": "F"
       },
@@ -5973,12 +5991,6 @@
         "position": "F"
       },
       {
-        "id": "8476278",
-        "name": "Colin Blackwell",
-        "team": "DAL",
-        "position": "F"
-      },
-      {
         "id": "8480035",
         "name": "Henri Jokiharju",
         "team": "BOS",
@@ -6151,12 +6163,6 @@
         "name": "Urho Vaakanainen",
         "team": "NYR",
         "position": "D"
-      },
-      {
-        "id": "8484938",
-        "name": "Arttu Hyry",
-        "team": "DAL",
-        "position": "F"
       },
       {
         "id": "8482993",
@@ -6450,12 +6456,6 @@
         "id": "8484220",
         "name": "David Reinbacher",
         "team": "MTL",
-        "position": "D"
-      },
-      {
-        "id": "8478502",
-        "name": "Dennis Gilbert",
-        "team": "BUF",
         "position": "D"
       },
       {
@@ -7050,7 +7050,7 @@
     "tradesAsOf": "2026-10-01"
   },
   "goalies": {
-    "asOf": "2026-10-01T08:55:22.581069+00:00",
+    "asOf": "2026-10-01T16:26:38.051249+00:00",
     "goalies": [
       {
         "id": "8476316",
