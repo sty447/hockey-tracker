@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-01T16:26:38.051249+00:00",
+  "asOf": "2026-10-01T21:49:50.839655+00:00",
   "goalies": [
     {
       "id": "8476316",
@@ -59,11 +59,6 @@
     {
       "id": "8481611",
       "name": "Pyotr Kochetkov",
-      "team": "CAR"
-    },
-    {
-      "id": "8480051",
-      "name": "Cayden Primeau",
       "team": "CAR"
     },
     {
@@ -205,6 +200,11 @@
       "id": "8473575",
       "name": "Semyon Varlamov",
       "team": "NYI"
+    },
+    {
+      "id": "8482193",
+      "name": "Dylan Garand",
+      "team": "NYR"
     },
     {
       "id": "8476914",
@@ -392,11 +392,6 @@
       "team": "NYR"
     },
     {
-      "id": "8482193",
-      "name": "Dylan Garand",
-      "team": "NYR"
-    },
-    {
       "id": "8481544",
       "name": "Mads Sogaard",
       "team": "TBL"
@@ -425,6 +420,11 @@
       "id": "8477992",
       "name": "Jonas Johansson",
       "team": "OTT"
+    },
+    {
+      "id": "8480051",
+      "name": "Cayden Primeau",
+      "team": "CAR"
     },
     {
       "id": "8482515",

@@ -1,10 +1,27 @@
 {
-  "asOf": "2026-10-01T16:26:38.051249+00:00",
+  "asOf": "2026-10-01T21:49:50.839655+00:00",
   "trades": {
     "asOf": "2026-10-01",
-    "checkedAt": "2026-10-01T16:26:38.051249+00:00",
+    "checkedAt": "2026-10-01T21:49:50.839655+00:00",
     "source": "https://www.nhl.com/news/topic/trade-coverage/2026-27-nhl-trades",
     "trades": [
+      {
+        "date": "2026-10-01",
+        "teams": [
+          {
+            "team": "PHI",
+            "receives": [
+              "David Goyette"
+            ]
+          },
+          {
+            "team": "SEA",
+            "receives": [
+              "Devin Kaplan"
+            ]
+          }
+        ]
+      },
       {
         "date": "2026-09-28",
         "teams": [
@@ -334,7 +351,7 @@
     ]
   },
   "rosters": {
-    "asOf": "2026-10-01T16:26:38.051249+00:00",
+    "asOf": "2026-10-01T21:49:50.839655+00:00",
     "teams": {
       "ANA": {
         "forwards": [
@@ -463,31 +480,30 @@
       "CGY": {
         "forwards": [
           "8474150",
-          "8484154",
           "8482679",
           "8480797",
           "8480028",
           "8484860",
           "8484180",
           "8476456",
-          "8482209",
           "8483609",
           "8482747",
           "8481028",
           "8481068",
           "8476458",
-          "8484234",
           "8484958",
           "8482074",
           "8480259",
+          "8484234",
           "8486056",
           "8478211",
+          "8482209",
           "8484821",
-          "8482766"
+          "8482766",
+          "8484154"
         ],
         "defensemen": [
           "8480860",
-          "8484150",
           "8477810",
           "8482165",
           "8478136",
@@ -495,8 +511,9 @@
           "8481167",
           "8484768",
           "8480727",
-          "8483709",
-          "8482107"
+          "8484150",
+          "8482107",
+          "8483709"
         ],
         "goalies": [
           "8482445",
@@ -545,8 +562,8 @@
       },
       "CHI": {
         "forwards": [
+          "8484144",
           "8477479",
-          "8484793",
           "8477987",
           "8485391",
           "8483450",
@@ -559,9 +576,9 @@
           "8483493",
           "8482062",
           "8476882",
-          "8476952",
-          "8484144",
-          "8482172"
+          "8482172",
+          "8484793",
+          "8476952"
         ],
         "defensemen": [
           "8481524",
@@ -1080,10 +1097,10 @@
           "8484169"
         ],
         "goalies": [
+          "8482193",
           "8476914",
           "8478048",
-          "8477484",
-          "8482193"
+          "8477484"
         ]
       },
       "OTT": {
@@ -1179,12 +1196,12 @@
           "8482148",
           "8481481",
           "8471215",
-          "8483487",
           "8478438",
           "8476483",
           "8481582",
           "8475810",
           "8481725",
+          "8483487",
           "8482993",
           "8482698"
         ],
@@ -1262,7 +1279,8 @@
           "8483524",
           "8483497",
           "8484168",
-          "8477401"
+          "8477401",
+          "8483461"
         ],
         "defensemen": [
           "8478407",
@@ -1596,7 +1614,7 @@
     "tradesAsOf": "2026-10-01"
   },
   "skaters": {
-    "asOf": "2026-10-01T16:26:38.051249+00:00",
+    "asOf": "2026-10-01T21:49:50.839655+00:00",
     "players": [
       {
         "id": "8484153",
@@ -2049,12 +2067,6 @@
         "position": "F"
       },
       {
-        "id": "8484154",
-        "name": "Jonathan Castagna",
-        "team": "CGY",
-        "position": "F"
-      },
-      {
         "id": "8482679",
         "name": "Matt Coronato",
         "team": "CGY",
@@ -2091,12 +2103,6 @@
         "position": "F"
       },
       {
-        "id": "8482209",
-        "name": "Rory Kerins",
-        "team": "CGY",
-        "position": "F"
-      },
-      {
         "id": "8483609",
         "name": "Adam Klapka",
         "team": "CGY",
@@ -2127,12 +2133,6 @@
         "position": "F"
       },
       {
-        "id": "8484234",
-        "name": "Aydar Suniev",
-        "team": "CGY",
-        "position": "F"
-      },
-      {
         "id": "8484958",
         "name": "Maxim Tsyplakov",
         "team": "CGY",
@@ -2147,12 +2147,6 @@
       {
         "id": "8480860",
         "name": "Kevin Bahl",
-        "team": "CGY",
-        "position": "D"
-      },
-      {
-        "id": "8484150",
-        "name": "Hunter Brzustewicz",
         "team": "CGY",
         "position": "D"
       },
@@ -2195,12 +2189,6 @@
       {
         "id": "8480727",
         "name": "Zach Whitecloud",
-        "team": "CGY",
-        "position": "D"
-      },
-      {
-        "id": "8483709",
-        "name": "Abram Wiebe",
         "team": "CGY",
         "position": "D"
       },
@@ -2325,14 +2313,14 @@
         "position": "D"
       },
       {
-        "id": "8477479",
-        "name": "Tyler Bertuzzi",
+        "id": "8484144",
+        "name": "Connor Bedard",
         "team": "CHI",
         "position": "F"
       },
       {
-        "id": "8484793",
-        "name": "Sacha Boisvert",
+        "id": "8477479",
+        "name": "Tyler Bertuzzi",
         "team": "CHI",
         "position": "F"
       },
@@ -2405,12 +2393,6 @@
       {
         "id": "8476882",
         "name": "Teuvo Teravainen",
-        "team": "CHI",
-        "position": "F"
-      },
-      {
-        "id": "8476952",
-        "name": "Dominic Toninato",
         "team": "CHI",
         "position": "F"
       },
@@ -4461,12 +4443,6 @@
         "position": "F"
       },
       {
-        "id": "8483487",
-        "name": "Rutger McGroarty",
-        "team": "PIT",
-        "position": "F"
-      },
-      {
         "id": "8478438",
         "name": "Tommy Novak",
         "team": "PIT",
@@ -5853,12 +5829,6 @@
         "position": "D"
       },
       {
-        "id": "8484144",
-        "name": "Connor Bedard",
-        "team": "CHI",
-        "position": "F"
-      },
-      {
         "id": "8478445",
         "name": "Mathew Barzal",
         "team": "NYI",
@@ -6111,6 +6081,12 @@
         "position": "F"
       },
       {
+        "id": "8484150",
+        "name": "Hunter Brzustewicz",
+        "team": "CGY",
+        "position": "D"
+      },
+      {
         "id": "8483497",
         "name": "Jani Nyman",
         "team": "SEA",
@@ -6157,6 +6133,12 @@
         "name": "Pierre-Olivier Joseph",
         "team": "CAR",
         "position": "D"
+      },
+      {
+        "id": "8483487",
+        "name": "Rutger McGroarty",
+        "team": "PIT",
+        "position": "F"
       },
       {
         "id": "8480001",
@@ -6369,6 +6351,12 @@
         "position": "D"
       },
       {
+        "id": "8484793",
+        "name": "Sacha Boisvert",
+        "team": "CHI",
+        "position": "F"
+      },
+      {
         "id": "8478043",
         "name": "Sam Lafferty",
         "team": "FLA",
@@ -6402,6 +6390,12 @@
         "id": "8477320",
         "name": "Anton Blidh",
         "team": "NYR",
+        "position": "F"
+      },
+      {
+        "id": "8484234",
+        "name": "Aydar Suniev",
+        "team": "CGY",
         "position": "F"
       },
       {
@@ -6457,6 +6451,12 @@
         "name": "David Reinbacher",
         "team": "MTL",
         "position": "D"
+      },
+      {
+        "id": "8476952",
+        "name": "Dominic Toninato",
+        "team": "CHI",
+        "position": "F"
       },
       {
         "id": "8482206",
@@ -6643,6 +6643,12 @@
         "name": "Tyson Gross",
         "team": "CGY",
         "position": "F"
+      },
+      {
+        "id": "8483709",
+        "name": "Abram Wiebe",
+        "team": "CGY",
+        "position": "D"
       },
       {
         "id": "8480874",
@@ -6915,6 +6921,12 @@
         "position": "D"
       },
       {
+        "id": "8482209",
+        "name": "Rory Kerins",
+        "team": "CGY",
+        "position": "F"
+      },
+      {
         "id": "8481564",
         "name": "Ryan Johnson",
         "team": "BUF",
@@ -7035,6 +7047,12 @@
         "position": "F"
       },
       {
+        "id": "8484154",
+        "name": "Jonathan Castagna",
+        "team": "CGY",
+        "position": "F"
+      },
+      {
         "id": "8483479",
         "name": "Cruz Lucius",
         "team": "ANA",
@@ -7045,12 +7063,18 @@
         "name": "Sasha Pastujov",
         "team": "MTL",
         "position": "F"
+      },
+      {
+        "id": "8483461",
+        "name": "Devin Kaplan",
+        "team": "SEA",
+        "position": "F"
       }
     ],
     "tradesAsOf": "2026-10-01"
   },
   "goalies": {
-    "asOf": "2026-10-01T16:26:38.051249+00:00",
+    "asOf": "2026-10-01T21:49:50.839655+00:00",
     "goalies": [
       {
         "id": "8476316",
@@ -7110,11 +7134,6 @@
       {
         "id": "8481611",
         "name": "Pyotr Kochetkov",
-        "team": "CAR"
-      },
-      {
-        "id": "8480051",
-        "name": "Cayden Primeau",
         "team": "CAR"
       },
       {
@@ -7256,6 +7275,11 @@
         "id": "8473575",
         "name": "Semyon Varlamov",
         "team": "NYI"
+      },
+      {
+        "id": "8482193",
+        "name": "Dylan Garand",
+        "team": "NYR"
       },
       {
         "id": "8476914",
@@ -7443,11 +7467,6 @@
         "team": "NYR"
       },
       {
-        "id": "8482193",
-        "name": "Dylan Garand",
-        "team": "NYR"
-      },
-      {
         "id": "8481544",
         "name": "Mads Sogaard",
         "team": "TBL"
@@ -7476,6 +7495,11 @@
         "id": "8477992",
         "name": "Jonas Johansson",
         "team": "OTT"
+      },
+      {
+        "id": "8480051",
+        "name": "Cayden Primeau",
+        "team": "CAR"
       },
       {
         "id": "8482515",

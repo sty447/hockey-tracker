@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-01T16:26:38.051249+00:00",
+  "asOf": "2026-10-01T21:49:50.839655+00:00",
   "players": [
     {
       "id": "8484153",
@@ -452,12 +452,6 @@
       "position": "F"
     },
     {
-      "id": "8484154",
-      "name": "Jonathan Castagna",
-      "team": "CGY",
-      "position": "F"
-    },
-    {
       "id": "8482679",
       "name": "Matt Coronato",
       "team": "CGY",
@@ -494,12 +488,6 @@
       "position": "F"
     },
     {
-      "id": "8482209",
-      "name": "Rory Kerins",
-      "team": "CGY",
-      "position": "F"
-    },
-    {
       "id": "8483609",
       "name": "Adam Klapka",
       "team": "CGY",
@@ -530,12 +518,6 @@
       "position": "F"
     },
     {
-      "id": "8484234",
-      "name": "Aydar Suniev",
-      "team": "CGY",
-      "position": "F"
-    },
-    {
       "id": "8484958",
       "name": "Maxim Tsyplakov",
       "team": "CGY",
@@ -550,12 +532,6 @@
     {
       "id": "8480860",
       "name": "Kevin Bahl",
-      "team": "CGY",
-      "position": "D"
-    },
-    {
-      "id": "8484150",
-      "name": "Hunter Brzustewicz",
       "team": "CGY",
       "position": "D"
     },
@@ -598,12 +574,6 @@
     {
       "id": "8480727",
       "name": "Zach Whitecloud",
-      "team": "CGY",
-      "position": "D"
-    },
-    {
-      "id": "8483709",
-      "name": "Abram Wiebe",
       "team": "CGY",
       "position": "D"
     },
@@ -728,14 +698,14 @@
       "position": "D"
     },
     {
-      "id": "8477479",
-      "name": "Tyler Bertuzzi",
+      "id": "8484144",
+      "name": "Connor Bedard",
       "team": "CHI",
       "position": "F"
     },
     {
-      "id": "8484793",
-      "name": "Sacha Boisvert",
+      "id": "8477479",
+      "name": "Tyler Bertuzzi",
       "team": "CHI",
       "position": "F"
     },
@@ -808,12 +778,6 @@
     {
       "id": "8476882",
       "name": "Teuvo Teravainen",
-      "team": "CHI",
-      "position": "F"
-    },
-    {
-      "id": "8476952",
-      "name": "Dominic Toninato",
       "team": "CHI",
       "position": "F"
     },
@@ -2864,12 +2828,6 @@
       "position": "F"
     },
     {
-      "id": "8483487",
-      "name": "Rutger McGroarty",
-      "team": "PIT",
-      "position": "F"
-    },
-    {
       "id": "8478438",
       "name": "Tommy Novak",
       "team": "PIT",
@@ -4256,12 +4214,6 @@
       "position": "D"
     },
     {
-      "id": "8484144",
-      "name": "Connor Bedard",
-      "team": "CHI",
-      "position": "F"
-    },
-    {
       "id": "8478445",
       "name": "Mathew Barzal",
       "team": "NYI",
@@ -4514,6 +4466,12 @@
       "position": "F"
     },
     {
+      "id": "8484150",
+      "name": "Hunter Brzustewicz",
+      "team": "CGY",
+      "position": "D"
+    },
+    {
       "id": "8483497",
       "name": "Jani Nyman",
       "team": "SEA",
@@ -4560,6 +4518,12 @@
       "name": "Pierre-Olivier Joseph",
       "team": "CAR",
       "position": "D"
+    },
+    {
+      "id": "8483487",
+      "name": "Rutger McGroarty",
+      "team": "PIT",
+      "position": "F"
     },
     {
       "id": "8480001",
@@ -4772,6 +4736,12 @@
       "position": "D"
     },
     {
+      "id": "8484793",
+      "name": "Sacha Boisvert",
+      "team": "CHI",
+      "position": "F"
+    },
+    {
       "id": "8478043",
       "name": "Sam Lafferty",
       "team": "FLA",
@@ -4805,6 +4775,12 @@
       "id": "8477320",
       "name": "Anton Blidh",
       "team": "NYR",
+      "position": "F"
+    },
+    {
+      "id": "8484234",
+      "name": "Aydar Suniev",
+      "team": "CGY",
       "position": "F"
     },
     {
@@ -4860,6 +4836,12 @@
       "name": "David Reinbacher",
       "team": "MTL",
       "position": "D"
+    },
+    {
+      "id": "8476952",
+      "name": "Dominic Toninato",
+      "team": "CHI",
+      "position": "F"
     },
     {
       "id": "8482206",
@@ -5046,6 +5028,12 @@
       "name": "Tyson Gross",
       "team": "CGY",
       "position": "F"
+    },
+    {
+      "id": "8483709",
+      "name": "Abram Wiebe",
+      "team": "CGY",
+      "position": "D"
     },
     {
       "id": "8480874",
@@ -5318,6 +5306,12 @@
       "position": "D"
     },
     {
+      "id": "8482209",
+      "name": "Rory Kerins",
+      "team": "CGY",
+      "position": "F"
+    },
+    {
       "id": "8481564",
       "name": "Ryan Johnson",
       "team": "BUF",
@@ -5438,6 +5432,12 @@
       "position": "F"
     },
     {
+      "id": "8484154",
+      "name": "Jonathan Castagna",
+      "team": "CGY",
+      "position": "F"
+    },
+    {
       "id": "8483479",
       "name": "Cruz Lucius",
       "team": "ANA",
@@ -5447,6 +5447,12 @@
       "id": "8482682",
       "name": "Sasha Pastujov",
       "team": "MTL",
+      "position": "F"
+    },
+    {
+      "id": "8483461",
+      "name": "Devin Kaplan",
+      "team": "SEA",
       "position": "F"
     }
   ],

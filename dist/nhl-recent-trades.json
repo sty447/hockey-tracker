@@ -1,8 +1,25 @@
 {
   "asOf": "2026-10-01",
-  "checkedAt": "2026-10-01T16:26:38.051249+00:00",
+  "checkedAt": "2026-10-01T21:49:50.839655+00:00",
   "source": "https://www.nhl.com/news/topic/trade-coverage/2026-27-nhl-trades",
   "trades": [
+    {
+      "date": "2026-10-01",
+      "teams": [
+        {
+          "team": "PHI",
+          "receives": [
+            "David Goyette"
+          ]
+        },
+        {
+          "team": "SEA",
+          "receives": [
+            "Devin Kaplan"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-09-28",
       "teams": [
