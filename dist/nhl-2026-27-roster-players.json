@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-02T15:48:27.200140+00:00",
+  "asOf": "2026-10-02T20:44:18.982620+00:00",
   "players": [
     {
       "id": "8484153",
@@ -1262,12 +1262,6 @@
       "position": "F"
     },
     {
-      "id": "8477946",
-      "name": "Dylan Larkin",
-      "team": "DET",
-      "position": "F"
-    },
-    {
       "id": "8482802",
       "name": "Carter Mazur",
       "team": "DET",
@@ -1294,6 +1288,12 @@
     {
       "id": "8475279",
       "name": "Ben Chiarot",
+      "team": "DET",
+      "position": "D"
+    },
+    {
+      "id": "8477971",
+      "name": "Andreas Englund",
       "team": "DET",
       "position": "D"
     },
@@ -4214,6 +4214,12 @@
       "position": "F"
     },
     {
+      "id": "8477946",
+      "name": "Dylan Larkin",
+      "team": "DET",
+      "position": "F"
+    },
+    {
       "id": "8482093",
       "name": "Seth Jarvis",
       "team": "CAR",
@@ -5046,12 +5052,6 @@
       "name": "Aleksanteri Kaskimaki",
       "team": "STL",
       "position": "F"
-    },
-    {
-      "id": "8477971",
-      "name": "Andreas Englund",
-      "team": "DET",
-      "position": "D"
     },
     {
       "id": "8482167",
