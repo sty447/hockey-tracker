@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-02T08:31:04.694085+00:00",
+  "asOf": "2026-10-02T15:48:27.200140+00:00",
   "players": [
     {
       "id": "8484153",
@@ -400,12 +400,6 @@
     {
       "id": "8480839",
       "name": "Rasmus Dahlin",
-      "team": "BUF",
-      "position": "D"
-    },
-    {
-      "id": "8478502",
-      "name": "Dennis Gilbert",
       "team": "BUF",
       "position": "D"
     },
@@ -2108,12 +2102,6 @@
       "position": "D"
     },
     {
-      "id": "8482715",
-      "name": "Ryan Ufko",
-      "team": "NSH",
-      "position": "D"
-    },
-    {
       "id": "8482482",
       "name": "Adam Wilsby",
       "team": "NSH",
@@ -2536,6 +2524,12 @@
     {
       "id": "8482667",
       "name": "William Eklund",
+      "team": "OTT",
+      "position": "F"
+    },
+    {
+      "id": "8477998",
+      "name": "Warren Foegele",
       "team": "OTT",
       "position": "F"
     },
@@ -4316,12 +4310,6 @@
       "position": "F"
     },
     {
-      "id": "8477998",
-      "name": "Warren Foegele",
-      "team": "OTT",
-      "position": "F"
-    },
-    {
       "id": "8482634",
       "name": "Alex Steeves",
       "team": "BOS",
@@ -4380,6 +4368,12 @@
       "name": "Nathan Walker",
       "team": "STL",
       "position": "F"
+    },
+    {
+      "id": "8482715",
+      "name": "Ryan Ufko",
+      "team": "NSH",
+      "position": "D"
     },
     {
       "id": "8475755",
@@ -4835,6 +4829,12 @@
       "id": "8484220",
       "name": "David Reinbacher",
       "team": "MTL",
+      "position": "D"
+    },
+    {
+      "id": "8478502",
+      "name": "Dennis Gilbert",
+      "team": "BUF",
       "position": "D"
     },
     {
