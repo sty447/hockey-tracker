@@ -1,8 +1,8 @@
 {
-  "asOf": "2026-10-02T20:44:18.982620+00:00",
+  "asOf": "2026-10-03T00:29:51.220545+00:00",
   "trades": {
-    "asOf": "2026-10-02",
-    "checkedAt": "2026-10-02T20:44:18.982620+00:00",
+    "asOf": "2026-10-03",
+    "checkedAt": "2026-10-03T00:29:51.220545+00:00",
     "source": "https://www.nhl.com/news/topic/trade-coverage/2026-27-nhl-trades",
     "trades": [
       {
@@ -351,30 +351,30 @@
     ]
   },
   "rosters": {
-    "asOf": "2026-10-02T20:44:18.982620+00:00",
+    "asOf": "2026-10-03T00:29:51.220545+00:00",
     "teams": {
       "ANA": {
         "forwards": [
           "8484153",
           "8481538",
           "8482118",
-          "8482081",
           "8483445",
           "8475798",
           "8478421",
-          "8480468",
           "8473986",
           "8486052",
           "8482408",
           "8485400",
           "8481754",
-          "8486072",
           "8480068",
           "8484762",
           "8478366",
           "8485512",
           "8478873",
           "8483444",
+          "8482081",
+          "8480468",
+          "8486072",
           "8483479"
         ],
         "defensemen": [
@@ -386,15 +386,15 @@
           "8483490",
           "8484262",
           "8482178",
-          "8481461",
           "8484859",
           "8483521",
+          "8481461",
           "8480808"
         ],
         "goalies": [
-          "8476316",
           "8480843",
-          "8478024"
+          "8478024",
+          "8476316"
         ]
       },
       "BOS": {
@@ -1611,10 +1611,10 @@
         ]
       }
     },
-    "tradesAsOf": "2026-10-02"
+    "tradesAsOf": "2026-10-03"
   },
   "skaters": {
-    "asOf": "2026-10-02T20:44:18.982620+00:00",
+    "asOf": "2026-10-03T00:29:51.220545+00:00",
     "players": [
       {
         "id": "8484153",
@@ -1635,12 +1635,6 @@
         "position": "F"
       },
       {
-        "id": "8482081",
-        "name": "Sean Farrell",
-        "team": "ANA",
-        "position": "F"
-      },
-      {
         "id": "8483445",
         "name": "Cutter Gauthier",
         "team": "ANA",
@@ -1655,12 +1649,6 @@
       {
         "id": "8478421",
         "name": "A.J. Greer",
-        "team": "ANA",
-        "position": "F"
-      },
-      {
-        "id": "8480468",
-        "name": "James Hamblin",
         "team": "ANA",
         "position": "F"
       },
@@ -1691,12 +1679,6 @@
       {
         "id": "8481754",
         "name": "Nikita Nesterenko",
-        "team": "ANA",
-        "position": "F"
-      },
-      {
-        "id": "8486072",
-        "name": "Marcus Nordmark",
         "team": "ANA",
         "position": "F"
       },
@@ -1773,12 +1755,6 @@
         "position": "D"
       },
       {
-        "id": "8481461",
-        "name": "Corey Schueneman",
-        "team": "ANA",
-        "position": "D"
-      },
-      {
         "id": "8484859",
         "name": "Stian Solberg",
         "team": "ANA",
@@ -1787,12 +1763,6 @@
       {
         "id": "8483521",
         "name": "Noah Warren",
-        "team": "ANA",
-        "position": "D"
-      },
-      {
-        "id": "8480808",
-        "name": "Jett Woo",
         "team": "ANA",
         "position": "D"
       },
@@ -7047,6 +7017,36 @@
         "position": "F"
       },
       {
+        "id": "8482081",
+        "name": "Sean Farrell",
+        "team": "ANA",
+        "position": "F"
+      },
+      {
+        "id": "8480468",
+        "name": "James Hamblin",
+        "team": "ANA",
+        "position": "F"
+      },
+      {
+        "id": "8486072",
+        "name": "Marcus Nordmark",
+        "team": "ANA",
+        "position": "F"
+      },
+      {
+        "id": "8481461",
+        "name": "Corey Schueneman",
+        "team": "ANA",
+        "position": "D"
+      },
+      {
+        "id": "8480808",
+        "name": "Jett Woo",
+        "team": "ANA",
+        "position": "D"
+      },
+      {
         "id": "8484154",
         "name": "Jonathan Castagna",
         "team": "CGY",
@@ -7071,16 +7071,11 @@
         "position": "F"
       }
     ],
-    "tradesAsOf": "2026-10-02"
+    "tradesAsOf": "2026-10-03"
   },
   "goalies": {
-    "asOf": "2026-10-02T20:44:18.982620+00:00",
+    "asOf": "2026-10-03T00:29:51.220545+00:00",
     "goalies": [
-      {
-        "id": "8476316",
-        "name": "Laurent Brossoit",
-        "team": "ANA"
-      },
       {
         "id": "8480843",
         "name": "Lukas Dostal",
@@ -7477,6 +7472,11 @@
         "team": "PHI"
       },
       {
+        "id": "8476316",
+        "name": "Laurent Brossoit",
+        "team": "ANA"
+      },
+      {
         "id": "8483668",
         "name": "Nikke Kokko",
         "team": "SEA"
@@ -7537,6 +7537,6 @@
         "team": "SJS"
       }
     ],
-    "tradesAsOf": "2026-10-02"
+    "tradesAsOf": "2026-10-03"
   }
 }

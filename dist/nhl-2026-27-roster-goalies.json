@@ -1,11 +1,6 @@
 {
-  "asOf": "2026-10-02T20:44:18.982620+00:00",
+  "asOf": "2026-10-03T00:29:51.220545+00:00",
   "goalies": [
-    {
-      "id": "8476316",
-      "name": "Laurent Brossoit",
-      "team": "ANA"
-    },
     {
       "id": "8480843",
       "name": "Lukas Dostal",
@@ -402,6 +397,11 @@
       "team": "PHI"
     },
     {
+      "id": "8476316",
+      "name": "Laurent Brossoit",
+      "team": "ANA"
+    },
+    {
       "id": "8483668",
       "name": "Nikke Kokko",
       "team": "SEA"
@@ -462,5 +462,5 @@
       "team": "SJS"
     }
   ],
-  "tradesAsOf": "2026-10-02"
+  "tradesAsOf": "2026-10-03"
 }
