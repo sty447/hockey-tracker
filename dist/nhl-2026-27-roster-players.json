@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-03T17:16:04.487536+00:00",
+  "asOf": "2026-10-03T19:57:24.742580+00:00",
   "players": [
     {
       "id": "8484153",
@@ -628,12 +628,6 @@
     {
       "id": "8476906",
       "name": "Shayne Gostisbehere",
-      "team": "CAR",
-      "position": "D"
-    },
-    {
-      "id": "8484428",
-      "name": "Charles Alexis Legault",
       "team": "CAR",
       "position": "D"
     },
@@ -4644,6 +4638,12 @@
       "name": "Brian Halonen",
       "team": "BOS",
       "position": "F"
+    },
+    {
+      "id": "8484428",
+      "name": "Charles Alexis Legault",
+      "team": "CAR",
+      "position": "D"
     },
     {
       "id": "8479395",
