@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-03T12:32:59.932552+00:00",
+  "asOf": "2026-10-03T17:16:04.487536+00:00",
   "players": [
     {
       "id": "8484153",
@@ -1388,6 +1388,12 @@
       "position": "F"
     },
     {
+      "id": "8484509",
+      "name": "Josh Samanski",
+      "team": "EDM",
+      "position": "F"
+    },
+    {
       "id": "8483512",
       "name": "Matt Savoie",
       "team": "EDM",
@@ -2740,12 +2746,6 @@
     {
       "id": "8480980",
       "name": "Connor Dewar",
-      "team": "PIT",
-      "position": "F"
-    },
-    {
-      "id": "8481019",
-      "name": "David Gustafsson",
       "team": "PIT",
       "position": "F"
     },
@@ -4562,12 +4562,6 @@
       "position": "F"
     },
     {
-      "id": "8484509",
-      "name": "Josh Samanski",
-      "team": "EDM",
-      "position": "F"
-    },
-    {
       "id": "8476907",
       "name": "Mackenzie MacEachern",
       "team": "VAN",
@@ -5399,6 +5393,12 @@
       "id": "8483841",
       "name": "Xavier Parent",
       "team": "NJD",
+      "position": "F"
+    },
+    {
+      "id": "8481019",
+      "name": "David Gustafsson",
+      "team": "PIT",
       "position": "F"
     },
     {
