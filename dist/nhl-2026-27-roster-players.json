@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-04T09:46:22.222234+00:00",
+  "asOf": "2026-10-04T15:21:45.264571+00:00",
   "players": [
     {
       "id": "8484153",
@@ -2008,6 +2008,12 @@
     {
       "id": "8475158",
       "name": "Ryan O'Reilly",
+      "team": "NSH",
+      "position": "F"
+    },
+    {
+      "id": "8486189",
+      "name": "Vitali Pinchuk",
       "team": "NSH",
       "position": "F"
     },

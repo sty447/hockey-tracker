@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-04T09:46:22.222234+00:00",
+  "asOf": "2026-10-04T15:21:45.264571+00:00",
   "goalies": [
     {
       "id": "8480843",
@@ -164,11 +164,6 @@
     {
       "id": "8481020",
       "name": "Justus Annunen",
-      "team": "NSH"
-    },
-    {
-      "id": "8483575",
-      "name": "Matt Murray",
       "team": "NSH"
     },
     {
@@ -465,6 +460,11 @@
       "id": "8477480",
       "name": "Eric Comrie",
       "team": "SJS"
+    },
+    {
+      "id": "8483575",
+      "name": "Matt Murray",
+      "team": "NSH"
     }
   ],
   "tradesAsOf": "2026-10-04"
