@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-06T07:33:48.320103+00:00",
+  "asOf": "2026-10-06T15:11:17.282398+00:00",
   "players": [
     {
       "id": "8484153",
@@ -638,6 +638,12 @@
       "position": "D"
     },
     {
+      "id": "8479976",
+      "name": "Juuso Välimäki",
+      "team": "CAR",
+      "position": "D"
+    },
+    {
       "id": "8480336",
       "name": "Sean Walker",
       "team": "CAR",
@@ -1210,6 +1216,12 @@
     {
       "id": "8478434",
       "name": "Keegan Kolesar",
+      "team": "DET",
+      "position": "F"
+    },
+    {
+      "id": "8477946",
+      "name": "Dylan Larkin",
       "team": "DET",
       "position": "F"
     },
@@ -4169,12 +4181,6 @@
       "id": "8478445",
       "name": "Mathew Barzal",
       "team": "NYI",
-      "position": "F"
-    },
-    {
-      "id": "8477946",
-      "name": "Dylan Larkin",
-      "team": "DET",
       "position": "F"
     },
     {
