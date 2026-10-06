@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-05T18:26:52.015203+00:00",
+  "asOf": "2026-10-06T00:48:45.452474+00:00",
   "players": [
     {
       "id": "8484153",
@@ -52,12 +52,6 @@
     {
       "id": "8482408",
       "name": "Jeff Malott",
-      "team": "ANA",
-      "position": "F"
-    },
-    {
-      "id": "8485400",
-      "name": "Roger McQueen",
       "team": "ANA",
       "position": "F"
     },
@@ -140,22 +134,10 @@
       "position": "D"
     },
     {
-      "id": "8484859",
-      "name": "Stian Solberg",
-      "team": "ANA",
-      "position": "D"
-    },
-    {
       "id": "8483521",
       "name": "Noah Warren",
       "team": "ANA",
       "position": "D"
-    },
-    {
-      "id": "8479591",
-      "name": "Michael Eyssimont",
-      "team": "BOS",
-      "position": "F"
     },
     {
       "id": "8479987",
@@ -220,6 +202,12 @@
     {
       "id": "8482175",
       "name": "JJ Peterka",
+      "team": "BOS",
+      "position": "F"
+    },
+    {
+      "id": "8483505",
+      "name": "Matthew Poitras",
       "team": "BOS",
       "position": "F"
     },
@@ -4262,6 +4250,12 @@
       "position": "F"
     },
     {
+      "id": "8479591",
+      "name": "Michael Eyssimont",
+      "team": "BOS",
+      "position": "F"
+    },
+    {
       "id": "8478904",
       "name": "Steven Lorentz",
       "team": "CBJ",
@@ -4904,12 +4898,6 @@
       "position": "F"
     },
     {
-      "id": "8483505",
-      "name": "Matthew Poitras",
-      "team": "BOS",
-      "position": "F"
-    },
-    {
       "id": "8482168",
       "name": "Maxim Groshev",
       "team": "TBL",
@@ -5402,6 +5390,18 @@
       "position": "F"
     },
     {
+      "id": "8485400",
+      "name": "Roger McQueen",
+      "team": "ANA",
+      "position": "F"
+    },
+    {
+      "id": "8484859",
+      "name": "Stian Solberg",
+      "team": "ANA",
+      "position": "D"
+    },
+    {
       "id": "8481019",
       "name": "David Gustafsson",
       "team": "PIT",
@@ -5462,5 +5462,5 @@
       "position": "F"
     }
   ],
-  "tradesAsOf": "2026-10-05"
+  "tradesAsOf": "2026-10-06"
 }
