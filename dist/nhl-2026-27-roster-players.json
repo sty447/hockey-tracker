@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-06T15:11:17.282398+00:00",
+  "asOf": "2026-10-06T20:18:56.139363+00:00",
   "players": [
     {
       "id": "8484153",
@@ -476,12 +476,6 @@
       "position": "F"
     },
     {
-      "id": "8482074",
-      "name": "Connor Zary",
-      "team": "CGY",
-      "position": "F"
-    },
-    {
       "id": "8480860",
       "name": "Kevin Bahl",
       "team": "CGY",
@@ -508,12 +502,6 @@
     {
       "id": "8483495",
       "name": "Simon Nemec",
-      "team": "CGY",
-      "position": "D"
-    },
-    {
-      "id": "8481167",
-      "name": "Brayden Pachal",
       "team": "CGY",
       "position": "D"
     },
@@ -1198,6 +1186,12 @@
     {
       "id": "8479337",
       "name": "Alex DeBrincat",
+      "team": "DET",
+      "position": "F"
+    },
+    {
+      "id": "8480326",
+      "name": "Sheldon Dries",
       "team": "DET",
       "position": "F"
     },
@@ -2330,6 +2324,12 @@
       "position": "D"
     },
     {
+      "id": "8484786",
+      "name": "Cole Beaudoin",
+      "team": "NYR",
+      "position": "F"
+    },
+    {
       "id": "8477416",
       "name": "Oliver Bjorkstrand",
       "team": "NYR",
@@ -2446,12 +2446,6 @@
     {
       "id": "8477969",
       "name": "Marcus Pettersson",
-      "team": "NYR",
-      "position": "D"
-    },
-    {
-      "id": "8481525",
-      "name": "Matthew Robertson",
       "team": "NYR",
       "position": "D"
     },
@@ -4232,6 +4226,12 @@
       "position": "D"
     },
     {
+      "id": "8482074",
+      "name": "Connor Zary",
+      "team": "CGY",
+      "position": "F"
+    },
+    {
       "id": "8482762",
       "name": "Simon Edvinsson",
       "team": "DET",
@@ -4254,6 +4254,12 @@
       "name": "Dakota Joshua",
       "team": "TOR",
       "position": "F"
+    },
+    {
+      "id": "8481525",
+      "name": "Matthew Robertson",
+      "team": "NYR",
+      "position": "D"
     },
     {
       "id": "8479591",
@@ -4428,6 +4434,12 @@
       "name": "Sammy Blais",
       "team": "OTT",
       "position": "F"
+    },
+    {
+      "id": "8481167",
+      "name": "Brayden Pachal",
+      "team": "CGY",
+      "position": "D"
     },
     {
       "id": "8481655",
@@ -5309,12 +5321,6 @@
       "id": "8482941",
       "name": "Shane Lachance",
       "team": "NJD",
-      "position": "F"
-    },
-    {
-      "id": "8480326",
-      "name": "Sheldon Dries",
-      "team": "DET",
       "position": "F"
     },
     {

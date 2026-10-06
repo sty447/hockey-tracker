@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-06T15:11:17.282398+00:00",
+  "asOf": "2026-10-06T20:18:56.139363+00:00",
   "goalies": [
     {
       "id": "8480843",
@@ -167,6 +167,11 @@
       "team": "NSH"
     },
     {
+      "id": "8483575",
+      "name": "Matt Murray",
+      "team": "NSH"
+    },
+    {
       "id": "8477424",
       "name": "Juuse Saros",
       "team": "NSH"
@@ -214,6 +219,11 @@
     {
       "id": "8481035",
       "name": "Samuel Ersson",
+      "team": "OTT"
+    },
+    {
+      "id": "8477992",
+      "name": "Jonas Johansson",
       "team": "OTT"
     },
     {
@@ -417,11 +427,6 @@
       "team": "DAL"
     },
     {
-      "id": "8477992",
-      "name": "Jonas Johansson",
-      "team": "OTT"
-    },
-    {
       "id": "8480051",
       "name": "Cayden Primeau",
       "team": "CAR"
@@ -460,11 +465,6 @@
       "id": "8477480",
       "name": "Eric Comrie",
       "team": "SJS"
-    },
-    {
-      "id": "8483575",
-      "name": "Matt Murray",
-      "team": "NSH"
     }
   ],
   "tradesAsOf": "2026-10-06"

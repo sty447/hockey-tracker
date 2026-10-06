@@ -1,8 +1,8 @@
 {
-  "asOf": "2026-10-06T15:11:17.282398+00:00",
+  "asOf": "2026-10-06T20:18:56.139363+00:00",
   "trades": {
     "asOf": "2026-10-06",
-    "checkedAt": "2026-10-06T15:11:17.282398+00:00",
+    "checkedAt": "2026-10-06T20:18:56.139363+00:00",
     "source": "https://www.nhl.com/news/topic/trade-coverage/2026-27-nhl-trades",
     "trades": [
       {
@@ -351,7 +351,7 @@
     ]
   },
   "rosters": {
-    "asOf": "2026-10-06T15:11:17.282398+00:00",
+    "asOf": "2026-10-06T20:18:56.139363+00:00",
     "teams": {
       "ANA": {
         "forwards": [
@@ -508,9 +508,9 @@
           "8482165",
           "8478136",
           "8483495",
-          "8481167",
           "8484768",
           "8480727",
+          "8481167",
           "8484150",
           "8482107",
           "8483709"
@@ -718,6 +718,7 @@
           "8477429",
           "8484160",
           "8479337",
+          "8480326",
           "8484471",
           "8483464",
           "8478434",
@@ -727,8 +728,7 @@
           "8482078",
           "8481077",
           "8479942",
-          "8484380",
-          "8480326"
+          "8484380"
         ],
         "defensemen": [
           "8480879",
@@ -980,8 +980,8 @@
         ],
         "goalies": [
           "8481020",
-          "8477424",
-          "8483575"
+          "8483575",
+          "8477424"
         ]
       },
       "NJD": {
@@ -1066,6 +1066,7 @@
       },
       "NYR": {
         "forwards": [
+          "8484786",
           "8477416",
           "8482877",
           "8482157",
@@ -1092,9 +1093,9 @@
           "8482861",
           "8482666",
           "8477969",
-          "8481525",
           "8482073",
           "8485957",
+          "8481525",
           "8480001",
           "8479395",
           "8484169"
@@ -1140,8 +1141,8 @@
         ],
         "goalies": [
           "8481035",
-          "8476999",
-          "8477992"
+          "8477992",
+          "8476999"
         ]
       },
       "PHI": {
@@ -1617,7 +1618,7 @@
     "tradesAsOf": "2026-10-06"
   },
   "skaters": {
-    "asOf": "2026-10-06T15:11:17.282398+00:00",
+    "asOf": "2026-10-06T20:18:56.139363+00:00",
     "players": [
       {
         "id": "8484153",
@@ -2094,12 +2095,6 @@
         "position": "F"
       },
       {
-        "id": "8482074",
-        "name": "Connor Zary",
-        "team": "CGY",
-        "position": "F"
-      },
-      {
         "id": "8480860",
         "name": "Kevin Bahl",
         "team": "CGY",
@@ -2126,12 +2121,6 @@
       {
         "id": "8483495",
         "name": "Simon Nemec",
-        "team": "CGY",
-        "position": "D"
-      },
-      {
-        "id": "8481167",
-        "name": "Brayden Pachal",
         "team": "CGY",
         "position": "D"
       },
@@ -2816,6 +2805,12 @@
       {
         "id": "8479337",
         "name": "Alex DeBrincat",
+        "team": "DET",
+        "position": "F"
+      },
+      {
+        "id": "8480326",
+        "name": "Sheldon Dries",
         "team": "DET",
         "position": "F"
       },
@@ -3948,6 +3943,12 @@
         "position": "D"
       },
       {
+        "id": "8484786",
+        "name": "Cole Beaudoin",
+        "team": "NYR",
+        "position": "F"
+      },
+      {
         "id": "8477416",
         "name": "Oliver Bjorkstrand",
         "team": "NYR",
@@ -4064,12 +4065,6 @@
       {
         "id": "8477969",
         "name": "Marcus Pettersson",
-        "team": "NYR",
-        "position": "D"
-      },
-      {
-        "id": "8481525",
-        "name": "Matthew Robertson",
         "team": "NYR",
         "position": "D"
       },
@@ -5850,6 +5845,12 @@
         "position": "D"
       },
       {
+        "id": "8482074",
+        "name": "Connor Zary",
+        "team": "CGY",
+        "position": "F"
+      },
+      {
         "id": "8482762",
         "name": "Simon Edvinsson",
         "team": "DET",
@@ -5872,6 +5873,12 @@
         "name": "Dakota Joshua",
         "team": "TOR",
         "position": "F"
+      },
+      {
+        "id": "8481525",
+        "name": "Matthew Robertson",
+        "team": "NYR",
+        "position": "D"
       },
       {
         "id": "8479591",
@@ -6046,6 +6053,12 @@
         "name": "Sammy Blais",
         "team": "OTT",
         "position": "F"
+      },
+      {
+        "id": "8481167",
+        "name": "Brayden Pachal",
+        "team": "CGY",
+        "position": "D"
       },
       {
         "id": "8481655",
@@ -6930,12 +6943,6 @@
         "position": "F"
       },
       {
-        "id": "8480326",
-        "name": "Sheldon Dries",
-        "team": "DET",
-        "position": "F"
-      },
-      {
         "id": "8481547",
         "name": "Simon Lundmark",
         "team": "TBL",
@@ -7089,7 +7096,7 @@
     "tradesAsOf": "2026-10-06"
   },
   "goalies": {
-    "asOf": "2026-10-06T15:11:17.282398+00:00",
+    "asOf": "2026-10-06T20:18:56.139363+00:00",
     "goalies": [
       {
         "id": "8480843",
@@ -7257,6 +7264,11 @@
         "team": "NSH"
       },
       {
+        "id": "8483575",
+        "name": "Matt Murray",
+        "team": "NSH"
+      },
+      {
         "id": "8477424",
         "name": "Juuse Saros",
         "team": "NSH"
@@ -7304,6 +7316,11 @@
       {
         "id": "8481035",
         "name": "Samuel Ersson",
+        "team": "OTT"
+      },
+      {
+        "id": "8477992",
+        "name": "Jonas Johansson",
         "team": "OTT"
       },
       {
@@ -7507,11 +7524,6 @@
         "team": "DAL"
       },
       {
-        "id": "8477992",
-        "name": "Jonas Johansson",
-        "team": "OTT"
-      },
-      {
         "id": "8480051",
         "name": "Cayden Primeau",
         "team": "CAR"
@@ -7550,11 +7562,6 @@
         "id": "8477480",
         "name": "Eric Comrie",
         "team": "SJS"
-      },
-      {
-        "id": "8483575",
-        "name": "Matt Murray",
-        "team": "NSH"
       }
     ],
     "tradesAsOf": "2026-10-06"
