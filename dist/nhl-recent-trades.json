@@ -1,8 +1,25 @@
 {
   "asOf": "2026-10-07",
-  "checkedAt": "2026-10-07T14:31:14.124943+00:00",
+  "checkedAt": "2026-10-07T20:37:12.214268+00:00",
   "source": "https://www.nhl.com/news/topic/trade-coverage/2026-27-nhl-trades",
   "trades": [
+    {
+      "date": "2026-10-07",
+      "teams": [
+        {
+          "team": "PIT",
+          "receives": [
+            "Spencer Stastney"
+          ]
+        },
+        {
+          "team": "EDM",
+          "receives": [
+            "Filip Hallander"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-01",
       "teams": [
