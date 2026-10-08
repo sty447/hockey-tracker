@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-08T07:23:45.834249+00:00",
+  "asOf": "2026-10-08T15:35:53.613715+00:00",
   "goalies": [
     {
       "id": "8480843",
@@ -157,6 +157,11 @@
       "team": "MTL"
     },
     {
+      "id": "8484170",
+      "name": "Jacob Fowler",
+      "team": "MTL"
+    },
+    {
       "id": "8478470",
       "name": "Samuel Montembeault",
       "team": "MTL"
@@ -219,11 +224,6 @@
     {
       "id": "8481035",
       "name": "Samuel Ersson",
-      "team": "OTT"
-    },
-    {
-      "id": "8477992",
-      "name": "Jonas Johansson",
       "team": "OTT"
     },
     {
@@ -425,6 +425,11 @@
       "id": "8477990",
       "name": "Brandon Halverson",
       "team": "DAL"
+    },
+    {
+      "id": "8477992",
+      "name": "Jonas Johansson",
+      "team": "OTT"
     },
     {
       "id": "8480051",

@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-08T07:23:45.834249+00:00",
+  "asOf": "2026-10-08T15:35:53.613715+00:00",
   "players": [
     {
       "id": "8484153",
@@ -3338,12 +3338,6 @@
       "position": "F"
     },
     {
-      "id": "8478424",
-      "name": "Jansen Harkins",
-      "team": "TBL",
-      "position": "F"
-    },
-    {
       "id": "8480995",
       "name": "Pontus Holmberg",
       "team": "TBL",
@@ -4434,6 +4428,12 @@
       "name": "Jacob Bryson",
       "team": "DET",
       "position": "D"
+    },
+    {
+      "id": "8478424",
+      "name": "Jansen Harkins",
+      "team": "TBL",
+      "position": "F"
     },
     {
       "id": "8480192",
