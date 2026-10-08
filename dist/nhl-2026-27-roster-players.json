@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-07T20:37:12.214268+00:00",
+  "asOf": "2026-10-08T00:59:46.852487+00:00",
   "players": [
     {
       "id": "8484153",
@@ -1306,6 +1306,12 @@
     {
       "id": "8482703",
       "name": "Colton Dach",
+      "team": "EDM",
+      "position": "F"
+    },
+    {
+      "id": "8477450",
+      "name": "Jason Dickinson",
       "team": "EDM",
       "position": "F"
     },
@@ -4298,12 +4304,6 @@
       "position": "F"
     },
     {
-      "id": "8477450",
-      "name": "Jason Dickinson",
-      "team": "EDM",
-      "position": "F"
-    },
-    {
       "id": "8476897",
       "name": "Oskar Sundqvist",
       "team": "STL",
@@ -5480,5 +5480,5 @@
       "position": "F"
     }
   ],
-  "tradesAsOf": "2026-10-07"
+  "tradesAsOf": "2026-10-08"
 }
