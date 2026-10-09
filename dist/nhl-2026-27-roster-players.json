@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-09T09:02:26.986005+00:00",
+  "asOf": "2026-10-09T16:11:42.550025+00:00",
   "players": [
     {
       "id": "8484153",
@@ -1496,6 +1496,12 @@
       "position": "F"
     },
     {
+      "id": "8478043",
+      "name": "Sam Lafferty",
+      "team": "FLA",
+      "position": "F"
+    },
+    {
       "id": "8482113",
       "name": "Anton Lundell",
       "team": "FLA",
@@ -1760,14 +1766,14 @@
       "position": "F"
     },
     {
-      "id": "8477446",
-      "name": "Michael McCarron",
+      "id": "8483478",
+      "name": "Rieger Lorenz",
       "team": "MIN",
       "position": "F"
     },
     {
-      "id": "8475752",
-      "name": "Tyler Pitlick",
+      "id": "8477446",
+      "name": "Michael McCarron",
       "team": "MIN",
       "position": "F"
     },
@@ -1810,12 +1816,6 @@
     {
       "id": "8482122",
       "name": "Brock Faber",
-      "team": "MIN",
-      "position": "D"
-    },
-    {
-      "id": "8486166",
-      "name": "Viking Gustafsson Nyberg",
       "team": "MIN",
       "position": "D"
     },
@@ -3506,6 +3506,12 @@
       "position": "F"
     },
     {
+      "id": "8477425",
+      "name": "Miles Wood",
+      "team": "TOR",
+      "position": "F"
+    },
+    {
       "id": "8483565",
       "name": "Nick Blankenburg",
       "team": "TOR",
@@ -4328,12 +4334,6 @@
       "position": "D"
     },
     {
-      "id": "8477425",
-      "name": "Miles Wood",
-      "team": "TOR",
-      "position": "F"
-    },
-    {
       "id": "8484149",
       "name": "Gavin Brindley",
       "team": "COL",
@@ -4742,9 +4742,9 @@
       "position": "F"
     },
     {
-      "id": "8478043",
-      "name": "Sam Lafferty",
-      "team": "FLA",
+      "id": "8475752",
+      "name": "Tyler Pitlick",
+      "team": "MIN",
       "position": "F"
     },
     {
@@ -5375,6 +5375,12 @@
       "id": "8482804",
       "name": "Ty Murchison",
       "team": "PHI",
+      "position": "D"
+    },
+    {
+      "id": "8486166",
+      "name": "Viking Gustafsson Nyberg",
+      "team": "MIN",
       "position": "D"
     },
     {
