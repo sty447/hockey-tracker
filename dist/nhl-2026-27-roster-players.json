@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-08T21:19:18.849280+00:00",
+  "asOf": "2026-10-09T02:08:55.807613+00:00",
   "players": [
     {
       "id": "8484153",
@@ -3452,12 +3452,6 @@
       "position": "F"
     },
     {
-      "id": "8485467",
-      "name": "Luke Haymes",
-      "team": "TOR",
-      "position": "F"
-    },
-    {
       "id": "8479772",
       "name": "Zack MacEwen",
       "team": "TOR",
@@ -4916,6 +4910,12 @@
       "position": "D"
     },
     {
+      "id": "8485467",
+      "name": "Luke Haymes",
+      "team": "TOR",
+      "position": "F"
+    },
+    {
       "id": "8482641",
       "name": "Matt Kiersted",
       "team": "MIN",
@@ -5480,5 +5480,5 @@
       "position": "F"
     }
   ],
-  "tradesAsOf": "2026-10-08"
+  "tradesAsOf": "2026-10-09"
 }
