@@ -1,8 +1,25 @@
 {
-  "asOf": "2026-10-09",
-  "checkedAt": "2026-10-09T20:53:42.586910+00:00",
+  "asOf": "2026-10-10",
+  "checkedAt": "2026-10-10T00:49:35.918253+00:00",
   "source": "https://www.nhl.com/news/topic/trade-coverage/2026-27-nhl-trades",
   "trades": [
+    {
+      "date": "2026-10-09",
+      "teams": [
+        {
+          "team": "NSH",
+          "receives": [
+            "Jayden Struble"
+          ]
+        },
+        {
+          "team": "MTL",
+          "receives": [
+            "2nd-round pick in the 2027 NHL Draft"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-07",
       "teams": [
