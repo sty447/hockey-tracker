@@ -1,8 +1,8 @@
 {
-  "asOf": "2026-10-10T13:40:27.115229+00:00",
+  "asOf": "2026-10-10T18:34:52.029326+00:00",
   "trades": {
     "asOf": "2026-10-10",
-    "checkedAt": "2026-10-10T13:40:27.115229+00:00",
+    "checkedAt": "2026-10-10T18:34:52.029326+00:00",
     "source": "https://www.nhl.com/news/topic/trade-coverage/2026-27-nhl-trades",
     "trades": [
       {
@@ -385,7 +385,7 @@
     ]
   },
   "rosters": {
-    "asOf": "2026-10-10T13:40:27.115229+00:00",
+    "asOf": "2026-10-10T18:34:52.029326+00:00",
     "teams": {
       "ANA": {
         "forwards": [
@@ -968,10 +968,10 @@
           "8478851",
           "8480865",
           "8483686",
+          "8482087",
           "8483457",
           "8476875",
           "8482964",
-          "8482087",
           "8484220"
         ],
         "goalies": [
@@ -1008,11 +1008,11 @@
           "8480950",
           "8480246",
           "8476869",
+          "8481593",
           "8482806",
           "8482482",
           "8482715",
-          "8481715",
-          "8481593"
+          "8481715"
         ],
         "goalies": [
           "8481020",
@@ -1048,13 +1048,13 @@
           "8475455",
           "8476462",
           "8482684",
+          "8480192",
           "8477488",
           "8478399",
-          "8484987",
-          "8480192",
           "8481609",
           "8483429",
-          "8482873"
+          "8482873",
+          "8484987"
         ],
         "goalies": [
           "8474596",
@@ -1209,6 +1209,7 @@
         "defensemen": [
           "8481122",
           "8482142",
+          "8482169",
           "8483460",
           "8477499",
           "8477948",
@@ -1656,7 +1657,7 @@
     "tradesAsOf": "2026-10-10"
   },
   "skaters": {
-    "asOf": "2026-10-10T13:40:27.115229+00:00",
+    "asOf": "2026-10-10T18:34:52.029326+00:00",
     "players": [
       {
         "id": "8484153",
@@ -3621,6 +3622,12 @@
         "position": "D"
       },
       {
+        "id": "8482087",
+        "name": "Kaiden Guhle",
+        "team": "MTL",
+        "position": "D"
+      },
+      {
         "id": "8483457",
         "name": "Lane Hutson",
         "team": "MTL",
@@ -3630,12 +3637,6 @@
         "id": "8476875",
         "name": "Mike Matheson",
         "team": "MTL",
-        "position": "D"
-      },
-      {
-        "id": "8481593",
-        "name": "Jayden Struble",
-        "team": "NSH",
         "position": "D"
       },
       {
@@ -3755,6 +3756,12 @@
       {
         "id": "8476869",
         "name": "Brady Skjei",
+        "team": "NSH",
+        "position": "D"
+      },
+      {
+        "id": "8481593",
+        "name": "Jayden Struble",
         "team": "NSH",
         "position": "D"
       },
@@ -3879,6 +3886,12 @@
         "position": "D"
       },
       {
+        "id": "8480192",
+        "name": "Johnathan Kovacevic",
+        "team": "NJD",
+        "position": "D"
+      },
+      {
         "id": "8477488",
         "name": "Brett Pesce",
         "team": "NJD",
@@ -3887,12 +3900,6 @@
       {
         "id": "8478399",
         "name": "Jonas Siegenthaler",
-        "team": "NJD",
-        "position": "D"
-      },
-      {
-        "id": "8484987",
-        "name": "Anton Silaev",
         "team": "NJD",
         "position": "D"
       },
@@ -4385,6 +4392,12 @@
       {
         "id": "8482142",
         "name": "Jamie Drysdale",
+        "team": "PHI",
+        "position": "D"
+      },
+      {
+        "id": "8482169",
+        "name": "Helge Grans",
         "team": "PHI",
         "position": "D"
       },
@@ -6015,12 +6028,6 @@
         "position": "F"
       },
       {
-        "id": "8482087",
-        "name": "Kaiden Guhle",
-        "team": "MTL",
-        "position": "D"
-      },
-      {
         "id": "8477573",
         "name": "Nathan Walker",
         "team": "STL",
@@ -6097,12 +6104,6 @@
         "name": "Jansen Harkins",
         "team": "TBL",
         "position": "F"
-      },
-      {
-        "id": "8480192",
-        "name": "Johnathan Kovacevic",
-        "team": "NJD",
-        "position": "D"
       },
       {
         "id": "8484177",
@@ -7083,6 +7084,12 @@
         "position": "F"
       },
       {
+        "id": "8484987",
+        "name": "Anton Silaev",
+        "team": "NJD",
+        "position": "D"
+      },
+      {
         "id": "8485400",
         "name": "Roger McQueen",
         "team": "ANA",
@@ -7152,7 +7159,7 @@
     "tradesAsOf": "2026-10-10"
   },
   "goalies": {
-    "asOf": "2026-10-10T13:40:27.115229+00:00",
+    "asOf": "2026-10-10T18:34:52.029326+00:00",
     "goalies": [
       {
         "id": "8480843",
