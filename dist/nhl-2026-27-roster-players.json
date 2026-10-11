@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-11T15:39:50.816780+00:00",
+  "asOf": "2026-10-11T20:16:02.119010+00:00",
   "players": [
     {
       "id": "8484153",
@@ -2732,6 +2732,12 @@
       "position": "D"
     },
     {
+      "id": "8484148",
+      "name": "Oliver Bonk",
+      "team": "PHI",
+      "position": "D"
+    },
+    {
       "id": "8482142",
       "name": "Jamie Drysdale",
       "team": "PHI",
@@ -3566,6 +3572,12 @@
       "position": "D"
     },
     {
+      "id": "8483546",
+      "name": "Marshall Rifai",
+      "team": "TOR",
+      "position": "D"
+    },
+    {
       "id": "8479442",
       "name": "Troy Stecher",
       "team": "TOR",
@@ -3934,6 +3946,12 @@
     {
       "id": "8478396",
       "name": "Noah Hanifin",
+      "team": "VGK",
+      "position": "D"
+    },
+    {
+      "id": "8481572",
+      "name": "Ville Heinola",
       "team": "VGK",
       "position": "D"
     },
@@ -4730,12 +4748,6 @@
       "position": "D"
     },
     {
-      "id": "8484148",
-      "name": "Oliver Bonk",
-      "team": "PHI",
-      "position": "D"
-    },
-    {
       "id": "8484168",
       "name": "Oscar Fisker Molgaard",
       "team": "SEA",
@@ -5246,12 +5258,6 @@
       "position": "F"
     },
     {
-      "id": "8483546",
-      "name": "Marshall Rifai",
-      "team": "TOR",
-      "position": "D"
-    },
-    {
       "id": "8477419",
       "name": "Mason Geertsen",
       "team": "BUF",
@@ -5393,12 +5399,6 @@
       "id": "8486166",
       "name": "Viking Gustafsson Nyberg",
       "team": "MIN",
-      "position": "D"
-    },
-    {
-      "id": "8481572",
-      "name": "Ville Heinola",
-      "team": "VGK",
       "position": "D"
     },
     {
