@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-12T15:22:20.148305+00:00",
+  "asOf": "2026-10-12T22:58:39.430660+00:00",
   "players": [
     {
       "id": "8484153",
@@ -1670,12 +1670,6 @@
       "position": "F"
     },
     {
-      "id": "8483756",
-      "name": "Jared Wright",
-      "team": "LAK",
-      "position": "F"
-    },
-    {
       "id": "8475692",
       "name": "Mats Zuccarello",
       "team": "LAK",
@@ -1780,6 +1774,12 @@
     {
       "id": "8477446",
       "name": "Michael McCarron",
+      "team": "MIN",
+      "position": "F"
+    },
+    {
+      "id": "8475752",
+      "name": "Tyler Pitlick",
       "team": "MIN",
       "position": "F"
     },
@@ -2680,12 +2680,6 @@
     {
       "id": "8483733",
       "name": "Nikita Grebenkin",
-      "team": "PHI",
-      "position": "F"
-    },
-    {
-      "id": "8479336",
-      "name": "Carl Grundstrom",
       "team": "PHI",
       "position": "F"
     },
@@ -4376,6 +4370,12 @@
       "position": "D"
     },
     {
+      "id": "8479336",
+      "name": "Carl Grundstrom",
+      "team": "PHI",
+      "position": "F"
+    },
+    {
       "id": "8484149",
       "name": "Gavin Brindley",
       "team": "COL",
@@ -4610,6 +4610,12 @@
       "position": "D"
     },
     {
+      "id": "8483756",
+      "name": "Jared Wright",
+      "team": "LAK",
+      "position": "F"
+    },
+    {
       "id": "8481077",
       "name": "John Leonard",
       "team": "DET",
@@ -4766,12 +4772,6 @@
       "position": "F"
     },
     {
-      "id": "8475752",
-      "name": "Tyler Pitlick",
-      "team": "MIN",
-      "position": "F"
-    },
-    {
       "id": "8484380",
       "name": "Wilmer Skoog",
       "team": "DET",
@@ -4810,7 +4810,7 @@
     {
       "id": "8478452",
       "name": "Caleb Jones",
-      "team": "PIT",
+      "team": "BUF",
       "position": "D"
     },
     {
@@ -5320,7 +5320,7 @@
     {
       "id": "8481564",
       "name": "Ryan Johnson",
-      "team": "BUF",
+      "team": "PIT",
       "position": "D"
     },
     {

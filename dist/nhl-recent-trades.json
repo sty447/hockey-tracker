@@ -1,8 +1,26 @@
 {
   "asOf": "2026-10-12",
-  "checkedAt": "2026-10-12T15:22:20.148305+00:00",
+  "checkedAt": "2026-10-12T22:58:39.430660+00:00",
   "source": "https://www.nhl.com/news/topic/trade-coverage/2026-27-nhl-trades",
   "trades": [
+    {
+      "date": "2026-10-12",
+      "teams": [
+        {
+          "team": "BUF",
+          "receives": [
+            "Caleb Jones",
+            "Daniel Laatsch"
+          ]
+        },
+        {
+          "team": "PIT",
+          "receives": [
+            "Ryan Johnson"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-09",
       "teams": [
