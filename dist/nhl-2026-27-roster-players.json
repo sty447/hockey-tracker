@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-13T19:16:34.514950+00:00",
+  "asOf": "2026-10-13T23:18:22.471050+00:00",
   "players": [
     {
       "id": "8484153",
@@ -730,6 +730,12 @@
     {
       "id": "8476882",
       "name": "Teuvo Teravainen",
+      "team": "CHI",
+      "position": "F"
+    },
+    {
+      "id": "8476952",
+      "name": "Dominic Toninato",
       "team": "CHI",
       "position": "F"
     },
@@ -4872,12 +4878,6 @@
       "name": "David Reinbacher",
       "team": "MTL",
       "position": "D"
-    },
-    {
-      "id": "8476952",
-      "name": "Dominic Toninato",
-      "team": "CHI",
-      "position": "F"
     },
     {
       "id": "8482206",
