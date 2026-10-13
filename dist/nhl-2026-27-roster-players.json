@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-13T11:46:52.629465+00:00",
+  "asOf": "2026-10-13T19:16:34.514950+00:00",
   "players": [
     {
       "id": "8484153",
@@ -362,6 +362,12 @@
       "position": "D"
     },
     {
+      "id": "8478502",
+      "name": "Dennis Gilbert",
+      "team": "BUF",
+      "position": "D"
+    },
+    {
       "id": "8476891",
       "name": "Matt Grzelcyk",
       "team": "BUF",
@@ -694,12 +700,6 @@
     {
       "id": "8484390",
       "name": "Roman Kantserov",
-      "team": "CHI",
-      "position": "F"
-    },
-    {
-      "id": "8484185",
-      "name": "Nick Lardis",
       "team": "CHI",
       "position": "F"
     },
@@ -1766,6 +1766,12 @@
       "position": "F"
     },
     {
+      "id": "8477993",
+      "name": "Justin Kirkland",
+      "team": "MIN",
+      "position": "F"
+    },
+    {
       "id": "8483478",
       "name": "Rieger Lorenz",
       "team": "MIN",
@@ -1864,6 +1870,12 @@
     {
       "id": "8476981",
       "name": "Josh Anderson",
+      "team": "MTL",
+      "position": "F"
+    },
+    {
+      "id": "8483424",
+      "name": "Owen Beck",
       "team": "MTL",
       "position": "F"
     },
@@ -2878,6 +2890,12 @@
     {
       "id": "8479398",
       "name": "Samuel Girard",
+      "team": "PIT",
+      "position": "D"
+    },
+    {
+      "id": "8481564",
+      "name": "Ryan Johnson",
       "team": "PIT",
       "position": "D"
     },
@@ -4376,6 +4394,12 @@
       "position": "D"
     },
     {
+      "id": "8484185",
+      "name": "Nick Lardis",
+      "team": "CHI",
+      "position": "F"
+    },
+    {
       "id": "8479336",
       "name": "Carl Grundstrom",
       "team": "PHI",
@@ -4748,12 +4772,6 @@
       "position": "D"
     },
     {
-      "id": "8477993",
-      "name": "Justin Kirkland",
-      "team": "MIN",
-      "position": "F"
-    },
-    {
       "id": "8483467",
       "name": "Kirill Kudryavtsev",
       "team": "VAN",
@@ -4853,12 +4871,6 @@
       "id": "8484220",
       "name": "David Reinbacher",
       "team": "MTL",
-      "position": "D"
-    },
-    {
-      "id": "8478502",
-      "name": "Dennis Gilbert",
-      "team": "BUF",
       "position": "D"
     },
     {
@@ -4979,12 +4991,6 @@
       "id": "8481518",
       "name": "Nolan Foote",
       "team": "PHI",
-      "position": "F"
-    },
-    {
-      "id": "8483424",
-      "name": "Owen Beck",
-      "team": "MTL",
       "position": "F"
     },
     {
@@ -5316,12 +5322,6 @@
       "name": "Rory Kerins",
       "team": "CGY",
       "position": "F"
-    },
-    {
-      "id": "8481564",
-      "name": "Ryan Johnson",
-      "team": "PIT",
-      "position": "D"
     },
     {
       "id": "8482525",

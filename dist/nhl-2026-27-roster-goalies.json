@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-13T11:46:52.629465+00:00",
+  "asOf": "2026-10-13T19:16:34.514950+00:00",
   "goalies": [
     {
       "id": "8480843",
@@ -122,6 +122,11 @@
       "team": "EDM"
     },
     {
+      "id": "8484900",
+      "name": "Cooper Black",
+      "team": "FLA"
+    },
+    {
       "id": "8474593",
       "name": "Jacob Markstrom",
       "team": "FLA"
@@ -222,6 +227,11 @@
       "team": "NYR"
     },
     {
+      "id": "8477484",
+      "name": "Spencer Martin",
+      "team": "NYR"
+    },
+    {
       "id": "8478048",
       "name": "Igor Shesterkin",
       "team": "NYR"
@@ -289,6 +299,11 @@
     {
       "id": "8483710",
       "name": "Dennis Hildeby",
+      "team": "TBL"
+    },
+    {
+      "id": "8481544",
+      "name": "Mads Sogaard",
       "team": "TBL"
     },
     {
@@ -390,16 +405,6 @@
       "id": "8479496",
       "name": "David Rittich",
       "team": "NJD"
-    },
-    {
-      "id": "8477484",
-      "name": "Spencer Martin",
-      "team": "NYR"
-    },
-    {
-      "id": "8481544",
-      "name": "Mads Sogaard",
-      "team": "TBL"
     },
     {
       "id": "8482783",
