@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-14T15:08:13.663816+00:00",
+  "asOf": "2026-10-14T19:22:29.090462+00:00",
   "players": [
     {
       "id": "8484153",
@@ -2006,6 +2006,12 @@
       "position": "D"
     },
     {
+      "id": "8484220",
+      "name": "David Reinbacher",
+      "team": "MTL",
+      "position": "D"
+    },
+    {
       "id": "8482964",
       "name": "Arber Xhekaj",
       "team": "MTL",
@@ -3980,12 +3986,6 @@
       "position": "D"
     },
     {
-      "id": "8481572",
-      "name": "Ville Heinola",
-      "team": "VGK",
-      "position": "D"
-    },
-    {
       "id": "8478468",
       "name": "Jeremy Lauzon",
       "team": "VGK",
@@ -4874,12 +4874,6 @@
       "position": "F"
     },
     {
-      "id": "8484220",
-      "name": "David Reinbacher",
-      "team": "MTL",
-      "position": "D"
-    },
-    {
       "id": "8482206",
       "name": "Ethan Cardwell",
       "team": "SJS",
@@ -5393,6 +5387,12 @@
       "id": "8486166",
       "name": "Viking Gustafsson Nyberg",
       "team": "MIN",
+      "position": "D"
+    },
+    {
+      "id": "8481572",
+      "name": "Ville Heinola",
+      "team": "VGK",
       "position": "D"
     },
     {

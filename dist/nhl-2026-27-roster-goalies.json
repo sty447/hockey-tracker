@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-14T15:08:13.663816+00:00",
+  "asOf": "2026-10-14T19:22:29.090462+00:00",
   "goalies": [
     {
       "id": "8480843",
@@ -302,11 +302,6 @@
       "team": "TBL"
     },
     {
-      "id": "8481544",
-      "name": "Mads Sogaard",
-      "team": "TBL"
-    },
-    {
       "id": "8476883",
       "name": "Andrei Vasilevskiy",
       "team": "TBL"
@@ -405,6 +400,11 @@
       "id": "8479496",
       "name": "David Rittich",
       "team": "NJD"
+    },
+    {
+      "id": "8481544",
+      "name": "Mads Sogaard",
+      "team": "TBL"
     },
     {
       "id": "8482783",
