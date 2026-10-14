@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-14T19:22:29.090462+00:00",
+  "asOf": "2026-10-14T23:13:15.061171+00:00",
   "players": [
     {
       "id": "8484153",
@@ -792,6 +792,12 @@
       "name": "Alex Vlasic",
       "team": "CHI",
       "position": "D"
+    },
+    {
+      "id": "8484149",
+      "name": "Gavin Brindley",
+      "team": "COL",
+      "position": "F"
     },
     {
       "id": "8486171",
@@ -2506,12 +2512,6 @@
     {
       "id": "8478882",
       "name": "Vladislav Gavrikov",
-      "team": "NYR",
-      "position": "D"
-    },
-    {
-      "id": "8482861",
-      "name": "Vincent Iorio",
       "team": "NYR",
       "position": "D"
     },
@@ -4418,12 +4418,6 @@
       "position": "F"
     },
     {
-      "id": "8484149",
-      "name": "Gavin Brindley",
-      "team": "COL",
-      "position": "F"
-    },
-    {
       "id": "8480806",
       "name": "Isac Lundeström",
       "team": "CBJ",
@@ -4733,6 +4727,12 @@
       "id": "8481569",
       "name": "Marshall Warren",
       "team": "NYI",
+      "position": "D"
+    },
+    {
+      "id": "8482861",
+      "name": "Vincent Iorio",
+      "team": "NYR",
       "position": "D"
     },
     {
