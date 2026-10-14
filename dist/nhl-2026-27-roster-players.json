@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-14T10:11:41.376463+00:00",
+  "asOf": "2026-10-14T15:08:13.663816+00:00",
   "players": [
     {
       "id": "8484153",
@@ -586,6 +586,12 @@
     {
       "id": "8476921",
       "name": "Jordan Martinook",
+      "team": "CAR",
+      "position": "F"
+    },
+    {
+      "id": "8484203",
+      "name": "Bradly Nadeau",
       "team": "CAR",
       "position": "F"
     },
@@ -2390,12 +2396,6 @@
       "position": "D"
     },
     {
-      "id": "8484786",
-      "name": "Cole Beaudoin",
-      "team": "NYR",
-      "position": "F"
-    },
-    {
       "id": "8477416",
       "name": "Oliver Bjorkstrand",
       "team": "NYR",
@@ -2416,6 +2416,12 @@
     {
       "id": "8481604",
       "name": "Pavel Dorofeyev",
+      "team": "NYR",
+      "position": "F"
+    },
+    {
+      "id": "8475413",
+      "name": "Justin Dowling",
       "team": "NYR",
       "position": "F"
     },
@@ -4682,12 +4688,6 @@
       "position": "F"
     },
     {
-      "id": "8484203",
-      "name": "Bradly Nadeau",
-      "team": "CAR",
-      "position": "F"
-    },
-    {
       "id": "8479293",
       "name": "Brandon Tanev",
       "team": "UTA",
@@ -5222,12 +5222,6 @@
       "position": "F"
     },
     {
-      "id": "8475413",
-      "name": "Justin Dowling",
-      "team": "NYR",
-      "position": "F"
-    },
-    {
       "id": "8485251",
       "name": "Kai Uchacz",
       "team": "VGK",
@@ -5429,6 +5423,12 @@
       "id": "8483841",
       "name": "Xavier Parent",
       "team": "NJD",
+      "position": "F"
+    },
+    {
+      "id": "8484786",
+      "name": "Cole Beaudoin",
+      "team": "NYR",
       "position": "F"
     },
     {
