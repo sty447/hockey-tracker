@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-15T13:25:22.758033+00:00",
+  "asOf": "2026-10-15T18:17:39.097866+00:00",
   "players": [
     {
       "id": "8484153",
@@ -1688,6 +1688,12 @@
       "position": "F"
     },
     {
+      "id": "8483756",
+      "name": "Jared Wright",
+      "team": "LAK",
+      "position": "F"
+    },
+    {
       "id": "8475692",
       "name": "Mats Zuccarello",
       "team": "LAK",
@@ -1784,12 +1790,6 @@
       "position": "F"
     },
     {
-      "id": "8477993",
-      "name": "Justin Kirkland",
-      "team": "MIN",
-      "position": "F"
-    },
-    {
       "id": "8483478",
       "name": "Rieger Lorenz",
       "team": "MIN",
@@ -1864,6 +1864,12 @@
     {
       "id": "8482641",
       "name": "Matt Kiersted",
+      "team": "MIN",
+      "position": "D"
+    },
+    {
+      "id": "8482781",
+      "name": "Carson Lambos",
       "team": "MIN",
       "position": "D"
     },
@@ -2662,6 +2668,12 @@
     {
       "id": "8484759",
       "name": "Carter Yakemchuk",
+      "team": "OTT",
+      "position": "D"
+    },
+    {
+      "id": "8482245",
+      "name": "Artem Zub",
       "team": "OTT",
       "position": "D"
     },
@@ -4304,12 +4316,6 @@
       "position": "D"
     },
     {
-      "id": "8482245",
-      "name": "Artem Zub",
-      "team": "OTT",
-      "position": "D"
-    },
-    {
       "id": "8480873",
       "name": "Rasmus Sandin",
       "team": "WSH",
@@ -4646,12 +4652,6 @@
       "position": "D"
     },
     {
-      "id": "8483756",
-      "name": "Jared Wright",
-      "team": "LAK",
-      "position": "F"
-    },
-    {
       "id": "8481077",
       "name": "John Leonard",
       "team": "DET",
@@ -4776,6 +4776,12 @@
       "name": "Justin Holl",
       "team": "WSH",
       "position": "D"
+    },
+    {
+      "id": "8477993",
+      "name": "Justin Kirkland",
+      "team": "MIN",
+      "position": "F"
     },
     {
       "id": "8483467",
@@ -5094,12 +5100,6 @@
       "name": "Brett Leason",
       "team": "SJS",
       "position": "F"
-    },
-    {
-      "id": "8482781",
-      "name": "Carson Lambos",
-      "team": "MIN",
-      "position": "D"
     },
     {
       "id": "8484287",

@@ -1,8 +1,8 @@
 {
-  "asOf": "2026-10-15T13:25:22.758033+00:00",
+  "asOf": "2026-10-15T18:17:39.097866+00:00",
   "trades": {
     "asOf": "2026-10-15",
-    "checkedAt": "2026-10-15T13:25:22.758033+00:00",
+    "checkedAt": "2026-10-15T18:17:39.097866+00:00",
     "source": "https://www.nhl.com/news/topic/trade-coverage/2026-27-nhl-trades",
     "trades": [
       {
@@ -403,7 +403,7 @@
     ]
   },
   "rosters": {
-    "asOf": "2026-10-15T13:25:22.758033+00:00",
+    "asOf": "2026-10-15T18:17:39.097866+00:00",
     "teams": {
       "ANA": {
         "forwards": [
@@ -901,9 +901,9 @@
           "8478550",
           "8470621",
           "8481532",
+          "8483756",
           "8475692",
           "8483406",
-          "8483756",
           "8483675",
           "8478967"
         ],
@@ -932,7 +932,6 @@
           "8473422",
           "8477451",
           "8478864",
-          "8477993",
           "8483478",
           "8477446",
           "8475752",
@@ -940,7 +939,8 @@
           "8481477",
           "8478508",
           "8483525",
-          "8483452"
+          "8483452",
+          "8477993"
         ],
         "defensemen": [
           "8474567",
@@ -949,10 +949,10 @@
           "8480800",
           "8482094",
           "8482641",
+          "8482781",
           "8476874",
           "8483766",
           "8474716",
-          "8482781",
           "8486166"
         ],
         "goalies": [
@@ -1677,7 +1677,7 @@
     "tradesAsOf": "2026-10-15"
   },
   "skaters": {
-    "asOf": "2026-10-15T13:25:22.758033+00:00",
+    "asOf": "2026-10-15T18:17:39.097866+00:00",
     "players": [
       {
         "id": "8484153",
@@ -3366,6 +3366,12 @@
         "position": "F"
       },
       {
+        "id": "8483756",
+        "name": "Jared Wright",
+        "team": "LAK",
+        "position": "F"
+      },
+      {
         "id": "8475692",
         "name": "Mats Zuccarello",
         "team": "LAK",
@@ -3462,12 +3468,6 @@
         "position": "F"
       },
       {
-        "id": "8477993",
-        "name": "Justin Kirkland",
-        "team": "MIN",
-        "position": "F"
-      },
-      {
         "id": "8483478",
         "name": "Rieger Lorenz",
         "team": "MIN",
@@ -3542,6 +3542,12 @@
       {
         "id": "8482641",
         "name": "Matt Kiersted",
+        "team": "MIN",
+        "position": "D"
+      },
+      {
+        "id": "8482781",
+        "name": "Carson Lambos",
         "team": "MIN",
         "position": "D"
       },
@@ -4340,6 +4346,12 @@
       {
         "id": "8484759",
         "name": "Carter Yakemchuk",
+        "team": "OTT",
+        "position": "D"
+      },
+      {
+        "id": "8482245",
+        "name": "Artem Zub",
         "team": "OTT",
         "position": "D"
       },
@@ -5982,12 +5994,6 @@
         "position": "D"
       },
       {
-        "id": "8482245",
-        "name": "Artem Zub",
-        "team": "OTT",
-        "position": "D"
-      },
-      {
         "id": "8480873",
         "name": "Rasmus Sandin",
         "team": "WSH",
@@ -6324,12 +6330,6 @@
         "position": "D"
       },
       {
-        "id": "8483756",
-        "name": "Jared Wright",
-        "team": "LAK",
-        "position": "F"
-      },
-      {
         "id": "8481077",
         "name": "John Leonard",
         "team": "DET",
@@ -6454,6 +6454,12 @@
         "name": "Justin Holl",
         "team": "WSH",
         "position": "D"
+      },
+      {
+        "id": "8477993",
+        "name": "Justin Kirkland",
+        "team": "MIN",
+        "position": "F"
       },
       {
         "id": "8483467",
@@ -6772,12 +6778,6 @@
         "name": "Brett Leason",
         "team": "SJS",
         "position": "F"
-      },
-      {
-        "id": "8482781",
-        "name": "Carson Lambos",
-        "team": "MIN",
-        "position": "D"
       },
       {
         "id": "8484287",
@@ -7185,7 +7185,7 @@
     "tradesAsOf": "2026-10-15"
   },
   "goalies": {
-    "asOf": "2026-10-15T13:25:22.758033+00:00",
+    "asOf": "2026-10-15T18:17:39.097866+00:00",
     "goalies": [
       {
         "id": "8480843",
