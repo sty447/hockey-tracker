@@ -25,8 +25,8 @@ def parse_trades(page):
  pattern=r'\b(JANUARY|FEBRUARY|MARCH|APRIL|MAY|JUNE|JULY|AUGUST|SEPTEMBER|OCTOBER|NOVEMBER|DECEMBER) (\d{1,2}):\*?\*?\s*(.*?)\s*\|'
  trades=[]
  for month,day,sentence in re.findall(pattern,body,re.S):
-  sentence=html.unescape(sentence).replace('*','').strip().rstrip('.')
-  m=re.fullmatch(r'(.+?) acquire (.+?) from (?:the )?(.+?) for (.+)',sentence)
+  sentence=re.sub(r'\s+',' ',html.unescape(sentence).replace('*','')).strip().rstrip('.')
+  m=re.fullmatch(r'(.+?) acquire(?:d|s)? (.+?) from (?:the )?(.+?) for (.+)',sentence)
   if not m:raise ValueError('Unrecognized trade format: '+sentence)
   a,gets,b,gives=m.groups()
   if a not in TEAMS or b not in TEAMS:raise ValueError('Unrecognized NHL team')
@@ -48,8 +48,18 @@ def parse_trades(page):
  return trades
 
 def main():
- args=argparse.ArgumentParser();args.add_argument('--check',action='store_true');args=args.parse_args()
+ args=argparse.ArgumentParser();args.add_argument('--check',action='store_true');args.add_argument('--trades-only',action='store_true');args=args.parse_args()
  trades=parse_trades(download(URL))
+ if args.trades_only:
+  if args.check:return
+  now=datetime.datetime.now(datetime.timezone.utc).isoformat()
+  snapshot={'asOf':now[:10],'checkedAt':now,'source':URL,'trades':trades}
+  target=dist/'nhl-recent-trades.json';temp=target.with_suffix('.tmp');temp.write_text(json.dumps(snapshot,indent=2)+'\n');temp.replace(target)
+  bundle_path=dist/'nhl-live-data.json'
+  if bundle_path.exists():
+   bundle=json.loads(bundle_path.read_text());bundle['trades']=snapshot;bundle['tradeCheckedAt']=now
+   temp=bundle_path.with_suffix('.tmp');temp.write_text(json.dumps(bundle,indent=2)+'\n');temp.replace(bundle_path)
+  print(f'Updated {len(trades)} confirmed trades independently of roster availability.');return
  def roster(team):return team,json.loads(download(f'https://api-web.nhle.com/v1/roster/{team}/20262027'))
  teams={};players=[];goalies=[]
  with concurrent.futures.ThreadPoolExecutor(max_workers=8) as pool:
