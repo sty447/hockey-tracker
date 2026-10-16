@@ -1,10 +1,28 @@
 {
-  "asOf": "2026-10-15T18:17:39.097866+00:00",
+  "asOf": "2026-10-16T22:34:25.828783+00:00",
   "trades": {
-    "asOf": "2026-10-15",
-    "checkedAt": "2026-10-15T18:17:39.097866+00:00",
+    "asOf": "2026-10-16",
+    "checkedAt": "2026-10-16T22:34:25.828783+00:00",
     "source": "https://www.nhl.com/news/topic/trade-coverage/2026-27-nhl-trades",
     "trades": [
+      {
+        "date": "2026-10-15",
+        "teams": [
+          {
+            "team": "TOR",
+            "receives": [
+              "Aatu R\u00e4ty"
+            ]
+          },
+          {
+            "team": "VAN",
+            "receives": [
+              "Brandon Buhr",
+              "Jacob Quillan"
+            ]
+          }
+        ]
+      },
       {
         "date": "2026-10-12",
         "teams": [
@@ -403,7 +421,7 @@
     ]
   },
   "rosters": {
-    "asOf": "2026-10-15T18:17:39.097866+00:00",
+    "asOf": "2026-10-16T22:34:25.828783+00:00",
     "teams": {
       "ANA": {
         "forwards": [
@@ -588,8 +606,8 @@
           "8473533",
           "8482702",
           "8480830",
-          "8482093",
           "8484392",
+          "8482093",
           "8482785",
           "8480291"
         ],
@@ -743,6 +761,7 @@
           "8480027",
           "8475794",
           "8479351",
+          "8474102",
           "8478888"
         ],
         "defensemen": [
@@ -881,9 +900,9 @@
           "8484933"
         ],
         "goalies": [
-          "8484900",
           "8474593",
-          "8481033"
+          "8481033",
+          "8484900"
         ]
       },
       "LAK": {
@@ -949,10 +968,10 @@
           "8480800",
           "8482094",
           "8482641",
-          "8482781",
           "8476874",
           "8483766",
           "8474716",
+          "8482781",
           "8486166"
         ],
         "goalies": [
@@ -1035,8 +1054,8 @@
         ],
         "goalies": [
           "8481020",
-          "8483575",
-          "8477424"
+          "8477424",
+          "8483575"
         ]
       },
       "NJD": {
@@ -1123,7 +1142,6 @@
       "NYR": {
         "forwards": [
           "8477416",
-          "8482877",
           "8482157",
           "8481604",
           "8475413",
@@ -1132,12 +1150,13 @@
           "8482109",
           "8476468",
           "8484210",
+          "8479390",
           "8482460",
           "8483669",
           "8480009",
           "8480813",
           "8476459",
-          "8479390",
+          "8482877",
           "8481704",
           "8477320",
           "8484786"
@@ -1288,7 +1307,6 @@
       },
       "SJS": {
         "forwards": [
-          "8479718",
           "8484801",
           "8484994",
           "8480848",
@@ -1303,6 +1321,7 @@
           "8486103",
           "8475726",
           "8477505",
+          "8479718",
           "8482206",
           "8480825",
           "8481517"
@@ -1352,6 +1371,7 @@
           "8479324",
           "8479372",
           "8477986",
+          "8483494",
           "8482866"
         ],
         "goalies": [
@@ -1458,7 +1478,7 @@
           "8477425",
           "8477503",
           "8478057",
-          "8484901",
+          "8482691",
           "8482153",
           "8485467",
           "8479543",
@@ -1532,10 +1552,10 @@
           "8482055",
           "8483499",
           "8480012",
-          "8482691",
           "8482079",
           "8484136",
           "8476907",
+          "8484901",
           "8484406",
           "8485385"
         ],
@@ -1581,13 +1601,13 @@
           "8478397",
           "8479639",
           "8478396",
+          "8481572",
           "8478468",
           "8475188",
           "8477447",
           "8478450",
           "8480874",
-          "8477034",
-          "8481572"
+          "8477034"
         ],
         "goalies": [
           "8479394",
@@ -1619,12 +1639,12 @@
           "8479345",
           "8479576",
           "8480796",
+          "8475718",
           "8484873",
           "8480043",
           "8475795",
           "8478911",
-          "8480873",
-          "8475718"
+          "8480873"
         ],
         "goalies": [
           "8479292",
@@ -1674,10 +1694,10 @@
         ]
       }
     },
-    "tradesAsOf": "2026-10-15"
+    "tradesAsOf": "2026-10-16"
   },
   "skaters": {
-    "asOf": "2026-10-15T18:17:39.097866+00:00",
+    "asOf": "2026-10-16T22:34:25.828783+00:00",
     "players": [
       {
         "id": "8484153",
@@ -2294,6 +2314,12 @@
       {
         "id": "8480830",
         "name": "Andrei Svechnikov",
+        "team": "CAR",
+        "position": "F"
+      },
+      {
+        "id": "8484392",
+        "name": "Felix Unger S\u00f6rum",
         "team": "CAR",
         "position": "F"
       },
@@ -3546,12 +3572,6 @@
         "position": "D"
       },
       {
-        "id": "8482781",
-        "name": "Carson Lambos",
-        "team": "MIN",
-        "position": "D"
-      },
-      {
         "id": "8476874",
         "name": "Olli Maatta",
         "team": "MIN",
@@ -4098,12 +4118,6 @@
         "position": "F"
       },
       {
-        "id": "8482877",
-        "name": "Jaroslav Chmelar",
-        "team": "NYR",
-        "position": "F"
-      },
-      {
         "id": "8482157",
         "name": "Will Cuylle",
         "team": "NYR",
@@ -4148,6 +4162,12 @@
       {
         "id": "8484210",
         "name": "Gabe Perreault",
+        "team": "NYR",
+        "position": "F"
+      },
+      {
+        "id": "8479390",
+        "name": "Taylor Raddysh",
         "team": "NYR",
         "position": "F"
       },
@@ -4638,12 +4658,6 @@
         "position": "D"
       },
       {
-        "id": "8479718",
-        "name": "Alex Barr\u00e9-Boulet",
-        "team": "SJS",
-        "position": "F"
-      },
-      {
         "id": "8484801",
         "name": "Macklin Celebrini",
         "team": "SJS",
@@ -4898,6 +4912,12 @@
       {
         "id": "8477986",
         "name": "Brandon Montour",
+        "team": "SEA",
+        "position": "D"
+      },
+      {
+        "id": "8483494",
+        "name": "Ty Nelson",
         "team": "SEA",
         "position": "D"
       },
@@ -5514,12 +5534,6 @@
         "position": "F"
       },
       {
-        "id": "8482691",
-        "name": "Aatu R\u00e4ty",
-        "team": "VAN",
-        "position": "F"
-      },
-      {
         "id": "8482079",
         "name": "Marco Rossi",
         "team": "VAN",
@@ -5676,6 +5690,12 @@
         "position": "D"
       },
       {
+        "id": "8481572",
+        "name": "Ville Heinola",
+        "team": "VGK",
+        "position": "D"
+      },
+      {
         "id": "8478468",
         "name": "Jeremy Lauzon",
         "team": "VGK",
@@ -5798,6 +5818,12 @@
       {
         "id": "8480796",
         "name": "Martin Feh\u00e9rv\u00e1ry",
+        "team": "WSH",
+        "position": "D"
+      },
+      {
+        "id": "8475718",
+        "name": "Justin Holl",
         "team": "WSH",
         "position": "D"
       },
@@ -6000,6 +6026,12 @@
         "position": "D"
       },
       {
+        "id": "8474102",
+        "name": "David Perron",
+        "team": "DAL",
+        "position": "F"
+      },
+      {
         "id": "8482074",
         "name": "Connor Zary",
         "team": "CGY",
@@ -6010,12 +6042,6 @@
         "name": "Simon Edvinsson",
         "team": "DET",
         "position": "D"
-      },
-      {
-        "id": "8479390",
-        "name": "Taylor Raddysh",
-        "team": "NYR",
-        "position": "F"
       },
       {
         "id": "8477839",
@@ -6093,6 +6119,12 @@
         "id": "8484185",
         "name": "Nick Lardis",
         "team": "CHI",
+        "position": "F"
+      },
+      {
+        "id": "8482691",
+        "name": "Aatu R\u00e4ty",
+        "team": "TOR",
         "position": "F"
       },
       {
@@ -6264,6 +6296,12 @@
         "position": "F"
       },
       {
+        "id": "8482877",
+        "name": "Jaroslav Chmelar",
+        "team": "NYR",
+        "position": "F"
+      },
+      {
         "id": "8482107",
         "name": "Mike Benning",
         "team": "CGY",
@@ -6374,7 +6412,7 @@
       {
         "id": "8484901",
         "name": "Jacob Quillan",
-        "team": "TOR",
+        "team": "VAN",
         "position": "F"
       },
       {
@@ -6450,12 +6488,6 @@
         "position": "F"
       },
       {
-        "id": "8475718",
-        "name": "Justin Holl",
-        "team": "WSH",
-        "position": "D"
-      },
-      {
         "id": "8477993",
         "name": "Justin Kirkland",
         "team": "MIN",
@@ -6489,6 +6521,12 @@
         "id": "8484380",
         "name": "Wilmer Skoog",
         "team": "DET",
+        "position": "F"
+      },
+      {
+        "id": "8479718",
+        "name": "Alex Barr\u00e9-Boulet",
+        "team": "SJS",
         "position": "F"
       },
       {
@@ -6561,12 +6599,6 @@
         "id": "8482206",
         "name": "Ethan Cardwell",
         "team": "SJS",
-        "position": "F"
-      },
-      {
-        "id": "8484392",
-        "name": "Felix Unger Sorum",
-        "team": "CAR",
         "position": "F"
       },
       {
@@ -6778,6 +6810,12 @@
         "name": "Brett Leason",
         "team": "SJS",
         "position": "F"
+      },
+      {
+        "id": "8482781",
+        "name": "Carson Lambos",
+        "team": "MIN",
+        "position": "D"
       },
       {
         "id": "8484287",
@@ -7068,12 +7106,6 @@
         "position": "D"
       },
       {
-        "id": "8481572",
-        "name": "Ville Heinola",
-        "team": "VGK",
-        "position": "D"
-      },
-      {
         "id": "8482652",
         "name": "Walker Duehr",
         "team": "WPG",
@@ -7182,10 +7214,10 @@
         "position": "F"
       }
     ],
-    "tradesAsOf": "2026-10-15"
+    "tradesAsOf": "2026-10-16"
   },
   "goalies": {
-    "asOf": "2026-10-15T18:17:39.097866+00:00",
+    "asOf": "2026-10-16T22:34:25.828783+00:00",
     "goalies": [
       {
         "id": "8480843",
@@ -7308,11 +7340,6 @@
         "team": "EDM"
       },
       {
-        "id": "8484900",
-        "name": "Cooper Black",
-        "team": "FLA"
-      },
-      {
         "id": "8474593",
         "name": "Jacob Markstrom",
         "team": "FLA"
@@ -7365,11 +7392,6 @@
       {
         "id": "8481020",
         "name": "Justus Annunen",
-        "team": "NSH"
-      },
-      {
-        "id": "8483575",
-        "name": "Matt Murray",
         "team": "NSH"
       },
       {
@@ -7661,8 +7683,18 @@
         "id": "8477480",
         "name": "Eric Comrie",
         "team": "SJS"
+      },
+      {
+        "id": "8484900",
+        "name": "Cooper Black",
+        "team": "FLA"
+      },
+      {
+        "id": "8483575",
+        "name": "Matt Murray",
+        "team": "NSH"
       }
     ],
-    "tradesAsOf": "2026-10-15"
+    "tradesAsOf": "2026-10-16"
   }
 }

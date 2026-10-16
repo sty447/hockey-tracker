@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-15T18:17:39.097866+00:00",
+  "asOf": "2026-10-16T22:34:25.828783+00:00",
   "players": [
     {
       "id": "8484153",
@@ -616,6 +616,12 @@
     {
       "id": "8480830",
       "name": "Andrei Svechnikov",
+      "team": "CAR",
+      "position": "F"
+    },
+    {
+      "id": "8484392",
+      "name": "Felix Unger Sörum",
       "team": "CAR",
       "position": "F"
     },
@@ -1868,12 +1874,6 @@
       "position": "D"
     },
     {
-      "id": "8482781",
-      "name": "Carson Lambos",
-      "team": "MIN",
-      "position": "D"
-    },
-    {
       "id": "8476874",
       "name": "Olli Maatta",
       "team": "MIN",
@@ -2420,12 +2420,6 @@
       "position": "F"
     },
     {
-      "id": "8482877",
-      "name": "Jaroslav Chmelar",
-      "team": "NYR",
-      "position": "F"
-    },
-    {
       "id": "8482157",
       "name": "Will Cuylle",
       "team": "NYR",
@@ -2470,6 +2464,12 @@
     {
       "id": "8484210",
       "name": "Gabe Perreault",
+      "team": "NYR",
+      "position": "F"
+    },
+    {
+      "id": "8479390",
+      "name": "Taylor Raddysh",
       "team": "NYR",
       "position": "F"
     },
@@ -2960,12 +2960,6 @@
       "position": "D"
     },
     {
-      "id": "8479718",
-      "name": "Alex Barré-Boulet",
-      "team": "SJS",
-      "position": "F"
-    },
-    {
       "id": "8484801",
       "name": "Macklin Celebrini",
       "team": "SJS",
@@ -3220,6 +3214,12 @@
     {
       "id": "8477986",
       "name": "Brandon Montour",
+      "team": "SEA",
+      "position": "D"
+    },
+    {
+      "id": "8483494",
+      "name": "Ty Nelson",
       "team": "SEA",
       "position": "D"
     },
@@ -3836,12 +3836,6 @@
       "position": "F"
     },
     {
-      "id": "8482691",
-      "name": "Aatu Räty",
-      "team": "VAN",
-      "position": "F"
-    },
-    {
       "id": "8482079",
       "name": "Marco Rossi",
       "team": "VAN",
@@ -3998,6 +3992,12 @@
       "position": "D"
     },
     {
+      "id": "8481572",
+      "name": "Ville Heinola",
+      "team": "VGK",
+      "position": "D"
+    },
+    {
       "id": "8478468",
       "name": "Jeremy Lauzon",
       "team": "VGK",
@@ -4120,6 +4120,12 @@
     {
       "id": "8480796",
       "name": "Martin Fehérváry",
+      "team": "WSH",
+      "position": "D"
+    },
+    {
+      "id": "8475718",
+      "name": "Justin Holl",
       "team": "WSH",
       "position": "D"
     },
@@ -4322,6 +4328,12 @@
       "position": "D"
     },
     {
+      "id": "8474102",
+      "name": "David Perron",
+      "team": "DAL",
+      "position": "F"
+    },
+    {
       "id": "8482074",
       "name": "Connor Zary",
       "team": "CGY",
@@ -4332,12 +4344,6 @@
       "name": "Simon Edvinsson",
       "team": "DET",
       "position": "D"
-    },
-    {
-      "id": "8479390",
-      "name": "Taylor Raddysh",
-      "team": "NYR",
-      "position": "F"
     },
     {
       "id": "8477839",
@@ -4415,6 +4421,12 @@
       "id": "8484185",
       "name": "Nick Lardis",
       "team": "CHI",
+      "position": "F"
+    },
+    {
+      "id": "8482691",
+      "name": "Aatu Räty",
+      "team": "TOR",
       "position": "F"
     },
     {
@@ -4586,6 +4598,12 @@
       "position": "F"
     },
     {
+      "id": "8482877",
+      "name": "Jaroslav Chmelar",
+      "team": "NYR",
+      "position": "F"
+    },
+    {
       "id": "8482107",
       "name": "Mike Benning",
       "team": "CGY",
@@ -4696,7 +4714,7 @@
     {
       "id": "8484901",
       "name": "Jacob Quillan",
-      "team": "TOR",
+      "team": "VAN",
       "position": "F"
     },
     {
@@ -4772,12 +4790,6 @@
       "position": "F"
     },
     {
-      "id": "8475718",
-      "name": "Justin Holl",
-      "team": "WSH",
-      "position": "D"
-    },
-    {
       "id": "8477993",
       "name": "Justin Kirkland",
       "team": "MIN",
@@ -4811,6 +4823,12 @@
       "id": "8484380",
       "name": "Wilmer Skoog",
       "team": "DET",
+      "position": "F"
+    },
+    {
+      "id": "8479718",
+      "name": "Alex Barré-Boulet",
+      "team": "SJS",
       "position": "F"
     },
     {
@@ -4883,12 +4901,6 @@
       "id": "8482206",
       "name": "Ethan Cardwell",
       "team": "SJS",
-      "position": "F"
-    },
-    {
-      "id": "8484392",
-      "name": "Felix Unger Sorum",
-      "team": "CAR",
       "position": "F"
     },
     {
@@ -5100,6 +5112,12 @@
       "name": "Brett Leason",
       "team": "SJS",
       "position": "F"
+    },
+    {
+      "id": "8482781",
+      "name": "Carson Lambos",
+      "team": "MIN",
+      "position": "D"
     },
     {
       "id": "8484287",
@@ -5390,12 +5408,6 @@
       "position": "D"
     },
     {
-      "id": "8481572",
-      "name": "Ville Heinola",
-      "team": "VGK",
-      "position": "D"
-    },
-    {
       "id": "8482652",
       "name": "Walker Duehr",
       "team": "WPG",
@@ -5504,5 +5516,5 @@
       "position": "F"
     }
   ],
-  "tradesAsOf": "2026-10-15"
+  "tradesAsOf": "2026-10-16"
 }

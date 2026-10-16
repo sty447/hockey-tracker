@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-15T18:17:39.097866+00:00",
+  "asOf": "2026-10-16T22:34:25.828783+00:00",
   "goalies": [
     {
       "id": "8480843",
@@ -122,11 +122,6 @@
       "team": "EDM"
     },
     {
-      "id": "8484900",
-      "name": "Cooper Black",
-      "team": "FLA"
-    },
-    {
       "id": "8474593",
       "name": "Jacob Markstrom",
       "team": "FLA"
@@ -179,11 +174,6 @@
     {
       "id": "8481020",
       "name": "Justus Annunen",
-      "team": "NSH"
-    },
-    {
-      "id": "8483575",
-      "name": "Matt Murray",
       "team": "NSH"
     },
     {
@@ -475,7 +465,17 @@
       "id": "8477480",
       "name": "Eric Comrie",
       "team": "SJS"
+    },
+    {
+      "id": "8484900",
+      "name": "Cooper Black",
+      "team": "FLA"
+    },
+    {
+      "id": "8483575",
+      "name": "Matt Murray",
+      "team": "NSH"
     }
   ],
-  "tradesAsOf": "2026-10-15"
+  "tradesAsOf": "2026-10-16"
 }
