@@ -24,7 +24,10 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
-      - name: Refresh confirmed trades and rosters
+      - name: Refresh confirmed trades independently
+        run: python scripts/refresh-nhl-trades.py --trades-only
+      - name: Refresh current rosters
+        continue-on-error: true
         run: python scripts/refresh-nhl-trades.py
       - name: Check data integrity
         run: |
