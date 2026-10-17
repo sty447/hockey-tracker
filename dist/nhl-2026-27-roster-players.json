@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-17T18:30:24.035188+00:00",
+  "asOf": "2026-10-17T21:27:44.271963+00:00",
   "players": [
     {
       "id": "8484153",
@@ -1108,6 +1108,12 @@
     {
       "id": "8481641",
       "name": "Joel Kiviranta",
+      "team": "DAL",
+      "position": "F"
+    },
+    {
+      "id": "8474102",
+      "name": "David Perron",
       "team": "DAL",
       "position": "F"
     },
@@ -4326,12 +4332,6 @@
       "name": "Rasmus Sandin",
       "team": "WSH",
       "position": "D"
-    },
-    {
-      "id": "8474102",
-      "name": "David Perron",
-      "team": "DAL",
-      "position": "F"
     },
     {
       "id": "8482074",
