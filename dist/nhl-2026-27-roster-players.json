@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-17T15:33:19.559900+00:00",
+  "asOf": "2026-10-17T18:30:24.035188+00:00",
   "players": [
     {
       "id": "8484153",
@@ -1694,8 +1694,8 @@
       "position": "F"
     },
     {
-      "id": "8483756",
-      "name": "Jared Wright",
+      "id": "8483406",
+      "name": "Taylor Ward",
       "team": "LAK",
       "position": "F"
     },
@@ -4586,12 +4586,6 @@
       "position": "F"
     },
     {
-      "id": "8483406",
-      "name": "Taylor Ward",
-      "team": "LAK",
-      "position": "F"
-    },
-    {
       "id": "8476867",
       "name": "Brendan Gaunce",
       "team": "BOS",
@@ -4668,6 +4662,12 @@
       "name": "Colton White",
       "team": "CBJ",
       "position": "D"
+    },
+    {
+      "id": "8483756",
+      "name": "Jared Wright",
+      "team": "LAK",
+      "position": "F"
     },
     {
       "id": "8481077",
