@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-18T14:01:13.786947+00:00",
+  "asOf": "2026-10-18T17:22:10.473890+00:00",
   "players": [
     {
       "id": "8484153",
@@ -1784,6 +1784,12 @@
       "position": "F"
     },
     {
+      "id": "8483452",
+      "name": "Hunter Haight",
+      "team": "MIN",
+      "position": "F"
+    },
+    {
       "id": "8477451",
       "name": "Ryan Hartman",
       "team": "MIN",
@@ -1870,6 +1876,12 @@
     {
       "id": "8482641",
       "name": "Matt Kiersted",
+      "team": "MIN",
+      "position": "D"
+    },
+    {
+      "id": "8482781",
+      "name": "Carson Lambos",
       "team": "MIN",
       "position": "D"
     },
@@ -4784,12 +4796,6 @@
       "position": "D"
     },
     {
-      "id": "8483452",
-      "name": "Hunter Haight",
-      "team": "MIN",
-      "position": "F"
-    },
-    {
       "id": "8477993",
       "name": "Justin Kirkland",
       "team": "MIN",
@@ -5106,12 +5112,6 @@
       "name": "Brett Leason",
       "team": "SJS",
       "position": "F"
-    },
-    {
-      "id": "8482781",
-      "name": "Carson Lambos",
-      "team": "MIN",
-      "position": "D"
     },
     {
       "id": "8484287",
