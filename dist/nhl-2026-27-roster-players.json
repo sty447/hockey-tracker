@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-17T21:27:44.271963+00:00",
+  "asOf": "2026-10-18T00:01:59.423579+00:00",
   "players": [
     {
       "id": "8484153",
@@ -3998,12 +3998,6 @@
       "position": "D"
     },
     {
-      "id": "8481572",
-      "name": "Ville Heinola",
-      "team": "VGK",
-      "position": "D"
-    },
-    {
       "id": "8478468",
       "name": "Jeremy Lauzon",
       "team": "VGK",
@@ -5408,6 +5402,12 @@
       "position": "D"
     },
     {
+      "id": "8481572",
+      "name": "Ville Heinola",
+      "team": "VGK",
+      "position": "D"
+    },
+    {
       "id": "8482652",
       "name": "Walker Duehr",
       "team": "WPG",
@@ -5516,5 +5516,5 @@
       "position": "F"
     }
   ],
-  "tradesAsOf": "2026-10-17"
+  "tradesAsOf": "2026-10-18"
 }
