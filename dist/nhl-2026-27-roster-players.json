@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-18T17:22:10.473890+00:00",
+  "asOf": "2026-10-18T20:41:19.983545+00:00",
   "players": [
     {
       "id": "8484153",
@@ -1278,12 +1278,6 @@
       "name": "Lucas Raymond",
       "team": "DET",
       "position": "F"
-    },
-    {
-      "id": "8480879",
-      "name": "Jacob Bernard-Docker",
-      "team": "DET",
-      "position": "D"
     },
     {
       "id": "8475279",
@@ -2798,12 +2792,6 @@
       "position": "D"
     },
     {
-      "id": "8482169",
-      "name": "Helge Grans",
-      "team": "PHI",
-      "position": "D"
-    },
-    {
       "id": "8483460",
       "name": "David Jiricek",
       "team": "PHI",
@@ -2932,12 +2920,6 @@
     {
       "id": "8479398",
       "name": "Samuel Girard",
-      "team": "PIT",
-      "position": "D"
-    },
-    {
-      "id": "8481564",
-      "name": "Ryan Johnson",
       "team": "PIT",
       "position": "D"
     },
@@ -3544,6 +3526,12 @@
     {
       "id": "8480870",
       "name": "Bo Groulx",
+      "team": "TOR",
+      "position": "F"
+    },
+    {
+      "id": "8479968",
+      "name": "Vinni Lettieri",
       "team": "TOR",
       "position": "F"
     },
@@ -4646,6 +4634,12 @@
       "position": "F"
     },
     {
+      "id": "8480879",
+      "name": "Jacob Bernard-Docker",
+      "team": "DET",
+      "position": "D"
+    },
+    {
       "id": "8482103",
       "name": "Ozzy Wiesblatt",
       "team": "NSH",
@@ -5324,6 +5318,12 @@
       "position": "F"
     },
     {
+      "id": "8481564",
+      "name": "Ryan Johnson",
+      "team": "PIT",
+      "position": "D"
+    },
+    {
       "id": "8482525",
       "name": "Ryan Tverberg",
       "team": "TOR",
@@ -5436,6 +5436,12 @@
       "name": "Xavier Parent",
       "team": "NJD",
       "position": "F"
+    },
+    {
+      "id": "8482169",
+      "name": "Helge Grans",
+      "team": "PHI",
+      "position": "D"
     },
     {
       "id": "8484786",
