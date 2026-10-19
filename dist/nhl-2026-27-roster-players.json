@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-19T13:24:33.935472+00:00",
+  "asOf": "2026-10-19T19:55:34.117033+00:00",
   "players": [
     {
       "id": "8484153",
@@ -2294,6 +2294,12 @@
       "position": "D"
     },
     {
+      "id": "8482070",
+      "name": "Mitchell Chaffee",
+      "team": "NYI",
+      "position": "F"
+    },
+    {
       "id": "8475231",
       "name": "Casey Cizikas",
       "team": "NYI",
@@ -2696,6 +2702,12 @@
       "position": "F"
     },
     {
+      "id": "8483731",
+      "name": "Alex Bump",
+      "team": "PHI",
+      "position": "F"
+    },
+    {
       "id": "8478047",
       "name": "Michael Bunting",
       "team": "PHI",
@@ -2726,8 +2738,20 @@
       "position": "F"
     },
     {
+      "id": "8481848",
+      "name": "Jacob Gaucher",
+      "team": "PHI",
+      "position": "F"
+    },
+    {
       "id": "8483733",
       "name": "Nikita Grebenkin",
+      "team": "PHI",
+      "position": "F"
+    },
+    {
+      "id": "8483787",
+      "name": "Cole Knuble",
       "team": "PHI",
       "position": "F"
     },
@@ -2794,6 +2818,12 @@
     {
       "id": "8483460",
       "name": "David Jiricek",
+      "team": "PHI",
+      "position": "D"
+    },
+    {
+      "id": "8483760",
+      "name": "Hunter McDonald",
       "team": "PHI",
       "position": "D"
     },
@@ -4244,6 +4274,12 @@
       "position": "F"
     },
     {
+      "id": "8484242",
+      "name": "Brayden Yager",
+      "team": "WPG",
+      "position": "F"
+    },
+    {
       "id": "8482459",
       "name": "Tyrel Bauer",
       "team": "WPG",
@@ -4475,12 +4511,6 @@
       "id": "8482947",
       "name": "Zakhar Bardakov",
       "team": "COL",
-      "position": "F"
-    },
-    {
-      "id": "8483731",
-      "name": "Alex Bump",
-      "team": "PHI",
       "position": "F"
     },
     {
@@ -4910,12 +4940,6 @@
       "position": "D"
     },
     {
-      "id": "8483760",
-      "name": "Hunter McDonald",
-      "team": "PHI",
-      "position": "D"
-    },
-    {
       "id": "8483448",
       "name": "Isaiah George",
       "team": "NYI",
@@ -4992,12 +5016,6 @@
       "name": "Mikulas Hovorka",
       "team": "FLA",
       "position": "D"
-    },
-    {
-      "id": "8482070",
-      "name": "Mitchell Chaffee",
-      "team": "NYI",
-      "position": "F"
     },
     {
       "id": "8481518",
@@ -5090,12 +5108,6 @@
       "position": "F"
     },
     {
-      "id": "8484242",
-      "name": "Brayden Yager",
-      "team": "WPG",
-      "position": "F"
-    },
-    {
       "id": "8482132",
       "name": "Brett Berard",
       "team": "MTL",
@@ -5165,12 +5177,6 @@
       "id": "8483433",
       "name": "Jack Devine",
       "team": "FLA",
-      "position": "F"
-    },
-    {
-      "id": "8481848",
-      "name": "Jacob Gaucher",
-      "team": "PHI",
       "position": "F"
     },
     {

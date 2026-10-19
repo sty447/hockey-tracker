@@ -1,8 +1,8 @@
 {
-  "asOf": "2026-10-19T13:24:33.935472+00:00",
+  "asOf": "2026-10-19T19:55:34.117033+00:00",
   "trades": {
     "asOf": "2026-10-19",
-    "checkedAt": "2026-10-19T13:24:33.935472+00:00",
+    "checkedAt": "2026-10-19T19:55:34.117033+00:00",
     "source": "https://www.nhl.com/news/topic/trade-coverage/2026-27-nhl-trades",
     "trades": [
       {
@@ -421,7 +421,7 @@
     ]
   },
   "rosters": {
-    "asOf": "2026-10-19T13:24:33.935472+00:00",
+    "asOf": "2026-10-19T19:55:34.117033+00:00",
     "teams": {
       "ANA": {
         "forwards": [
@@ -1103,6 +1103,7 @@
       },
       "NYI": {
         "forwards": [
+          "8482070",
           "8475231",
           "8477407",
           "8485388",
@@ -1118,7 +1119,6 @@
           "8475170",
           "8478445",
           "8479644",
-          "8482070",
           "8480853"
         ],
         "defensemen": [
@@ -1224,12 +1224,15 @@
         "forwards": [
           "8478569",
           "8484142",
+          "8483731",
           "8478047",
           "8480220",
           "8476461",
           "8477989",
           "8482159",
+          "8481848",
           "8483733",
+          "8483787",
           "8478439",
           "8485406",
           "8484387",
@@ -1238,10 +1241,8 @@
           "8475253",
           "8481533",
           "8479336",
-          "8483731",
           "8479944",
           "8481518",
-          "8481848",
           "8484779"
         ],
         "defensemen": [
@@ -1249,11 +1250,11 @@
           "8484148",
           "8482142",
           "8483460",
+          "8483760",
           "8477499",
           "8477948",
           "8476372",
           "8481546",
-          "8483760",
           "8482804",
           "8482169"
         ],
@@ -1500,10 +1501,10 @@
           "8482174"
         ],
         "goalies": [
+          "8482515",
           "8475683",
           "8476932",
-          "8478007",
-          "8482515"
+          "8478007"
         ]
       },
       "UTA": {
@@ -1667,10 +1668,10 @@
           "8482765",
           "8476460",
           "8480014",
+          "8484242",
           "8479393",
           "8483526",
           "8484135",
-          "8484242",
           "8482787",
           "8482652"
         ],
@@ -1698,7 +1699,7 @@
     "tradesAsOf": "2026-10-19"
   },
   "skaters": {
-    "asOf": "2026-10-19T13:24:33.935472+00:00",
+    "asOf": "2026-10-19T19:55:34.117033+00:00",
     "players": [
       {
         "id": "8484153",
@@ -3993,6 +3994,12 @@
         "position": "D"
       },
       {
+        "id": "8482070",
+        "name": "Mitchell Chaffee",
+        "team": "NYI",
+        "position": "F"
+      },
+      {
         "id": "8475231",
         "name": "Casey Cizikas",
         "team": "NYI",
@@ -4395,6 +4402,12 @@
         "position": "F"
       },
       {
+        "id": "8483731",
+        "name": "Alex Bump",
+        "team": "PHI",
+        "position": "F"
+      },
+      {
         "id": "8478047",
         "name": "Michael Bunting",
         "team": "PHI",
@@ -4425,8 +4438,20 @@
         "position": "F"
       },
       {
+        "id": "8481848",
+        "name": "Jacob Gaucher",
+        "team": "PHI",
+        "position": "F"
+      },
+      {
         "id": "8483733",
         "name": "Nikita Grebenkin",
+        "team": "PHI",
+        "position": "F"
+      },
+      {
+        "id": "8483787",
+        "name": "Cole Knuble",
         "team": "PHI",
         "position": "F"
       },
@@ -4493,6 +4518,12 @@
       {
         "id": "8483460",
         "name": "David Jiricek",
+        "team": "PHI",
+        "position": "D"
+      },
+      {
+        "id": "8483760",
+        "name": "Hunter McDonald",
         "team": "PHI",
         "position": "D"
       },
@@ -5943,6 +5974,12 @@
         "position": "F"
       },
       {
+        "id": "8484242",
+        "name": "Brayden Yager",
+        "team": "WPG",
+        "position": "F"
+      },
+      {
         "id": "8482459",
         "name": "Tyrel Bauer",
         "team": "WPG",
@@ -6174,12 +6211,6 @@
         "id": "8482947",
         "name": "Zakhar Bardakov",
         "team": "COL",
-        "position": "F"
-      },
-      {
-        "id": "8483731",
-        "name": "Alex Bump",
-        "team": "PHI",
         "position": "F"
       },
       {
@@ -6609,12 +6640,6 @@
         "position": "D"
       },
       {
-        "id": "8483760",
-        "name": "Hunter McDonald",
-        "team": "PHI",
-        "position": "D"
-      },
-      {
         "id": "8483448",
         "name": "Isaiah George",
         "team": "NYI",
@@ -6691,12 +6716,6 @@
         "name": "Mikulas Hovorka",
         "team": "FLA",
         "position": "D"
-      },
-      {
-        "id": "8482070",
-        "name": "Mitchell Chaffee",
-        "team": "NYI",
-        "position": "F"
       },
       {
         "id": "8481518",
@@ -6789,12 +6808,6 @@
         "position": "F"
       },
       {
-        "id": "8484242",
-        "name": "Brayden Yager",
-        "team": "WPG",
-        "position": "F"
-      },
-      {
         "id": "8482132",
         "name": "Brett Berard",
         "team": "MTL",
@@ -6864,12 +6877,6 @@
         "id": "8483433",
         "name": "Jack Devine",
         "team": "FLA",
-        "position": "F"
-      },
-      {
-        "id": "8481848",
-        "name": "Jacob Gaucher",
-        "team": "PHI",
         "position": "F"
       },
       {
@@ -7224,7 +7231,7 @@
     "tradesAsOf": "2026-10-19"
   },
   "goalies": {
-    "asOf": "2026-10-19T13:24:33.935472+00:00",
+    "asOf": "2026-10-19T19:55:34.117033+00:00",
     "goalies": [
       {
         "id": "8480843",
@@ -7522,6 +7529,11 @@
         "team": "TBL"
       },
       {
+        "id": "8482515",
+        "name": "Artur Akhtyamov",
+        "team": "TOR"
+      },
+      {
         "id": "8475683",
         "name": "Sergei Bobrovsky",
         "team": "TOR"
@@ -7655,11 +7667,6 @@
         "id": "8480051",
         "name": "Cayden Primeau",
         "team": "CAR"
-      },
-      {
-        "id": "8482515",
-        "name": "Artur Akhtyamov",
-        "team": "TOR"
       },
       {
         "id": "8477970",

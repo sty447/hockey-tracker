@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-19T13:24:33.935472+00:00",
+  "asOf": "2026-10-19T19:55:34.117033+00:00",
   "goalies": [
     {
       "id": "8480843",
@@ -297,6 +297,11 @@
       "team": "TBL"
     },
     {
+      "id": "8482515",
+      "name": "Artur Akhtyamov",
+      "team": "TOR"
+    },
+    {
       "id": "8475683",
       "name": "Sergei Bobrovsky",
       "team": "TOR"
@@ -430,11 +435,6 @@
       "id": "8480051",
       "name": "Cayden Primeau",
       "team": "CAR"
-    },
-    {
-      "id": "8482515",
-      "name": "Artur Akhtyamov",
-      "team": "TOR"
     },
     {
       "id": "8477970",
