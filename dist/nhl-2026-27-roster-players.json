@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-19T06:15:44.955012+00:00",
+  "asOf": "2026-10-19T13:24:33.935472+00:00",
   "players": [
     {
       "id": "8484153",
@@ -2942,6 +2942,12 @@
       "position": "D"
     },
     {
+      "id": "8482470",
+      "name": "Ilya Solovyov",
+      "team": "PIT",
+      "position": "D"
+    },
+    {
       "id": "8481056",
       "name": "Spencer Stastney",
       "team": "PIT",
@@ -4499,12 +4505,6 @@
       "id": "8482131",
       "name": "Donovan Sebrango",
       "team": "FLA",
-      "position": "D"
-    },
-    {
-      "id": "8482470",
-      "name": "Ilya Solovyov",
-      "team": "PIT",
       "position": "D"
     },
     {
