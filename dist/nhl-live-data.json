@@ -1,8 +1,8 @@
 {
-  "asOf": "2026-10-19T19:55:34.117033+00:00",
+  "asOf": "2026-10-19T23:40:11.271428+00:00",
   "trades": {
     "asOf": "2026-10-19",
-    "checkedAt": "2026-10-19T19:55:34.117033+00:00",
+    "checkedAt": "2026-10-19T23:40:11.271428+00:00",
     "source": "https://www.nhl.com/news/topic/trade-coverage/2026-27-nhl-trades",
     "trades": [
       {
@@ -421,7 +421,7 @@
     ]
   },
   "rosters": {
-    "asOf": "2026-10-19T19:55:34.117033+00:00",
+    "asOf": "2026-10-19T23:40:11.271428+00:00",
     "teams": {
       "ANA": {
         "forwards": [
@@ -1620,6 +1620,7 @@
       "WSH": {
         "forwards": [
           "8478463",
+          "8477380",
           "8479400",
           "8483573",
           "8476432",
@@ -1633,7 +1634,6 @@
           "8478440",
           "8477949",
           "8476880",
-          "8477380",
           "8482623",
           "8482167"
         ],
@@ -1641,12 +1641,12 @@
           "8479345",
           "8479576",
           "8480796",
-          "8475718",
           "8484873",
           "8480043",
           "8475795",
           "8478911",
-          "8480873"
+          "8480873",
+          "8475718"
         ],
         "goalies": [
           "8479292",
@@ -1699,7 +1699,7 @@
     "tradesAsOf": "2026-10-19"
   },
   "skaters": {
-    "asOf": "2026-10-19T19:55:34.117033+00:00",
+    "asOf": "2026-10-19T23:40:11.271428+00:00",
     "players": [
       {
         "id": "8484153",
@@ -5770,6 +5770,12 @@
         "position": "F"
       },
       {
+        "id": "8477380",
+        "name": "Jonny Brodzinski",
+        "team": "WSH",
+        "position": "F"
+      },
+      {
         "id": "8479400",
         "name": "Pierre-Luc Dubois",
         "team": "WSH",
@@ -5866,12 +5872,6 @@
         "position": "D"
       },
       {
-        "id": "8475718",
-        "name": "Justin Holl",
-        "team": "WSH",
-        "position": "D"
-      },
-      {
         "id": "8484873",
         "name": "Cole Hutson",
         "team": "WSH",
@@ -5892,6 +5892,12 @@
       {
         "id": "8478911",
         "name": "Matt Roy",
+        "team": "WSH",
+        "position": "D"
+      },
+      {
+        "id": "8480873",
+        "name": "Rasmus Sandin",
         "team": "WSH",
         "position": "D"
       },
@@ -6070,12 +6076,6 @@
         "position": "D"
       },
       {
-        "id": "8480873",
-        "name": "Rasmus Sandin",
-        "team": "WSH",
-        "position": "D"
-      },
-      {
         "id": "8482074",
         "name": "Connor Zary",
         "team": "CGY",
@@ -6133,12 +6133,6 @@
         "id": "8482634",
         "name": "Alex Steeves",
         "team": "BOS",
-        "position": "F"
-      },
-      {
-        "id": "8477380",
-        "name": "Jonny Brodzinski",
-        "team": "WSH",
         "position": "F"
       },
       {
@@ -6517,6 +6511,12 @@
         "id": "8484169",
         "name": "Drew Fortescue",
         "team": "NYR",
+        "position": "D"
+      },
+      {
+        "id": "8475718",
+        "name": "Justin Holl",
+        "team": "WSH",
         "position": "D"
       },
       {
@@ -7231,7 +7231,7 @@
     "tradesAsOf": "2026-10-19"
   },
   "goalies": {
-    "asOf": "2026-10-19T19:55:34.117033+00:00",
+    "asOf": "2026-10-19T23:40:11.271428+00:00",
     "goalies": [
       {
         "id": "8480843",
