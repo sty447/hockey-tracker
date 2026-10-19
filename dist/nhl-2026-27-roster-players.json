@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-19T01:15:50.222326+00:00",
+  "asOf": "2026-10-19T06:15:44.955012+00:00",
   "players": [
     {
       "id": "8484153",
@@ -3302,6 +3302,12 @@
       "position": "F"
     },
     {
+      "id": "8484230",
+      "name": "Otto Stenberg",
+      "team": "STL",
+      "position": "F"
+    },
+    {
       "id": "8480459",
       "name": "Pius Suter",
       "team": "STL",
@@ -4458,12 +4464,6 @@
       "name": "Joel Nystrom",
       "team": "CAR",
       "position": "D"
-    },
-    {
-      "id": "8484230",
-      "name": "Otto Stenberg",
-      "team": "STL",
-      "position": "F"
     },
     {
       "id": "8482947",
