@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-20T15:04:50.504481+00:00",
+  "asOf": "2026-10-20T19:15:28.128312+00:00",
   "players": [
     {
       "id": "8484153",
@@ -448,6 +448,12 @@
     {
       "id": "8476456",
       "name": "Jonathan Huberdeau",
+      "team": "CGY",
+      "position": "F"
+    },
+    {
+      "id": "8480259",
+      "name": "Ben Jones",
       "team": "CGY",
       "position": "F"
     },
@@ -1774,12 +1780,6 @@
     {
       "id": "8473422",
       "name": "Nick Foligno",
-      "team": "MIN",
-      "position": "F"
-    },
-    {
-      "id": "8483452",
-      "name": "Hunter Haight",
       "team": "MIN",
       "position": "F"
     },
@@ -4724,12 +4724,6 @@
       "position": "D"
     },
     {
-      "id": "8480259",
-      "name": "Ben Jones",
-      "team": "CGY",
-      "position": "F"
-    },
-    {
       "id": "8479293",
       "name": "Brandon Tanev",
       "team": "UTA",
@@ -4812,6 +4806,12 @@
       "name": "Drew Fortescue",
       "team": "NYR",
       "position": "D"
+    },
+    {
+      "id": "8483452",
+      "name": "Hunter Haight",
+      "team": "MIN",
+      "position": "F"
     },
     {
       "id": "8475718",
