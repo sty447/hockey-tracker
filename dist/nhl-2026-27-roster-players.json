@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-21T18:38:03.711489+00:00",
+  "asOf": "2026-10-21T22:20:20.490716+00:00",
   "players": [
     {
       "id": "8484153",
@@ -350,6 +350,12 @@
       "position": "F"
     },
     {
+      "id": "8475722",
+      "name": "Jason Zucker",
+      "team": "BUF",
+      "position": "F"
+    },
+    {
       "id": "8481806",
       "name": "Louis Crevier",
       "team": "BUF",
@@ -592,12 +598,6 @@
     {
       "id": "8476921",
       "name": "Jordan Martinook",
-      "team": "CAR",
-      "position": "F"
-    },
-    {
-      "id": "8484203",
-      "name": "Bradly Nadeau",
       "team": "CAR",
       "position": "F"
     },
@@ -4334,12 +4334,6 @@
       "position": "F"
     },
     {
-      "id": "8475722",
-      "name": "Jason Zucker",
-      "team": "BUF",
-      "position": "F"
-    },
-    {
       "id": "8477503",
       "name": "Max Domi",
       "team": "TOR",
@@ -4704,6 +4698,12 @@
       "name": "Tobias Bjornfot",
       "team": "FLA",
       "position": "D"
+    },
+    {
+      "id": "8484203",
+      "name": "Bradly Nadeau",
+      "team": "CAR",
+      "position": "F"
     },
     {
       "id": "8479293",
