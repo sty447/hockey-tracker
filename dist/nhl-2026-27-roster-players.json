@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-21T13:47:29.863485+00:00",
+  "asOf": "2026-10-21T18:38:03.711489+00:00",
   "players": [
     {
       "id": "8484153",
@@ -1700,6 +1700,12 @@
       "position": "F"
     },
     {
+      "id": "8483756",
+      "name": "Jared Wright",
+      "team": "LAK",
+      "position": "F"
+    },
+    {
       "id": "8475692",
       "name": "Mats Zuccarello",
       "team": "LAK",
@@ -1904,12 +1910,6 @@
       "position": "F"
     },
     {
-      "id": "8483424",
-      "name": "Owen Beck",
-      "team": "MTL",
-      "position": "F"
-    },
-    {
       "id": "8482737",
       "name": "Zachary Bolduc",
       "team": "MTL",
@@ -2020,12 +2020,6 @@
     {
       "id": "8476875",
       "name": "Mike Matheson",
-      "team": "MTL",
-      "position": "D"
-    },
-    {
-      "id": "8484220",
-      "name": "David Reinbacher",
       "team": "MTL",
       "position": "D"
     },
@@ -4064,12 +4058,6 @@
       "position": "F"
     },
     {
-      "id": "8477380",
-      "name": "Jonny Brodzinski",
-      "team": "WSH",
-      "position": "F"
-    },
-    {
       "id": "8479400",
       "name": "Pierre-Luc Dubois",
       "team": "WSH",
@@ -4430,6 +4418,12 @@
       "position": "F"
     },
     {
+      "id": "8477380",
+      "name": "Jonny Brodzinski",
+      "team": "WSH",
+      "position": "F"
+    },
+    {
       "id": "8479370",
       "name": "Tyson Jost",
       "team": "NSH",
@@ -4682,12 +4676,6 @@
       "position": "D"
     },
     {
-      "id": "8483756",
-      "name": "Jared Wright",
-      "team": "LAK",
-      "position": "F"
-    },
-    {
       "id": "8481077",
       "name": "John Leonard",
       "team": "DET",
@@ -4922,6 +4910,12 @@
       "position": "F"
     },
     {
+      "id": "8484220",
+      "name": "David Reinbacher",
+      "team": "MTL",
+      "position": "D"
+    },
+    {
       "id": "8482206",
       "name": "Ethan Cardwell",
       "team": "SJS",
@@ -5015,6 +5009,12 @@
       "id": "8481518",
       "name": "Nolan Foote",
       "team": "PHI",
+      "position": "F"
+    },
+    {
+      "id": "8483424",
+      "name": "Owen Beck",
+      "team": "MTL",
       "position": "F"
     },
     {
