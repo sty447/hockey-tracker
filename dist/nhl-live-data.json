@@ -1,8 +1,8 @@
 {
-  "asOf": "2026-10-22T13:47:14.051939+00:00",
+  "asOf": "2026-10-22T18:32:11.003826+00:00",
   "trades": {
     "asOf": "2026-10-22",
-    "checkedAt": "2026-10-22T13:47:14.051939+00:00",
+    "checkedAt": "2026-10-22T18:32:11.003826+00:00",
     "source": "https://www.nhl.com/news/topic/trade-coverage/2026-27-nhl-trades",
     "trades": [
       {
@@ -421,7 +421,7 @@
     ]
   },
   "rosters": {
-    "asOf": "2026-10-22T13:47:14.051939+00:00",
+    "asOf": "2026-10-22T18:32:11.003826+00:00",
     "teams": {
       "ANA": {
         "forwards": [
@@ -594,11 +594,13 @@
         "forwards": [
           "8478427",
           "8482809",
+          "8480291",
           "8477478",
           "8475235",
           "8477940",
           "8475791",
           "8476873",
+          "8482093",
           "8480829",
           "8476921",
           "8480762",
@@ -606,10 +608,8 @@
           "8482702",
           "8480830",
           "8484392",
-          "8482093",
           "8484203",
-          "8482785",
-          "8480291"
+          "8482785"
         ],
         "defensemen": [
           "8478970",
@@ -670,7 +670,6 @@
       },
       "COL": {
         "forwards": [
-          "8484149",
           "8486171",
           "8475172",
           "8480448",
@@ -685,6 +684,7 @@
           "8475768",
           "8482768",
           "8476994",
+          "8484149",
           "8482947",
           "8483039",
           "8483567",
@@ -868,19 +868,19 @@
           "8479981",
           "8477903",
           "8478147",
-          "8478043",
           "8482113",
           "8480185",
           "8473419",
+          "8481133",
           "8477933",
+          "8481655",
           "8480801",
           "8479314",
           "8477409",
           "8483771",
-          "8481133",
-          "8481655",
           "8481556",
           "8479414",
+          "8478043",
           "8481065",
           "8483433"
         ],
@@ -968,10 +968,10 @@
           "8480800",
           "8482094",
           "8482641",
-          "8482781",
           "8476874",
           "8483766",
           "8474716",
+          "8482781",
           "8486166"
         ],
         "goalies": [
@@ -1216,8 +1216,8 @@
         ],
         "goalies": [
           "8481035",
-          "8476999",
-          "8477992"
+          "8477992",
+          "8476999"
         ]
       },
       "PHI": {
@@ -1276,12 +1276,12 @@
           "8482148",
           "8481481",
           "8471215",
+          "8483487",
           "8478438",
           "8476483",
           "8481582",
           "8475810",
           "8481725",
-          "8483487",
           "8482993",
           "8482698",
           "8481019"
@@ -1292,6 +1292,7 @@
           "8474578",
           "8481527",
           "8471724",
+          "8485019",
           "8482470",
           "8481056",
           "8477845",
@@ -1699,7 +1700,7 @@
     "tradesAsOf": "2026-10-22"
   },
   "skaters": {
-    "asOf": "2026-10-22T13:47:14.051939+00:00",
+    "asOf": "2026-10-22T18:32:11.003826+00:00",
     "players": [
       {
         "id": "8484153",
@@ -2260,6 +2261,12 @@
         "position": "F"
       },
       {
+        "id": "8480291",
+        "name": "Skyler Brind'Amour",
+        "team": "CAR",
+        "position": "F"
+      },
+      {
         "id": "8477478",
         "name": "William Carrier",
         "team": "CAR",
@@ -2286,6 +2293,12 @@
       {
         "id": "8476873",
         "name": "Mark Jankowski",
+        "team": "CAR",
+        "position": "F"
+      },
+      {
+        "id": "8482093",
+        "name": "Seth Jarvis",
         "team": "CAR",
         "position": "F"
       },
@@ -2504,12 +2517,6 @@
         "name": "Alex Vlasic",
         "team": "CHI",
         "position": "D"
-      },
-      {
-        "id": "8484149",
-        "name": "Gavin Brindley",
-        "team": "COL",
-        "position": "F"
       },
       {
         "id": "8486171",
@@ -3220,12 +3227,6 @@
         "position": "F"
       },
       {
-        "id": "8478043",
-        "name": "Sam Lafferty",
-        "team": "FLA",
-        "position": "F"
-      },
-      {
         "id": "8482113",
         "name": "Anton Lundell",
         "team": "FLA",
@@ -3244,8 +3245,20 @@
         "position": "F"
       },
       {
+        "id": "8481133",
+        "name": "Cole Reinhardt",
+        "team": "FLA",
+        "position": "F"
+      },
+      {
         "id": "8477933",
         "name": "Sam Reinhart",
+        "team": "FLA",
+        "position": "F"
+      },
+      {
+        "id": "8481655",
+        "name": "Cole Schwindt",
         "team": "FLA",
         "position": "F"
       },
@@ -3576,12 +3589,6 @@
       {
         "id": "8482641",
         "name": "Matt Kiersted",
-        "team": "MIN",
-        "position": "D"
-      },
-      {
-        "id": "8482781",
-        "name": "Carson Lambos",
         "team": "MIN",
         "position": "D"
       },
@@ -4606,6 +4613,12 @@
         "position": "F"
       },
       {
+        "id": "8483487",
+        "name": "Rutger McGroarty",
+        "team": "PIT",
+        "position": "F"
+      },
+      {
         "id": "8478438",
         "name": "Tommy Novak",
         "team": "PIT",
@@ -4662,6 +4675,12 @@
       {
         "id": "8471724",
         "name": "Kris Letang",
+        "team": "PIT",
+        "position": "D"
+      },
+      {
+        "id": "8485019",
+        "name": "Chase Pietila",
         "team": "PIT",
         "position": "D"
       },
@@ -6022,12 +6041,6 @@
         "position": "F"
       },
       {
-        "id": "8482093",
-        "name": "Seth Jarvis",
-        "team": "CAR",
-        "position": "F"
-      },
-      {
         "id": "8478873",
         "name": "Troy Terry",
         "team": "ANA",
@@ -6124,12 +6137,6 @@
         "position": "F"
       },
       {
-        "id": "8481133",
-        "name": "Cole Reinhardt",
-        "team": "FLA",
-        "position": "F"
-      },
-      {
         "id": "8480035",
         "name": "Henri Jokiharju",
         "team": "BOS",
@@ -6151,6 +6158,12 @@
         "id": "8479336",
         "name": "Carl Grundstrom",
         "team": "PHI",
+        "position": "F"
+      },
+      {
+        "id": "8484149",
+        "name": "Gavin Brindley",
+        "team": "COL",
         "position": "F"
       },
       {
@@ -6250,12 +6263,6 @@
         "position": "D"
       },
       {
-        "id": "8481655",
-        "name": "Cole Schwindt",
-        "team": "FLA",
-        "position": "F"
-      },
-      {
         "id": "8484150",
         "name": "Hunter Brzustewicz",
         "team": "CGY",
@@ -6308,12 +6315,6 @@
         "name": "Pierre-Olivier Joseph",
         "team": "CAR",
         "position": "D"
-      },
-      {
-        "id": "8483487",
-        "name": "Rutger McGroarty",
-        "team": "PIT",
-        "position": "F"
       },
       {
         "id": "8480001",
@@ -6529,6 +6530,12 @@
         "id": "8484793",
         "name": "Sacha Boisvert",
         "team": "CHI",
+        "position": "F"
+      },
+      {
+        "id": "8478043",
+        "name": "Sam Lafferty",
+        "team": "FLA",
         "position": "F"
       },
       {
@@ -6814,6 +6821,12 @@
         "position": "F"
       },
       {
+        "id": "8482781",
+        "name": "Carson Lambos",
+        "team": "MIN",
+        "position": "D"
+      },
+      {
         "id": "8484287",
         "name": "Cole McWard",
         "team": "TOR",
@@ -7060,12 +7073,6 @@
         "position": "D"
       },
       {
-        "id": "8480291",
-        "name": "Skyler Brind'Amour",
-        "team": "CAR",
-        "position": "F"
-      },
-      {
         "id": "8482953",
         "name": "Taylor Makar",
         "team": "COL",
@@ -7231,7 +7238,7 @@
     "tradesAsOf": "2026-10-22"
   },
   "goalies": {
-    "asOf": "2026-10-22T13:47:14.051939+00:00",
+    "asOf": "2026-10-22T18:32:11.003826+00:00",
     "goalies": [
       {
         "id": "8480843",
@@ -7469,6 +7476,11 @@
         "team": "OTT"
       },
       {
+        "id": "8477992",
+        "name": "Jonas Johansson",
+        "team": "OTT"
+      },
+      {
         "id": "8476999",
         "name": "Linus Ullmark",
         "team": "OTT"
@@ -7657,11 +7669,6 @@
         "id": "8477990",
         "name": "Brandon Halverson",
         "team": "DAL"
-      },
-      {
-        "id": "8477992",
-        "name": "Jonas Johansson",
-        "team": "OTT"
       },
       {
         "id": "8480051",

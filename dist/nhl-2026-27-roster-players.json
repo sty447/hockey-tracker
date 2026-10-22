@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-22T13:47:14.051939+00:00",
+  "asOf": "2026-10-22T18:32:11.003826+00:00",
   "players": [
     {
       "id": "8484153",
@@ -560,6 +560,12 @@
       "position": "F"
     },
     {
+      "id": "8480291",
+      "name": "Skyler Brind'Amour",
+      "team": "CAR",
+      "position": "F"
+    },
+    {
       "id": "8477478",
       "name": "William Carrier",
       "team": "CAR",
@@ -586,6 +592,12 @@
     {
       "id": "8476873",
       "name": "Mark Jankowski",
+      "team": "CAR",
+      "position": "F"
+    },
+    {
+      "id": "8482093",
+      "name": "Seth Jarvis",
       "team": "CAR",
       "position": "F"
     },
@@ -804,12 +816,6 @@
       "name": "Alex Vlasic",
       "team": "CHI",
       "position": "D"
-    },
-    {
-      "id": "8484149",
-      "name": "Gavin Brindley",
-      "team": "COL",
-      "position": "F"
     },
     {
       "id": "8486171",
@@ -1520,12 +1526,6 @@
       "position": "F"
     },
     {
-      "id": "8478043",
-      "name": "Sam Lafferty",
-      "team": "FLA",
-      "position": "F"
-    },
-    {
       "id": "8482113",
       "name": "Anton Lundell",
       "team": "FLA",
@@ -1544,8 +1544,20 @@
       "position": "F"
     },
     {
+      "id": "8481133",
+      "name": "Cole Reinhardt",
+      "team": "FLA",
+      "position": "F"
+    },
+    {
       "id": "8477933",
       "name": "Sam Reinhart",
+      "team": "FLA",
+      "position": "F"
+    },
+    {
+      "id": "8481655",
+      "name": "Cole Schwindt",
       "team": "FLA",
       "position": "F"
     },
@@ -1876,12 +1888,6 @@
     {
       "id": "8482641",
       "name": "Matt Kiersted",
-      "team": "MIN",
-      "position": "D"
-    },
-    {
-      "id": "8482781",
-      "name": "Carson Lambos",
       "team": "MIN",
       "position": "D"
     },
@@ -2906,6 +2912,12 @@
       "position": "F"
     },
     {
+      "id": "8483487",
+      "name": "Rutger McGroarty",
+      "team": "PIT",
+      "position": "F"
+    },
+    {
       "id": "8478438",
       "name": "Tommy Novak",
       "team": "PIT",
@@ -2962,6 +2974,12 @@
     {
       "id": "8471724",
       "name": "Kris Letang",
+      "team": "PIT",
+      "position": "D"
+    },
+    {
+      "id": "8485019",
+      "name": "Chase Pietila",
       "team": "PIT",
       "position": "D"
     },
@@ -4322,12 +4340,6 @@
       "position": "F"
     },
     {
-      "id": "8482093",
-      "name": "Seth Jarvis",
-      "team": "CAR",
-      "position": "F"
-    },
-    {
       "id": "8478873",
       "name": "Troy Terry",
       "team": "ANA",
@@ -4424,12 +4436,6 @@
       "position": "F"
     },
     {
-      "id": "8481133",
-      "name": "Cole Reinhardt",
-      "team": "FLA",
-      "position": "F"
-    },
-    {
       "id": "8480035",
       "name": "Henri Jokiharju",
       "team": "BOS",
@@ -4451,6 +4457,12 @@
       "id": "8479336",
       "name": "Carl Grundstrom",
       "team": "PHI",
+      "position": "F"
+    },
+    {
+      "id": "8484149",
+      "name": "Gavin Brindley",
+      "team": "COL",
       "position": "F"
     },
     {
@@ -4550,12 +4562,6 @@
       "position": "D"
     },
     {
-      "id": "8481655",
-      "name": "Cole Schwindt",
-      "team": "FLA",
-      "position": "F"
-    },
-    {
       "id": "8484150",
       "name": "Hunter Brzustewicz",
       "team": "CGY",
@@ -4608,12 +4614,6 @@
       "name": "Pierre-Olivier Joseph",
       "team": "CAR",
       "position": "D"
-    },
-    {
-      "id": "8483487",
-      "name": "Rutger McGroarty",
-      "team": "PIT",
-      "position": "F"
     },
     {
       "id": "8480001",
@@ -4829,6 +4829,12 @@
       "id": "8484793",
       "name": "Sacha Boisvert",
       "team": "CHI",
+      "position": "F"
+    },
+    {
+      "id": "8478043",
+      "name": "Sam Lafferty",
+      "team": "FLA",
       "position": "F"
     },
     {
@@ -5114,6 +5120,12 @@
       "position": "F"
     },
     {
+      "id": "8482781",
+      "name": "Carson Lambos",
+      "team": "MIN",
+      "position": "D"
+    },
+    {
       "id": "8484287",
       "name": "Cole McWard",
       "team": "TOR",
@@ -5358,12 +5370,6 @@
       "name": "Simon Lundmark",
       "team": "TBL",
       "position": "D"
-    },
-    {
-      "id": "8480291",
-      "name": "Skyler Brind'Amour",
-      "team": "CAR",
-      "position": "F"
     },
     {
       "id": "8482953",
