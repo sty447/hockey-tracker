@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-22T18:32:11.003826+00:00",
+  "asOf": "2026-10-22T22:19:53.799307+00:00",
   "players": [
     {
       "id": "8484153",
@@ -118,12 +118,6 @@
     {
       "id": "8483490",
       "name": "Pavel Mintyukov",
-      "team": "ANA",
-      "position": "D"
-    },
-    {
-      "id": "8484262",
-      "name": "Travis Mitchell",
       "team": "ANA",
       "position": "D"
     },
@@ -1240,12 +1234,6 @@
     {
       "id": "8479337",
       "name": "Alex DeBrincat",
-      "team": "DET",
-      "position": "F"
-    },
-    {
-      "id": "8480326",
-      "name": "Sheldon Dries",
       "team": "DET",
       "position": "F"
     },
@@ -4046,6 +4034,12 @@
       "position": "D"
     },
     {
+      "id": "8481572",
+      "name": "Ville Heinola",
+      "team": "VGK",
+      "position": "D"
+    },
+    {
       "id": "8478468",
       "name": "Jeremy Lauzon",
       "team": "VGK",
@@ -5066,6 +5060,12 @@
       "position": "D"
     },
     {
+      "id": "8484262",
+      "name": "Travis Mitchell",
+      "team": "ANA",
+      "position": "D"
+    },
+    {
       "id": "8483039",
       "name": "Tristen Nielsen",
       "team": "COL",
@@ -5366,6 +5366,12 @@
       "position": "F"
     },
     {
+      "id": "8480326",
+      "name": "Sheldon Dries",
+      "team": "DET",
+      "position": "F"
+    },
+    {
       "id": "8481547",
       "name": "Simon Lundmark",
       "team": "TBL",
@@ -5405,12 +5411,6 @@
       "id": "8486166",
       "name": "Viking Gustafsson Nyberg",
       "team": "MIN",
-      "position": "D"
-    },
-    {
-      "id": "8481572",
-      "name": "Ville Heinola",
-      "team": "VGK",
       "position": "D"
     },
     {
