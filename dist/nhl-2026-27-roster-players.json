@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-22T22:19:53.799307+00:00",
+  "asOf": "2026-10-23T01:30:36.951345+00:00",
   "players": [
     {
       "id": "8484153",
@@ -1900,6 +1900,12 @@
     {
       "id": "8476981",
       "name": "Josh Anderson",
+      "team": "MTL",
+      "position": "F"
+    },
+    {
+      "id": "8483424",
+      "name": "Owen Beck",
       "team": "MTL",
       "position": "F"
     },
@@ -3980,6 +3986,12 @@
       "position": "F"
     },
     {
+      "id": "8482125",
+      "name": "Alexander Holtz",
+      "team": "VGK",
+      "position": "F"
+    },
+    {
       "id": "8479353",
       "name": "Brett Howden",
       "team": "VGK",
@@ -4496,12 +4508,6 @@
       "position": "F"
     },
     {
-      "id": "8482125",
-      "name": "Alexander Holtz",
-      "team": "VGK",
-      "position": "F"
-    },
-    {
       "id": "8475760",
       "name": "Nick Bjugstad",
       "team": "NJD",
@@ -5009,12 +5015,6 @@
       "id": "8481518",
       "name": "Nolan Foote",
       "team": "PHI",
-      "position": "F"
-    },
-    {
-      "id": "8483424",
-      "name": "Owen Beck",
-      "team": "MTL",
       "position": "F"
     },
     {
@@ -5534,5 +5534,5 @@
       "position": "F"
     }
   ],
-  "tradesAsOf": "2026-10-22"
+  "tradesAsOf": "2026-10-23"
 }
