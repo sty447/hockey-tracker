@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-23T18:17:00.607258+00:00",
+  "asOf": "2026-10-23T21:30:40.120454+00:00",
   "goalies": [
     {
       "id": "8480843",
@@ -194,6 +194,11 @@
     {
       "id": "8474596",
       "name": "Jake Allen",
+      "team": "NJD"
+    },
+    {
+      "id": "8476945",
+      "name": "Connor Hellebuyck",
       "team": "NJD"
     },
     {
@@ -465,11 +470,6 @@
       "id": "8483114",
       "name": "Thomas Milic",
       "team": "WPG"
-    },
-    {
-      "id": "8476945",
-      "name": "Connor Hellebuyck",
-      "team": "NJD"
     },
     {
       "id": "8477480",
