@@ -1,8 +1,30 @@
 {
   "asOf": "2026-10-23",
-  "checkedAt": "2026-10-23T13:25:25.375818+00:00",
+  "checkedAt": "2026-10-23T18:16:46.407937+00:00",
   "source": "https://www.nhl.com/news/topic/trade-coverage/2026-27-nhl-trades",
   "trades": [
+    {
+      "date": "2026-10-23",
+      "teams": [
+        {
+          "team": "NJD",
+          "receives": [
+            "Connor Hellebuyck"
+          ]
+        },
+        {
+          "team": "WPG",
+          "receives": [
+            "Dawson Mercer",
+            "Nicolas Daws",
+            "Nick Bjugstad",
+            "Unsigned Draft Choice forward Alexander Command",
+            "2nd-round pick in the 2029 NHL Draft",
+            "7th-round pick in the 2027 NHL Draft"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-15",
       "teams": [
