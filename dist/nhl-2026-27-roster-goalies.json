@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-23T13:25:25.375818+00:00",
+  "asOf": "2026-10-23T18:17:00.607258+00:00",
   "goalies": [
     {
       "id": "8480843",
@@ -197,11 +197,6 @@
       "team": "NJD"
     },
     {
-      "id": "8482076",
-      "name": "Nico Daws",
-      "team": "NJD"
-    },
-    {
       "id": "8482465",
       "name": "Rémi Poirier",
       "team": "NJD"
@@ -367,8 +362,8 @@
       "team": "WSH"
     },
     {
-      "id": "8476945",
-      "name": "Connor Hellebuyck",
+      "id": "8482076",
+      "name": "Nico Daws",
       "team": "WPG"
     },
     {
@@ -470,6 +465,11 @@
       "id": "8483114",
       "name": "Thomas Milic",
       "team": "WPG"
+    },
+    {
+      "id": "8476945",
+      "name": "Connor Hellebuyck",
+      "team": "NJD"
     },
     {
       "id": "8477480",

@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-23T13:25:25.375818+00:00",
+  "asOf": "2026-10-23T18:17:00.607258+00:00",
   "players": [
     {
       "id": "8484153",
@@ -850,6 +850,12 @@
     {
       "id": "8477492",
       "name": "Nathan MacKinnon",
+      "team": "COL",
+      "position": "F"
+    },
+    {
+      "id": "8482953",
+      "name": "Taylor Makar",
       "team": "COL",
       "position": "F"
     },
@@ -2228,12 +2234,6 @@
       "position": "F"
     },
     {
-      "id": "8482110",
-      "name": "Dawson Mercer",
-      "team": "NJD",
-      "position": "F"
-    },
-    {
       "id": "8476474",
       "name": "Stefan Noesen",
       "team": "NJD",
@@ -2440,6 +2440,12 @@
     {
       "id": "8475413",
       "name": "Justin Dowling",
+      "team": "NYR",
+      "position": "F"
+    },
+    {
+      "id": "8476822",
+      "name": "Luke Glendening",
       "team": "NYR",
       "position": "F"
     },
@@ -3650,6 +3656,18 @@
       "position": "D"
     },
     {
+      "id": "8484287",
+      "name": "Cole McWard",
+      "team": "TOR",
+      "position": "D"
+    },
+    {
+      "id": "8477541",
+      "name": "Dakota Mermis",
+      "team": "TOR",
+      "position": "D"
+    },
+    {
       "id": "8478178",
       "name": "Darren Raddysh",
       "team": "TOR",
@@ -4244,6 +4262,12 @@
       "position": "F"
     },
     {
+      "id": "8482110",
+      "name": "Dawson Mercer",
+      "team": "WPG",
+      "position": "F"
+    },
+    {
       "id": "8476480",
       "name": "Vladislav Namestnikov",
       "team": "WPG",
@@ -4276,12 +4300,6 @@
     {
       "id": "8480014",
       "name": "Gabriel Vilardi",
-      "team": "WPG",
-      "position": "F"
-    },
-    {
-      "id": "8484242",
-      "name": "Brayden Yager",
       "team": "WPG",
       "position": "F"
     },
@@ -4504,7 +4522,7 @@
     {
       "id": "8475760",
       "name": "Nick Bjugstad",
-      "team": "NJD",
+      "team": "WPG",
       "position": "F"
     },
     {
@@ -4904,12 +4922,6 @@
       "position": "F"
     },
     {
-      "id": "8477541",
-      "name": "Dakota Mermis",
-      "team": "TOR",
-      "position": "D"
-    },
-    {
       "id": "8483526",
       "name": "Danil Zhilkin",
       "team": "WPG",
@@ -5108,6 +5120,12 @@
       "position": "F"
     },
     {
+      "id": "8484242",
+      "name": "Brayden Yager",
+      "team": "WPG",
+      "position": "F"
+    },
+    {
       "id": "8482132",
       "name": "Brett Berard",
       "team": "MTL",
@@ -5123,12 +5141,6 @@
       "id": "8482781",
       "name": "Carson Lambos",
       "team": "MIN",
-      "position": "D"
-    },
-    {
-      "id": "8484287",
-      "name": "Cole McWard",
-      "team": "TOR",
       "position": "D"
     },
     {
@@ -5376,12 +5388,6 @@
       "name": "Simon Lundmark",
       "team": "TBL",
       "position": "D"
-    },
-    {
-      "id": "8482953",
-      "name": "Taylor Makar",
-      "team": "COL",
-      "position": "F"
     },
     {
       "id": "8482873",
