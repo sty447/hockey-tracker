@@ -5,7 +5,8 @@ on:
       - scripts/**
       - .github/workflows/refresh-nhl.yml
   schedule:
-    - cron: '17 * * * *'
+    - cron: '2-59/5 * * * *'
+    - cron: '19 * * * *'
   workflow_dispatch:
 permissions:
   contents: write
@@ -26,7 +27,17 @@ jobs:
           node-version: '22'
       - name: Refresh confirmed trades independently
         run: python scripts/refresh-nhl-trades.py --trades-only
+      - name: Publish trade updates before roster checks
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dist/nhl-recent-trades.json dist/nhl-live-data.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Refresh confirmed NHL trades"
+            git push
+          fi
       - name: Refresh current rosters
+        if: github.event_name != 'schedule' || github.event.schedule == '19 * * * *'
         continue-on-error: true
         run: python scripts/refresh-nhl-trades.py
       - name: Check data integrity
