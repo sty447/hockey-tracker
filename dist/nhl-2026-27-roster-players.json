@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-24T14:35:30.995326+00:00",
+  "asOf": "2026-10-24T18:11:29.844321+00:00",
   "players": [
     {
       "id": "8484153",
@@ -1880,12 +1880,6 @@
       "position": "D"
     },
     {
-      "id": "8482094",
-      "name": "Daemon Hunt",
-      "team": "MIN",
-      "position": "D"
-    },
-    {
       "id": "8482641",
       "name": "Matt Kiersted",
       "team": "MIN",
@@ -2120,14 +2114,14 @@
       "position": "F"
     },
     {
-      "id": "8482072",
-      "name": "Jack Ahcan",
+      "id": "8479980",
+      "name": "Nicolas Hague",
       "team": "NSH",
       "position": "D"
     },
     {
-      "id": "8479980",
-      "name": "Nicolas Hague",
+      "id": "8482094",
+      "name": "Daemon Hunt",
       "team": "NSH",
       "position": "D"
     },
@@ -2792,12 +2786,6 @@
       "position": "F"
     },
     {
-      "id": "8475253",
-      "name": "Garrett Wilson",
-      "team": "PHI",
-      "position": "F"
-    },
-    {
       "id": "8481533",
       "name": "Trevor Zegras",
       "team": "PHI",
@@ -3196,6 +3184,12 @@
     {
       "id": "8483570",
       "name": "Ben Meyers",
+      "team": "SEA",
+      "position": "F"
+    },
+    {
+      "id": "8483497",
+      "name": "Jani Nyman",
       "team": "SEA",
       "position": "F"
     },
@@ -4226,6 +4220,12 @@
       "position": "D"
     },
     {
+      "id": "8481030",
+      "name": "John St. Ivany",
+      "team": "WSH",
+      "position": "D"
+    },
+    {
       "id": "8480289",
       "name": "Morgan Barron",
       "team": "WPG",
@@ -4348,12 +4348,6 @@
     {
       "id": "8480049",
       "name": "Dylan Samberg",
-      "team": "WPG",
-      "position": "D"
-    },
-    {
-      "id": "8481030",
-      "name": "Jack St. Ivany",
       "team": "WPG",
       "position": "D"
     },
@@ -4572,12 +4566,6 @@
       "name": "Hunter Brzustewicz",
       "team": "CGY",
       "position": "D"
-    },
-    {
-      "id": "8483497",
-      "name": "Jani Nyman",
-      "team": "SEA",
-      "position": "F"
     },
     {
       "id": "8481556",
@@ -4800,6 +4788,12 @@
       "name": "Hunter Haight",
       "team": "MIN",
       "position": "F"
+    },
+    {
+      "id": "8482072",
+      "name": "Jack Ahcan",
+      "team": "NSH",
+      "position": "D"
     },
     {
       "id": "8475718",
@@ -5153,6 +5147,12 @@
       "id": "8482663",
       "name": "Dylan Duke",
       "team": "TBL",
+      "position": "F"
+    },
+    {
+      "id": "8475253",
+      "name": "Garrett Wilson",
+      "team": "PHI",
       "position": "F"
     },
     {
