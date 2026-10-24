@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-23T21:30:40.120454+00:00",
+  "asOf": "2026-10-24T00:44:28.746029+00:00",
   "players": [
     {
       "id": "8484153",
@@ -2444,12 +2444,6 @@
       "position": "F"
     },
     {
-      "id": "8475413",
-      "name": "Justin Dowling",
-      "team": "NYR",
-      "position": "F"
-    },
-    {
       "id": "8476822",
       "name": "Luke Glendening",
       "team": "NYR",
@@ -3262,12 +3256,6 @@
     {
       "id": "8477986",
       "name": "Brandon Montour",
-      "team": "SEA",
-      "position": "D"
-    },
-    {
-      "id": "8483494",
-      "name": "Ty Nelson",
       "team": "SEA",
       "position": "D"
     },
@@ -5240,6 +5228,12 @@
       "position": "F"
     },
     {
+      "id": "8475413",
+      "name": "Justin Dowling",
+      "team": "NYR",
+      "position": "F"
+    },
+    {
       "id": "8485251",
       "name": "Kai Uchacz",
       "team": "VGK",
@@ -5444,6 +5438,12 @@
       "position": "F"
     },
     {
+      "id": "8483494",
+      "name": "Ty Nelson",
+      "team": "SEA",
+      "position": "D"
+    },
+    {
       "id": "8482784",
       "name": "Zach Dean",
       "team": "STL",
@@ -5540,5 +5540,5 @@
       "position": "F"
     }
   ],
-  "tradesAsOf": "2026-10-23"
+  "tradesAsOf": "2026-10-24"
 }
