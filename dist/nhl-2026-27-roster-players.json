@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-24T00:44:28.746029+00:00",
+  "asOf": "2026-10-24T05:56:50.507108+00:00",
   "players": [
     {
       "id": "8484153",
@@ -3364,6 +3364,12 @@
     {
       "id": "8481598",
       "name": "Philip Broberg",
+      "team": "STL",
+      "position": "D"
+    },
+    {
+      "id": "8484151",
+      "name": "Quinton Burns",
       "team": "STL",
       "position": "D"
     },
