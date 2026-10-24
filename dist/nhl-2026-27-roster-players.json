@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-24T18:11:29.844321+00:00",
+  "asOf": "2026-10-24T20:52:46.030142+00:00",
   "players": [
     {
       "id": "8484153",
@@ -628,12 +628,6 @@
     {
       "id": "8480830",
       "name": "Andrei Svechnikov",
-      "team": "CAR",
-      "position": "F"
-    },
-    {
-      "id": "8484392",
-      "name": "Felix Unger Sörum",
       "team": "CAR",
       "position": "F"
     },
@@ -1834,6 +1828,12 @@
     {
       "id": "8485702",
       "name": "Maxim Shabanov",
+      "team": "MIN",
+      "position": "F"
+    },
+    {
+      "id": "8479972",
+      "name": "Mason Shaw",
       "team": "MIN",
       "position": "F"
     },
@@ -4346,6 +4346,12 @@
       "position": "D"
     },
     {
+      "id": "8483510",
+      "name": "Elias Salomonsson",
+      "team": "WPG",
+      "position": "D"
+    },
+    {
       "id": "8480049",
       "name": "Dylan Samberg",
       "team": "WPG",
@@ -4613,12 +4619,6 @@
       "id": "8480001",
       "name": "Urho Vaakanainen",
       "team": "NYR",
-      "position": "D"
-    },
-    {
-      "id": "8483510",
-      "name": "Elias Salomonsson",
-      "team": "WPG",
       "position": "D"
     },
     {
@@ -4919,6 +4919,12 @@
       "id": "8482206",
       "name": "Ethan Cardwell",
       "team": "SJS",
+      "position": "F"
+    },
+    {
+      "id": "8484392",
+      "name": "Felix Unger Sörum",
+      "team": "CAR",
       "position": "F"
     },
     {
