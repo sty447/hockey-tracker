@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-25T16:25:42.729803+00:00",
+  "asOf": "2026-10-25T19:39:46.919204+00:00",
   "players": [
     {
       "id": "8484153",
@@ -1100,6 +1100,12 @@
       "position": "F"
     },
     {
+      "id": "8486130",
+      "name": "Dylan Hryckowian",
+      "team": "DAL",
+      "position": "F"
+    },
+    {
       "id": "8484829",
       "name": "Justin Hryckowian",
       "team": "DAL",
@@ -1144,6 +1150,12 @@
     {
       "id": "8475794",
       "name": "Tyler Seguin",
+      "team": "DAL",
+      "position": "F"
+    },
+    {
+      "id": "8483514",
+      "name": "Matthew Seminoff",
       "team": "DAL",
       "position": "F"
     },
