@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-25T11:37:29.708866+00:00",
+  "asOf": "2026-10-25T16:25:42.729803+00:00",
   "players": [
     {
       "id": "8484153",
@@ -2738,12 +2738,6 @@
       "position": "F"
     },
     {
-      "id": "8481848",
-      "name": "Jacob Gaucher",
-      "team": "PHI",
-      "position": "F"
-    },
-    {
       "id": "8483733",
       "name": "Nikita Grebenkin",
       "team": "PHI",
@@ -5189,6 +5183,12 @@
       "id": "8483433",
       "name": "Jack Devine",
       "team": "FLA",
+      "position": "F"
+    },
+    {
+      "id": "8481848",
+      "name": "Jacob Gaucher",
+      "team": "PHI",
       "position": "F"
     },
     {
