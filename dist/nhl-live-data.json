@@ -1,8 +1,8 @@
 {
-  "asOf": "2026-10-26T13:17:51.962692+00:00",
+  "asOf": "2026-10-26T19:24:15.502711+00:00",
   "trades": {
     "asOf": "2026-10-26",
-    "checkedAt": "2026-10-26T19:24:03.572273+00:00",
+    "checkedAt": "2026-10-26T19:24:15.502711+00:00",
     "source": "https://www.nhl.com/news/topic/trade-coverage/2026-27-nhl-trades",
     "trades": [
       {
@@ -443,7 +443,7 @@
     ]
   },
   "rosters": {
-    "asOf": "2026-10-26T13:17:51.962692+00:00",
+    "asOf": "2026-10-26T19:24:15.502711+00:00",
     "teams": {
       "ANA": {
         "forwards": [
@@ -699,7 +699,6 @@
           "8476455",
           "8477476",
           "8477492",
-          "8482953",
           "8480039",
           "8475754",
           "8481186",
@@ -710,7 +709,8 @@
           "8484149",
           "8482947",
           "8483039",
-          "8483567"
+          "8483567",
+          "8482953"
         ],
         "defensemen": [
           "8470613",
@@ -790,13 +790,13 @@
         ],
         "defensemen": [
           "8483425",
-          "8477335",
           "8478476",
           "8481581",
           "8480036",
           "8476902",
           "8480878",
-          "8474574"
+          "8474574",
+          "8477335"
         ],
         "goalies": [
           "8479193",
@@ -1193,9 +1193,9 @@
           "8478882",
           "8482666",
           "8477969",
-          "8481525",
           "8482073",
           "8485957",
+          "8481525",
           "8480001",
           "8482861",
           "8479395",
@@ -1204,9 +1204,9 @@
         "goalies": [
           "8482193",
           "8476914",
-          "8477484",
           "8473503",
-          "8478048"
+          "8478048",
+          "8477484"
         ]
       },
       "OTT": {
@@ -1617,15 +1617,15 @@
           "8478403",
           "8483553",
           "8476881",
-          "8482125",
           "8479353",
           "8476448",
           "8481534",
           "8478483",
           "8478109",
-          "8475913",
-          "8479550",
           "8480007",
+          "8475913",
+          "8482125",
+          "8479550",
           "8485251"
         ],
         "defensemen": [
@@ -1731,7 +1731,7 @@
     "tradesAsOf": "2026-10-26"
   },
   "skaters": {
-    "asOf": "2026-10-26T13:17:51.962692+00:00",
+    "asOf": "2026-10-26T19:24:15.502711+00:00",
     "players": [
       {
         "id": "8484153",
@@ -2580,12 +2580,6 @@
         "position": "F"
       },
       {
-        "id": "8482953",
-        "name": "Taylor Makar",
-        "team": "COL",
-        "position": "F"
-      },
-      {
         "id": "8480039",
         "name": "Martin Necas",
         "team": "COL",
@@ -2900,12 +2894,6 @@
       {
         "id": "8483425",
         "name": "Lian Bichsel",
-        "team": "DAL",
-        "position": "D"
-      },
-      {
-        "id": "8477335",
-        "name": "Kyle Burroughs",
         "team": "DAL",
         "position": "D"
       },
@@ -4280,12 +4268,6 @@
       {
         "id": "8477969",
         "name": "Marcus Pettersson",
-        "team": "NYR",
-        "position": "D"
-      },
-      {
-        "id": "8481525",
-        "name": "Matthew Robertson",
         "team": "NYR",
         "position": "D"
       },
@@ -5736,12 +5718,6 @@
         "position": "F"
       },
       {
-        "id": "8482125",
-        "name": "Alexander Holtz",
-        "team": "VGK",
-        "position": "F"
-      },
-      {
         "id": "8479353",
         "name": "Brett Howden",
         "team": "VGK",
@@ -5768,6 +5744,12 @@
       {
         "id": "8478109",
         "name": "Victor Olofsson",
+        "team": "VGK",
+        "position": "F"
+      },
+      {
+        "id": "8480007",
+        "name": "Jonas Rondbjerg",
         "team": "VGK",
         "position": "F"
       },
@@ -5959,7 +5941,7 @@
       },
       {
         "id": "8481030",
-        "name": "John St. Ivany",
+        "name": "Jack St. Ivany",
         "team": "WSH",
         "position": "D"
       },
@@ -6144,6 +6126,12 @@
         "position": "F"
       },
       {
+        "id": "8481525",
+        "name": "Matthew Robertson",
+        "team": "NYR",
+        "position": "D"
+      },
+      {
         "id": "8479591",
         "name": "Michael Eyssimont",
         "team": "BOS",
@@ -6249,6 +6237,12 @@
         "id": "8482947",
         "name": "Zakhar Bardakov",
         "team": "COL",
+        "position": "F"
+      },
+      {
+        "id": "8482125",
+        "name": "Alexander Holtz",
+        "team": "VGK",
         "position": "F"
       },
       {
@@ -6690,12 +6684,6 @@
         "position": "F"
       },
       {
-        "id": "8480007",
-        "name": "Jonas Rondbjerg",
-        "team": "VGK",
-        "position": "F"
-      },
-      {
         "id": "8482785",
         "name": "Justin Robidas",
         "team": "CAR",
@@ -7134,6 +7122,12 @@
         "position": "D"
       },
       {
+        "id": "8482953",
+        "name": "Taylor Makar",
+        "team": "COL",
+        "position": "F"
+      },
+      {
         "id": "8482873",
         "name": "Topias Vilen",
         "team": "NJD",
@@ -7192,6 +7186,12 @@
         "name": "Xavier Parent",
         "team": "NJD",
         "position": "F"
+      },
+      {
+        "id": "8477335",
+        "name": "Kyle Burroughs",
+        "team": "DAL",
+        "position": "D"
       },
       {
         "id": "8483494",
@@ -7299,7 +7299,7 @@
     "tradesAsOf": "2026-10-26"
   },
   "goalies": {
-    "asOf": "2026-10-26T13:17:51.962692+00:00",
+    "asOf": "2026-10-26T19:24:15.502711+00:00",
     "goalies": [
       {
         "id": "8480843",
@@ -7532,11 +7532,6 @@
         "team": "NYR"
       },
       {
-        "id": "8477484",
-        "name": "Spencer Martin",
-        "team": "NYR"
-      },
-      {
         "id": "8473503",
         "name": "James Reimer",
         "team": "NYR"
@@ -7722,6 +7717,11 @@
         "team": "NJD"
       },
       {
+        "id": "8477484",
+        "name": "Spencer Martin",
+        "team": "NYR"
+      },
+      {
         "id": "8481544",
         "name": "Mads Sogaard",
         "team": "TBL"
@@ -7798,6 +7798,5 @@
       }
     ],
     "tradesAsOf": "2026-10-26"
-  },
-  "tradeCheckedAt": "2026-10-26T19:24:03.572273+00:00"
+  }
 }
