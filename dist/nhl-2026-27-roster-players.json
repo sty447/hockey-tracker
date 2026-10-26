@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-26T19:24:15.502711+00:00",
+  "asOf": "2026-10-26T23:55:27.924298+00:00",
   "players": [
     {
       "id": "8484153",
@@ -554,12 +554,6 @@
       "position": "F"
     },
     {
-      "id": "8480291",
-      "name": "Skyler Brind'Amour",
-      "team": "CAR",
-      "position": "F"
-    },
-    {
       "id": "8477478",
       "name": "William Carrier",
       "team": "CAR",
@@ -646,6 +640,12 @@
     {
       "id": "8480817",
       "name": "K'Andre Miller",
+      "team": "CAR",
+      "position": "D"
+    },
+    {
+      "id": "8482100",
+      "name": "Alexander Nikishin",
       "team": "CAR",
       "position": "D"
     },
@@ -2312,6 +2312,12 @@
       "position": "F"
     },
     {
+      "id": "8478115",
+      "name": "Pierre Engvall",
+      "team": "NYI",
+      "position": "F"
+    },
+    {
       "id": "8482476",
       "name": "Emil Heineman",
       "team": "NYI",
@@ -2370,6 +2376,12 @@
       "name": "Brayden Schenn",
       "team": "NYI",
       "position": "F"
+    },
+    {
+      "id": "8485352",
+      "name": "Kashawn Aitcheson",
+      "team": "NYI",
+      "position": "D"
     },
     {
       "id": "8477950",
@@ -4364,12 +4376,6 @@
       "position": "F"
     },
     {
-      "id": "8482100",
-      "name": "Alexander Nikishin",
-      "team": "CAR",
-      "position": "D"
-    },
-    {
       "id": "8482074",
       "name": "Connor Zary",
       "team": "CGY",
@@ -5388,6 +5394,12 @@
       "name": "Simon Lundmark",
       "team": "TBL",
       "position": "D"
+    },
+    {
+      "id": "8480291",
+      "name": "Skyler Brind'Amour",
+      "team": "CAR",
+      "position": "F"
     },
     {
       "id": "8482953",
