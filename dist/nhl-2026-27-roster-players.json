@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-27T10:37:56.865715+00:00",
+  "asOf": "2026-10-27T16:43:04.445175+00:00",
   "players": [
     {
       "id": "8484153",
@@ -2312,12 +2312,6 @@
       "position": "F"
     },
     {
-      "id": "8478115",
-      "name": "Pierre Engvall",
-      "team": "NYI",
-      "position": "F"
-    },
-    {
       "id": "8482476",
       "name": "Emil Heineman",
       "team": "NYI",
@@ -2376,12 +2370,6 @@
       "name": "Brayden Schenn",
       "team": "NYI",
       "position": "F"
-    },
-    {
-      "id": "8485352",
-      "name": "Kashawn Aitcheson",
-      "team": "NYI",
-      "position": "D"
     },
     {
       "id": "8477950",
@@ -2740,6 +2728,12 @@
     {
       "id": "8482159",
       "name": "Tyson Foerster",
+      "team": "PHI",
+      "position": "F"
+    },
+    {
+      "id": "8481848",
+      "name": "Jacob Gaucher",
       "team": "PHI",
       "position": "F"
     },
@@ -5192,12 +5186,6 @@
       "position": "F"
     },
     {
-      "id": "8481848",
-      "name": "Jacob Gaucher",
-      "team": "PHI",
-      "position": "F"
-    },
-    {
       "id": "8486169",
       "name": "Jake Livanavage",
       "team": "PIT",
@@ -5466,6 +5454,18 @@
       "name": "Xavier Parent",
       "team": "NJD",
       "position": "F"
+    },
+    {
+      "id": "8478115",
+      "name": "Pierre Engvall",
+      "team": "NYI",
+      "position": "F"
+    },
+    {
+      "id": "8485352",
+      "name": "Kashawn Aitcheson",
+      "team": "NYI",
+      "position": "D"
     },
     {
       "id": "8477335",
