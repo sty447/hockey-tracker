@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-28T16:06:13.345385+00:00",
+  "asOf": "2026-10-28T21:07:45.177225+00:00",
   "goalies": [
     {
       "id": "8480843",
@@ -367,11 +367,6 @@
       "team": "VGK"
     },
     {
-      "id": "8481064",
-      "name": "Mitchell Gibson",
-      "team": "WSH"
-    },
-    {
       "id": "8479292",
       "name": "Charlie Lindgren",
       "team": "WSH"
@@ -495,6 +490,11 @@
       "id": "8477480",
       "name": "Eric Comrie",
       "team": "SJS"
+    },
+    {
+      "id": "8481064",
+      "name": "Mitchell Gibson",
+      "team": "WSH"
     },
     {
       "id": "8483575",

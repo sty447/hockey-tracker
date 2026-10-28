@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-28T16:06:13.345385+00:00",
+  "asOf": "2026-10-28T21:07:45.177225+00:00",
   "players": [
     {
       "id": "8484153",
@@ -1090,12 +1090,6 @@
     {
       "id": "8478449",
       "name": "Roope Hintz",
-      "team": "DAL",
-      "position": "F"
-    },
-    {
-      "id": "8486130",
-      "name": "Dylan Hryckowian",
       "team": "DAL",
       "position": "F"
     },
@@ -2864,12 +2858,6 @@
       "position": "F"
     },
     {
-      "id": "8482993",
-      "name": "Avery Hayes",
-      "team": "PIT",
-      "position": "F"
-    },
-    {
       "id": "8485414",
       "name": "Ben Kindel",
       "team": "PIT",
@@ -2972,12 +2960,6 @@
       "position": "D"
     },
     {
-      "id": "8485019",
-      "name": "Chase Pietila",
-      "team": "PIT",
-      "position": "D"
-    },
-    {
       "id": "8482470",
       "name": "Ilya Solovyov",
       "team": "PIT",
@@ -2994,6 +2976,12 @@
       "name": "Trevor van Riemsdyk",
       "team": "PIT",
       "position": "D"
+    },
+    {
+      "id": "8483428",
+      "name": "Filip Bystedt",
+      "team": "SJS",
+      "position": "F"
     },
     {
       "id": "8484801",
@@ -3086,14 +3074,14 @@
       "position": "D"
     },
     {
-      "id": "8484152",
-      "name": "Luca Cagnoni",
+      "id": "8484806",
+      "name": "Sam Dickinson",
       "team": "SJS",
       "position": "D"
     },
     {
-      "id": "8484806",
-      "name": "Sam Dickinson",
+      "id": "8479333",
+      "name": "Libor Hajek",
       "team": "SJS",
       "position": "D"
     },
@@ -3562,6 +3550,12 @@
     {
       "id": "8480870",
       "name": "Bo Groulx",
+      "team": "TOR",
+      "position": "F"
+    },
+    {
+      "id": "8478057",
+      "name": "Dakota Joshua",
       "team": "TOR",
       "position": "F"
     },
@@ -4382,12 +4376,6 @@
       "position": "F"
     },
     {
-      "id": "8478057",
-      "name": "Dakota Joshua",
-      "team": "TOR",
-      "position": "F"
-    },
-    {
       "id": "8481525",
       "name": "Matthew Robertson",
       "team": "NYR",
@@ -4614,6 +4602,12 @@
       "name": "Urho Vaakanainen",
       "team": "NYR",
       "position": "D"
+    },
+    {
+      "id": "8482993",
+      "name": "Avery Hayes",
+      "team": "PIT",
+      "position": "F"
     },
     {
       "id": "8482090",
@@ -5264,6 +5258,12 @@
       "position": "F"
     },
     {
+      "id": "8484152",
+      "name": "Luca Cagnoni",
+      "team": "SJS",
+      "position": "D"
+    },
+    {
       "id": "8484214",
       "name": "Luca Pinelli",
       "team": "CBJ",
@@ -5454,6 +5454,18 @@
       "name": "Xavier Parent",
       "team": "NJD",
       "position": "F"
+    },
+    {
+      "id": "8486130",
+      "name": "Dylan Hryckowian",
+      "team": "DAL",
+      "position": "F"
+    },
+    {
+      "id": "8485019",
+      "name": "Chase Pietila",
+      "team": "PIT",
+      "position": "D"
     },
     {
       "id": "8478115",
