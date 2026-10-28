@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-27T21:21:48.580176+00:00",
+  "asOf": "2026-10-28T01:25:17.327369+00:00",
   "goalies": [
     {
       "id": "8480843",
@@ -362,6 +362,11 @@
       "team": "VGK"
     },
     {
+      "id": "8483523",
+      "name": "Cameron Whitehead",
+      "team": "VGK"
+    },
+    {
       "id": "8481064",
       "name": "Mitchell Gibson",
       "team": "WSH"
@@ -497,5 +502,5 @@
       "team": "NSH"
     }
   ],
-  "tradesAsOf": "2026-10-27"
+  "tradesAsOf": "2026-10-28"
 }

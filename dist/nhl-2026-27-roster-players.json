@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-27T21:21:48.580176+00:00",
+  "asOf": "2026-10-28T01:25:17.327369+00:00",
   "players": [
     {
       "id": "8484153",
@@ -4022,12 +4022,6 @@
       "position": "F"
     },
     {
-      "id": "8480007",
-      "name": "Jonas Rondbjerg",
-      "team": "VGK",
-      "position": "F"
-    },
-    {
       "id": "8475913",
       "name": "Mark Stone",
       "team": "VGK",
@@ -4952,6 +4946,12 @@
       "position": "F"
     },
     {
+      "id": "8480007",
+      "name": "Jonas Rondbjerg",
+      "team": "VGK",
+      "position": "F"
+    },
+    {
       "id": "8482785",
       "name": "Justin Robidas",
       "team": "CAR",
@@ -5576,5 +5576,5 @@
       "position": "F"
     }
   ],
-  "tradesAsOf": "2026-10-27"
+  "tradesAsOf": "2026-10-28"
 }
