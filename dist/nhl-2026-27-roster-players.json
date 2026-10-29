@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-29T14:23:46.725893+00:00",
+  "asOf": "2026-10-29T20:20:50.503869+00:00",
   "players": [
     {
       "id": "8484153",
@@ -1046,12 +1046,6 @@
       "position": "D"
     },
     {
-      "id": "8477369",
-      "name": "Carson Soucy",
-      "team": "CBJ",
-      "position": "D"
-    },
-    {
       "id": "8478460",
       "name": "Zach Werenski",
       "team": "CBJ",
@@ -1628,6 +1622,12 @@
       "position": "F"
     },
     {
+      "id": "8482160",
+      "name": "Martin Chromiak",
+      "team": "LAK",
+      "position": "F"
+    },
+    {
       "id": "8477942",
       "name": "Kevin Fiala",
       "team": "LAK",
@@ -1696,12 +1696,6 @@
     {
       "id": "8483406",
       "name": "Taylor Ward",
-      "team": "LAK",
-      "position": "F"
-    },
-    {
-      "id": "8483756",
-      "name": "Jared Wright",
       "team": "LAK",
       "position": "F"
     },
@@ -1862,6 +1856,12 @@
       "position": "D"
     },
     {
+      "id": "8480075",
+      "name": "Cameron Crotty",
+      "team": "MIN",
+      "position": "D"
+    },
+    {
       "id": "8482122",
       "name": "Brock Faber",
       "team": "MIN",
@@ -1876,6 +1876,12 @@
     {
       "id": "8482641",
       "name": "Matt Kiersted",
+      "team": "MIN",
+      "position": "D"
+    },
+    {
+      "id": "8482781",
+      "name": "Carson Lambos",
       "team": "MIN",
       "position": "D"
     },
@@ -2636,12 +2642,6 @@
       "position": "D"
     },
     {
-      "id": "8480075",
-      "name": "Cameron Crotty",
-      "team": "OTT",
-      "position": "D"
-    },
-    {
       "id": "8482095",
       "name": "Tyler Kleven",
       "team": "OTT",
@@ -2722,12 +2722,6 @@
     {
       "id": "8482159",
       "name": "Tyson Foerster",
-      "team": "PHI",
-      "position": "F"
-    },
-    {
-      "id": "8481848",
-      "name": "Jacob Gaucher",
       "team": "PHI",
       "position": "F"
     },
@@ -4454,6 +4448,12 @@
       "position": "F"
     },
     {
+      "id": "8477369",
+      "name": "Carson Soucy",
+      "team": "CBJ",
+      "position": "D"
+    },
+    {
       "id": "8480806",
       "name": "Isac Lundeström",
       "team": "CBJ",
@@ -4644,6 +4644,12 @@
       "name": "Colton White",
       "team": "CBJ",
       "position": "D"
+    },
+    {
+      "id": "8483756",
+      "name": "Jared Wright",
+      "team": "LAK",
+      "position": "F"
     },
     {
       "id": "8481077",
@@ -5114,12 +5120,6 @@
       "position": "F"
     },
     {
-      "id": "8482781",
-      "name": "Carson Lambos",
-      "team": "MIN",
-      "position": "D"
-    },
-    {
       "id": "8482067",
       "name": "Connor Mackey",
       "team": "CHI",
@@ -5177,6 +5177,12 @@
       "id": "8483433",
       "name": "Jack Devine",
       "team": "FLA",
+      "position": "F"
+    },
+    {
+      "id": "8481848",
+      "name": "Jacob Gaucher",
+      "team": "PHI",
       "position": "F"
     },
     {
