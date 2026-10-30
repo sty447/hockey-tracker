@@ -1,8 +1,8 @@
 {
-  "asOf": "2026-10-30T19:25:17.636485+00:00",
+  "asOf": "2026-10-30T23:50:26.745305+00:00",
   "trades": {
     "asOf": "2026-10-30",
-    "checkedAt": "2026-10-30T23:50:12.809352+00:00",
+    "checkedAt": "2026-10-30T23:50:26.745305+00:00",
     "source": "https://www.nhl.com/news/topic/trade-coverage/2026-27-nhl-trades",
     "trades": [
       {
@@ -443,7 +443,7 @@
     ]
   },
   "rosters": {
-    "asOf": "2026-10-30T19:25:17.636485+00:00",
+    "asOf": "2026-10-30T23:50:26.745305+00:00",
     "teams": {
       "ANA": {
         "forwards": [
@@ -1446,10 +1446,10 @@
           "8478443",
           "8475764",
           "8484790",
+          "8484188",
           "8482733",
           "8476892",
-          "8481006",
-          "8484188"
+          "8481006"
         ],
         "goalies": [
           "8476412",
@@ -1589,10 +1589,10 @@
           "8482055",
           "8483499",
           "8480012",
+          "8484901",
           "8482079",
           "8484136",
           "8476907",
-          "8484901",
           "8484406",
           "8485385"
         ],
@@ -1628,10 +1628,10 @@
           "8481534",
           "8478483",
           "8478109",
+          "8480007",
           "8475913",
           "8482125",
           "8479550",
-          "8480007",
           "8485251"
         ],
         "defensemen": [
@@ -1649,8 +1649,8 @@
         "goalies": [
           "8479394",
           "8478499",
-          "8483523",
-          "8482761"
+          "8482761",
+          "8483523"
         ]
       },
       "WSH": {
@@ -1738,7 +1738,7 @@
     "tradesAsOf": "2026-10-30"
   },
   "skaters": {
-    "asOf": "2026-10-30T19:25:17.636485+00:00",
+    "asOf": "2026-10-30T23:50:26.745305+00:00",
     "players": [
       {
         "id": "8484153",
@@ -5107,6 +5107,12 @@
         "position": "D"
       },
       {
+        "id": "8484188",
+        "name": "Theo Lindstein",
+        "team": "STL",
+        "position": "D"
+      },
+      {
         "id": "8482733",
         "name": "Logan Mailloux",
         "team": "STL",
@@ -5611,6 +5617,12 @@
         "position": "F"
       },
       {
+        "id": "8484901",
+        "name": "Jacob Quillan",
+        "team": "VAN",
+        "position": "F"
+      },
+      {
         "id": "8482079",
         "name": "Marco Rossi",
         "team": "VAN",
@@ -5739,6 +5751,12 @@
       {
         "id": "8478109",
         "name": "Victor Olofsson",
+        "team": "VGK",
+        "position": "F"
+      },
+      {
+        "id": "8480007",
+        "name": "Jonas Rondbjerg",
         "team": "VGK",
         "position": "F"
       },
@@ -6421,12 +6439,6 @@
         "position": "F"
       },
       {
-        "id": "8484188",
-        "name": "Theo Lindstein",
-        "team": "STL",
-        "position": "D"
-      },
-      {
         "id": "8481600",
         "name": "Tobias Bjornfot",
         "team": "FLA",
@@ -6448,12 +6460,6 @@
         "id": "8479942",
         "name": "Dominik Shine",
         "team": "DET",
-        "position": "F"
-      },
-      {
-        "id": "8484901",
-        "name": "Jacob Quillan",
-        "team": "VAN",
         "position": "F"
       },
       {
@@ -6688,12 +6694,6 @@
         "id": "8483728",
         "name": "Jared Davidson",
         "team": "MTL",
-        "position": "F"
-      },
-      {
-        "id": "8480007",
-        "name": "Jonas Rondbjerg",
-        "team": "VGK",
         "position": "F"
       },
       {
@@ -7336,7 +7336,7 @@
     "tradesAsOf": "2026-10-30"
   },
   "goalies": {
-    "asOf": "2026-10-30T19:25:17.636485+00:00",
+    "asOf": "2026-10-30T23:50:26.745305+00:00",
     "goalies": [
       {
         "id": "8480843",
@@ -7699,11 +7699,6 @@
         "team": "VGK"
       },
       {
-        "id": "8483523",
-        "name": "Cameron Whitehead",
-        "team": "VGK"
-      },
-      {
         "id": "8479292",
         "name": "Charlie Lindgren",
         "team": "WSH"
@@ -7829,6 +7824,11 @@
         "team": "SJS"
       },
       {
+        "id": "8483523",
+        "name": "Cameron Whitehead",
+        "team": "VGK"
+      },
+      {
         "id": "8485545",
         "name": "Michal Postava",
         "team": "DET"
@@ -7845,6 +7845,5 @@
       }
     ],
     "tradesAsOf": "2026-10-30"
-  },
-  "tradeCheckedAt": "2026-10-30T23:50:12.809352+00:00"
+  }
 }

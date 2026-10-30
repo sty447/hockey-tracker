@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-30T19:25:17.636485+00:00",
+  "asOf": "2026-10-30T23:50:26.745305+00:00",
   "goalies": [
     {
       "id": "8480843",
@@ -362,11 +362,6 @@
       "team": "VGK"
     },
     {
-      "id": "8483523",
-      "name": "Cameron Whitehead",
-      "team": "VGK"
-    },
-    {
       "id": "8479292",
       "name": "Charlie Lindgren",
       "team": "WSH"
@@ -490,6 +485,11 @@
       "id": "8477480",
       "name": "Eric Comrie",
       "team": "SJS"
+    },
+    {
+      "id": "8483523",
+      "name": "Cameron Whitehead",
+      "team": "VGK"
     },
     {
       "id": "8485545",

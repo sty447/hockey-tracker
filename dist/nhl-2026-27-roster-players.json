@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-30T19:25:17.636485+00:00",
+  "asOf": "2026-10-30T23:50:26.745305+00:00",
   "players": [
     {
       "id": "8484153",
@@ -3368,6 +3368,12 @@
       "position": "D"
     },
     {
+      "id": "8484188",
+      "name": "Theo Lindstein",
+      "team": "STL",
+      "position": "D"
+    },
+    {
       "id": "8482733",
       "name": "Logan Mailloux",
       "team": "STL",
@@ -3872,6 +3878,12 @@
       "position": "F"
     },
     {
+      "id": "8484901",
+      "name": "Jacob Quillan",
+      "team": "VAN",
+      "position": "F"
+    },
+    {
       "id": "8482079",
       "name": "Marco Rossi",
       "team": "VAN",
@@ -4000,6 +4012,12 @@
     {
       "id": "8478109",
       "name": "Victor Olofsson",
+      "team": "VGK",
+      "position": "F"
+    },
+    {
+      "id": "8480007",
+      "name": "Jonas Rondbjerg",
       "team": "VGK",
       "position": "F"
     },
@@ -4682,12 +4700,6 @@
       "position": "F"
     },
     {
-      "id": "8484188",
-      "name": "Theo Lindstein",
-      "team": "STL",
-      "position": "D"
-    },
-    {
       "id": "8481600",
       "name": "Tobias Bjornfot",
       "team": "FLA",
@@ -4709,12 +4721,6 @@
       "id": "8479942",
       "name": "Dominik Shine",
       "team": "DET",
-      "position": "F"
-    },
-    {
-      "id": "8484901",
-      "name": "Jacob Quillan",
-      "team": "VAN",
       "position": "F"
     },
     {
@@ -4949,12 +4955,6 @@
       "id": "8483728",
       "name": "Jared Davidson",
       "team": "MTL",
-      "position": "F"
-    },
-    {
-      "id": "8480007",
-      "name": "Jonas Rondbjerg",
-      "team": "VGK",
       "position": "F"
     },
     {
