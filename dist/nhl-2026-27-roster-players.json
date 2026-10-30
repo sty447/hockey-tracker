@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-30T14:13:02.771354+00:00",
+  "asOf": "2026-10-30T19:25:17.636485+00:00",
   "players": [
     {
       "id": "8484153",
@@ -502,6 +502,12 @@
     {
       "id": "8476458",
       "name": "Ryan Strome",
+      "team": "CGY",
+      "position": "F"
+    },
+    {
+      "id": "8482766",
+      "name": "William Stromgren",
       "team": "CGY",
       "position": "F"
     },
@@ -1154,12 +1160,6 @@
       "position": "F"
     },
     {
-      "id": "8483514",
-      "name": "Matthew Seminoff",
-      "team": "DAL",
-      "position": "F"
-    },
-    {
       "id": "8479351",
       "name": "Sam Steel",
       "team": "DAL",
@@ -1318,12 +1318,6 @@
     {
       "id": "8483679",
       "name": "Anton Johansson",
-      "team": "DET",
-      "position": "D"
-    },
-    {
-      "id": "8484223",
-      "name": "Axel Sandin-Pellikka",
       "team": "DET",
       "position": "D"
     },
@@ -1838,12 +1832,6 @@
       "position": "F"
     },
     {
-      "id": "8479972",
-      "name": "Mason Shaw",
-      "team": "MIN",
-      "position": "F"
-    },
-    {
       "id": "8481477",
       "name": "Nico Sturm",
       "team": "MIN",
@@ -1894,12 +1882,6 @@
     {
       "id": "8482641",
       "name": "Matt Kiersted",
-      "team": "MIN",
-      "position": "D"
-    },
-    {
-      "id": "8482781",
-      "name": "Carson Lambos",
       "team": "MIN",
       "position": "D"
     },
@@ -4376,6 +4358,12 @@
       "position": "D"
     },
     {
+      "id": "8484223",
+      "name": "Axel Sandin-Pellikka",
+      "team": "DET",
+      "position": "D"
+    },
+    {
       "id": "8477839",
       "name": "Conor Sheary",
       "team": "BUF",
@@ -5132,6 +5120,12 @@
       "position": "F"
     },
     {
+      "id": "8482781",
+      "name": "Carson Lambos",
+      "team": "MIN",
+      "position": "D"
+    },
+    {
       "id": "8482067",
       "name": "Connor Mackey",
       "team": "CHI",
@@ -5444,12 +5438,6 @@
       "position": "F"
     },
     {
-      "id": "8482766",
-      "name": "William Stromgren",
-      "team": "CGY",
-      "position": "F"
-    },
-    {
       "id": "8482174",
       "name": "William Villeneuve",
       "team": "TOR",
@@ -5465,6 +5453,18 @@
       "id": "8483841",
       "name": "Xavier Parent",
       "team": "NJD",
+      "position": "F"
+    },
+    {
+      "id": "8483514",
+      "name": "Matthew Seminoff",
+      "team": "DAL",
+      "position": "F"
+    },
+    {
+      "id": "8479972",
+      "name": "Mason Shaw",
+      "team": "MIN",
       "position": "F"
     },
     {
