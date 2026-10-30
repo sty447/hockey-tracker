@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-29T20:20:50.503869+00:00",
+  "asOf": "2026-10-30T01:03:30.244802+00:00",
   "players": [
     {
       "id": "8484153",
@@ -74,6 +74,12 @@
       "position": "F"
     },
     {
+      "id": "8478873",
+      "name": "Troy Terry",
+      "team": "ANA",
+      "position": "F"
+    },
+    {
       "id": "8478366",
       "name": "Frank Vatrano",
       "team": "ANA",
@@ -118,6 +124,12 @@
     {
       "id": "8483490",
       "name": "Pavel Mintyukov",
+      "team": "ANA",
+      "position": "D"
+    },
+    {
+      "id": "8484262",
+      "name": "Travis Mitchell",
       "team": "ANA",
       "position": "D"
     },
@@ -1232,6 +1244,12 @@
       "position": "F"
     },
     {
+      "id": "8480326",
+      "name": "Sheldon Dries",
+      "team": "DET",
+      "position": "F"
+    },
+    {
       "id": "8484471",
       "name": "Emmitt Finnie",
       "team": "DET",
@@ -1246,12 +1264,6 @@
     {
       "id": "8478434",
       "name": "Keegan Kolesar",
-      "team": "DET",
-      "position": "F"
-    },
-    {
-      "id": "8477946",
-      "name": "Dylan Larkin",
       "team": "DET",
       "position": "F"
     },
@@ -4340,9 +4352,9 @@
       "position": "F"
     },
     {
-      "id": "8478873",
-      "name": "Troy Terry",
-      "team": "ANA",
+      "id": "8477946",
+      "name": "Dylan Larkin",
+      "team": "DET",
       "position": "F"
     },
     {
@@ -5054,12 +5066,6 @@
       "position": "D"
     },
     {
-      "id": "8484262",
-      "name": "Travis Mitchell",
-      "team": "ANA",
-      "position": "D"
-    },
-    {
       "id": "8483039",
       "name": "Tristen Nielsen",
       "team": "COL",
@@ -5378,12 +5384,6 @@
       "position": "F"
     },
     {
-      "id": "8480326",
-      "name": "Sheldon Dries",
-      "team": "DET",
-      "position": "F"
-    },
-    {
       "id": "8481547",
       "name": "Simon Lundmark",
       "team": "TBL",
@@ -5594,5 +5594,5 @@
       "position": "F"
     }
   ],
-  "tradesAsOf": "2026-10-29"
+  "tradesAsOf": "2026-10-30"
 }

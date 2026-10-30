@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-29T20:20:50.503869+00:00",
+  "asOf": "2026-10-30T01:03:30.244802+00:00",
   "goalies": [
     {
       "id": "8480843",
@@ -99,11 +99,6 @@
     {
       "id": "8476434",
       "name": "John Gibson",
-      "team": "DET"
-    },
-    {
-      "id": "8485545",
-      "name": "Michal Postava",
       "team": "DET"
     },
     {
@@ -492,6 +487,11 @@
       "team": "SJS"
     },
     {
+      "id": "8485545",
+      "name": "Michal Postava",
+      "team": "DET"
+    },
+    {
       "id": "8481064",
       "name": "Mitchell Gibson",
       "team": "WSH"
@@ -502,5 +502,5 @@
       "team": "NSH"
     }
   ],
-  "tradesAsOf": "2026-10-29"
+  "tradesAsOf": "2026-10-30"
 }
