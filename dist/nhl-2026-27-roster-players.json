@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-31T17:46:26.556890+00:00",
+  "asOf": "2026-10-31T21:38:41.819242+00:00",
   "players": [
     {
       "id": "8484153",
@@ -2822,12 +2822,6 @@
       "position": "D"
     },
     {
-      "id": "8483760",
-      "name": "Hunter McDonald",
-      "team": "PHI",
-      "position": "D"
-    },
-    {
       "id": "8477499",
       "name": "Rasmus Ristolainen",
       "team": "PHI",
@@ -4949,6 +4943,12 @@
       "id": "8484839",
       "name": "Harrison Brunicke",
       "team": "PIT",
+      "position": "D"
+    },
+    {
+      "id": "8483760",
+      "name": "Hunter McDonald",
+      "team": "PHI",
       "position": "D"
     },
     {
