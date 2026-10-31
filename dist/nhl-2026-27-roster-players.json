@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-10-31T12:37:28.481019+00:00",
+  "asOf": "2026-10-31T17:46:26.556890+00:00",
   "players": [
     {
       "id": "8484153",
@@ -830,6 +830,12 @@
       "position": "D"
     },
     {
+      "id": "8484149",
+      "name": "Gavin Brindley",
+      "team": "COL",
+      "position": "F"
+    },
+    {
       "id": "8486171",
       "name": "T.J. Hughes",
       "team": "COL",
@@ -1290,6 +1296,12 @@
       "name": "Lucas Raymond",
       "team": "DET",
       "position": "F"
+    },
+    {
+      "id": "8480879",
+      "name": "Jacob Bernard-Docker",
+      "team": "DET",
+      "position": "D"
     },
     {
       "id": "8475279",
@@ -1828,6 +1840,12 @@
     {
       "id": "8485702",
       "name": "Maxim Shabanov",
+      "team": "MIN",
+      "position": "F"
+    },
+    {
+      "id": "8479972",
+      "name": "Mason Shaw",
       "team": "MIN",
       "position": "F"
     },
@@ -2374,6 +2392,12 @@
     {
       "id": "8477950",
       "name": "Tony DeAngelo",
+      "team": "NYI",
+      "position": "D"
+    },
+    {
+      "id": "8483448",
+      "name": "Isaiah George",
       "team": "NYI",
       "position": "D"
     },
@@ -3680,12 +3704,6 @@
       "position": "D"
     },
     {
-      "id": "8484388",
-      "name": "Daniil But",
-      "team": "UTA",
-      "position": "F"
-    },
-    {
       "id": "8479619",
       "name": "Michael Carcone",
       "team": "UTA",
@@ -4460,12 +4478,6 @@
       "position": "F"
     },
     {
-      "id": "8484149",
-      "name": "Gavin Brindley",
-      "team": "COL",
-      "position": "F"
-    },
-    {
       "id": "8477369",
       "name": "Carson Soucy",
       "team": "CBJ",
@@ -4604,6 +4616,12 @@
       "position": "F"
     },
     {
+      "id": "8484388",
+      "name": "Daniil But",
+      "team": "UTA",
+      "position": "F"
+    },
+    {
       "id": "8482877",
       "name": "Jaroslav Chmelar",
       "team": "NYR",
@@ -4638,12 +4656,6 @@
       "name": "Jack Finley",
       "team": "STL",
       "position": "F"
-    },
-    {
-      "id": "8480879",
-      "name": "Jacob Bernard-Docker",
-      "team": "DET",
-      "position": "D"
     },
     {
       "id": "8482103",
@@ -4937,12 +4949,6 @@
       "id": "8484839",
       "name": "Harrison Brunicke",
       "team": "PIT",
-      "position": "D"
-    },
-    {
-      "id": "8483448",
-      "name": "Isaiah George",
-      "team": "NYI",
       "position": "D"
     },
     {
@@ -5459,12 +5465,6 @@
       "id": "8483514",
       "name": "Matthew Seminoff",
       "team": "DAL",
-      "position": "F"
-    },
-    {
-      "id": "8479972",
-      "name": "Mason Shaw",
-      "team": "MIN",
       "position": "F"
     },
     {
