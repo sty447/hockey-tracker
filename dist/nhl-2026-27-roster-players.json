@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-01T19:42:47.619140+00:00",
+  "asOf": "2026-11-01T23:38:15.451462+00:00",
   "players": [
     {
       "id": "8484153",
@@ -2120,8 +2120,8 @@
       "position": "F"
     },
     {
-      "id": "8484241",
-      "name": "Matthew Wood",
+      "id": "8483524",
+      "name": "Shane Wright",
       "team": "NSH",
       "position": "F"
     },
@@ -3200,8 +3200,8 @@
       "position": "F"
     },
     {
-      "id": "8483524",
-      "name": "Shane Wright",
+      "id": "8484241",
+      "name": "Matthew Wood",
       "team": "SEA",
       "position": "F"
     },
