@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-01T07:36:00.614334+00:00",
+  "asOf": "2026-11-01T15:13:10.027452+00:00",
   "players": [
     {
       "id": "8484153",
@@ -2564,6 +2564,12 @@
       "position": "D"
     },
     {
+      "id": "8481525",
+      "name": "Matthew Robertson",
+      "team": "NYR",
+      "position": "D"
+    },
+    {
       "id": "8482073",
       "name": "Braden Schneider",
       "team": "NYR",
@@ -2902,12 +2908,6 @@
     {
       "id": "8471215",
       "name": "Evgeni Malkin",
-      "team": "PIT",
-      "position": "F"
-    },
-    {
-      "id": "8483487",
-      "name": "Rutger McGroarty",
       "team": "PIT",
       "position": "F"
     },
@@ -4400,12 +4400,6 @@
       "position": "F"
     },
     {
-      "id": "8481525",
-      "name": "Matthew Robertson",
-      "team": "NYR",
-      "position": "D"
-    },
-    {
       "id": "8479591",
       "name": "Michael Eyssimont",
       "team": "BOS",
@@ -4632,6 +4626,12 @@
       "name": "Pierre-Olivier Joseph",
       "team": "CAR",
       "position": "D"
+    },
+    {
+      "id": "8483487",
+      "name": "Rutger McGroarty",
+      "team": "PIT",
+      "position": "F"
     },
     {
       "id": "8480001",
