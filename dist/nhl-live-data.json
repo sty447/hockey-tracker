@@ -2,9 +2,26 @@
   "asOf": "2026-11-01T19:42:47.619140+00:00",
   "trades": {
     "asOf": "2026-11-01",
-    "checkedAt": "2026-11-01T22:22:34.392534+00:00",
+    "checkedAt": "2026-11-01T23:38:04.220421+00:00",
     "source": "https://www.nhl.com/news/topic/trade-coverage/2026-27-nhl-trades",
     "trades": [
+      {
+        "date": "2026-11-01",
+        "teams": [
+          {
+            "team": "NSH",
+            "receives": [
+              "Shane Wright"
+            ]
+          },
+          {
+            "team": "SEA",
+            "receives": [
+              "Matthew Wood"
+            ]
+          }
+        ]
+      },
       {
         "date": "2026-11-01",
         "teams": [
@@ -7863,5 +7880,5 @@
     ],
     "tradesAsOf": "2026-11-01"
   },
-  "tradeCheckedAt": "2026-11-01T22:22:34.392534+00:00"
+  "tradeCheckedAt": "2026-11-01T23:38:04.220421+00:00"
 }
