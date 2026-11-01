@@ -1,8 +1,25 @@
 {
   "asOf": "2026-11-01",
-  "checkedAt": "2026-11-01T18:37:28.735366+00:00",
+  "checkedAt": "2026-11-01T19:42:37.090111+00:00",
   "source": "https://www.nhl.com/news/topic/trade-coverage/2026-27-nhl-trades",
   "trades": [
+    {
+      "date": "2026-11-01",
+      "teams": [
+        {
+          "team": "NJD",
+          "receives": [
+            "7th round pick in the 2027 NHL Draft"
+          ]
+        },
+        {
+          "team": "WSH",
+          "receives": [
+            "Remi Poirier"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-23",
       "teams": [
