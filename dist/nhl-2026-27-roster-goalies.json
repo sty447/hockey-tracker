@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-01T15:13:10.027452+00:00",
+  "asOf": "2026-11-01T19:42:47.619140+00:00",
   "goalies": [
     {
       "id": "8480843",
@@ -207,11 +207,6 @@
       "team": "NJD"
     },
     {
-      "id": "8482465",
-      "name": "Rémi Poirier",
-      "team": "NJD"
-    },
-    {
       "id": "8478009",
       "name": "Ilya Sorokin",
       "team": "NYI"
@@ -364,6 +359,11 @@
     {
       "id": "8479292",
       "name": "Charlie Lindgren",
+      "team": "WSH"
+    },
+    {
+      "id": "8482465",
+      "name": "Rémi Poirier",
       "team": "WSH"
     },
     {

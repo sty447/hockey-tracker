@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-01T15:13:10.027452+00:00",
+  "asOf": "2026-11-01T19:42:47.619140+00:00",
   "players": [
     {
       "id": "8484153",
@@ -376,12 +376,6 @@
     {
       "id": "8480839",
       "name": "Rasmus Dahlin",
-      "team": "BUF",
-      "position": "D"
-    },
-    {
-      "id": "8478502",
-      "name": "Dennis Gilbert",
       "team": "BUF",
       "position": "D"
     },
@@ -830,12 +824,6 @@
       "position": "D"
     },
     {
-      "id": "8484149",
-      "name": "Gavin Brindley",
-      "team": "COL",
-      "position": "F"
-    },
-    {
       "id": "8486171",
       "name": "T.J. Hughes",
       "team": "COL",
@@ -1276,6 +1264,12 @@
     {
       "id": "8478434",
       "name": "Keegan Kolesar",
+      "team": "DET",
+      "position": "F"
+    },
+    {
+      "id": "8481077",
+      "name": "John Leonard",
       "team": "DET",
       "position": "F"
     },
@@ -2392,12 +2386,6 @@
     {
       "id": "8477950",
       "name": "Tony DeAngelo",
-      "team": "NYI",
-      "position": "D"
-    },
-    {
-      "id": "8483448",
-      "name": "Isaiah George",
       "team": "NYI",
       "position": "D"
     },
@@ -4058,12 +4046,6 @@
       "position": "D"
     },
     {
-      "id": "8481572",
-      "name": "Ville Heinola",
-      "team": "VGK",
-      "position": "D"
-    },
-    {
       "id": "8478468",
       "name": "Jeremy Lauzon",
       "team": "VGK",
@@ -4466,6 +4448,12 @@
       "position": "F"
     },
     {
+      "id": "8484149",
+      "name": "Gavin Brindley",
+      "team": "COL",
+      "position": "F"
+    },
+    {
       "id": "8477369",
       "name": "Carson Soucy",
       "team": "CBJ",
@@ -4679,12 +4667,6 @@
       "id": "8483756",
       "name": "Jared Wright",
       "team": "LAK",
-      "position": "F"
-    },
-    {
-      "id": "8481077",
-      "name": "John Leonard",
-      "team": "DET",
       "position": "F"
     },
     {
@@ -4928,6 +4910,12 @@
       "position": "D"
     },
     {
+      "id": "8478502",
+      "name": "Dennis Gilbert",
+      "team": "BUF",
+      "position": "D"
+    },
+    {
       "id": "8482206",
       "name": "Ethan Cardwell",
       "team": "SJS",
@@ -4949,6 +4937,12 @@
       "id": "8483760",
       "name": "Hunter McDonald",
       "team": "PHI",
+      "position": "D"
+    },
+    {
+      "id": "8483448",
+      "name": "Isaiah George",
+      "team": "NYI",
       "position": "D"
     },
     {
@@ -5435,6 +5429,12 @@
       "id": "8486166",
       "name": "Viking Gustafsson Nyberg",
       "team": "MIN",
+      "position": "D"
+    },
+    {
+      "id": "8481572",
+      "name": "Ville Heinola",
+      "team": "VGK",
       "position": "D"
     },
     {
