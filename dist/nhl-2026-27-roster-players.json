@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-02T15:59:41.031156+00:00",
+  "asOf": "2026-11-02T23:33:57.078886+00:00",
   "players": [
     {
       "id": "8484153",
@@ -44,12 +44,6 @@
       "position": "F"
     },
     {
-      "id": "8486052",
-      "name": "Nikita Klepov",
-      "team": "ANA",
-      "position": "F"
-    },
-    {
       "id": "8482408",
       "name": "Jeff Malott",
       "team": "ANA",
@@ -58,6 +52,12 @@
     {
       "id": "8485400",
       "name": "Roger McQueen",
+      "team": "ANA",
+      "position": "F"
+    },
+    {
+      "id": "8484201",
+      "name": "Nico Myatovic",
       "team": "ANA",
       "position": "F"
     },
@@ -106,12 +106,6 @@
     {
       "id": "8482731",
       "name": "Tyson Hinds",
-      "team": "ANA",
-      "position": "D"
-    },
-    {
-      "id": "8475324",
-      "name": "Nick Jensen",
       "team": "ANA",
       "position": "D"
     },
@@ -934,6 +928,12 @@
     {
       "id": "8476312",
       "name": "Josh Manson",
+      "team": "COL",
+      "position": "D"
+    },
+    {
+      "id": "8479387",
+      "name": "Keaton Middleton",
       "team": "COL",
       "position": "D"
     },
@@ -1814,12 +1814,6 @@
       "position": "F"
     },
     {
-      "id": "8483478",
-      "name": "Rieger Lorenz",
-      "team": "MIN",
-      "position": "F"
-    },
-    {
       "id": "8477446",
       "name": "Michael McCarron",
       "team": "MIN",
@@ -2438,6 +2432,12 @@
       "position": "F"
     },
     {
+      "id": "8482877",
+      "name": "Jaroslav Chmelar",
+      "team": "NYR",
+      "position": "F"
+    },
+    {
       "id": "8482157",
       "name": "Will Cuylle",
       "team": "NYR",
@@ -2482,12 +2482,6 @@
     {
       "id": "8484210",
       "name": "Gabe Perreault",
-      "team": "NYR",
-      "position": "F"
-    },
-    {
-      "id": "8479390",
-      "name": "Taylor Raddysh",
       "team": "NYR",
       "position": "F"
     },
@@ -2704,12 +2698,6 @@
     {
       "id": "8484142",
       "name": "Denver Barkey",
-      "team": "PHI",
-      "position": "F"
-    },
-    {
-      "id": "8483731",
-      "name": "Alex Bump",
       "team": "PHI",
       "position": "F"
     },
@@ -3376,12 +3364,6 @@
     {
       "id": "8484188",
       "name": "Theo Lindstein",
-      "team": "STL",
-      "position": "D"
-    },
-    {
-      "id": "8482733",
-      "name": "Logan Mailloux",
       "team": "STL",
       "position": "D"
     },
@@ -4376,6 +4358,12 @@
       "position": "D"
     },
     {
+      "id": "8479390",
+      "name": "Taylor Raddysh",
+      "team": "NYR",
+      "position": "F"
+    },
+    {
       "id": "8477839",
       "name": "Conor Sheary",
       "team": "BUF",
@@ -4398,6 +4386,12 @@
       "name": "Vinnie Hinostroza",
       "team": "COL",
       "position": "F"
+    },
+    {
+      "id": "8475324",
+      "name": "Nick Jensen",
+      "team": "ANA",
+      "position": "D"
     },
     {
       "id": "8476897",
@@ -4454,6 +4448,12 @@
       "position": "F"
     },
     {
+      "id": "8482733",
+      "name": "Logan Mailloux",
+      "team": "STL",
+      "position": "D"
+    },
+    {
       "id": "8477369",
       "name": "Carson Soucy",
       "team": "CBJ",
@@ -4499,6 +4499,12 @@
       "id": "8482947",
       "name": "Zakhar Bardakov",
       "team": "COL",
+      "position": "F"
+    },
+    {
+      "id": "8483731",
+      "name": "Alex Bump",
+      "team": "PHI",
       "position": "F"
     },
     {
@@ -4595,12 +4601,6 @@
       "id": "8484388",
       "name": "Daniil But",
       "team": "UTA",
-      "position": "F"
-    },
-    {
-      "id": "8482877",
-      "name": "Jaroslav Chmelar",
-      "team": "NYR",
       "position": "F"
     },
     {
@@ -4962,12 +4962,6 @@
       "name": "Justin Robidas",
       "team": "CAR",
       "position": "F"
-    },
-    {
-      "id": "8479387",
-      "name": "Keaton Middleton",
-      "team": "COL",
-      "position": "D"
     },
     {
       "id": "8477073",
@@ -5459,6 +5453,18 @@
       "id": "8483841",
       "name": "Xavier Parent",
       "team": "NJD",
+      "position": "F"
+    },
+    {
+      "id": "8486052",
+      "name": "Nikita Klepov",
+      "team": "ANA",
+      "position": "F"
+    },
+    {
+      "id": "8483478",
+      "name": "Rieger Lorenz",
+      "team": "MIN",
       "position": "F"
     },
     {

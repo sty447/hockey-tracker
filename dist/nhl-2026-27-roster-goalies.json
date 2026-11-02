@@ -1,6 +1,11 @@
 {
-  "asOf": "2026-11-02T15:59:41.031156+00:00",
+  "asOf": "2026-11-02T23:33:57.078886+00:00",
   "goalies": [
+    {
+      "id": "8476316",
+      "name": "Laurent Brossoit",
+      "team": "ANA"
+    },
     {
       "id": "8480843",
       "name": "Lukas Dostal",
@@ -130,11 +135,6 @@
       "id": "8477035",
       "name": "Matt Tomkins",
       "team": "EDM"
-    },
-    {
-      "id": "8484900",
-      "name": "Cooper Black",
-      "team": "FLA"
     },
     {
       "id": "8474593",
@@ -427,11 +427,6 @@
       "team": "PHI"
     },
     {
-      "id": "8476316",
-      "name": "Laurent Brossoit",
-      "team": "ANA"
-    },
-    {
       "id": "8483668",
       "name": "Nikke Kokko",
       "team": "SEA"
@@ -485,6 +480,11 @@
       "id": "8477480",
       "name": "Eric Comrie",
       "team": "SJS"
+    },
+    {
+      "id": "8484900",
+      "name": "Cooper Black",
+      "team": "FLA"
     },
     {
       "id": "8483523",

@@ -1,8 +1,8 @@
 {
-  "asOf": "2026-11-02T15:59:41.031156+00:00",
+  "asOf": "2026-11-02T23:33:57.078886+00:00",
   "trades": {
     "asOf": "2026-11-02",
-    "checkedAt": "2026-11-02T23:33:45.409045+00:00",
+    "checkedAt": "2026-11-02T23:33:57.078886+00:00",
     "source": "https://www.nhl.com/news/topic/trade-coverage/2026-27-nhl-trades",
     "trades": [
       {
@@ -477,7 +477,7 @@
     ]
   },
   "rosters": {
-    "asOf": "2026-11-02T15:59:41.031156+00:00",
+    "asOf": "2026-11-02T23:33:57.078886+00:00",
     "teams": {
       "ANA": {
         "forwards": [
@@ -488,9 +488,9 @@
           "8475798",
           "8478421",
           "8473986",
-          "8486052",
           "8482408",
           "8485400",
+          "8484201",
           "8481754",
           "8480068",
           "8484762",
@@ -498,6 +498,7 @@
           "8478366",
           "8485512",
           "8483444",
+          "8486052",
           "8482081",
           "8480468",
           "8486072",
@@ -506,21 +507,21 @@
         "defensemen": [
           "8481563",
           "8482731",
-          "8475324",
           "8481605",
           "8483482",
           "8483490",
           "8484262",
           "8482178",
           "8483521",
+          "8475324",
           "8484859",
           "8481461",
           "8480808"
         ],
         "goalies": [
+          "8476316",
           "8480843",
-          "8478024",
-          "8476316"
+          "8478024"
         ]
       },
       "BOS": {
@@ -754,8 +755,8 @@
           "8480069",
           "8484258",
           "8476312",
-          "8478038",
           "8479387",
+          "8478038",
           "8481562"
         ],
         "goalies": [
@@ -961,9 +962,9 @@
           "8484933"
         ],
         "goalies": [
-          "8484900",
           "8474593",
-          "8481033"
+          "8481033",
+          "8484900"
         ]
       },
       "LAK": {
@@ -1013,7 +1014,6 @@
           "8473422",
           "8477451",
           "8478864",
-          "8483478",
           "8477446",
           "8475752",
           "8485702",
@@ -1022,7 +1022,8 @@
           "8478508",
           "8483525",
           "8483452",
-          "8477993"
+          "8477993",
+          "8483478"
         ],
         "defensemen": [
           "8474567",
@@ -1205,6 +1206,7 @@
       "NYR": {
         "forwards": [
           "8477416",
+          "8482877",
           "8482157",
           "8481604",
           "8476822",
@@ -1213,13 +1215,12 @@
           "8482109",
           "8476468",
           "8484210",
-          "8479390",
           "8482460",
           "8483669",
           "8480009",
           "8480813",
           "8476459",
-          "8482877",
+          "8479390",
           "8481704",
           "8477320",
           "8475413",
@@ -1288,7 +1289,6 @@
         "forwards": [
           "8478569",
           "8484142",
-          "8483731",
           "8478047",
           "8480220",
           "8476461",
@@ -1303,6 +1303,7 @@
           "8480015",
           "8481533",
           "8479336",
+          "8483731",
           "8479944",
           "8481518",
           "8475253",
@@ -1480,9 +1481,9 @@
           "8475764",
           "8484790",
           "8484188",
-          "8482733",
           "8476892",
-          "8481006"
+          "8481006",
+          "8482733"
         ],
         "goalies": [
           "8476412",
@@ -1772,7 +1773,7 @@
     "tradesAsOf": "2026-11-02"
   },
   "skaters": {
-    "asOf": "2026-11-02T15:59:41.031156+00:00",
+    "asOf": "2026-11-02T23:33:57.078886+00:00",
     "players": [
       {
         "id": "8484153",
@@ -1817,12 +1818,6 @@
         "position": "F"
       },
       {
-        "id": "8486052",
-        "name": "Nikita Klepov",
-        "team": "ANA",
-        "position": "F"
-      },
-      {
         "id": "8482408",
         "name": "Jeff Malott",
         "team": "ANA",
@@ -1831,6 +1826,12 @@
       {
         "id": "8485400",
         "name": "Roger McQueen",
+        "team": "ANA",
+        "position": "F"
+      },
+      {
+        "id": "8484201",
+        "name": "Nico Myatovic",
         "team": "ANA",
         "position": "F"
       },
@@ -1879,12 +1880,6 @@
       {
         "id": "8482731",
         "name": "Tyson Hinds",
-        "team": "ANA",
-        "position": "D"
-      },
-      {
-        "id": "8475324",
-        "name": "Nick Jensen",
         "team": "ANA",
         "position": "D"
       },
@@ -2707,6 +2702,12 @@
       {
         "id": "8476312",
         "name": "Josh Manson",
+        "team": "COL",
+        "position": "D"
+      },
+      {
+        "id": "8479387",
+        "name": "Keaton Middleton",
         "team": "COL",
         "position": "D"
       },
@@ -3587,12 +3588,6 @@
         "position": "F"
       },
       {
-        "id": "8483478",
-        "name": "Rieger Lorenz",
-        "team": "MIN",
-        "position": "F"
-      },
-      {
         "id": "8477446",
         "name": "Michael McCarron",
         "team": "MIN",
@@ -4211,6 +4206,12 @@
         "position": "F"
       },
       {
+        "id": "8482877",
+        "name": "Jaroslav Chmelar",
+        "team": "NYR",
+        "position": "F"
+      },
+      {
         "id": "8482157",
         "name": "Will Cuylle",
         "team": "NYR",
@@ -4255,12 +4256,6 @@
       {
         "id": "8484210",
         "name": "Gabe Perreault",
-        "team": "NYR",
-        "position": "F"
-      },
-      {
-        "id": "8479390",
-        "name": "Taylor Raddysh",
         "team": "NYR",
         "position": "F"
       },
@@ -4477,12 +4472,6 @@
       {
         "id": "8484142",
         "name": "Denver Barkey",
-        "team": "PHI",
-        "position": "F"
-      },
-      {
-        "id": "8483731",
-        "name": "Alex Bump",
         "team": "PHI",
         "position": "F"
       },
@@ -5149,12 +5138,6 @@
       {
         "id": "8484188",
         "name": "Theo Lindstein",
-        "team": "STL",
-        "position": "D"
-      },
-      {
-        "id": "8482733",
-        "name": "Logan Mailloux",
         "team": "STL",
         "position": "D"
       },
@@ -6149,6 +6132,12 @@
         "position": "D"
       },
       {
+        "id": "8479390",
+        "name": "Taylor Raddysh",
+        "team": "NYR",
+        "position": "F"
+      },
+      {
         "id": "8477839",
         "name": "Conor Sheary",
         "team": "BUF",
@@ -6171,6 +6160,12 @@
         "name": "Vinnie Hinostroza",
         "team": "COL",
         "position": "F"
+      },
+      {
+        "id": "8475324",
+        "name": "Nick Jensen",
+        "team": "ANA",
+        "position": "D"
       },
       {
         "id": "8476897",
@@ -6227,6 +6222,12 @@
         "position": "F"
       },
       {
+        "id": "8482733",
+        "name": "Logan Mailloux",
+        "team": "STL",
+        "position": "D"
+      },
+      {
         "id": "8477369",
         "name": "Carson Soucy",
         "team": "CBJ",
@@ -6272,6 +6273,12 @@
         "id": "8482947",
         "name": "Zakhar Bardakov",
         "team": "COL",
+        "position": "F"
+      },
+      {
+        "id": "8483731",
+        "name": "Alex Bump",
+        "team": "PHI",
         "position": "F"
       },
       {
@@ -6368,12 +6375,6 @@
         "id": "8484388",
         "name": "Daniil But",
         "team": "UTA",
-        "position": "F"
-      },
-      {
-        "id": "8482877",
-        "name": "Jaroslav Chmelar",
-        "team": "NYR",
         "position": "F"
       },
       {
@@ -6735,12 +6736,6 @@
         "name": "Justin Robidas",
         "team": "CAR",
         "position": "F"
-      },
-      {
-        "id": "8479387",
-        "name": "Keaton Middleton",
-        "team": "COL",
-        "position": "D"
       },
       {
         "id": "8477073",
@@ -7235,6 +7230,18 @@
         "position": "F"
       },
       {
+        "id": "8486052",
+        "name": "Nikita Klepov",
+        "team": "ANA",
+        "position": "F"
+      },
+      {
+        "id": "8483478",
+        "name": "Rieger Lorenz",
+        "team": "MIN",
+        "position": "F"
+      },
+      {
         "id": "8483514",
         "name": "Matthew Seminoff",
         "team": "DAL",
@@ -7370,8 +7377,13 @@
     "tradesAsOf": "2026-11-02"
   },
   "goalies": {
-    "asOf": "2026-11-02T15:59:41.031156+00:00",
+    "asOf": "2026-11-02T23:33:57.078886+00:00",
     "goalies": [
+      {
+        "id": "8476316",
+        "name": "Laurent Brossoit",
+        "team": "ANA"
+      },
       {
         "id": "8480843",
         "name": "Lukas Dostal",
@@ -7501,11 +7513,6 @@
         "id": "8477035",
         "name": "Matt Tomkins",
         "team": "EDM"
-      },
-      {
-        "id": "8484900",
-        "name": "Cooper Black",
-        "team": "FLA"
       },
       {
         "id": "8474593",
@@ -7798,11 +7805,6 @@
         "team": "PHI"
       },
       {
-        "id": "8476316",
-        "name": "Laurent Brossoit",
-        "team": "ANA"
-      },
-      {
         "id": "8483668",
         "name": "Nikke Kokko",
         "team": "SEA"
@@ -7858,6 +7860,11 @@
         "team": "SJS"
       },
       {
+        "id": "8484900",
+        "name": "Cooper Black",
+        "team": "FLA"
+      },
+      {
         "id": "8483523",
         "name": "Cameron Whitehead",
         "team": "VGK"
@@ -7879,6 +7886,5 @@
       }
     ],
     "tradesAsOf": "2026-11-02"
-  },
-  "tradeCheckedAt": "2026-11-02T23:33:45.409045+00:00"
+  }
 }
