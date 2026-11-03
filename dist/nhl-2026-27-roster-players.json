@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-03T06:52:00.539268+00:00",
+  "asOf": "2026-11-03T15:12:38.997737+00:00",
   "players": [
     {
       "id": "8484153",
@@ -1712,12 +1712,6 @@
       "position": "F"
     },
     {
-      "id": "8483406",
-      "name": "Taylor Ward",
-      "team": "LAK",
-      "position": "F"
-    },
-    {
       "id": "8475692",
       "name": "Mats Zuccarello",
       "team": "LAK",
@@ -2944,6 +2938,12 @@
     {
       "id": "8471724",
       "name": "Kris Letang",
+      "team": "PIT",
+      "position": "D"
+    },
+    {
+      "id": "8486169",
+      "name": "Jake Livanavage",
       "team": "PIT",
       "position": "D"
     },
@@ -4592,6 +4592,12 @@
       "position": "F"
     },
     {
+      "id": "8483406",
+      "name": "Taylor Ward",
+      "team": "LAK",
+      "position": "F"
+    },
+    {
       "id": "8476867",
       "name": "Brendan Gaunce",
       "team": "BOS",
@@ -5184,12 +5190,6 @@
       "name": "Jacob Gaucher",
       "team": "PHI",
       "position": "F"
-    },
-    {
-      "id": "8486169",
-      "name": "Jake Livanavage",
-      "team": "PIT",
-      "position": "D"
     },
     {
       "id": "8481592",
