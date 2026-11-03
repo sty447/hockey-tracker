@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-03T15:12:38.997737+00:00",
+  "asOf": "2026-11-03T21:02:27.184032+00:00",
   "players": [
     {
       "id": "8484153",
@@ -694,6 +694,12 @@
     {
       "id": "8477479",
       "name": "Tyler Bertuzzi",
+      "team": "CHI",
+      "position": "F"
+    },
+    {
+      "id": "8485554",
+      "name": "Dillon Boucher",
       "team": "CHI",
       "position": "F"
     },
@@ -1642,6 +1648,12 @@
     {
       "id": "8482160",
       "name": "Martin Chromiak",
+      "team": "LAK",
+      "position": "F"
+    },
+    {
+      "id": "8483675",
+      "name": "Kenny Connors",
       "team": "LAK",
       "position": "F"
     },
@@ -2752,12 +2764,6 @@
     {
       "id": "8484387",
       "name": "Matvei Michkov",
-      "team": "PHI",
-      "position": "F"
-    },
-    {
-      "id": "8480021",
-      "name": "Jack Studnicka",
       "team": "PHI",
       "position": "F"
     },
@@ -5186,6 +5192,12 @@
       "position": "F"
     },
     {
+      "id": "8480021",
+      "name": "Jack Studnicka",
+      "team": "PHI",
+      "position": "F"
+    },
+    {
       "id": "8481848",
       "name": "Jacob Gaucher",
       "team": "PHI",
@@ -5243,12 +5255,6 @@
       "id": "8485251",
       "name": "Kai Uchacz",
       "team": "VGK",
-      "position": "F"
-    },
-    {
-      "id": "8483675",
-      "name": "Kenny Connors",
-      "team": "LAK",
       "position": "F"
     },
     {
