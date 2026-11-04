@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-04T17:24:29.302671+00:00",
+  "asOf": "2026-11-04T23:42:18.315247+00:00",
   "players": [
     {
       "id": "8484153",
@@ -3062,12 +3062,6 @@
       "position": "D"
     },
     {
-      "id": "8479333",
-      "name": "Libor Hajek",
-      "team": "SJS",
-      "position": "D"
-    },
-    {
       "id": "8480891",
       "name": "Michael Kesselring",
       "team": "SJS",
@@ -3998,12 +3992,6 @@
       "position": "F"
     },
     {
-      "id": "8480007",
-      "name": "Jonas Rondbjerg",
-      "team": "VGK",
-      "position": "F"
-    },
-    {
       "id": "8475913",
       "name": "Mark Stone",
       "team": "VGK",
@@ -4210,12 +4198,6 @@
     {
       "id": "8481043",
       "name": "Cole Koepke",
-      "team": "WPG",
-      "position": "F"
-    },
-    {
-      "id": "8483471",
-      "name": "Brad Lambert",
       "team": "WPG",
       "position": "F"
     },
@@ -4592,6 +4574,12 @@
       "position": "F"
     },
     {
+      "id": "8483471",
+      "name": "Brad Lambert",
+      "team": "WPG",
+      "position": "F"
+    },
+    {
       "id": "8476867",
       "name": "Brendan Gaunce",
       "team": "BOS",
@@ -4955,6 +4943,12 @@
       "id": "8483728",
       "name": "Jared Davidson",
       "team": "MTL",
+      "position": "F"
+    },
+    {
+      "id": "8480007",
+      "name": "Jonas Rondbjerg",
+      "team": "VGK",
       "position": "F"
     },
     {
@@ -5460,6 +5454,12 @@
       "name": "Xavier Parent",
       "team": "NJD",
       "position": "F"
+    },
+    {
+      "id": "8479333",
+      "name": "Libor Hajek",
+      "team": "SJS",
+      "position": "D"
     },
     {
       "id": "8479972",
