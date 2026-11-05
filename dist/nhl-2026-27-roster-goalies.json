@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-05T06:51:24.173738+00:00",
+  "asOf": "2026-11-05T15:29:57.490740+00:00",
   "goalies": [
     {
       "id": "8476316",
@@ -109,6 +109,11 @@
     {
       "id": "8476434",
       "name": "John Gibson",
+      "team": "DET"
+    },
+    {
+      "id": "8485545",
+      "name": "Michal Postava",
       "team": "DET"
     },
     {
@@ -490,11 +495,6 @@
       "id": "8483523",
       "name": "Cameron Whitehead",
       "team": "VGK"
-    },
-    {
-      "id": "8485545",
-      "name": "Michal Postava",
-      "team": "DET"
     },
     {
       "id": "8481064",

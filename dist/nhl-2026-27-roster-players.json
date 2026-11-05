@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-05T06:51:24.173738+00:00",
+  "asOf": "2026-11-05T15:29:57.490740+00:00",
   "players": [
     {
       "id": "8484153",
@@ -4250,6 +4250,12 @@
       "position": "F"
     },
     {
+      "id": "8484242",
+      "name": "Brayden Yager",
+      "team": "WPG",
+      "position": "F"
+    },
+    {
       "id": "8482459",
       "name": "Tyrel Bauer",
       "team": "WPG",
@@ -5093,12 +5099,6 @@
       "id": "8485385",
       "name": "Braeden Cootes",
       "team": "VAN",
-      "position": "F"
-    },
-    {
-      "id": "8484242",
-      "name": "Brayden Yager",
-      "team": "WPG",
       "position": "F"
     },
     {
