@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-05T15:29:57.490740+00:00",
+  "asOf": "2026-11-05T22:01:59.743628+00:00",
   "players": [
     {
       "id": "8484153",
@@ -968,12 +968,6 @@
       "position": "F"
     },
     {
-      "id": "8478046",
-      "name": "Danton Heinen",
-      "team": "CBJ",
-      "position": "F"
-    },
-    {
       "id": "8482660",
       "name": "Kent Johnson",
       "team": "CBJ",
@@ -1020,12 +1014,6 @@
       "name": "Dmitri Voronkov",
       "team": "CBJ",
       "position": "F"
-    },
-    {
-      "id": "8482126",
-      "name": "Emil Andrae",
-      "team": "CBJ",
-      "position": "D"
     },
     {
       "id": "8481161",
@@ -2378,6 +2366,12 @@
       "position": "D"
     },
     {
+      "id": "8477018",
+      "name": "Ben Hutton",
+      "team": "NYI",
+      "position": "D"
+    },
+    {
       "id": "8482516",
       "name": "Matthew Kessel",
       "team": "NYI",
@@ -3112,6 +3106,12 @@
     {
       "id": "8474586",
       "name": "Jordan Eberle",
+      "team": "SEA",
+      "position": "F"
+    },
+    {
+      "id": "8483442",
+      "name": "Jagger Firkus",
       "team": "SEA",
       "position": "F"
     },
@@ -4424,6 +4424,12 @@
       "position": "F"
     },
     {
+      "id": "8482126",
+      "name": "Emil Andrae",
+      "team": "CBJ",
+      "position": "D"
+    },
+    {
       "id": "8484149",
       "name": "Gavin Brindley",
       "team": "COL",
@@ -4440,6 +4446,12 @@
       "name": "Carson Soucy",
       "team": "CBJ",
       "position": "D"
+    },
+    {
+      "id": "8478046",
+      "name": "Danton Heinen",
+      "team": "CBJ",
+      "position": "F"
     },
     {
       "id": "8480806",
