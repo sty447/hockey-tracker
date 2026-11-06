@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-06T17:59:54.995279+00:00",
+  "asOf": "2026-11-06T23:12:19.911367+00:00",
   "players": [
     {
       "id": "8484153",
@@ -766,12 +766,6 @@
     {
       "id": "8476882",
       "name": "Teuvo Teravainen",
-      "team": "CHI",
-      "position": "F"
-    },
-    {
-      "id": "8476952",
-      "name": "Dominic Toninato",
       "team": "CHI",
       "position": "F"
     },
@@ -3374,6 +3368,12 @@
       "position": "D"
     },
     {
+      "id": "8482733",
+      "name": "Logan Mailloux",
+      "team": "STL",
+      "position": "D"
+    },
+    {
       "id": "8476892",
       "name": "Colton Parayko",
       "team": "STL",
@@ -4442,12 +4442,6 @@
       "position": "F"
     },
     {
-      "id": "8482733",
-      "name": "Logan Mailloux",
-      "team": "STL",
-      "position": "D"
-    },
-    {
       "id": "8477369",
       "name": "Carson Soucy",
       "team": "CBJ",
@@ -4926,6 +4920,12 @@
       "name": "Dennis Gilbert",
       "team": "BUF",
       "position": "D"
+    },
+    {
+      "id": "8476952",
+      "name": "Dominic Toninato",
+      "team": "CHI",
+      "position": "F"
     },
     {
       "id": "8482206",

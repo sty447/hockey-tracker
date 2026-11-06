@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-06T17:59:54.995279+00:00",
+  "asOf": "2026-11-06T23:12:19.911367+00:00",
   "goalies": [
     {
       "id": "8476316",
@@ -227,11 +227,6 @@
       "team": "NYR"
     },
     {
-      "id": "8473503",
-      "name": "James Reimer",
-      "team": "NYR"
-    },
-    {
       "id": "8478048",
       "name": "Igor Shesterkin",
       "team": "NYR"
@@ -414,6 +409,11 @@
     {
       "id": "8477484",
       "name": "Spencer Martin",
+      "team": "NYR"
+    },
+    {
+      "id": "8473503",
+      "name": "James Reimer",
       "team": "NYR"
     },
     {
