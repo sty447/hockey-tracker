@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-06T10:57:15.754789+00:00",
+  "asOf": "2026-11-06T17:59:54.995279+00:00",
   "players": [
     {
       "id": "8484153",
@@ -986,6 +986,12 @@
       "position": "F"
     },
     {
+      "id": "8478904",
+      "name": "Steven Lorentz",
+      "team": "CBJ",
+      "position": "F"
+    },
+    {
       "id": "8477497",
       "name": "Sean Monahan",
       "team": "CBJ",
@@ -1012,6 +1018,12 @@
     {
       "id": "8481716",
       "name": "Dmitri Voronkov",
+      "team": "CBJ",
+      "position": "F"
+    },
+    {
+      "id": "8485469",
+      "name": "Jack Williams",
       "team": "CBJ",
       "position": "F"
     },
@@ -1816,6 +1828,12 @@
     {
       "id": "8485702",
       "name": "Maxim Shabanov",
+      "team": "MIN",
+      "position": "F"
+    },
+    {
+      "id": "8479972",
+      "name": "Mason Shaw",
       "team": "MIN",
       "position": "F"
     },
@@ -2926,12 +2944,6 @@
     {
       "id": "8471724",
       "name": "Kris Letang",
-      "team": "PIT",
-      "position": "D"
-    },
-    {
-      "id": "8486169",
-      "name": "Jake Livanavage",
       "team": "PIT",
       "position": "D"
     },
@@ -4358,12 +4370,6 @@
       "position": "F"
     },
     {
-      "id": "8478904",
-      "name": "Steven Lorentz",
-      "team": "CBJ",
-      "position": "F"
-    },
-    {
       "id": "8476994",
       "name": "Vinnie Hinostroza",
       "team": "COL",
@@ -5210,6 +5216,12 @@
       "position": "F"
     },
     {
+      "id": "8486169",
+      "name": "Jake Livanavage",
+      "team": "PIT",
+      "position": "D"
+    },
+    {
       "id": "8481592",
       "name": "Jakob Pelletier",
       "team": "TBL",
@@ -5472,12 +5484,6 @@
       "name": "Libor Hajek",
       "team": "SJS",
       "position": "D"
-    },
-    {
-      "id": "8479972",
-      "name": "Mason Shaw",
-      "team": "MIN",
-      "position": "F"
     },
     {
       "id": "8486052",
