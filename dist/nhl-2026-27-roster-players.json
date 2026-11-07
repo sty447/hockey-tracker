@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-06T23:12:19.911367+00:00",
+  "asOf": "2026-11-07T02:50:49.431175+00:00",
   "players": [
     {
       "id": "8484153",
@@ -3338,12 +3338,6 @@
       "position": "D"
     },
     {
-      "id": "8484151",
-      "name": "Quinton Burns",
-      "team": "STL",
-      "position": "D"
-    },
-    {
       "id": "8478443",
       "name": "Brandon Carlo",
       "team": "STL",
@@ -3750,6 +3744,12 @@
       "name": "Kailer Yamamoto",
       "team": "UTA",
       "position": "F"
+    },
+    {
+      "id": "8485010",
+      "name": "Gregor Biber",
+      "team": "UTA",
+      "position": "D"
     },
     {
       "id": "8480084",
@@ -5478,6 +5478,12 @@
       "name": "Xavier Parent",
       "team": "NJD",
       "position": "F"
+    },
+    {
+      "id": "8484151",
+      "name": "Quinton Burns",
+      "team": "STL",
+      "position": "D"
     },
     {
       "id": "8479333",
