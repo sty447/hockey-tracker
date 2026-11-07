@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-07T16:29:48.944350+00:00",
+  "asOf": "2026-11-07T20:55:02.948219+00:00",
   "players": [
     {
       "id": "8484153",
@@ -4304,12 +4304,6 @@
       "position": "D"
     },
     {
-      "id": "8483510",
-      "name": "Elias Salomonsson",
-      "team": "WPG",
-      "position": "D"
-    },
-    {
       "id": "8480049",
       "name": "Dylan Samberg",
       "team": "WPG",
@@ -4632,6 +4626,12 @@
       "name": "Avery Hayes",
       "team": "PIT",
       "position": "F"
+    },
+    {
+      "id": "8483510",
+      "name": "Elias Salomonsson",
+      "team": "WPG",
+      "position": "D"
     },
     {
       "id": "8482090",
