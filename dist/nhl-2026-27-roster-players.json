@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-08T19:44:21.776819+00:00",
+  "asOf": "2026-11-08T23:45:43.585005+00:00",
   "players": [
     {
       "id": "8484153",
@@ -2882,6 +2882,12 @@
       "position": "F"
     },
     {
+      "id": "8483487",
+      "name": "Rutger McGroarty",
+      "team": "PIT",
+      "position": "F"
+    },
+    {
       "id": "8478438",
       "name": "Tommy Novak",
       "team": "PIT",
@@ -4614,12 +4620,6 @@
       "name": "Pierre-Olivier Joseph",
       "team": "CAR",
       "position": "D"
-    },
-    {
-      "id": "8483487",
-      "name": "Rutger McGroarty",
-      "team": "PIT",
-      "position": "F"
     },
     {
       "id": "8480001",
