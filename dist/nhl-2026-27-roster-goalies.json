@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-08T15:15:30.788683+00:00",
+  "asOf": "2026-11-08T19:44:21.776819+00:00",
   "goalies": [
     {
       "id": "8476316",
@@ -104,11 +104,6 @@
     {
       "id": "8476434",
       "name": "John Gibson",
-      "team": "DET"
-    },
-    {
-      "id": "8485545",
-      "name": "Michal Postava",
       "team": "DET"
     },
     {
@@ -234,11 +229,6 @@
     {
       "id": "8481035",
       "name": "Samuel Ersson",
-      "team": "OTT"
-    },
-    {
-      "id": "8477992",
-      "name": "Jonas Johansson",
       "team": "OTT"
     },
     {
@@ -417,11 +407,6 @@
       "team": "NYR"
     },
     {
-      "id": "8473503",
-      "name": "James Reimer",
-      "team": "NYR"
-    },
-    {
       "id": "8481544",
       "name": "Mads Sogaard",
       "team": "TBL"
@@ -445,6 +430,11 @@
       "id": "8477990",
       "name": "Brandon Halverson",
       "team": "DAL"
+    },
+    {
+      "id": "8477992",
+      "name": "Jonas Johansson",
+      "team": "OTT"
     },
     {
       "id": "8480051",
@@ -480,6 +470,11 @@
       "id": "8477480",
       "name": "Eric Comrie",
       "team": "SJS"
+    },
+    {
+      "id": "8485545",
+      "name": "Michal Postava",
+      "team": "DET"
     },
     {
       "id": "8482949",

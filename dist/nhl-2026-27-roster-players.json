@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-08T15:15:30.788683+00:00",
+  "asOf": "2026-11-08T19:44:21.776819+00:00",
   "players": [
     {
       "id": "8484153",
@@ -544,6 +544,12 @@
     {
       "id": "8483495",
       "name": "Simon Nemec",
+      "team": "CGY",
+      "position": "D"
+    },
+    {
+      "id": "8481167",
+      "name": "Brayden Pachal",
       "team": "CGY",
       "position": "D"
     },
@@ -1232,12 +1238,6 @@
       "position": "F"
     },
     {
-      "id": "8484160",
-      "name": "Nate Danielson",
-      "team": "DET",
-      "position": "F"
-    },
-    {
       "id": "8479337",
       "name": "Alex DeBrincat",
       "team": "DET",
@@ -1264,12 +1264,6 @@
     {
       "id": "8478434",
       "name": "Keegan Kolesar",
-      "team": "DET",
-      "position": "F"
-    },
-    {
-      "id": "8481077",
-      "name": "John Leonard",
       "team": "DET",
       "position": "F"
     },
@@ -1502,6 +1496,12 @@
       "position": "F"
     },
     {
+      "id": "8483433",
+      "name": "Jack Devine",
+      "team": "FLA",
+      "position": "F"
+    },
+    {
       "id": "8474189",
       "name": "Lars Eller",
       "team": "FLA",
@@ -1636,12 +1636,6 @@
     {
       "id": "8482124",
       "name": "Quinton Byfield",
-      "team": "LAK",
-      "position": "F"
-    },
-    {
-      "id": "8482160",
-      "name": "Martin Chromiak",
       "team": "LAK",
       "position": "F"
     },
@@ -2516,6 +2510,12 @@
       "position": "F"
     },
     {
+      "id": "8481743",
+      "name": "Marc Del Gaizo",
+      "team": "NYR",
+      "position": "D"
+    },
+    {
       "id": "8480434",
       "name": "Sean Durzi",
       "team": "NYR",
@@ -3158,6 +3158,12 @@
       "position": "F"
     },
     {
+      "id": "8483012",
+      "name": "Logan Morrison",
+      "team": "SEA",
+      "position": "F"
+    },
+    {
       "id": "8483497",
       "name": "Jani Nyman",
       "team": "SEA",
@@ -3538,12 +3544,6 @@
     {
       "id": "8478057",
       "name": "Dakota Joshua",
-      "team": "TOR",
-      "position": "F"
-    },
-    {
-      "id": "8479968",
-      "name": "Vinni Lettieri",
       "team": "TOR",
       "position": "F"
     },
@@ -4310,6 +4310,12 @@
       "position": "D"
     },
     {
+      "id": "8481567",
+      "name": "Henry Thrun",
+      "team": "WPG",
+      "position": "D"
+    },
+    {
       "id": "8478445",
       "name": "Mathew Barzal",
       "team": "NYI",
@@ -4544,12 +4550,6 @@
       "position": "F"
     },
     {
-      "id": "8481167",
-      "name": "Brayden Pachal",
-      "team": "CGY",
-      "position": "D"
-    },
-    {
       "id": "8484150",
       "name": "Hunter Brzustewicz",
       "team": "CGY",
@@ -4565,6 +4565,12 @@
       "id": "8482172",
       "name": "Landon Slaggert",
       "team": "CHI",
+      "position": "F"
+    },
+    {
+      "id": "8484160",
+      "name": "Nate Danielson",
+      "team": "DET",
       "position": "F"
     },
     {
@@ -4667,6 +4673,12 @@
       "id": "8483756",
       "name": "Jared Wright",
       "team": "LAK",
+      "position": "F"
+    },
+    {
+      "id": "8481077",
+      "name": "John Leonard",
+      "team": "DET",
       "position": "F"
     },
     {
@@ -5174,12 +5186,6 @@
       "position": "F"
     },
     {
-      "id": "8481567",
-      "name": "Henry Thrun",
-      "team": "WPG",
-      "position": "D"
-    },
-    {
       "id": "8481715",
       "name": "Hunter Skinner",
       "team": "NSH",
@@ -5190,12 +5196,6 @@
       "name": "Isaak Phillips",
       "team": "WPG",
       "position": "D"
-    },
-    {
-      "id": "8483433",
-      "name": "Jack Devine",
-      "team": "FLA",
-      "position": "F"
     },
     {
       "id": "8480021",
@@ -5471,6 +5471,18 @@
       "id": "8483841",
       "name": "Xavier Parent",
       "team": "NJD",
+      "position": "F"
+    },
+    {
+      "id": "8482160",
+      "name": "Martin Chromiak",
+      "team": "LAK",
+      "position": "F"
+    },
+    {
+      "id": "8479968",
+      "name": "Vinni Lettieri",
+      "team": "TOR",
       "position": "F"
     },
     {
