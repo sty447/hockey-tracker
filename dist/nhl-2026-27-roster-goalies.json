@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-09T06:37:53.919920+00:00",
+  "asOf": "2026-11-09T17:33:21.187814+00:00",
   "goalies": [
     {
       "id": "8476316",
@@ -60,6 +60,11 @@
       "id": "8481611",
       "name": "Pyotr Kochetkov",
       "team": "CAR"
+    },
+    {
+      "id": "8482123",
+      "name": "Drew Commesso",
+      "team": "CHI"
     },
     {
       "id": "8481519",
@@ -370,11 +375,6 @@
       "id": "8483532",
       "name": "Clay Stevenson",
       "team": "WPG"
-    },
-    {
-      "id": "8482123",
-      "name": "Drew Commesso",
-      "team": "CHI"
     },
     {
       "id": "8481529",
