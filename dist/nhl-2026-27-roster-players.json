@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-09T17:33:21.187814+00:00",
+  "asOf": "2026-11-10T01:34:48.141787+00:00",
   "players": [
     {
       "id": "8484153",
@@ -2972,12 +2972,6 @@
       "position": "D"
     },
     {
-      "id": "8483428",
-      "name": "Filip Bystedt",
-      "team": "SJS",
-      "position": "F"
-    },
-    {
       "id": "8484801",
       "name": "Macklin Celebrini",
       "team": "SJS",
@@ -3368,18 +3362,6 @@
       "position": "D"
     },
     {
-      "id": "8484790",
-      "name": "Adam Jiricek",
-      "team": "STL",
-      "position": "D"
-    },
-    {
-      "id": "8484188",
-      "name": "Theo Lindstein",
-      "team": "STL",
-      "position": "D"
-    },
-    {
       "id": "8482733",
       "name": "Logan Mailloux",
       "team": "STL",
@@ -3388,6 +3370,12 @@
     {
       "id": "8476892",
       "name": "Colton Parayko",
+      "team": "STL",
+      "position": "D"
+    },
+    {
+      "id": "8480157",
+      "name": "Calle Rosen",
       "team": "STL",
       "position": "D"
     },
@@ -4166,6 +4154,12 @@
       "position": "D"
     },
     {
+      "id": "8475718",
+      "name": "Justin Holl",
+      "team": "WSH",
+      "position": "D"
+    },
+    {
       "id": "8484873",
       "name": "Cole Hutson",
       "team": "WSH",
@@ -4706,6 +4700,12 @@
       "position": "F"
     },
     {
+      "id": "8484188",
+      "name": "Theo Lindstein",
+      "team": "STL",
+      "position": "D"
+    },
+    {
       "id": "8481600",
       "name": "Tobias Bjornfot",
       "team": "FLA",
@@ -4805,12 +4805,6 @@
       "id": "8482072",
       "name": "Jack Ahcan",
       "team": "NSH",
-      "position": "D"
-    },
-    {
-      "id": "8475718",
-      "name": "Justin Holl",
-      "team": "WSH",
       "position": "D"
     },
     {
@@ -5480,6 +5474,18 @@
       "position": "F"
     },
     {
+      "id": "8483428",
+      "name": "Filip Bystedt",
+      "team": "SJS",
+      "position": "F"
+    },
+    {
+      "id": "8484790",
+      "name": "Adam Jiricek",
+      "team": "STL",
+      "position": "D"
+    },
+    {
       "id": "8482160",
       "name": "Martin Chromiak",
       "team": "LAK",
@@ -5654,5 +5660,5 @@
       "position": "F"
     }
   ],
-  "tradesAsOf": "2026-11-09"
+  "tradesAsOf": "2026-11-10"
 }

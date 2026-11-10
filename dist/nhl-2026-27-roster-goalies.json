@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-09T17:33:21.187814+00:00",
+  "asOf": "2026-11-10T01:34:48.141787+00:00",
   "goalies": [
     {
       "id": "8476316",
@@ -72,11 +72,6 @@
       "team": "CHI"
     },
     {
-      "id": "8482821",
-      "name": "Arvid Soderblom",
-      "team": "CHI"
-    },
-    {
       "id": "8478406",
       "name": "Mackenzie Blackwood",
       "team": "COL"
@@ -105,6 +100,11 @@
       "id": "8479979",
       "name": "Jake Oettinger",
       "team": "DAL"
+    },
+    {
+      "id": "8482465",
+      "name": "Rémi Poirier",
+      "team": "WSH"
     },
     {
       "id": "8476434",
@@ -352,11 +352,6 @@
       "team": "WSH"
     },
     {
-      "id": "8482465",
-      "name": "Rémi Poirier",
-      "team": "WSH"
-    },
-    {
       "id": "8480313",
       "name": "Logan Thompson",
       "team": "WSH"
@@ -375,6 +370,11 @@
       "id": "8483532",
       "name": "Clay Stevenson",
       "team": "WPG"
+    },
+    {
+      "id": "8482821",
+      "name": "Arvid Soderblom",
+      "team": "CHI"
     },
     {
       "id": "8481529",
@@ -502,5 +502,5 @@
       "team": "NSH"
     }
   ],
-  "tradesAsOf": "2026-11-09"
+  "tradesAsOf": "2026-11-10"
 }
