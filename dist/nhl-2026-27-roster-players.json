@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-10T09:54:12.056904+00:00",
+  "asOf": "2026-11-10T17:53:02.922627+00:00",
   "players": [
     {
       "id": "8484153",
@@ -3434,12 +3434,6 @@
       "position": "F"
     },
     {
-      "id": "8483752",
-      "name": "Dominic James",
-      "team": "TBL",
-      "position": "F"
-    },
-    {
       "id": "8476453",
       "name": "Nikita Kucherov",
       "team": "TBL",
@@ -3448,6 +3442,12 @@
     {
       "id": "8481624",
       "name": "Ilya Mikheyev",
+      "team": "TBL",
+      "position": "F"
+    },
+    {
+      "id": "8484770",
+      "name": "Sam O'Reilly",
       "team": "TBL",
       "position": "F"
     },
@@ -3598,6 +3598,12 @@
     {
       "id": "8475166",
       "name": "John Tavares",
+      "team": "TOR",
+      "position": "F"
+    },
+    {
+      "id": "8482525",
+      "name": "Ryan Tverberg",
       "team": "TOR",
       "position": "F"
     },
@@ -3898,12 +3904,6 @@
     {
       "id": "8479425",
       "name": "Filip Hronek",
-      "team": "VAN",
-      "position": "D"
-    },
-    {
-      "id": "8483768",
-      "name": "Victor Mancini",
       "team": "VAN",
       "position": "D"
     },
@@ -4316,12 +4316,6 @@
       "position": "D"
     },
     {
-      "id": "8481567",
-      "name": "Henry Thrun",
-      "team": "WPG",
-      "position": "D"
-    },
-    {
       "id": "8478445",
       "name": "Mathew Barzal",
       "team": "NYI",
@@ -4403,6 +4397,12 @@
       "id": "8479370",
       "name": "Tyson Jost",
       "team": "NSH",
+      "position": "F"
+    },
+    {
+      "id": "8483752",
+      "name": "Dominic James",
+      "team": "TBL",
       "position": "F"
     },
     {
@@ -4757,6 +4757,12 @@
       "id": "8481569",
       "name": "Marshall Warren",
       "team": "NYI",
+      "position": "D"
+    },
+    {
+      "id": "8483768",
+      "name": "Victor Mancini",
+      "team": "VAN",
       "position": "D"
     },
     {
@@ -5186,6 +5192,12 @@
       "position": "F"
     },
     {
+      "id": "8481567",
+      "name": "Henry Thrun",
+      "team": "WPG",
+      "position": "D"
+    },
+    {
       "id": "8481715",
       "name": "Hunter Skinner",
       "team": "NSH",
@@ -5364,12 +5376,6 @@
       "name": "Ryan Johnson",
       "team": "PIT",
       "position": "D"
-    },
-    {
-      "id": "8482525",
-      "name": "Ryan Tverberg",
-      "team": "TOR",
-      "position": "F"
     },
     {
       "id": "8484821",
