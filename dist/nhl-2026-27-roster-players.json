@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-10T17:53:02.922627+00:00",
+  "asOf": "2026-11-10T23:25:44.673966+00:00",
   "players": [
     {
       "id": "8484153",
@@ -1820,12 +1820,6 @@
       "position": "F"
     },
     {
-      "id": "8475752",
-      "name": "Tyler Pitlick",
-      "team": "MIN",
-      "position": "F"
-    },
-    {
       "id": "8485702",
       "name": "Maxim Shabanov",
       "team": "MIN",
@@ -1858,12 +1852,6 @@
     {
       "id": "8476463",
       "name": "Jonas Brodin",
-      "team": "MIN",
-      "position": "D"
-    },
-    {
-      "id": "8480075",
-      "name": "Cameron Crotty",
       "team": "MIN",
       "position": "D"
     },
@@ -2446,6 +2434,12 @@
     {
       "id": "8481604",
       "name": "Pavel Dorofeyev",
+      "team": "NYR",
+      "position": "F"
+    },
+    {
+      "id": "8478446",
+      "name": "Glenn Gawdin",
       "team": "NYR",
       "position": "F"
     },
@@ -3902,6 +3896,12 @@
       "position": "D"
     },
     {
+      "id": "8480075",
+      "name": "Cameron Crotty",
+      "team": "VAN",
+      "position": "D"
+    },
+    {
       "id": "8479425",
       "name": "Filip Hronek",
       "team": "VAN",
@@ -4847,6 +4847,12 @@
       "id": "8478043",
       "name": "Sam Lafferty",
       "team": "FLA",
+      "position": "F"
+    },
+    {
+      "id": "8475752",
+      "name": "Tyler Pitlick",
+      "team": "MIN",
       "position": "F"
     },
     {
