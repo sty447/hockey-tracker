@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-12T11:18:07.632600+00:00",
+  "asOf": "2026-11-12T18:59:28.043894+00:00",
   "players": [
     {
       "id": "8484153",
@@ -1640,12 +1640,6 @@
       "position": "F"
     },
     {
-      "id": "8483675",
-      "name": "Kenny Connors",
-      "team": "LAK",
-      "position": "F"
-    },
-    {
       "id": "8477942",
       "name": "Kevin Fiala",
       "team": "LAK",
@@ -2182,6 +2176,12 @@
     {
       "id": "8481721",
       "name": "Arseny Gritsyuk",
+      "team": "NJD",
+      "position": "F"
+    },
+    {
+      "id": "8484177",
+      "name": "Lenni Hameenaho",
       "team": "NJD",
       "position": "F"
     },
@@ -3512,6 +3512,12 @@
       "position": "F"
     },
     {
+      "id": "8482153",
+      "name": "Brendan Brisson",
+      "team": "TOR",
+      "position": "F"
+    },
+    {
       "id": "8484158",
       "name": "Easton Cowan",
       "team": "TOR",
@@ -4538,12 +4544,6 @@
       "position": "F"
     },
     {
-      "id": "8484177",
-      "name": "Lenni Hameenaho",
-      "team": "NJD",
-      "position": "F"
-    },
-    {
       "id": "8482117",
       "name": "Lukas Reichel",
       "team": "BOS",
@@ -4883,12 +4883,6 @@
       "id": "8485405",
       "name": "Brady Martin",
       "team": "NSH",
-      "position": "F"
-    },
-    {
-      "id": "8482153",
-      "name": "Brendan Brisson",
-      "team": "TOR",
       "position": "F"
     },
     {
@@ -5279,6 +5273,12 @@
       "id": "8485251",
       "name": "Kai Uchacz",
       "team": "VGK",
+      "position": "F"
+    },
+    {
+      "id": "8483675",
+      "name": "Kenny Connors",
+      "team": "LAK",
       "position": "F"
     },
     {
