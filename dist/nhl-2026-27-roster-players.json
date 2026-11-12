@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-11T22:00:27.728990+00:00",
+  "asOf": "2026-11-12T03:02:18.097798+00:00",
   "players": [
     {
       "id": "8484153",
@@ -3662,6 +3662,12 @@
       "position": "D"
     },
     {
+      "id": "8484388",
+      "name": "Daniil But",
+      "team": "UTA",
+      "position": "F"
+    },
+    {
       "id": "8479619",
       "name": "Michael Carcone",
       "team": "UTA",
@@ -4595,12 +4601,6 @@
       "id": "8476867",
       "name": "Brendan Gaunce",
       "team": "BOS",
-      "position": "F"
-    },
-    {
-      "id": "8484388",
-      "name": "Daniil But",
-      "team": "UTA",
       "position": "F"
     },
     {
@@ -5672,5 +5672,5 @@
       "position": "F"
     }
   ],
-  "tradesAsOf": "2026-11-11"
+  "tradesAsOf": "2026-11-12"
 }
