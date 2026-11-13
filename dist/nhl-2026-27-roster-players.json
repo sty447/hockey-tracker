@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-13T08:01:49.858618+00:00",
+  "asOf": "2026-11-13T16:28:06.816211+00:00",
   "players": [
     {
       "id": "8484153",
@@ -446,20 +446,8 @@
       "position": "F"
     },
     {
-      "id": "8484180",
-      "name": "Samuel Honzek",
-      "team": "CGY",
-      "position": "F"
-    },
-    {
       "id": "8476456",
       "name": "Jonathan Huberdeau",
-      "team": "CGY",
-      "position": "F"
-    },
-    {
-      "id": "8480259",
-      "name": "Ben Jones",
       "team": "CGY",
       "position": "F"
     },
@@ -822,6 +810,12 @@
       "name": "Alex Vlasic",
       "team": "CHI",
       "position": "D"
+    },
+    {
+      "id": "8484149",
+      "name": "Gavin Brindley",
+      "team": "COL",
+      "position": "F"
     },
     {
       "id": "8486171",
@@ -4316,6 +4310,12 @@
       "position": "D"
     },
     {
+      "id": "8481567",
+      "name": "Henry Thrun",
+      "team": "WPG",
+      "position": "D"
+    },
+    {
       "id": "8478445",
       "name": "Mathew Barzal",
       "team": "NYI",
@@ -4434,12 +4434,6 @@
       "name": "Emil Andrae",
       "team": "CBJ",
       "position": "D"
-    },
-    {
-      "id": "8484149",
-      "name": "Gavin Brindley",
-      "team": "COL",
-      "position": "F"
     },
     {
       "id": "8477369",
@@ -4688,6 +4682,12 @@
       "position": "F"
     },
     {
+      "id": "8484180",
+      "name": "Samuel Honzek",
+      "team": "CGY",
+      "position": "F"
+    },
+    {
       "id": "8484188",
       "name": "Theo Lindstein",
       "team": "STL",
@@ -4698,6 +4698,12 @@
       "name": "Tobias Bjornfot",
       "team": "FLA",
       "position": "D"
+    },
+    {
+      "id": "8480259",
+      "name": "Ben Jones",
+      "team": "CGY",
+      "position": "F"
     },
     {
       "id": "8484203",
@@ -5178,12 +5184,6 @@
       "name": "Georgii Merkulov",
       "team": "COL",
       "position": "F"
-    },
-    {
-      "id": "8481567",
-      "name": "Henry Thrun",
-      "team": "WPG",
-      "position": "D"
     },
     {
       "id": "8481715",
