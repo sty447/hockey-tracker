@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-14T11:31:31.982323+00:00",
+  "asOf": "2026-11-14T18:07:35.615895+00:00",
   "players": [
     {
       "id": "8484153",
@@ -652,12 +652,6 @@
     {
       "id": "8482100",
       "name": "Alexander Nikishin",
-      "team": "CAR",
-      "position": "D"
-    },
-    {
-      "id": "8476422",
-      "name": "Mike Reilly",
       "team": "CAR",
       "position": "D"
     },
@@ -2936,12 +2930,6 @@
       "position": "D"
     },
     {
-      "id": "8482470",
-      "name": "Ilya Solovyov",
-      "team": "PIT",
-      "position": "D"
-    },
-    {
       "id": "8481056",
       "name": "Spencer Stastney",
       "team": "PIT",
@@ -3142,12 +3130,6 @@
     {
       "id": "8483570",
       "name": "Ben Meyers",
-      "team": "SEA",
-      "position": "F"
-    },
-    {
-      "id": "8483012",
-      "name": "Logan Morrison",
       "team": "SEA",
       "position": "F"
     },
@@ -4508,6 +4490,12 @@
       "position": "F"
     },
     {
+      "id": "8476422",
+      "name": "Mike Reilly",
+      "team": "CAR",
+      "position": "D"
+    },
+    {
       "id": "8475760",
       "name": "Nick Bjugstad",
       "team": "WPG",
@@ -4523,6 +4511,12 @@
       "id": "8482131",
       "name": "Donovan Sebrango",
       "team": "FLA",
+      "position": "D"
+    },
+    {
+      "id": "8482470",
+      "name": "Ilya Solovyov",
+      "team": "PIT",
       "position": "D"
     },
     {
@@ -5483,6 +5477,12 @@
       "id": "8483841",
       "name": "Xavier Parent",
       "team": "NJD",
+      "position": "F"
+    },
+    {
+      "id": "8483012",
+      "name": "Logan Morrison",
+      "team": "SEA",
       "position": "F"
     },
     {
