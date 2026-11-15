@@ -2,9 +2,26 @@
   "asOf": "2026-11-15T17:45:07.786136+00:00",
   "trades": {
     "asOf": "2026-11-15",
-    "checkedAt": "2026-11-15T21:21:39.960356+00:00",
+    "checkedAt": "2026-11-15T22:51:03.044316+00:00",
     "source": "https://www.nhl.com/news/topic/trade-coverage/2026-27-nhl-trades",
     "trades": [
+      {
+        "date": "2026-11-15",
+        "teams": [
+          {
+            "team": "CHI",
+            "receives": [
+              "Spencer Martin"
+            ]
+          },
+          {
+            "team": "NYR",
+            "receives": [
+              "Arvid Soderblom"
+            ]
+          }
+        ]
+      },
       {
         "date": "2026-11-01",
         "teams": [
@@ -7972,5 +7989,5 @@
     ],
     "tradesAsOf": "2026-11-15"
   },
-  "tradeCheckedAt": "2026-11-15T21:21:39.960356+00:00"
+  "tradeCheckedAt": "2026-11-15T22:51:03.044316+00:00"
 }
