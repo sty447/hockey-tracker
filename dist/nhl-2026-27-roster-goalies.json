@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-14T22:27:40.197659+00:00",
+  "asOf": "2026-11-15T02:42:06.417618+00:00",
   "goalies": [
     {
       "id": "8476316",
@@ -100,11 +100,6 @@
       "id": "8479979",
       "name": "Jake Oettinger",
       "team": "DAL"
-    },
-    {
-      "id": "8482465",
-      "name": "Rémi Poirier",
-      "team": "WSH"
     },
     {
       "id": "8476434",
@@ -467,6 +462,11 @@
       "team": "SJS"
     },
     {
+      "id": "8482465",
+      "name": "Rémi Poirier",
+      "team": "WSH"
+    },
+    {
       "id": "8477035",
       "name": "Matt Tomkins",
       "team": "EDM"
@@ -502,5 +502,5 @@
       "team": "NSH"
     }
   ],
-  "tradesAsOf": "2026-11-14"
+  "tradesAsOf": "2026-11-15"
 }

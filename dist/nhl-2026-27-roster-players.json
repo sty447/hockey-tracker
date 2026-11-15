@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-14T22:27:40.197659+00:00",
+  "asOf": "2026-11-15T02:42:06.417618+00:00",
   "players": [
     {
       "id": "8484153",
@@ -1160,6 +1160,12 @@
       "position": "D"
     },
     {
+      "id": "8477335",
+      "name": "Kyle Burroughs",
+      "team": "DAL",
+      "position": "D"
+    },
+    {
       "id": "8478476",
       "name": "Kyle Capobianco",
       "team": "DAL",
@@ -1192,6 +1198,12 @@
     {
       "id": "8474574",
       "name": "Tyler Myers",
+      "team": "DAL",
+      "position": "D"
+    },
+    {
+      "id": "8485468",
+      "name": "Trey Taylor",
       "team": "DAL",
       "position": "D"
     },
@@ -5576,12 +5588,6 @@
       "position": "D"
     },
     {
-      "id": "8477335",
-      "name": "Kyle Burroughs",
-      "team": "DAL",
-      "position": "D"
-    },
-    {
       "id": "8483494",
       "name": "Ty Nelson",
       "team": "SEA",
@@ -5672,5 +5678,5 @@
       "position": "F"
     }
   ],
-  "tradesAsOf": "2026-11-14"
+  "tradesAsOf": "2026-11-15"
 }

@@ -1,8 +1,8 @@
 {
-  "asOf": "2026-11-14T22:27:40.197659+00:00",
+  "asOf": "2026-11-15T02:42:06.417618+00:00",
   "trades": {
     "asOf": "2026-11-15",
-    "checkedAt": "2026-11-15T02:41:56.385309+00:00",
+    "checkedAt": "2026-11-15T02:42:06.417618+00:00",
     "source": "https://www.nhl.com/news/topic/trade-coverage/2026-27-nhl-trades",
     "trades": [
       {
@@ -477,7 +477,7 @@
     ]
   },
   "rosters": {
-    "asOf": "2026-11-14T22:27:40.197659+00:00",
+    "asOf": "2026-11-15T02:42:06.417618+00:00",
     "teams": {
       "ANA": {
         "forwards": [
@@ -829,13 +829,14 @@
         ],
         "defensemen": [
           "8483425",
+          "8477335",
           "8478476",
           "8481581",
           "8480036",
           "8476902",
           "8480878",
           "8474574",
-          "8477335"
+          "8485468"
         ],
         "goalies": [
           "8479193",
@@ -1781,10 +1782,10 @@
         ]
       }
     },
-    "tradesAsOf": "2026-11-14"
+    "tradesAsOf": "2026-11-15"
   },
   "skaters": {
-    "asOf": "2026-11-14T22:27:40.197659+00:00",
+    "asOf": "2026-11-15T02:42:06.417618+00:00",
     "players": [
       {
         "id": "8484153",
@@ -2945,6 +2946,12 @@
         "position": "D"
       },
       {
+        "id": "8477335",
+        "name": "Kyle Burroughs",
+        "team": "DAL",
+        "position": "D"
+      },
+      {
         "id": "8478476",
         "name": "Kyle Capobianco",
         "team": "DAL",
@@ -2977,6 +2984,12 @@
       {
         "id": "8474574",
         "name": "Tyler Myers",
+        "team": "DAL",
+        "position": "D"
+      },
+      {
+        "id": "8485468",
+        "name": "Trey Taylor",
         "team": "DAL",
         "position": "D"
       },
@@ -7361,12 +7374,6 @@
         "position": "D"
       },
       {
-        "id": "8477335",
-        "name": "Kyle Burroughs",
-        "team": "DAL",
-        "position": "D"
-      },
-      {
         "id": "8483494",
         "name": "Ty Nelson",
         "team": "SEA",
@@ -7457,10 +7464,10 @@
         "position": "F"
       }
     ],
-    "tradesAsOf": "2026-11-14"
+    "tradesAsOf": "2026-11-15"
   },
   "goalies": {
-    "asOf": "2026-11-14T22:27:40.197659+00:00",
+    "asOf": "2026-11-15T02:42:06.417618+00:00",
     "goalies": [
       {
         "id": "8476316",
@@ -7561,11 +7568,6 @@
         "id": "8479979",
         "name": "Jake Oettinger",
         "team": "DAL"
-      },
-      {
-        "id": "8482465",
-        "name": "R\u00e9mi Poirier",
-        "team": "WSH"
       },
       {
         "id": "8476434",
@@ -7928,6 +7930,11 @@
         "team": "SJS"
       },
       {
+        "id": "8482465",
+        "name": "R\u00e9mi Poirier",
+        "team": "WSH"
+      },
+      {
         "id": "8477035",
         "name": "Matt Tomkins",
         "team": "EDM"
@@ -7963,7 +7970,6 @@
         "team": "NSH"
       }
     ],
-    "tradesAsOf": "2026-11-14"
-  },
-  "tradeCheckedAt": "2026-11-15T02:41:56.385309+00:00"
+    "tradesAsOf": "2026-11-15"
+  }
 }
