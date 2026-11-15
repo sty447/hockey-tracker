@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-15T17:45:07.786136+00:00",
+  "asOf": "2026-11-15T22:51:12.582442+00:00",
   "players": [
     {
       "id": "8484153",
@@ -928,6 +928,12 @@
     {
       "id": "8476312",
       "name": "Josh Manson",
+      "team": "COL",
+      "position": "D"
+    },
+    {
+      "id": "8476422",
+      "name": "Mike Reilly",
       "team": "COL",
       "position": "D"
     },
@@ -1886,6 +1892,12 @@
       "position": "F"
     },
     {
+      "id": "8482132",
+      "name": "Brett Berard",
+      "team": "MTL",
+      "position": "F"
+    },
+    {
       "id": "8482737",
       "name": "Zachary Bolduc",
       "team": "MTL",
@@ -1996,6 +2008,12 @@
     {
       "id": "8476875",
       "name": "Mike Matheson",
+      "team": "MTL",
+      "position": "D"
+    },
+    {
+      "id": "8484220",
+      "name": "David Reinbacher",
       "team": "MTL",
       "position": "D"
     },
@@ -4496,12 +4514,6 @@
       "position": "F"
     },
     {
-      "id": "8476422",
-      "name": "Mike Reilly",
-      "team": "CAR",
-      "position": "D"
-    },
-    {
       "id": "8475760",
       "name": "Nick Bjugstad",
       "team": "WPG",
@@ -4928,12 +4940,6 @@
       "position": "F"
     },
     {
-      "id": "8484220",
-      "name": "David Reinbacher",
-      "team": "MTL",
-      "position": "D"
-    },
-    {
       "id": "8478502",
       "name": "Dennis Gilbert",
       "team": "BUF",
@@ -5135,12 +5141,6 @@
       "id": "8485385",
       "name": "Braeden Cootes",
       "team": "VAN",
-      "position": "F"
-    },
-    {
-      "id": "8482132",
-      "name": "Brett Berard",
-      "team": "MTL",
       "position": "F"
     },
     {
