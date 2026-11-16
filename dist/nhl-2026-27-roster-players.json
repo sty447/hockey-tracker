@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-16T11:25:38.398649+00:00",
+  "asOf": "2026-11-16T22:07:54.155333+00:00",
   "players": [
     {
       "id": "8484153",
@@ -478,12 +478,6 @@
     {
       "id": "8476458",
       "name": "Ryan Strome",
-      "team": "CGY",
-      "position": "F"
-    },
-    {
-      "id": "8482766",
-      "name": "William Stromgren",
       "team": "CGY",
       "position": "F"
     },
@@ -1372,12 +1366,6 @@
     {
       "id": "8480842",
       "name": "Filip Hallander",
-      "team": "EDM",
-      "position": "F"
-    },
-    {
-      "id": "8483455",
-      "name": "Isaac Howard",
       "team": "EDM",
       "position": "F"
     },
@@ -3728,6 +3716,12 @@
       "position": "F"
     },
     {
+      "id": "8481827",
+      "name": "Ben McCartney",
+      "team": "UTA",
+      "position": "F"
+    },
+    {
       "id": "8477070",
       "name": "Liam O'Brien",
       "team": "UTA",
@@ -3758,14 +3752,20 @@
       "position": "F"
     },
     {
-      "id": "8485010",
-      "name": "Gregor Biber",
+      "id": "8480084",
+      "name": "Nick DeSimone",
       "team": "UTA",
       "position": "D"
     },
     {
-      "id": "8480084",
-      "name": "Nick DeSimone",
+      "id": "8483436",
+      "name": "Artem Duda",
+      "team": "UTA",
+      "position": "D"
+    },
+    {
+      "id": "8481708",
+      "name": "Zac Jones",
       "team": "UTA",
       "position": "D"
     },
@@ -4646,6 +4646,12 @@
       "position": "D"
     },
     {
+      "id": "8483455",
+      "name": "Isaac Howard",
+      "team": "EDM",
+      "position": "F"
+    },
+    {
       "id": "8482090",
       "name": "Jack Finley",
       "team": "STL",
@@ -5474,6 +5480,12 @@
       "position": "F"
     },
     {
+      "id": "8482766",
+      "name": "William Stromgren",
+      "team": "CGY",
+      "position": "F"
+    },
+    {
       "id": "8482174",
       "name": "William Villeneuve",
       "team": "TOR",
@@ -5490,6 +5502,12 @@
       "name": "Xavier Parent",
       "team": "NJD",
       "position": "F"
+    },
+    {
+      "id": "8485010",
+      "name": "Gregor Biber",
+      "team": "UTA",
+      "position": "D"
     },
     {
       "id": "8483012",
