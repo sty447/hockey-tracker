@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-17T14:28:12.292204+00:00",
+  "asOf": "2026-11-17T22:54:41.192905+00:00",
   "players": [
     {
       "id": "8484153",
@@ -2510,12 +2510,6 @@
       "position": "F"
     },
     {
-      "id": "8481743",
-      "name": "Marc Del Gaizo",
-      "team": "NYR",
-      "position": "D"
-    },
-    {
       "id": "8480434",
       "name": "Sean Durzi",
       "team": "NYR",
@@ -2992,6 +2986,12 @@
     {
       "id": "8484911",
       "name": "Collin Graf",
+      "team": "SJS",
+      "position": "F"
+    },
+    {
+      "id": "8481517",
+      "name": "Brett Leason",
       "team": "SJS",
       "position": "F"
     },
@@ -4292,6 +4292,12 @@
       "position": "F"
     },
     {
+      "id": "8483526",
+      "name": "Danil Zhilkin",
+      "team": "WPG",
+      "position": "F"
+    },
+    {
       "id": "8482459",
       "name": "Tyrel Bauer",
       "team": "WPG",
@@ -4940,12 +4946,6 @@
       "position": "F"
     },
     {
-      "id": "8483526",
-      "name": "Danil Zhilkin",
-      "team": "WPG",
-      "position": "F"
-    },
-    {
       "id": "8478502",
       "name": "Dennis Gilbert",
       "team": "BUF",
@@ -5147,12 +5147,6 @@
       "id": "8485385",
       "name": "Braeden Cootes",
       "team": "VAN",
-      "position": "F"
-    },
-    {
-      "id": "8481517",
-      "name": "Brett Leason",
-      "team": "SJS",
       "position": "F"
     },
     {
@@ -5502,6 +5496,12 @@
       "name": "Xavier Parent",
       "team": "NJD",
       "position": "F"
+    },
+    {
+      "id": "8481743",
+      "name": "Marc Del Gaizo",
+      "team": "NYR",
+      "position": "D"
     },
     {
       "id": "8485010",
