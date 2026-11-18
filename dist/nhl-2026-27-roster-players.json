@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-18T14:02:20.074148+00:00",
+  "asOf": "2026-11-18T21:58:59.633589+00:00",
   "players": [
     {
       "id": "8484153",
@@ -982,6 +982,12 @@
     {
       "id": "8478904",
       "name": "Steven Lorentz",
+      "team": "CBJ",
+      "position": "F"
+    },
+    {
+      "id": "8480806",
+      "name": "Isac Lundeström",
       "team": "CBJ",
       "position": "F"
     },
@@ -2344,12 +2350,6 @@
     {
       "id": "8475151",
       "name": "Kyle Palmieri",
-      "team": "NYI",
-      "position": "F"
-    },
-    {
-      "id": "8484221",
-      "name": "Calum Ritchie",
       "team": "NYI",
       "position": "F"
     },
@@ -3758,6 +3758,12 @@
       "position": "F"
     },
     {
+      "id": "8485010",
+      "name": "Gregor Biber",
+      "team": "UTA",
+      "position": "D"
+    },
+    {
       "id": "8480084",
       "name": "Nick DeSimone",
       "team": "UTA",
@@ -4358,6 +4364,12 @@
       "position": "F"
     },
     {
+      "id": "8484221",
+      "name": "Calum Ritchie",
+      "team": "NYI",
+      "position": "F"
+    },
+    {
       "id": "8482074",
       "name": "Connor Zary",
       "team": "CGY",
@@ -4468,12 +4480,6 @@
     {
       "id": "8478046",
       "name": "Danton Heinen",
-      "team": "CBJ",
-      "position": "F"
-    },
-    {
-      "id": "8480806",
-      "name": "Isac Lundeström",
       "team": "CBJ",
       "position": "F"
     },
@@ -5501,12 +5507,6 @@
       "id": "8481743",
       "name": "Marc Del Gaizo",
       "team": "NYR",
-      "position": "D"
-    },
-    {
-      "id": "8485010",
-      "name": "Gregor Biber",
-      "team": "UTA",
       "position": "D"
     },
     {
