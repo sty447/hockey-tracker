@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-19T13:14:23.104198+00:00",
+  "asOf": "2026-11-19T21:37:59.456418+00:00",
   "players": [
     {
       "id": "8484153",
@@ -798,6 +798,12 @@
       "name": "Alex Vlasic",
       "team": "CHI",
       "position": "D"
+    },
+    {
+      "id": "8481550",
+      "name": "Adam Beckman",
+      "team": "COL",
+      "position": "F"
     },
     {
       "id": "8484149",
@@ -1798,6 +1804,12 @@
     {
       "id": "8477446",
       "name": "Michael McCarron",
+      "team": "MIN",
+      "position": "F"
+    },
+    {
+      "id": "8475752",
+      "name": "Tyler Pitlick",
       "team": "MIN",
       "position": "F"
     },
@@ -3416,6 +3428,12 @@
       "position": "F"
     },
     {
+      "id": "8478424",
+      "name": "Jansen Harkins",
+      "team": "TBL",
+      "position": "F"
+    },
+    {
       "id": "8480995",
       "name": "Pontus Holmberg",
       "team": "TBL",
@@ -3756,12 +3774,6 @@
       "name": "Kailer Yamamoto",
       "team": "UTA",
       "position": "F"
-    },
-    {
-      "id": "8485010",
-      "name": "Gregor Biber",
-      "team": "UTA",
-      "position": "D"
     },
     {
       "id": "8480084",
@@ -4556,12 +4568,6 @@
       "position": "D"
     },
     {
-      "id": "8478424",
-      "name": "Jansen Harkins",
-      "team": "TBL",
-      "position": "F"
-    },
-    {
       "id": "8482117",
       "name": "Lukas Reichel",
       "team": "BOS",
@@ -4883,12 +4889,6 @@
       "id": "8478043",
       "name": "Sam Lafferty",
       "team": "FLA",
-      "position": "F"
-    },
-    {
-      "id": "8475752",
-      "name": "Tyler Pitlick",
-      "team": "MIN",
       "position": "F"
     },
     {
@@ -5502,6 +5502,12 @@
       "name": "Xavier Parent",
       "team": "NJD",
       "position": "F"
+    },
+    {
+      "id": "8485010",
+      "name": "Gregor Biber",
+      "team": "UTA",
+      "position": "D"
     },
     {
       "id": "8481743",
