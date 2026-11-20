@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-20T12:56:52.384146+00:00",
+  "asOf": "2026-11-20T21:08:26.393945+00:00",
   "players": [
     {
       "id": "8484153",
@@ -130,6 +130,12 @@
     {
       "id": "8482178",
       "name": "Ian Moore",
+      "team": "ANA",
+      "position": "D"
+    },
+    {
+      "id": "8484859",
+      "name": "Stian Solberg",
       "team": "ANA",
       "position": "D"
     },
@@ -800,12 +806,6 @@
       "position": "D"
     },
     {
-      "id": "8481550",
-      "name": "Adam Beckman",
-      "team": "COL",
-      "position": "F"
-    },
-    {
       "id": "8484149",
       "name": "Gavin Brindley",
       "team": "COL",
@@ -892,12 +892,6 @@
     {
       "id": "8470613",
       "name": "Brent Burns",
-      "team": "COL",
-      "position": "D"
-    },
-    {
-      "id": "8482942",
-      "name": "Alex Gagne",
       "team": "COL",
       "position": "D"
     },
@@ -1808,12 +1802,6 @@
       "position": "F"
     },
     {
-      "id": "8475752",
-      "name": "Tyler Pitlick",
-      "team": "MIN",
-      "position": "F"
-    },
-    {
       "id": "8485702",
       "name": "Maxim Shabanov",
       "team": "MIN",
@@ -2288,12 +2276,6 @@
       "position": "D"
     },
     {
-      "id": "8484987",
-      "name": "Anton Silaev",
-      "team": "NJD",
-      "position": "D"
-    },
-    {
       "id": "8478445",
       "name": "Mathew Barzal",
       "team": "NYI",
@@ -2582,6 +2564,18 @@
       "position": "F"
     },
     {
+      "id": "8478104",
+      "name": "Sammy Blais",
+      "team": "OTT",
+      "position": "F"
+    },
+    {
+      "id": "8482674",
+      "name": "Tyler Boucher",
+      "team": "OTT",
+      "position": "F"
+    },
+    {
       "id": "8477444",
       "name": "Andre Burakovsky",
       "team": "OTT",
@@ -2644,6 +2638,12 @@
     {
       "id": "8482116",
       "name": "Tim Stützle",
+      "team": "OTT",
+      "position": "F"
+    },
+    {
+      "id": "8481577",
+      "name": "Philip Tomasino",
       "team": "OTT",
       "position": "F"
     },
@@ -2848,6 +2848,12 @@
     {
       "id": "8480980",
       "name": "Connor Dewar",
+      "team": "PIT",
+      "position": "F"
+    },
+    {
+      "id": "8482993",
+      "name": "Avery Hayes",
       "team": "PIT",
       "position": "F"
     },
@@ -4052,6 +4058,12 @@
       "position": "D"
     },
     {
+      "id": "8482141",
+      "name": "Lukas Cormier",
+      "team": "VGK",
+      "position": "D"
+    },
+    {
       "id": "8478396",
       "name": "Noah Hanifin",
       "team": "VGK",
@@ -4568,12 +4580,6 @@
       "position": "F"
     },
     {
-      "id": "8478104",
-      "name": "Sammy Blais",
-      "team": "OTT",
-      "position": "F"
-    },
-    {
       "id": "8484150",
       "name": "Hunter Brzustewicz",
       "team": "CGY",
@@ -4650,12 +4656,6 @@
       "name": "Urho Vaakanainen",
       "team": "NYR",
       "position": "D"
-    },
-    {
-      "id": "8482993",
-      "name": "Avery Hayes",
-      "team": "PIT",
-      "position": "F"
     },
     {
       "id": "8483510",
@@ -4892,6 +4892,12 @@
       "position": "F"
     },
     {
+      "id": "8475752",
+      "name": "Tyler Pitlick",
+      "team": "MIN",
+      "position": "F"
+    },
+    {
       "id": "8484380",
       "name": "Wilmer Skoog",
       "team": "DET",
@@ -5081,12 +5087,6 @@
       "id": "8480825",
       "name": "Patrick Giles",
       "team": "SJS",
-      "position": "F"
-    },
-    {
-      "id": "8481577",
-      "name": "Philip Tomasino",
-      "team": "OTT",
       "position": "F"
     },
     {
@@ -5504,6 +5504,24 @@
       "position": "F"
     },
     {
+      "id": "8481550",
+      "name": "Adam Beckman",
+      "team": "COL",
+      "position": "F"
+    },
+    {
+      "id": "8482942",
+      "name": "Alex Gagne",
+      "team": "COL",
+      "position": "D"
+    },
+    {
+      "id": "8484987",
+      "name": "Anton Silaev",
+      "team": "NJD",
+      "position": "D"
+    },
+    {
       "id": "8485010",
       "name": "Gregor Biber",
       "team": "UTA",
@@ -5640,12 +5658,6 @@
       "name": "Cole Beaudoin",
       "team": "NYR",
       "position": "F"
-    },
-    {
-      "id": "8484859",
-      "name": "Stian Solberg",
-      "team": "ANA",
-      "position": "D"
     },
     {
       "id": "8481019",
