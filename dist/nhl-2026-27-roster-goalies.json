@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-21T17:59:34.543474+00:00",
+  "asOf": "2026-11-21T23:21:10.838893+00:00",
   "goalies": [
     {
       "id": "8476316",
@@ -367,11 +367,6 @@
       "team": "WPG"
     },
     {
-      "id": "8483532",
-      "name": "Clay Stevenson",
-      "team": "WPG"
-    },
-    {
       "id": "8482821",
       "name": "Arvid Soderblom",
       "team": "NYR"
@@ -450,6 +445,11 @@
       "id": "8482761",
       "name": "Carl Lindbom",
       "team": "VGK"
+    },
+    {
+      "id": "8483532",
+      "name": "Clay Stevenson",
+      "team": "WSH"
     },
     {
       "id": "8483114",

@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-21T17:59:34.543474+00:00",
+  "asOf": "2026-11-21T23:21:10.838893+00:00",
   "players": [
     {
       "id": "8484153",
@@ -52,6 +52,12 @@
     {
       "id": "8485400",
       "name": "Roger McQueen",
+      "team": "ANA",
+      "position": "F"
+    },
+    {
+      "id": "8484201",
+      "name": "Nico Myatovic",
       "team": "ANA",
       "position": "F"
     },
@@ -3140,12 +3146,6 @@
       "position": "F"
     },
     {
-      "id": "8483442",
-      "name": "Jagger Firkus",
-      "team": "SEA",
-      "position": "F"
-    },
-    {
       "id": "8477919",
       "name": "Frederick Gaudreau",
       "team": "SEA",
@@ -3788,6 +3788,12 @@
       "position": "F"
     },
     {
+      "id": "8485010",
+      "name": "Gregor Biber",
+      "team": "UTA",
+      "position": "D"
+    },
+    {
       "id": "8480084",
       "name": "Nick DeSimone",
       "team": "UTA",
@@ -4370,6 +4376,12 @@
       "position": "D"
     },
     {
+      "id": "8483510",
+      "name": "Elias Salomonsson",
+      "team": "WPG",
+      "position": "D"
+    },
+    {
       "id": "8480049",
       "name": "Dylan Samberg",
       "team": "WPG",
@@ -4661,12 +4673,6 @@
       "id": "8480001",
       "name": "Urho Vaakanainen",
       "team": "NYR",
-      "position": "D"
-    },
-    {
-      "id": "8483510",
-      "name": "Elias Salomonsson",
-      "team": "WPG",
       "position": "D"
     },
     {
@@ -5504,6 +5510,12 @@
       "position": "F"
     },
     {
+      "id": "8483442",
+      "name": "Jagger Firkus",
+      "team": "SEA",
+      "position": "F"
+    },
+    {
       "id": "8481550",
       "name": "Adam Beckman",
       "team": "COL",
@@ -5522,12 +5534,6 @@
       "position": "D"
     },
     {
-      "id": "8485010",
-      "name": "Gregor Biber",
-      "team": "UTA",
-      "position": "D"
-    },
-    {
       "id": "8481743",
       "name": "Marc Del Gaizo",
       "team": "NYR",
@@ -5537,12 +5543,6 @@
       "id": "8483012",
       "name": "Logan Morrison",
       "team": "SEA",
-      "position": "F"
-    },
-    {
-      "id": "8484201",
-      "name": "Nico Myatovic",
-      "team": "ANA",
       "position": "F"
     },
     {
