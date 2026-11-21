@@ -1,8 +1,25 @@
 {
-  "asOf": "2026-11-20",
-  "checkedAt": "2026-11-20T21:08:26.393945+00:00",
+  "asOf": "2026-11-21",
+  "checkedAt": "2026-11-21T00:13:44.643603+00:00",
   "source": "https://www.nhl.com/news/topic/trade-coverage/2026-27-nhl-trades",
   "trades": [
+    {
+      "date": "2026-11-20",
+      "teams": [
+        {
+          "team": "NYR",
+          "receives": [
+            "Max Sasson"
+          ]
+        },
+        {
+          "team": "VAN",
+          "receives": [
+            "4th-round pick in the 2029 NHL Draft"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-15",
       "teams": [
