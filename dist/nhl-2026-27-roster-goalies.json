@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-21T11:08:12.707012+00:00",
+  "asOf": "2026-11-21T17:59:34.543474+00:00",
   "goalies": [
     {
       "id": "8476316",
@@ -332,6 +332,11 @@
       "team": "VAN"
     },
     {
+      "id": "8484268",
+      "name": "Nikita Tolopilo",
+      "team": "VAN"
+    },
+    {
       "id": "8479394",
       "name": "Carter Hart",
       "team": "VGK"
@@ -435,11 +440,6 @@
       "id": "8477970",
       "name": "Vitek Vanecek",
       "team": "NYI"
-    },
-    {
-      "id": "8484268",
-      "name": "Nikita Tolopilo",
-      "team": "VAN"
     },
     {
       "id": "8480238",

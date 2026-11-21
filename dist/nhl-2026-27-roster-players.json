@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-21T11:08:12.707012+00:00",
+  "asOf": "2026-11-21T17:59:34.543474+00:00",
   "players": [
     {
       "id": "8484153",
@@ -2486,6 +2486,12 @@
       "position": "F"
     },
     {
+      "id": "8484136",
+      "name": "Max Sasson",
+      "team": "NYR",
+      "position": "F"
+    },
+    {
       "id": "8483669",
       "name": "Adam Sykora",
       "team": "NYR",
@@ -3890,6 +3896,12 @@
       "position": "F"
     },
     {
+      "id": "8484406",
+      "name": "Ty Mueller",
+      "team": "VAN",
+      "position": "F"
+    },
+    {
       "id": "8482055",
       "name": "Drew O'Connor",
       "team": "VAN",
@@ -3917,12 +3929,6 @@
       "id": "8482079",
       "name": "Marco Rossi",
       "team": "VAN",
-      "position": "F"
-    },
-    {
-      "id": "8484136",
-      "name": "Max Sasson",
-      "team": "NYR",
       "position": "F"
     },
     {
@@ -5117,12 +5123,6 @@
       "id": "8483039",
       "name": "Tristen Nielsen",
       "team": "COL",
-      "position": "F"
-    },
-    {
-      "id": "8484406",
-      "name": "Ty Mueller",
-      "team": "VAN",
       "position": "F"
     },
     {
