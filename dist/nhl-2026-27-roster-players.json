@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-20T21:08:26.393945+00:00",
+  "asOf": "2026-11-21T02:19:32.374838+00:00",
   "players": [
     {
       "id": "8484153",
@@ -2474,6 +2474,12 @@
       "position": "F"
     },
     {
+      "id": "8479390",
+      "name": "Taylor Raddysh",
+      "team": "NYR",
+      "position": "F"
+    },
+    {
       "id": "8482460",
       "name": "Matt Rempe",
       "team": "NYR",
@@ -4404,12 +4410,6 @@
       "name": "Axel Sandin-Pellikka",
       "team": "DET",
       "position": "D"
-    },
-    {
-      "id": "8479390",
-      "name": "Taylor Raddysh",
-      "team": "NYR",
-      "position": "F"
     },
     {
       "id": "8477839",
