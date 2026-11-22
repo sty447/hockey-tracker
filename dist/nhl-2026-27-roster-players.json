@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-22T15:21:26.370659+00:00",
+  "asOf": "2026-11-22T21:49:03.939462+00:00",
   "players": [
     {
       "id": "8484153",
@@ -692,12 +692,6 @@
       "position": "F"
     },
     {
-      "id": "8485554",
-      "name": "Dillon Boucher",
-      "team": "CHI",
-      "position": "F"
-    },
-    {
       "id": "8477987",
       "name": "Ryan Donato",
       "team": "CHI",
@@ -706,6 +700,12 @@
     {
       "id": "8485391",
       "name": "Anton Frondell",
+      "team": "CHI",
+      "position": "F"
+    },
+    {
+      "id": "8476822",
+      "name": "Luke Glendening",
       "team": "CHI",
       "position": "F"
     },
@@ -982,12 +982,6 @@
     {
       "id": "8479066",
       "name": "Ryan Lomberg",
-      "team": "CBJ",
-      "position": "F"
-    },
-    {
-      "id": "8478904",
-      "name": "Steven Lorentz",
       "team": "CBJ",
       "position": "F"
     },
@@ -1892,12 +1886,6 @@
       "position": "F"
     },
     {
-      "id": "8482132",
-      "name": "Brett Berard",
-      "team": "MTL",
-      "position": "F"
-    },
-    {
       "id": "8482737",
       "name": "Zachary Bolduc",
       "team": "MTL",
@@ -2008,12 +1996,6 @@
     {
       "id": "8476875",
       "name": "Mike Matheson",
-      "team": "MTL",
-      "position": "D"
-    },
-    {
-      "id": "8484220",
-      "name": "David Reinbacher",
       "team": "MTL",
       "position": "D"
     },
@@ -2440,12 +2422,6 @@
     {
       "id": "8478446",
       "name": "Glenn Gawdin",
-      "team": "NYR",
-      "position": "F"
-    },
-    {
-      "id": "8476822",
-      "name": "Luke Glendening",
       "team": "NYR",
       "position": "F"
     },
@@ -3608,6 +3584,12 @@
       "position": "F"
     },
     {
+      "id": "8482691",
+      "name": "Aatu Räty",
+      "team": "TOR",
+      "position": "F"
+    },
+    {
       "id": "8478458",
       "name": "Jack Roslovic",
       "team": "TOR",
@@ -4436,6 +4418,12 @@
       "position": "F"
     },
     {
+      "id": "8478904",
+      "name": "Steven Lorentz",
+      "team": "CBJ",
+      "position": "F"
+    },
+    {
       "id": "8476994",
       "name": "Vinnie Hinostroza",
       "team": "COL",
@@ -4487,12 +4475,6 @@
       "id": "8484185",
       "name": "Nick Lardis",
       "team": "CHI",
-      "position": "F"
-    },
-    {
-      "id": "8482691",
-      "name": "Aatu Räty",
-      "team": "TOR",
       "position": "F"
     },
     {
@@ -4970,6 +4952,12 @@
       "position": "F"
     },
     {
+      "id": "8484220",
+      "name": "David Reinbacher",
+      "team": "MTL",
+      "position": "D"
+    },
+    {
       "id": "8478502",
       "name": "Dennis Gilbert",
       "team": "BUF",
@@ -5159,6 +5147,12 @@
       "id": "8485385",
       "name": "Braeden Cootes",
       "team": "VAN",
+      "position": "F"
+    },
+    {
+      "id": "8482132",
+      "name": "Brett Berard",
+      "team": "MTL",
       "position": "F"
     },
     {
@@ -5507,6 +5501,12 @@
       "id": "8483841",
       "name": "Xavier Parent",
       "team": "NJD",
+      "position": "F"
+    },
+    {
+      "id": "8485554",
+      "name": "Dillon Boucher",
+      "team": "CHI",
       "position": "F"
     },
     {
