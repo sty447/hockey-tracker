@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-23T02:48:50.354948+00:00",
+  "asOf": "2026-11-23T12:51:06.775408+00:00",
   "players": [
     {
       "id": "8484153",
@@ -1901,12 +1901,6 @@
       "id": "8481540",
       "name": "Cole Caufield",
       "team": "MTL",
-      "position": "F"
-    },
-    {
-      "id": "8481523",
-      "name": "Kirby Dach",
-      "team": "DET",
       "position": "F"
     },
     {
@@ -4476,6 +4470,12 @@
       "name": "Henri Jokiharju",
       "team": "BOS",
       "position": "D"
+    },
+    {
+      "id": "8481523",
+      "name": "Kirby Dach",
+      "team": "DET",
+      "position": "F"
     },
     {
       "id": "8484185",
