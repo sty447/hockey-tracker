@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-22T21:49:03.939462+00:00",
+  "asOf": "2026-11-23T02:48:50.354948+00:00",
   "players": [
     {
       "id": "8484153",
@@ -760,6 +760,12 @@
     {
       "id": "8476882",
       "name": "Teuvo Teravainen",
+      "team": "CHI",
+      "position": "F"
+    },
+    {
+      "id": "8476952",
+      "name": "Dominic Toninato",
       "team": "CHI",
       "position": "F"
     },
@@ -1900,7 +1906,7 @@
     {
       "id": "8481523",
       "name": "Kirby Dach",
-      "team": "MTL",
+      "team": "DET",
       "position": "F"
     },
     {
@@ -4378,7 +4384,7 @@
     {
       "id": "8477946",
       "name": "Dylan Larkin",
-      "team": "DET",
+      "team": "MTL",
       "position": "F"
     },
     {
@@ -4962,12 +4968,6 @@
       "name": "Dennis Gilbert",
       "team": "BUF",
       "position": "D"
-    },
-    {
-      "id": "8476952",
-      "name": "Dominic Toninato",
-      "team": "CHI",
-      "position": "F"
     },
     {
       "id": "8482206",
