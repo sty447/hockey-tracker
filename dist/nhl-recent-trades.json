@@ -1,8 +1,33 @@
 {
   "asOf": "2026-11-23",
-  "checkedAt": "2026-11-23T01:40:07.025936+00:00",
+  "checkedAt": "2026-11-23T02:48:41.205078+00:00",
   "source": "https://www.nhl.com/news/topic/trade-coverage/2026-27-nhl-trades",
   "trades": [
+    {
+      "date": "2026-11-22",
+      "teams": [
+        {
+          "team": "MTL",
+          "receives": [
+            "Dylan Larkin",
+            "3rd-round pick in the 2027 NHL Draft",
+            "2nd-round pick in the 2028 NHL Draft"
+          ]
+        },
+        {
+          "team": "DET",
+          "receives": [
+            "Unsigned Draft Choice forward Michael Hage",
+            "Kirby Dach",
+            "Sam Montembeault",
+            "conditional 1st-round pick in the 2027 NHL Draft",
+            "conditional 1st-round pick in the 2029 NHL Draft",
+            "2nd-round pick in the 2027 NHL Draft",
+            "4th-round pick in the 2028 NHL Draft"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-20",
       "teams": [
