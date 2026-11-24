@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-23T12:51:06.775408+00:00",
+  "asOf": "2026-11-24T00:55:00.628085+00:00",
   "players": [
     {
       "id": "8484153",
@@ -466,6 +466,12 @@
     {
       "id": "8483609",
       "name": "Adam Klapka",
+      "team": "CGY",
+      "position": "F"
+    },
+    {
+      "id": "8484821",
+      "name": "Sam Morton",
       "team": "CGY",
       "position": "F"
     },
@@ -1016,6 +1022,12 @@
       "position": "F"
     },
     {
+      "id": "8482451",
+      "name": "Mikael Pyyhtia",
+      "team": "CBJ",
+      "position": "F"
+    },
+    {
       "id": "8482705",
       "name": "Cole Sillinger",
       "team": "CBJ",
@@ -1250,14 +1262,14 @@
       "position": "F"
     },
     {
-      "id": "8479337",
-      "name": "Alex DeBrincat",
+      "id": "8481523",
+      "name": "Kirby Dach",
       "team": "DET",
       "position": "F"
     },
     {
-      "id": "8480326",
-      "name": "Sheldon Dries",
+      "id": "8479337",
+      "name": "Alex DeBrincat",
       "team": "DET",
       "position": "F"
     },
@@ -1540,12 +1552,6 @@
     {
       "id": "8473419",
       "name": "Brad Marchand",
-      "team": "FLA",
-      "position": "F"
-    },
-    {
-      "id": "8481133",
-      "name": "Cole Reinhardt",
       "team": "FLA",
       "position": "F"
     },
@@ -1930,6 +1936,12 @@
     {
       "id": "8475184",
       "name": "Chris Kreider",
+      "team": "MTL",
+      "position": "F"
+    },
+    {
+      "id": "8477946",
+      "name": "Dylan Larkin",
       "team": "MTL",
       "position": "F"
     },
@@ -3068,6 +3080,12 @@
       "position": "D"
     },
     {
+      "id": "8479333",
+      "name": "Libor Hajek",
+      "team": "SJS",
+      "position": "D"
+    },
+    {
       "id": "8480891",
       "name": "Michael Kesselring",
       "team": "SJS",
@@ -3416,12 +3434,6 @@
       "position": "F"
     },
     {
-      "id": "8478424",
-      "name": "Jansen Harkins",
-      "team": "TBL",
-      "position": "F"
-    },
-    {
       "id": "8480995",
       "name": "Pontus Holmberg",
       "team": "TBL",
@@ -3532,12 +3544,6 @@
     {
       "id": "8479520",
       "name": "Brandon Duhaime",
-      "team": "TOR",
-      "position": "F"
-    },
-    {
-      "id": "8480870",
-      "name": "Bo Groulx",
       "team": "TOR",
       "position": "F"
     },
@@ -3910,6 +3916,12 @@
     {
       "id": "8484901",
       "name": "Jacob Quillan",
+      "team": "VAN",
+      "position": "F"
+    },
+    {
+      "id": "8481133",
+      "name": "Cole Reinhardt",
       "team": "VAN",
       "position": "F"
     },
@@ -4376,12 +4388,6 @@
       "position": "D"
     },
     {
-      "id": "8477946",
-      "name": "Dylan Larkin",
-      "team": "MTL",
-      "position": "F"
-    },
-    {
       "id": "8477503",
       "name": "Max Domi",
       "team": "TOR",
@@ -4470,12 +4476,6 @@
       "name": "Henri Jokiharju",
       "team": "BOS",
       "position": "D"
-    },
-    {
-      "id": "8481523",
-      "name": "Kirby Dach",
-      "team": "DET",
-      "position": "F"
     },
     {
       "id": "8484185",
@@ -4580,6 +4580,12 @@
       "position": "D"
     },
     {
+      "id": "8478424",
+      "name": "Jansen Harkins",
+      "team": "TBL",
+      "position": "F"
+    },
+    {
       "id": "8482117",
       "name": "Lukas Reichel",
       "team": "BOS",
@@ -4662,6 +4668,12 @@
       "name": "Urho Vaakanainen",
       "team": "NYR",
       "position": "D"
+    },
+    {
+      "id": "8480870",
+      "name": "Bo Groulx",
+      "team": "TOR",
+      "position": "F"
     },
     {
       "id": "8483455",
@@ -5060,12 +5072,6 @@
       "position": "D"
     },
     {
-      "id": "8482451",
-      "name": "Mikael Pyyhtia",
-      "team": "CBJ",
-      "position": "F"
-    },
-    {
       "id": "8484933",
       "name": "Mikulas Hovorka",
       "team": "FLA",
@@ -5396,12 +5402,6 @@
       "position": "D"
     },
     {
-      "id": "8484821",
-      "name": "Sam Morton",
-      "team": "CGY",
-      "position": "F"
-    },
-    {
       "id": "8481591",
       "name": "Samuel Poulin",
       "team": "MTL",
@@ -5417,6 +5417,12 @@
       "id": "8482941",
       "name": "Shane Lachance",
       "team": "NJD",
+      "position": "F"
+    },
+    {
+      "id": "8480326",
+      "name": "Sheldon Dries",
+      "team": "DET",
       "position": "F"
     },
     {
@@ -5582,12 +5588,6 @@
       "position": "D"
     },
     {
-      "id": "8479333",
-      "name": "Libor Hajek",
-      "team": "SJS",
-      "position": "D"
-    },
-    {
       "id": "8486052",
       "name": "Nikita Klepov",
       "team": "ANA",
@@ -5714,5 +5714,5 @@
       "position": "F"
     }
   ],
-  "tradesAsOf": "2026-11-23"
+  "tradesAsOf": "2026-11-24"
 }

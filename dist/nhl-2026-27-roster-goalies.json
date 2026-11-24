@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-23T12:51:06.775408+00:00",
+  "asOf": "2026-11-24T00:55:00.628085+00:00",
   "goalies": [
     {
       "id": "8476316",
@@ -107,6 +107,11 @@
       "team": "DET"
     },
     {
+      "id": "8478470",
+      "name": "Samuel Montembeault",
+      "team": "DET"
+    },
+    {
       "id": "8480193",
       "name": "Daniil Tarasov",
       "team": "DET"
@@ -169,11 +174,6 @@
     {
       "id": "8484170",
       "name": "Jacob Fowler",
-      "team": "MTL"
-    },
-    {
-      "id": "8478470",
-      "name": "Samuel Montembeault",
       "team": "MTL"
     },
     {
@@ -332,11 +332,6 @@
       "team": "VAN"
     },
     {
-      "id": "8484268",
-      "name": "Nikita Tolopilo",
-      "team": "VAN"
-    },
-    {
       "id": "8479394",
       "name": "Carter Hart",
       "team": "VGK"
@@ -437,6 +432,11 @@
       "team": "NYI"
     },
     {
+      "id": "8484268",
+      "name": "Nikita Tolopilo",
+      "team": "VAN"
+    },
+    {
       "id": "8480238",
       "name": "Jiri Patera",
       "team": "BOS"
@@ -502,5 +502,5 @@
       "team": "NSH"
     }
   ],
-  "tradesAsOf": "2026-11-23"
+  "tradesAsOf": "2026-11-24"
 }
