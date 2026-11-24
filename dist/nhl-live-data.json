@@ -2,7 +2,7 @@
   "asOf": "2026-11-24T00:55:00.628085+00:00",
   "trades": {
     "asOf": "2026-11-24",
-    "checkedAt": "2026-11-24T05:30:42.372909+00:00",
+    "checkedAt": "2026-11-24T10:57:56.379294+00:00",
     "source": "https://www.nhl.com/news/topic/trade-coverage/2026-27-nhl-trades",
     "trades": [
       {
@@ -8107,5 +8107,5 @@
     ],
     "tradesAsOf": "2026-11-24"
   },
-  "tradeCheckedAt": "2026-11-24T05:30:42.372909+00:00"
+  "tradeCheckedAt": "2026-11-24T10:57:56.379294+00:00"
 }
