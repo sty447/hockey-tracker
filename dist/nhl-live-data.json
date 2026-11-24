@@ -1,10 +1,27 @@
 {
   "asOf": "2026-11-23T12:51:06.775408+00:00",
   "trades": {
-    "asOf": "2026-11-23",
-    "checkedAt": "2026-11-23T21:41:48.114321+00:00",
+    "asOf": "2026-11-24",
+    "checkedAt": "2026-11-24T00:54:47.848739+00:00",
     "source": "https://www.nhl.com/news/topic/trade-coverage/2026-27-nhl-trades",
     "trades": [
+      {
+        "date": "2026-11-23",
+        "teams": [
+          {
+            "team": "EDM",
+            "receives": [
+              "Austin Roest"
+            ]
+          },
+          {
+            "team": "NSH",
+            "receives": [
+              "James Stefan"
+            ]
+          }
+        ]
+      },
       {
         "date": "2026-11-22",
         "teams": [
@@ -8073,5 +8090,5 @@
     ],
     "tradesAsOf": "2026-11-23"
   },
-  "tradeCheckedAt": "2026-11-23T21:41:48.114321+00:00"
+  "tradeCheckedAt": "2026-11-24T00:54:47.848739+00:00"
 }
