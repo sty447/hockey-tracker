@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-24T10:58:06.416457+00:00",
+  "asOf": "2026-11-24T21:14:59.995224+00:00",
   "players": [
     {
       "id": "8484153",
@@ -142,12 +142,6 @@
     {
       "id": "8484859",
       "name": "Stian Solberg",
-      "team": "ANA",
-      "position": "D"
-    },
-    {
-      "id": "8483521",
-      "name": "Noah Warren",
       "team": "ANA",
       "position": "D"
     },
@@ -1898,6 +1892,12 @@
       "position": "F"
     },
     {
+      "id": "8482132",
+      "name": "Brett Berard",
+      "team": "MTL",
+      "position": "F"
+    },
+    {
       "id": "8482737",
       "name": "Zachary Bolduc",
       "team": "MTL",
@@ -2008,6 +2008,12 @@
     {
       "id": "8476875",
       "name": "Mike Matheson",
+      "team": "MTL",
+      "position": "D"
+    },
+    {
+      "id": "8484220",
+      "name": "David Reinbacher",
       "team": "MTL",
       "position": "D"
     },
@@ -2686,12 +2692,6 @@
     {
       "id": "8481606",
       "name": "Jordan Spence",
-      "team": "OTT",
-      "position": "D"
-    },
-    {
-      "id": "8484759",
-      "name": "Carter Yakemchuk",
       "team": "OTT",
       "position": "D"
     },
@@ -3614,12 +3614,6 @@
       "position": "F"
     },
     {
-      "id": "8482525",
-      "name": "Ryan Tverberg",
-      "team": "TOR",
-      "position": "F"
-    },
-    {
       "id": "8477425",
       "name": "Miles Wood",
       "team": "TOR",
@@ -4328,12 +4322,6 @@
       "position": "F"
     },
     {
-      "id": "8483526",
-      "name": "Danil Zhilkin",
-      "team": "WPG",
-      "position": "F"
-    },
-    {
       "id": "8482459",
       "name": "Tyrel Bauer",
       "team": "WPG",
@@ -4838,6 +4826,12 @@
       "position": "F"
     },
     {
+      "id": "8484759",
+      "name": "Carter Yakemchuk",
+      "team": "OTT",
+      "position": "D"
+    },
+    {
       "id": "8484428",
       "name": "Charles Alexis Legault",
       "team": "CAR",
@@ -4970,10 +4964,10 @@
       "position": "F"
     },
     {
-      "id": "8484220",
-      "name": "David Reinbacher",
-      "team": "MTL",
-      "position": "D"
+      "id": "8483526",
+      "name": "Danil Zhilkin",
+      "team": "WPG",
+      "position": "F"
     },
     {
       "id": "8478502",
@@ -5153,12 +5147,6 @@
       "id": "8485385",
       "name": "Braeden Cootes",
       "team": "VAN",
-      "position": "F"
-    },
-    {
-      "id": "8482132",
-      "name": "Brett Berard",
-      "team": "MTL",
       "position": "F"
     },
     {
@@ -5402,6 +5390,12 @@
       "position": "D"
     },
     {
+      "id": "8482525",
+      "name": "Ryan Tverberg",
+      "team": "TOR",
+      "position": "F"
+    },
+    {
       "id": "8481591",
       "name": "Samuel Poulin",
       "team": "MTL",
@@ -5508,6 +5502,12 @@
       "name": "Xavier Parent",
       "team": "NJD",
       "position": "F"
+    },
+    {
+      "id": "8483521",
+      "name": "Noah Warren",
+      "team": "ANA",
+      "position": "D"
     },
     {
       "id": "8485554",
