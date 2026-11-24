@@ -1,6 +1,6 @@
 {
   "asOf": "2026-11-24",
-  "checkedAt": "2026-11-24T00:55:00.628085+00:00",
+  "checkedAt": "2026-11-24T05:30:42.372909+00:00",
   "source": "https://www.nhl.com/news/topic/trade-coverage/2026-27-nhl-trades",
   "trades": [
     {
@@ -58,6 +58,23 @@
           "team": "VAN",
           "receives": [
             "4th-round pick in the 2029 NHL Draft"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "teams": [
+        {
+          "team": "MIN",
+          "receives": [
+            "Jeremy Davies"
+          ]
+        },
+        {
+          "team": "VGK",
+          "receives": [
+            "future considerations"
           ]
         }
       ]
