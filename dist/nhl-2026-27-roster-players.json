@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-24T21:14:59.995224+00:00",
+  "asOf": "2026-11-25T04:14:52.721118+00:00",
   "players": [
     {
       "id": "8484153",
@@ -3320,6 +3320,12 @@
       "position": "F"
     },
     {
+      "id": "8484230",
+      "name": "Otto Stenberg",
+      "team": "STL",
+      "position": "F"
+    },
+    {
       "id": "8480459",
       "name": "Pius Suter",
       "team": "STL",
@@ -3364,6 +3370,12 @@
     {
       "id": "8475764",
       "name": "Cam Fowler",
+      "team": "STL",
+      "position": "D"
+    },
+    {
+      "id": "8484790",
+      "name": "Adam Jiricek",
       "team": "STL",
       "position": "D"
     },
@@ -4514,12 +4526,6 @@
       "position": "D"
     },
     {
-      "id": "8484230",
-      "name": "Otto Stenberg",
-      "team": "STL",
-      "position": "F"
-    },
-    {
       "id": "8482947",
       "name": "Zakhar Bardakov",
       "team": "COL",
@@ -5556,12 +5562,6 @@
       "name": "Filip Bystedt",
       "team": "SJS",
       "position": "F"
-    },
-    {
-      "id": "8484790",
-      "name": "Adam Jiricek",
-      "team": "STL",
-      "position": "D"
     },
     {
       "id": "8482160",
