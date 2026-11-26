@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-26T08:24:35.506231+00:00",
+  "asOf": "2026-11-26T19:03:44.840616+00:00",
   "players": [
     {
       "id": "8484153",
@@ -862,6 +862,12 @@
     {
       "id": "8477492",
       "name": "Nathan MacKinnon",
+      "team": "COL",
+      "position": "F"
+    },
+    {
+      "id": "8482953",
+      "name": "Taylor Makar",
       "team": "COL",
       "position": "F"
     },
@@ -2480,6 +2486,12 @@
       "position": "F"
     },
     {
+      "id": "8481704",
+      "name": "Juuso Parssinen",
+      "team": "NYR",
+      "position": "F"
+    },
+    {
       "id": "8484210",
       "name": "Gabe Perreault",
       "team": "NYR",
@@ -3026,8 +3038,8 @@
       "position": "F"
     },
     {
-      "id": "8481517",
-      "name": "Brett Leason",
+      "id": "8483481",
+      "name": "Cam Lund",
       "team": "SJS",
       "position": "F"
     },
@@ -3086,14 +3098,14 @@
       "position": "D"
     },
     {
-      "id": "8484806",
-      "name": "Sam Dickinson",
+      "id": "8484152",
+      "name": "Luca Cagnoni",
       "team": "SJS",
       "position": "D"
     },
     {
-      "id": "8479333",
-      "name": "Libor Hajek",
+      "id": "8484806",
+      "name": "Sam Dickinson",
       "team": "SJS",
       "position": "D"
     },
@@ -3704,6 +3716,12 @@
       "position": "D"
     },
     {
+      "id": "8485594",
+      "name": "Yegor Borikov",
+      "team": "UTA",
+      "position": "F"
+    },
+    {
       "id": "8484388",
       "name": "Daniil But",
       "team": "UTA",
@@ -3754,12 +3772,6 @@
     {
       "id": "8480855",
       "name": "Jack McBain",
-      "team": "UTA",
-      "position": "F"
-    },
-    {
-      "id": "8481827",
-      "name": "Ben McCartney",
       "team": "UTA",
       "position": "F"
     },
@@ -4790,12 +4802,6 @@
       "position": "D"
     },
     {
-      "id": "8481704",
-      "name": "Juuso Parssinen",
-      "team": "NYR",
-      "position": "F"
-    },
-    {
       "id": "8483687",
       "name": "Marek Alscher",
       "team": "FLA",
@@ -5156,6 +5162,12 @@
       "position": "F"
     },
     {
+      "id": "8481517",
+      "name": "Brett Leason",
+      "team": "SJS",
+      "position": "F"
+    },
+    {
       "id": "8482781",
       "name": "Carson Lambos",
       "team": "MIN",
@@ -5312,12 +5324,6 @@
       "position": "F"
     },
     {
-      "id": "8484152",
-      "name": "Luca Cagnoni",
-      "team": "SJS",
-      "position": "D"
-    },
-    {
       "id": "8484214",
       "name": "Luca Pinelli",
       "team": "CBJ",
@@ -5444,12 +5450,6 @@
       "position": "F"
     },
     {
-      "id": "8482953",
-      "name": "Taylor Makar",
-      "team": "COL",
-      "position": "F"
-    },
-    {
       "id": "8482873",
       "name": "Topias Vilen",
       "team": "NJD",
@@ -5513,6 +5513,18 @@
       "id": "8483841",
       "name": "Xavier Parent",
       "team": "NJD",
+      "position": "F"
+    },
+    {
+      "id": "8479333",
+      "name": "Libor Hajek",
+      "team": "SJS",
+      "position": "D"
+    },
+    {
+      "id": "8481827",
+      "name": "Ben McCartney",
+      "team": "UTA",
       "position": "F"
     },
     {
