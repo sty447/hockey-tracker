@@ -1,8 +1,8 @@
 {
-  "asOf": "2026-11-27T10:54:35.543021+00:00",
+  "asOf": "2026-11-27T19:59:18.501169+00:00",
   "trades": {
     "asOf": "2026-11-27",
-    "checkedAt": "2026-11-27T19:59:07.042808+00:00",
+    "checkedAt": "2026-11-27T19:59:18.501169+00:00",
     "source": "https://www.nhl.com/news/topic/trade-coverage/2026-27-nhl-trades",
     "trades": [
       {
@@ -570,7 +570,7 @@
     ]
   },
   "rosters": {
-    "asOf": "2026-11-27T10:54:35.543021+00:00",
+    "asOf": "2026-11-27T19:59:18.501169+00:00",
     "teams": {
       "ANA": {
         "forwards": [
@@ -672,9 +672,9 @@
           "8480064",
           "8483500",
           "8482097",
+          "8477839",
           "8479420",
           "8475722",
-          "8477839",
           "8484255",
           "8477419",
           "8482479"
@@ -785,6 +785,7 @@
         "forwards": [
           "8484144",
           "8477479",
+          "8485554",
           "8477987",
           "8485391",
           "8476822",
@@ -795,13 +796,12 @@
           "8478233",
           "8484197",
           "8483493",
+          "8482172",
           "8482062",
           "8476882",
-          "8476952",
           "8484185",
-          "8482172",
           "8484793",
-          "8485554"
+          "8476952"
         ],
         "defensemen": [
           "8481524",
@@ -1230,7 +1230,6 @@
           "8482146",
           "8479996",
           "8481721",
-          "8484177",
           "8480002",
           "8481559",
           "8483695",
@@ -1238,6 +1237,7 @@
           "8478414",
           "8476474",
           "8478542",
+          "8484177",
           "8479362",
           "8483397",
           "8482941",
@@ -1251,10 +1251,10 @@
           "8480192",
           "8477488",
           "8478399",
+          "8484987",
           "8481609",
           "8483429",
-          "8482873",
-          "8484987"
+          "8482873"
         ],
         "goalies": [
           "8474596",
@@ -1353,8 +1353,6 @@
         "forwards": [
           "8478020",
           "8480208",
-          "8478104",
-          "8482674",
           "8477444",
           "8476393",
           "8481528",
@@ -1368,8 +1366,10 @@
           "8482116",
           "8481577",
           "8480188",
+          "8478104",
           "8477073",
-          "8482673"
+          "8482673",
+          "8482674"
         ],
         "defensemen": [
           "8478469",
@@ -1434,6 +1434,7 @@
       "PIT": {
         "forwards": [
           "8479638",
+          "8483833",
           "8482475",
           "8471675",
           "8480980",
@@ -1826,12 +1827,12 @@
           "8479345",
           "8479576",
           "8480796",
-          "8475718",
           "8484873",
           "8480043",
           "8478911",
           "8480873",
           "8481030",
+          "8475718",
           "8475795"
         ],
         "goalies": [
@@ -1888,7 +1889,7 @@
     "tradesAsOf": "2026-11-27"
   },
   "skaters": {
-    "asOf": "2026-11-27T10:54:35.543021+00:00",
+    "asOf": "2026-11-27T19:59:18.501169+00:00",
     "players": [
       {
         "id": "8484153",
@@ -2245,6 +2246,12 @@
         "position": "F"
       },
       {
+        "id": "8477839",
+        "name": "Conor Sheary",
+        "team": "BUF",
+        "position": "F"
+      },
+      {
         "id": "8479420",
         "name": "Tage Thompson",
         "team": "BUF",
@@ -2575,6 +2582,12 @@
         "position": "F"
       },
       {
+        "id": "8485554",
+        "name": "Dillon Boucher",
+        "team": "CHI",
+        "position": "F"
+      },
+      {
         "id": "8477987",
         "name": "Ryan Donato",
         "team": "CHI",
@@ -2635,6 +2648,12 @@
         "position": "F"
       },
       {
+        "id": "8482172",
+        "name": "Landon Slaggert",
+        "team": "CHI",
+        "position": "F"
+      },
+      {
         "id": "8482062",
         "name": "Cole Smith",
         "team": "CHI",
@@ -2643,12 +2662,6 @@
       {
         "id": "8476882",
         "name": "Teuvo Teravainen",
-        "team": "CHI",
-        "position": "F"
-      },
-      {
-        "id": "8476952",
-        "name": "Dominic Toninato",
         "team": "CHI",
         "position": "F"
       },
@@ -4093,12 +4106,6 @@
         "position": "F"
       },
       {
-        "id": "8484177",
-        "name": "Lenni Hameenaho",
-        "team": "NJD",
-        "position": "F"
-      },
-      {
         "id": "8480002",
         "name": "Nico Hischier",
         "team": "NJD",
@@ -4179,6 +4186,12 @@
       {
         "id": "8478399",
         "name": "Jonas Siegenthaler",
+        "team": "NJD",
+        "position": "D"
+      },
+      {
+        "id": "8484987",
+        "name": "Anton Silaev",
         "team": "NJD",
         "position": "D"
       },
@@ -4489,18 +4502,6 @@
         "position": "F"
       },
       {
-        "id": "8478104",
-        "name": "Sammy Blais",
-        "team": "OTT",
-        "position": "F"
-      },
-      {
-        "id": "8482674",
-        "name": "Tyler Boucher",
-        "team": "OTT",
-        "position": "F"
-      },
-      {
         "id": "8477444",
         "name": "Andre Burakovsky",
         "team": "OTT",
@@ -4749,6 +4750,12 @@
       {
         "id": "8479638",
         "name": "Justin Brazeau",
+        "team": "PIT",
+        "position": "F"
+      },
+      {
+        "id": "8483833",
+        "name": "Atley Calvert",
         "team": "PIT",
         "position": "F"
       },
@@ -6121,12 +6128,6 @@
         "position": "D"
       },
       {
-        "id": "8475718",
-        "name": "Justin Holl",
-        "team": "WSH",
-        "position": "D"
-      },
-      {
         "id": "8484873",
         "name": "Cole Hutson",
         "team": "WSH",
@@ -6319,12 +6320,6 @@
         "position": "D"
       },
       {
-        "id": "8477839",
-        "name": "Conor Sheary",
-        "team": "BUF",
-        "position": "F"
-      },
-      {
         "id": "8478904",
         "name": "Steven Lorentz",
         "team": "CBJ",
@@ -6481,9 +6476,21 @@
         "position": "F"
       },
       {
+        "id": "8484177",
+        "name": "Lenni Hameenaho",
+        "team": "NJD",
+        "position": "F"
+      },
+      {
         "id": "8482117",
         "name": "Lukas Reichel",
         "team": "BOS",
+        "position": "F"
+      },
+      {
+        "id": "8478104",
+        "name": "Sammy Blais",
+        "team": "OTT",
         "position": "F"
       },
       {
@@ -6508,12 +6515,6 @@
         "id": "8481237",
         "name": "Kyle MacLean",
         "team": "NYI",
-        "position": "F"
-      },
-      {
-        "id": "8482172",
-        "name": "Landon Slaggert",
-        "team": "CHI",
         "position": "F"
       },
       {
@@ -6763,6 +6764,12 @@
         "position": "D"
       },
       {
+        "id": "8475718",
+        "name": "Justin Holl",
+        "team": "WSH",
+        "position": "D"
+      },
+      {
         "id": "8477993",
         "name": "Justin Kirkland",
         "team": "MIN",
@@ -6875,6 +6882,12 @@
         "name": "Dennis Gilbert",
         "team": "BUF",
         "position": "D"
+      },
+      {
+        "id": "8476952",
+        "name": "Dominic Toninato",
+        "team": "CHI",
+        "position": "F"
       },
       {
         "id": "8482206",
@@ -7405,6 +7418,12 @@
         "position": "F"
       },
       {
+        "id": "8482674",
+        "name": "Tyler Boucher",
+        "team": "OTT",
+        "position": "F"
+      },
+      {
         "id": "8479333",
         "name": "Libor Hajek",
         "team": "SJS",
@@ -7429,12 +7448,6 @@
         "position": "D"
       },
       {
-        "id": "8485554",
-        "name": "Dillon Boucher",
-        "team": "CHI",
-        "position": "F"
-      },
-      {
         "id": "8483442",
         "name": "Jagger Firkus",
         "team": "SEA",
@@ -7444,12 +7457,6 @@
         "id": "8482942",
         "name": "Alex Gagne",
         "team": "COL",
-        "position": "D"
-      },
-      {
-        "id": "8484987",
-        "name": "Anton Silaev",
-        "team": "NJD",
         "position": "D"
       },
       {
@@ -7630,7 +7637,7 @@
     "tradesAsOf": "2026-11-27"
   },
   "goalies": {
-    "asOf": "2026-11-27T10:54:35.543021+00:00",
+    "asOf": "2026-11-27T19:59:18.501169+00:00",
     "goalies": [
       {
         "id": "8476316",
@@ -8134,6 +8141,5 @@
       }
     ],
     "tradesAsOf": "2026-11-27"
-  },
-  "tradeCheckedAt": "2026-11-27T19:59:07.042808+00:00"
+  }
 }

@@ -1,5 +1,5 @@
 {
-  "asOf": "2026-11-27T10:54:35.543021+00:00",
+  "asOf": "2026-11-27T19:59:18.501169+00:00",
   "players": [
     {
       "id": "8484153",
@@ -356,6 +356,12 @@
       "position": "F"
     },
     {
+      "id": "8477839",
+      "name": "Conor Sheary",
+      "team": "BUF",
+      "position": "F"
+    },
+    {
       "id": "8479420",
       "name": "Tage Thompson",
       "team": "BUF",
@@ -686,6 +692,12 @@
       "position": "F"
     },
     {
+      "id": "8485554",
+      "name": "Dillon Boucher",
+      "team": "CHI",
+      "position": "F"
+    },
+    {
       "id": "8477987",
       "name": "Ryan Donato",
       "team": "CHI",
@@ -746,6 +758,12 @@
       "position": "F"
     },
     {
+      "id": "8482172",
+      "name": "Landon Slaggert",
+      "team": "CHI",
+      "position": "F"
+    },
+    {
       "id": "8482062",
       "name": "Cole Smith",
       "team": "CHI",
@@ -754,12 +772,6 @@
     {
       "id": "8476882",
       "name": "Teuvo Teravainen",
-      "team": "CHI",
-      "position": "F"
-    },
-    {
-      "id": "8476952",
-      "name": "Dominic Toninato",
       "team": "CHI",
       "position": "F"
     },
@@ -2204,12 +2216,6 @@
       "position": "F"
     },
     {
-      "id": "8484177",
-      "name": "Lenni Hameenaho",
-      "team": "NJD",
-      "position": "F"
-    },
-    {
       "id": "8480002",
       "name": "Nico Hischier",
       "team": "NJD",
@@ -2290,6 +2296,12 @@
     {
       "id": "8478399",
       "name": "Jonas Siegenthaler",
+      "team": "NJD",
+      "position": "D"
+    },
+    {
+      "id": "8484987",
+      "name": "Anton Silaev",
       "team": "NJD",
       "position": "D"
     },
@@ -2600,18 +2612,6 @@
       "position": "F"
     },
     {
-      "id": "8478104",
-      "name": "Sammy Blais",
-      "team": "OTT",
-      "position": "F"
-    },
-    {
-      "id": "8482674",
-      "name": "Tyler Boucher",
-      "team": "OTT",
-      "position": "F"
-    },
-    {
       "id": "8477444",
       "name": "Andre Burakovsky",
       "team": "OTT",
@@ -2860,6 +2860,12 @@
     {
       "id": "8479638",
       "name": "Justin Brazeau",
+      "team": "PIT",
+      "position": "F"
+    },
+    {
+      "id": "8483833",
+      "name": "Atley Calvert",
       "team": "PIT",
       "position": "F"
     },
@@ -4232,12 +4238,6 @@
       "position": "D"
     },
     {
-      "id": "8475718",
-      "name": "Justin Holl",
-      "team": "WSH",
-      "position": "D"
-    },
-    {
       "id": "8484873",
       "name": "Cole Hutson",
       "team": "WSH",
@@ -4430,12 +4430,6 @@
       "position": "D"
     },
     {
-      "id": "8477839",
-      "name": "Conor Sheary",
-      "team": "BUF",
-      "position": "F"
-    },
-    {
       "id": "8478904",
       "name": "Steven Lorentz",
       "team": "CBJ",
@@ -4592,9 +4586,21 @@
       "position": "F"
     },
     {
+      "id": "8484177",
+      "name": "Lenni Hameenaho",
+      "team": "NJD",
+      "position": "F"
+    },
+    {
       "id": "8482117",
       "name": "Lukas Reichel",
       "team": "BOS",
+      "position": "F"
+    },
+    {
+      "id": "8478104",
+      "name": "Sammy Blais",
+      "team": "OTT",
       "position": "F"
     },
     {
@@ -4619,12 +4625,6 @@
       "id": "8481237",
       "name": "Kyle MacLean",
       "team": "NYI",
-      "position": "F"
-    },
-    {
-      "id": "8482172",
-      "name": "Landon Slaggert",
-      "team": "CHI",
       "position": "F"
     },
     {
@@ -4874,6 +4874,12 @@
       "position": "D"
     },
     {
+      "id": "8475718",
+      "name": "Justin Holl",
+      "team": "WSH",
+      "position": "D"
+    },
+    {
       "id": "8477993",
       "name": "Justin Kirkland",
       "team": "MIN",
@@ -4986,6 +4992,12 @@
       "name": "Dennis Gilbert",
       "team": "BUF",
       "position": "D"
+    },
+    {
+      "id": "8476952",
+      "name": "Dominic Toninato",
+      "team": "CHI",
+      "position": "F"
     },
     {
       "id": "8482206",
@@ -5516,6 +5528,12 @@
       "position": "F"
     },
     {
+      "id": "8482674",
+      "name": "Tyler Boucher",
+      "team": "OTT",
+      "position": "F"
+    },
+    {
       "id": "8479333",
       "name": "Libor Hajek",
       "team": "SJS",
@@ -5540,12 +5558,6 @@
       "position": "D"
     },
     {
-      "id": "8485554",
-      "name": "Dillon Boucher",
-      "team": "CHI",
-      "position": "F"
-    },
-    {
       "id": "8483442",
       "name": "Jagger Firkus",
       "team": "SEA",
@@ -5555,12 +5567,6 @@
       "id": "8482942",
       "name": "Alex Gagne",
       "team": "COL",
-      "position": "D"
-    },
-    {
-      "id": "8484987",
-      "name": "Anton Silaev",
-      "team": "NJD",
       "position": "D"
     },
     {
